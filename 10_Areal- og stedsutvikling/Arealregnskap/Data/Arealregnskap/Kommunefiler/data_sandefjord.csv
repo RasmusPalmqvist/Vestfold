@@ -1,0 +1,140 @@
+﻿Arealformålsgruppe,Arealtype,Dekar.sum
+01 Bolig eller sentrumsformål,Bebygd,14305
+01 Bolig eller sentrumsformål,Samferdsel,1806
+01 Bolig eller sentrumsformål,Fulldyrka jord,260
+01 Bolig eller sentrumsformål,Overflatedyrka jord,4
+01 Bolig eller sentrumsformål,Innmarksbeite,4
+01 Bolig eller sentrumsformål,Skog,2420
+01 Bolig eller sentrumsformål,Åpen fastmark,368
+01 Bolig eller sentrumsformål,Ferskvann,5
+01 Bolig eller sentrumsformål,Hav,3
+02 Fritidsbebyggelse,Bebygd,1383
+02 Fritidsbebyggelse,Samferdsel,146
+02 Fritidsbebyggelse,Fulldyrka jord,6
+02 Fritidsbebyggelse,Innmarksbeite,0
+02 Fritidsbebyggelse,Skog,849
+02 Fritidsbebyggelse,Åpen fastmark,63
+02 Fritidsbebyggelse,Myr,0
+02 Fritidsbebyggelse,Ferskvann,0
+03 Tjenesteyting,Bebygd,1040
+03 Tjenesteyting,Samferdsel,115
+03 Tjenesteyting,Fulldyrka jord,102
+03 Tjenesteyting,Innmarksbeite,1
+03 Tjenesteyting,Skog,221
+03 Tjenesteyting,Åpen fastmark,104
+03 Tjenesteyting,Ferskvann,2
+03 Tjenesteyting,Hav,0
+04 Handel,Bebygd,94
+04 Handel,Samferdsel,5
+04 Handel,Fulldyrka jord,0
+04 Handel,Skog,41
+04 Handel,Åpen fastmark,1
+05 Turistformål,Bebygd,15
+05 Turistformål,Samferdsel,8
+05 Turistformål,Fulldyrka jord,0
+05 Turistformål,Skog,2
+05 Turistformål,Åpen fastmark,7
+06 Næringsvirksomhet,Bebygd,2789
+06 Næringsvirksomhet,Samferdsel,391
+06 Næringsvirksomhet,Fulldyrka jord,27
+06 Næringsvirksomhet,Skog,762
+06 Næringsvirksomhet,Åpen fastmark,356
+06 Næringsvirksomhet,Myr,9
+06 Næringsvirksomhet,Ferskvann,16
+06 Næringsvirksomhet,Hav,24
+07 Råstoffutvinning,Bebygd,200
+07 Råstoffutvinning,Samferdsel,3
+07 Råstoffutvinning,Skog,459
+07 Råstoffutvinning,Åpen fastmark,40
+07 Råstoffutvinning,Myr,9
+08 Kombinerte formål,Bebygd,1123
+08 Kombinerte formål,Samferdsel,437
+08 Kombinerte formål,Fulldyrka jord,193
+08 Kombinerte formål,Overflatedyrka jord,0
+08 Kombinerte formål,Innmarksbeite,2
+08 Kombinerte formål,Skog,1312
+08 Kombinerte formål,Åpen fastmark,69
+08 Kombinerte formål,Ferskvann,1
+08 Kombinerte formål,Hav,3
+09 Idrettsanlegg,Bebygd,396
+09 Idrettsanlegg,Samferdsel,82
+09 Idrettsanlegg,Fulldyrka jord,135
+09 Idrettsanlegg,Overflatedyrka jord,1
+09 Idrettsanlegg,Skog,589
+09 Idrettsanlegg,Åpen fastmark,1271
+09 Idrettsanlegg,Myr,59
+09 Idrettsanlegg,Ferskvann,25
+09 Idrettsanlegg,Hav,1
+10 Andre formål,Bebygd,404
+10 Andre formål,Samferdsel,22
+10 Andre formål,Fulldyrka jord,70
+10 Andre formål,Innmarksbeite,2
+10 Andre formål,Skog,158
+10 Andre formål,Åpen fastmark,124
+10 Andre formål,Ferskvann,9
+10 Andre formål,Hav,3
+11 Samferdselsanlegg,Bebygd,788
+11 Samferdselsanlegg,Samferdsel,5435
+11 Samferdselsanlegg,Fulldyrka jord,645
+11 Samferdselsanlegg,Overflatedyrka jord,3
+11 Samferdselsanlegg,Innmarksbeite,1
+11 Samferdselsanlegg,Skog,557
+11 Samferdselsanlegg,Åpen fastmark,748
+11 Samferdselsanlegg,Myr,2
+11 Samferdselsanlegg,Ferskvann,4
+11 Samferdselsanlegg,Hav,7
+12 Blå/grønnstruktur,Bebygd,1004
+12 Blå/grønnstruktur,Samferdsel,223
+12 Blå/grønnstruktur,Fulldyrka jord,303
+12 Blå/grønnstruktur,Overflatedyrka jord,25
+12 Blå/grønnstruktur,Innmarksbeite,140
+12 Blå/grønnstruktur,Skog,4836
+12 Blå/grønnstruktur,Åpen fastmark,902
+12 Blå/grønnstruktur,Myr,127
+12 Blå/grønnstruktur,Ferskvann,54
+12 Blå/grønnstruktur,Hav,15
+14 LNFR,Bebygd,3442
+14 LNFR,Samferdsel,5819
+14 LNFR,Fulldyrka jord,97976
+14 LNFR,Overflatedyrka jord,673
+14 LNFR,Innmarksbeite,2538
+14 LNFR,Skog,234498
+14 LNFR,Åpen fastmark,6581
+14 LNFR,Myr,3580
+14 LNFR,Ferskvann,24
+14 LNFR,Hav,2
+15 LNFR spredt,Bebygd,6281
+15 LNFR spredt,Samferdsel,521
+15 LNFR spredt,Fulldyrka jord,146
+15 LNFR spredt,Overflatedyrka jord,3
+15 LNFR spredt,Innmarksbeite,25
+15 LNFR spredt,Skog,545
+15 LNFR spredt,Åpen fastmark,128
+15 LNFR spredt,Myr,1
+15 LNFR spredt,Ferskvann,3
+15 LNFR spredt,Hav,0
+16 Havner og småbåthavner,Bebygd,17
+16 Havner og småbåthavner,Samferdsel,31
+16 Havner og småbåthavner,Skog,2
+16 Havner og småbåthavner,Åpen fastmark,2
+16 Havner og småbåthavner,Hav,613
+"17 Sjø og vassdrag, flerbruk",Bebygd,0
+"17 Sjø og vassdrag, flerbruk",Samferdsel,1
+"17 Sjø og vassdrag, flerbruk",Fulldyrka jord,0
+"17 Sjø og vassdrag, flerbruk",Innmarksbeite,0
+"17 Sjø og vassdrag, flerbruk",Skog,3
+"17 Sjø og vassdrag, flerbruk",Åpen fastmark,2
+"17 Sjø og vassdrag, flerbruk",Myr,1
+"17 Sjø og vassdrag, flerbruk",Ferskvann,8539
+"17 Sjø og vassdrag, flerbruk",Hav,96748
+18 Akvakultur,Fulldyrka jord,1
+18 Akvakultur,Skog,1
+18 Akvakultur,Ferskvann,0
+19 Udefinert,Bebygd,169
+19 Udefinert,Samferdsel,12
+19 Udefinert,Fulldyrka jord,27
+19 Udefinert,Overflatedyrka jord,1
+19 Udefinert,Skog,132
+19 Udefinert,Åpen fastmark,26
+19 Udefinert,Ferskvann,0
+19 Udefinert,Hav,14
