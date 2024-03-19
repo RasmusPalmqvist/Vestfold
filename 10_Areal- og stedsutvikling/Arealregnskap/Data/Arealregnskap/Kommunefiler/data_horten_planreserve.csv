@@ -1,8 +1,8 @@
 ﻿Arealformålsgruppe,Arealtype,Dekar.sum
 01 Bolig eller sentrumsformål,Fulldyrka jord,37
 01 Bolig eller sentrumsformål,Overflatedyrka jord,0
-01 Bolig eller sentrumsformål,Skog,569
-01 Bolig eller sentrumsformål,Åpen fastmark,29
+01 Bolig eller sentrumsformål,Skog,779
+01 Bolig eller sentrumsformål,Åpen fastmark,33
 01 Bolig eller sentrumsformål,Ferskvann,1
 02 Fritidsbebyggelse,Skog,21
 03 Tjenesteyting,Fulldyrka jord,45
@@ -12,22 +12,21 @@
 03 Tjenesteyting,Myr,0
 03 Tjenesteyting,Ferskvann,0
 03 Tjenesteyting,Hav,0
-06 Næringsvirksomhet,Fulldyrka jord,5
-06 Næringsvirksomhet,Skog,72
-06 Næringsvirksomhet,Åpen fastmark,12
-07 Råstoffutvinning,Skog,22
-07 Råstoffutvinning,Åpen fastmark,2
+06 Næringsvirksomhet,Fulldyrka jord,14
+06 Næringsvirksomhet,Skog,95
+06 Næringsvirksomhet,Åpen fastmark,15
+07 Råstoffutvinning,Skog,12
 08 Kombinerte formål,Fulldyrka jord,2
-08 Kombinerte formål,Skog,231
-08 Kombinerte formål,Åpen fastmark,27
+08 Kombinerte formål,Skog,245
+08 Kombinerte formål,Åpen fastmark,35
 08 Kombinerte formål,Ferskvann,0
 08 Kombinerte formål,Hav,0
 09 Idrettsanlegg,Fulldyrka jord,21
 09 Idrettsanlegg,Overflatedyrka jord,6
-09 Idrettsanlegg,Skog,106
-09 Idrettsanlegg,Åpen fastmark,11
+09 Idrettsanlegg,Skog,107
+09 Idrettsanlegg,Åpen fastmark,15
 09 Idrettsanlegg,Ferskvann,0
 11 Samferdselsanlegg,Fulldyrka jord,20
-11 Samferdselsanlegg,Skog,31
+11 Samferdselsanlegg,Skog,29
 11 Samferdselsanlegg,Åpen fastmark,37
 11 Samferdselsanlegg,Myr,0
