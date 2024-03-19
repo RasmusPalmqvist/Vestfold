@@ -1,0 +1,69 @@
+﻿Arealformålsgruppe,Arealtype,Dekar.sum
+01 Bolig eller sentrumsformål,Bebygd,9
+01 Bolig eller sentrumsformål,Fulldyrka jord,49
+01 Bolig eller sentrumsformål,Skog,831
+01 Bolig eller sentrumsformål,Åpen fastmark,88
+01 Bolig eller sentrumsformål,Myr,1
+01 Bolig eller sentrumsformål,Ferskvann,0
+01 Bolig eller sentrumsformål,Hav,0
+02 Fritidsbebyggelse,Bebygd,2
+02 Fritidsbebyggelse,Samferdsel,0
+02 Fritidsbebyggelse,Fulldyrka jord,1
+02 Fritidsbebyggelse,Innmarksbeite,0
+02 Fritidsbebyggelse,Skog,1300
+02 Fritidsbebyggelse,Åpen fastmark,149
+02 Fritidsbebyggelse,Myr,54
+02 Fritidsbebyggelse,Ferskvann,0
+02 Fritidsbebyggelse,Hav,0
+03 Tjenesteyting,Bebygd,2
+03 Tjenesteyting,Samferdsel,1
+03 Tjenesteyting,Fulldyrka jord,19
+03 Tjenesteyting,Overflatedyrka jord,3
+03 Tjenesteyting,Innmarksbeite,3
+03 Tjenesteyting,Skog,132
+03 Tjenesteyting,Åpen fastmark,50
+03 Tjenesteyting,Ferskvann,0
+03 Tjenesteyting,Hav,0
+04 Handel,Bebygd,1
+04 Handel,Fulldyrka jord,19
+04 Handel,Skog,9
+04 Handel,Åpen fastmark,8
+06 Næringsvirksomhet,Bebygd,2
+06 Næringsvirksomhet,Fulldyrka jord,80
+06 Næringsvirksomhet,Skog,1286
+06 Næringsvirksomhet,Åpen fastmark,137
+06 Næringsvirksomhet,Myr,39
+06 Næringsvirksomhet,Ferskvann,1
+07 Råstoffutvinning,Bebygd,2
+07 Råstoffutvinning,Samferdsel,5
+07 Råstoffutvinning,Fulldyrka jord,2
+07 Råstoffutvinning,Innmarksbeite,0
+07 Råstoffutvinning,Skog,4522
+07 Råstoffutvinning,Åpen fastmark,309
+07 Råstoffutvinning,Myr,6
+07 Råstoffutvinning,Ferskvann,1
+08 Kombinerte formål,Bebygd,13
+08 Kombinerte formål,Samferdsel,0
+08 Kombinerte formål,Fulldyrka jord,166
+08 Kombinerte formål,Innmarksbeite,2
+08 Kombinerte formål,Skog,1561
+08 Kombinerte formål,Åpen fastmark,101
+08 Kombinerte formål,Myr,17
+08 Kombinerte formål,Ferskvann,1
+08 Kombinerte formål,Hav,36
+09 Idrettsanlegg,Bebygd,3
+09 Idrettsanlegg,Samferdsel,0
+09 Idrettsanlegg,Fulldyrka jord,105
+09 Idrettsanlegg,Skog,812
+09 Idrettsanlegg,Åpen fastmark,61
+09 Idrettsanlegg,Myr,1
+09 Idrettsanlegg,Ferskvann,0
+09 Idrettsanlegg,Hav,1
+11 Samferdselsanlegg,Bebygd,4
+11 Samferdselsanlegg,Fulldyrka jord,66
+11 Samferdselsanlegg,Innmarksbeite,7
+11 Samferdselsanlegg,Skog,430
+11 Samferdselsanlegg,Åpen fastmark,144
+11 Samferdselsanlegg,Myr,2
+11 Samferdselsanlegg,Ferskvann,0
+11 Samferdselsanlegg,Hav,6

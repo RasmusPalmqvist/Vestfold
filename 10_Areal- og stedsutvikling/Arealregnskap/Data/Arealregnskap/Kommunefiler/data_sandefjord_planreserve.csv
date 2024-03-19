@@ -1,0 +1,46 @@
+﻿Arealformålsgruppe,Arealtype,Dekar.sum
+01 Bolig eller sentrumsformål,Bebygd,5
+01 Bolig eller sentrumsformål,Fulldyrka jord,170
+01 Bolig eller sentrumsformål,Overflatedyrka jord,4
+01 Bolig eller sentrumsformål,Skog,1540
+01 Bolig eller sentrumsformål,Åpen fastmark,208
+01 Bolig eller sentrumsformål,Ferskvann,1
+01 Bolig eller sentrumsformål,Hav,0
+02 Fritidsbebyggelse,Fulldyrka jord,1
+02 Fritidsbebyggelse,Skog,144
+02 Fritidsbebyggelse,Åpen fastmark,7
+03 Tjenesteyting,Fulldyrka jord,79
+03 Tjenesteyting,Skog,110
+03 Tjenesteyting,Åpen fastmark,44
+03 Tjenesteyting,Ferskvann,0
+04 Handel,Skog,40
+06 Næringsvirksomhet,Fulldyrka jord,21
+06 Næringsvirksomhet,Skog,587
+06 Næringsvirksomhet,Åpen fastmark,319
+06 Næringsvirksomhet,Myr,7
+06 Næringsvirksomhet,Ferskvann,1
+06 Næringsvirksomhet,Hav,16
+07 Råstoffutvinning,Skog,436
+07 Råstoffutvinning,Åpen fastmark,34
+07 Råstoffutvinning,Myr,9
+08 Kombinerte formål,Fulldyrka jord,170
+08 Kombinerte formål,Innmarksbeite,2
+08 Kombinerte formål,Skog,1172
+08 Kombinerte formål,Åpen fastmark,52
+08 Kombinerte formål,Ferskvann,1
+09 Idrettsanlegg,Fulldyrka jord,124
+09 Idrettsanlegg,Overflatedyrka jord,0
+09 Idrettsanlegg,Skog,334
+09 Idrettsanlegg,Åpen fastmark,120
+09 Idrettsanlegg,Myr,48
+09 Idrettsanlegg,Ferskvann,2
+09 Idrettsanlegg,Hav,1
+11 Samferdselsanlegg,Bebygd,0
+11 Samferdselsanlegg,Fulldyrka jord,43
+11 Samferdselsanlegg,Overflatedyrka jord,0
+11 Samferdselsanlegg,Innmarksbeite,0
+11 Samferdselsanlegg,Skog,143
+11 Samferdselsanlegg,Åpen fastmark,100
+11 Samferdselsanlegg,Myr,0
+11 Samferdselsanlegg,Ferskvann,0
+11 Samferdselsanlegg,Hav,2
