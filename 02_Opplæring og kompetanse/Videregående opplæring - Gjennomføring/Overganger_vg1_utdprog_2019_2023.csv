@@ -1,4 +1,4 @@
-ProgramomraadeNivaa;UtdanningstypeKode;Utdanningsprogramkode;Programomraadekode;UtdanningstypeNavn;UtdanningsprogramNavn;ProgramomraadeNavn;Trinn;År;Alle overganger;Overgang til studieforberedende utdanningsprogram;Overgang til opplæring i bedrift;Overgang til yrkesfaglig utdanningsprogram
+ProgramomraadeNivaa;UtdanningstypeKode;Utdanningsprogramkode;Programomraadekode;UtdanningstypeNavn;UtdanningsprogramNavn;ProgramomraadeNavn;Trinn;År;Progresjon totalt;Overgang til studieforberedende utdanningsprogram;Overgang til opplæring i bedrift;Overgang til yrkesfaglig utdanningsprogram
 0;Alle;;Alle;Alle utdanningsprogram;Alle utdanningsprogram;Alle programområder;Vg1;2019;85,4;44,9;2,1;38,5
 1;SFB;;SFB;Studieforberedende;Alle utdanningsprogram;Studieforberedende;Vg1;2019;90,6;89,5;0,1;1
 2;SFB;ID;ID;Studieforberedende;Idrettsfag;Idrettsfag;Vg1;2019;91,5;90,5;0;0,9
