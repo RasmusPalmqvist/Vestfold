@@ -1493,3 +1493,420 @@ Skoleår;Utdanningsprogram;Nivå;Skole;Fullførtkode;B;H;I;M;S
 2017/18;Alle utdanningsprogram;Totalt;Sande videregående skole;;363;13;37;21;14
 2017/18;Alle utdanningsprogram;Totalt;Sandefjord videregående skole;;1 544;47;133;120;75
 2017/18;Alle utdanningsprogram;Totalt;Thor Heyerdahl videregående skole;;1 290;5;54;105;44
+2022/23;BA;Totalt;Færder videregående skole;;95;3;9;14;9
+2022/23;BA;Totalt;Re videregående skole;;124;4;2;5;6
+2022/23;BA;Totalt;Thor Heyerdahl videregående skole;;87;5;8;11;20
+2022/23;EL;Totalt;Færder videregående skole;;108;2;0;1;2
+2022/23;EL;Totalt;Horten videregående skole;;63;3;2;1;4
+2022/23;EL;Totalt;Sande videregående skole;;40;0;1;0;1
+2022/23;EL;Totalt;Sandefjord videregående skole;;57;1;7;1;2
+2022/23;EL;Totalt;Thor Heyerdahl videregående skole;;94;1;1;0;0
+2022/23;FD;Totalt;Horten videregående skole;;24;3;1;4;5
+2022/23;FD;Totalt;Sandefjord videregående skole;;72;7;3;9;12
+2022/23;HS;Totalt;Holmestrand videregående skole;;30;0;1;2;3
+2022/23;HS;Totalt;Horten videregående skole;;111;11;4;5;4
+2022/23;HS;Totalt;Nøtterøy videregående skole;;92;0;9;10;7
+2022/23;HS;Totalt;Re videregående skole;;118;7;3;2;5
+2022/23;HS;Totalt;Sande videregående skole;;66;2;4;3;4
+2022/23;HS;Totalt;Sandefjord videregående skole;;171;4;14;16;12
+2022/23;HS;Totalt;Thor Heyerdahl videregående skole;;103;3;6;1;10
+2022/23;ID;Totalt;Horten videregående skole;;81;2;1;6;0
+2022/23;ID;Totalt;Re videregående skole;;168;1;2;2;1
+2022/23;ID;Totalt;Sande videregående skole;;54;0;4;5;0
+2022/23;ID;Totalt;Sandefjord videregående skole;;87;1;1;1;0
+2022/23;ID;Totalt;Thor Heyerdahl videregående skole;;170;2;8;0;1
+2022/23;IM;Totalt;Greveskogen videregående skole;;45;0;0;0;2
+2022/23;IM;Totalt;Horten videregående skole;;26;2;0;5;0
+2022/23;IM;Totalt;Sandefjord videregående skole;;52;1;2;6;2
+2022/23;KD;Totalt;Færder videregående skole;;82;13;9;5;1
+2022/23;KD;Totalt;Sandefjord videregående skole;;50;9;5;7;0
+2022/23;MD;Totalt;Greveskogen videregående skole;;67;1;3;3;0
+2022/23;MD;Totalt;Sandefjord videregående skole;;107;8;2;3;2
+2022/23;MD;Totalt;Thor Heyerdahl videregående skole;;60;2;3;4;0
+2022/23;ME;Totalt;Horten videregående skole;;56;1;9;8;4
+2022/23;ME;Totalt;Melsom videregående skole;;20;0;1;1;1
+2022/23;ME;Totalt;Sande videregående skole;;16;0;1;1;0
+2022/23;ME;Totalt;Thor Heyerdahl videregående skole;;64;2;2;2;4
+2022/23;NA;Totalt;Melsom videregående skole;;74;0;0;6;7
+2022/23;PB;Totalt;Eksamenskontoret i Vestfold;;0;1;0;0;0
+2022/23;PB;Totalt;Færder videregående skole;;108;7;14;7;6
+2022/23;PB;Totalt;Holmestrand videregående skole;;11;1;3;5;6
+2022/23;PB;Totalt;Horten videregående skole;;44;3;3;3;1
+2022/23;PB;Totalt;Melsom videregående skole;;11;0;5;6;2
+2022/23;PB;Totalt;Nøtterøy videregående skole;;12;0;1;0;0
+2022/23;PB;Totalt;Re videregående skole;;29;1;0;0;0
+2022/23;PB;Totalt;Sande videregående skole;;17;0;0;1;0
+2022/23;PB;Totalt;Sandefjord videregående skole;;68;4;3;4;3
+2022/23;PB;Totalt;Thor Heyerdahl videregående skole;;42;3;6;6;4
+2022/23;RM;Totalt;Greveskogen videregående skole;;38;3;3;6;3
+2022/23;RM;Totalt;Holmestrand videregående skole;;5;5;0;2;1
+2022/23;RM;Totalt;Sandefjord videregående skole;;14;2;0;2;1
+2022/23;RM;Totalt;Thor Heyerdahl videregående skole;;33;0;1;3;6
+2022/23;SR;Totalt;Greveskogen videregående skole;;39;2;3;7;2
+2022/23;SR;Totalt;Horten videregående skole;;24;3;0;5;2
+2022/23;SR;Totalt;Sandefjord videregående skole;;108;1;0;13;13
+2022/23;SR;Totalt;Thor Heyerdahl videregående skole;;58;2;1;4;8
+2022/23;ST;Totalt;Greveskogen videregående skole;;480;10;21;38;7
+2022/23;ST;Totalt;Holmestrand videregående skole;;81;8;8;4;0
+2022/23;ST;Totalt;Horten videregående skole;;407;8;32;14;2
+2022/23;ST;Totalt;Melsom videregående skole;;26;0;0;1;1
+2022/23;ST;Totalt;Nøtterøy videregående skole;;401;2;20;19;1
+2022/23;ST;Totalt;Re videregående skole;;276;9;9;9;1
+2022/23;ST;Totalt;Sande videregående skole;;102;5;3;3;1
+2022/23;ST;Totalt;Sandefjord videregående skole;;726;46;38;38;13
+2022/23;ST;Totalt;Thor Heyerdahl videregående skole;;398;8;15;15;6
+2022/23;TP;Totalt;Færder videregående skole;;139;6;2;8;11
+2022/23;TP;Totalt;Holmestrand videregående skole;;10;2;0;0;4
+2022/23;TP;Totalt;Horten videregående skole;;32;1;4;1;4
+2022/23;TP;Totalt;Sande videregående skole;;30;2;1;5;3
+2022/23;TP;Totalt;Sandefjord videregående skole;;70;1;1;5;10
+2022/23;TP;Totalt;Thor Heyerdahl videregående skole;;96;4;2;4;9
+2021/22;BA;Totalt;Færder videregående skole;;98;5;8;8;10
+2021/22;BA;Totalt;Re videregående skole;;140;2;0;1;6
+2021/22;BA;Totalt;Thor Heyerdahl videregående skole;;100;7;1;6;4
+2021/22;DH;Totalt;Sandefjord videregående skole;;11;0;0;0;2
+2021/22;EL;Totalt;Færder videregående skole;;102;2;0;0;2
+2021/22;EL;Totalt;Horten videregående skole;;61;3;1;1;6
+2021/22;EL;Totalt;Sande videregående skole;;41;1;0;1;0
+2021/22;EL;Totalt;Sandefjord videregående skole;;50;5;6;1;4
+2021/22;EL;Totalt;Thor Heyerdahl videregående skole;;95;1;0;0;0
+2021/22;FD;Totalt;Horten videregående skole;;28;1;3;6;5
+2021/22;FD;Totalt;Sandefjord videregående skole;;43;10;3;0;6
+2021/22;HS;Totalt;Holmestrand videregående skole;;25;2;0;2;1
+2021/22;HS;Totalt;Horten videregående skole;;121;6;1;7;3
+2021/22;HS;Totalt;Nøtterøy videregående skole;;107;2;11;3;6
+2021/22;HS;Totalt;Re videregående skole;;118;6;3;3;3
+2021/22;HS;Totalt;Sande videregående skole;;77;6;2;3;1
+2021/22;HS;Totalt;Sandefjord videregående skole;;187;8;10;7;14
+2021/22;HS;Totalt;Thor Heyerdahl videregående skole;;107;17;0;4;9
+2021/22;ID;Totalt;Horten videregående skole;;77;2;8;3;1
+2021/22;ID;Totalt;Re videregående skole;;168;0;1;1;0
+2021/22;ID;Totalt;Sande videregående skole;;58;1;2;0;1
+2021/22;ID;Totalt;Sandefjord videregående skole;;88;0;1;0;0
+2021/22;ID;Totalt;Thor Heyerdahl videregående skole;;179;1;1;1;1
+2021/22;IM;Totalt;Greveskogen videregående skole;;28;0;0;2;0
+2021/22;IM;Totalt;Horten videregående skole;;28;1;0;1;1
+2021/22;IM;Totalt;Sandefjord videregående skole;;55;0;2;3;2
+2021/22;KD;Totalt;Færder videregående skole;;64;11;6;7;1
+2021/22;KD;Totalt;Sandefjord videregående skole;;56;7;5;3;2
+2021/22;MD;Totalt;Greveskogen videregående skole;;77;1;3;2;4
+2021/22;MD;Totalt;Sandefjord videregående skole;;110;7;6;6;2
+2021/22;MD;Totalt;Thor Heyerdahl videregående skole;;63;3;1;2;1
+2021/22;ME;Totalt;Holmestrand videregående skole;;7;0;0;1;0
+2021/22;ME;Totalt;Horten videregående skole;;70;0;1;11;4
+2021/22;ME;Totalt;Melsom videregående skole;;19;0;1;8;1
+2021/22;ME;Totalt;Sande videregående skole;;27;0;0;0;1
+2021/22;ME;Totalt;Thor Heyerdahl videregående skole;;68;4;2;2;4
+2021/22;NA;Totalt;Melsom videregående skole;;76;0;6;13;3
+2021/22;PB;Totalt;Færder videregående skole;;154;2;7;8;8
+2021/22;PB;Totalt;Holmestrand videregående skole;;13;1;1;7;1
+2021/22;PB;Totalt;Horten videregående skole;;44;3;1;6;1
+2021/22;PB;Totalt;Melsom videregående skole;;16;1;1;1;2
+2021/22;PB;Totalt;Nøtterøy videregående skole;;16;1;0;2;0
+2021/22;PB;Totalt;Re videregående skole;;30;0;0;0;0
+2021/22;PB;Totalt;Sande videregående skole;;15;0;0;1;0
+2021/22;PB;Totalt;Sandefjord videregående skole;;78;9;7;9;3
+2021/22;PB;Totalt;Thor Heyerdahl videregående skole;;60;2;0;1;1
+2021/22;RM;Totalt;Greveskogen videregående skole;;64;1;3;5;1
+2021/22;RM;Totalt;Holmestrand videregående skole;;8;0;0;2;2
+2021/22;RM;Totalt;Sandefjord videregående skole;;12;0;1;1;1
+2021/22;RM;Totalt;Thor Heyerdahl videregående skole;;43;4;1;3;2
+2021/22;SR;Totalt;Greveskogen videregående skole;;37;2;2;6;1
+2021/22;SR;Totalt;Horten videregående skole;;20;1;0;4;3
+2021/22;SR;Totalt;Sandefjord videregående skole;;100;5;0;12;14
+2021/22;SR;Totalt;Thor Heyerdahl videregående skole;;49;0;4;10;7
+2021/22;ST;Totalt;Greveskogen videregående skole;;472;10;16;15;8
+2021/22;ST;Totalt;Holmestrand videregående skole;;97;5;2;9;2
+2021/22;ST;Totalt;Horten videregående skole;;428;9;3;18;3
+2021/22;ST;Totalt;Melsom videregående skole;;20;0;2;2;0
+2021/22;ST;Totalt;Nøtterøy videregående skole;;385;4;13;14;3
+2021/22;ST;Totalt;Re videregående skole;;285;6;3;4;4
+2021/22;ST;Totalt;Sande videregående skole;;118;3;2;1;0
+2021/22;ST;Totalt;Sandefjord videregående skole;;721;41;39;40;10
+2021/22;ST;Totalt;Thor Heyerdahl videregående skole;;387;23;6;10;1
+2021/22;TP;Totalt;Færder videregående skole;;124;5;5;4;10
+2021/22;TP;Totalt;Holmestrand videregående skole;;13;0;0;2;1
+2021/22;TP;Totalt;Horten videregående skole;;27;4;3;2;5
+2021/22;TP;Totalt;Sande videregående skole;;18;2;1;1;1
+2021/22;TP;Totalt;Sandefjord videregående skole;;60;5;3;7;10
+2021/22;TP;Totalt;Thor Heyerdahl videregående skole;;95;5;6;3;7
+2020/21;BA;Totalt;Færder videregående skole;;110;0;6;17;10
+2020/21;BA;Totalt;Re videregående skole;;152;0;1;3;1
+2020/21;BA;Totalt;Thor Heyerdahl videregående skole;;95;0;0;12;3
+2020/21;DH;Totalt;Færder videregående skole;;8;0;0;3;1
+2020/21;DH;Totalt;Horten videregående skole;;20;0;0;2;1
+2020/21;DH;Totalt;Sandefjord videregående skole;;33;1;0;4;1
+2020/21;EL;Totalt;Færder videregående skole;;119;0;3;2;3
+2020/21;EL;Totalt;Horten videregående skole;;67;1;2;0;1
+2020/21;EL;Totalt;Sande videregående skole;;38;0;5;3;0
+2020/21;EL;Totalt;Sandefjord videregående skole;;60;0;3;1;3
+2020/21;EL;Totalt;Thor Heyerdahl videregående skole;;94;0;0;1;0
+2020/21;FD;Totalt;Horten videregående skole;;15;0;1;9;5
+2020/21;FD;Totalt;Sandefjord videregående skole;;17;0;2;5;3
+2020/21;HS;Totalt;Holmestrand videregående skole;;26;0;0;1;2
+2020/21;HS;Totalt;Horten videregående skole;;118;4;4;12;3
+2020/21;HS;Totalt;Nøtterøy videregående skole;;116;0;6;3;7
+2020/21;HS;Totalt;Re videregående skole;;128;0;0;2;2
+2020/21;HS;Totalt;Sande videregående skole;;62;0;2;1;0
+2020/21;HS;Totalt;Sandefjord videregående skole;;194;0;10;21;20
+2020/21;HS;Totalt;Thor Heyerdahl videregående skole;;126;0;4;15;5
+2020/21;ID;Totalt;Horten videregående skole;;75;0;7;6;0
+2020/21;ID;Totalt;Re videregående skole;;160;0;1;2;1
+2020/21;ID;Totalt;Sande videregående skole;;61;0;0;5;0
+2020/21;ID;Totalt;Sandefjord videregående skole;;86;0;1;3;1
+2020/21;ID;Totalt;Thor Heyerdahl videregående skole;;176;0;0;5;1
+2020/21;IM;Totalt;Greveskogen videregående skole;;14;0;0;0;0
+2020/21;IM;Totalt;Horten videregående skole;;12;1;0;1;1
+2020/21;IM;Totalt;Sandefjord videregående skole;;31;0;0;0;0
+2020/21;KD;Totalt;Færder videregående skole;;72;0;0;16;0
+2020/21;KD;Totalt;Sandefjord videregående skole;;51;0;1;10;6
+2020/21;MD;Totalt;Greveskogen videregående skole;;81;1;1;3;0
+2020/21;MD;Totalt;Sandefjord videregående skole;;107;10;4;3;3
+2020/21;MD;Totalt;Thor Heyerdahl videregående skole;;72;0;0;4;1
+2020/21;ME;Totalt;Holmestrand videregående skole;;14;0;0;1;0
+2020/21;ME;Totalt;Horten videregående skole;;75;0;1;10;0
+2020/21;ME;Totalt;Melsom videregående skole;;30;0;2;2;2
+2020/21;ME;Totalt;Sande videregående skole;;34;0;0;4;0
+2020/21;ME;Totalt;Thor Heyerdahl videregående skole;;76;0;0;7;2
+2020/21;NA;Totalt;Melsom videregående skole;;69;0;3;9;5
+2020/21;PB;Totalt;Færder videregående skole;;154;0;3;15;7
+2020/21;PB;Totalt;Holmestrand videregående skole;;18;3;1;5;1
+2020/21;PB;Totalt;Horten videregående skole;;42;0;1;8;1
+2020/21;PB;Totalt;Melsom videregående skole;;19;0;5;0;1
+2020/21;PB;Totalt;Nøtterøy videregående skole;;15;0;0;0;0
+2020/21;PB;Totalt;Re videregående skole;;28;0;0;1;0
+2020/21;PB;Totalt;Sande videregående skole;;15;0;0;0;0
+2020/21;PB;Totalt;Sandefjord videregående skole;;63;3;5;4;2
+2020/21;PB;Totalt;Thor Heyerdahl videregående skole;;69;0;2;9;4
+2020/21;RM;Totalt;Greveskogen videregående skole;;52;0;3;7;2
+2020/21;RM;Totalt;Holmestrand videregående skole;;17;0;0;1;0
+2020/21;RM;Totalt;Sandefjord videregående skole;;31;1;0;6;3
+2020/21;RM;Totalt;Thor Heyerdahl videregående skole;;34;0;0;10;3
+2020/21;SR;Totalt;Greveskogen videregående skole;;24;0;2;6;2
+2020/21;SR;Totalt;Horten videregående skole;;10;1;0;6;2
+2020/21;SR;Totalt;Sandefjord videregående skole;;56;0;2;8;4
+2020/21;SR;Totalt;Thor Heyerdahl videregående skole;;39;0;0;6;2
+2020/21;SS;Totalt;Greveskogen videregående skole;;48;0;0;20;1
+2020/21;SS;Totalt;Horten videregående skole;;20;1;1;5;2
+2020/21;SS;Totalt;Sandefjord videregående skole;;105;0;2;9;2
+2020/21;SS;Totalt;Thor Heyerdahl videregående skole;;24;0;1;8;0
+2020/21;ST;Totalt;Greveskogen videregående skole;;474;0;11;20;4
+2020/21;ST;Totalt;Holmestrand videregående skole;;104;0;1;4;2
+2020/21;ST;Totalt;Horten videregående skole;;419;5;8;21;4
+2020/21;ST;Totalt;Melsom videregående skole;;32;0;0;1;2
+2020/21;ST;Totalt;Nøtterøy videregående skole;;353;0;16;12;3
+2020/21;ST;Totalt;Re videregående skole;;291;0;9;7;0
+2020/21;ST;Totalt;Sande videregående skole;;133;1;1;0;3
+2020/21;ST;Totalt;Sandefjord videregående skole;;706;5;27;46;13
+2020/21;ST;Totalt;Thor Heyerdahl videregående skole;;382;10;1;19;2
+2020/21;TP;Totalt;Færder videregående skole;;126;0;6;12;13
+2020/21;TP;Totalt;Holmestrand videregående skole;;15;0;0;0;0
+2020/21;TP;Totalt;Horten videregående skole;;22;1;0;7;3
+2020/21;TP;Totalt;Sande videregående skole;;20;0;0;5;2
+2020/21;TP;Totalt;Sandefjord videregående skole;;55;0;2;19;13
+2020/21;TP;Totalt;Thor Heyerdahl videregående skole;;80;0;3;14;7
+2019/20;BA;Totalt;Færder videregående skole;;96;0;10;18;6
+2019/20;BA;Totalt;Re videregående skole;;141;0;0;0;4
+2019/20;BA;Totalt;Thor Heyerdahl videregående skole;;96;0;3;3;2
+2019/20;DH;Totalt;Færder videregående skole;;20;2;2;7;2
+2019/20;DH;Totalt;Horten videregående skole;;37;0;2;4;4
+2019/20;DH;Totalt;Sandefjord videregående skole;;41;0;2;17;7
+2019/20;EL;Totalt;Færder videregående skole;;87;0;0;2;4
+2019/20;EL;Totalt;Horten videregående skole;;74;0;3;3;2
+2019/20;EL;Totalt;Sande videregående skole;;36;1;3;6;0
+2019/20;EL;Totalt;Sandefjord videregående skole;;53;0;3;2;2
+2019/20;EL;Totalt;Thor Heyerdahl videregående skole;;86;0;0;4;1
+2019/20;HS;Totalt;Holmestrand videregående skole;;25;0;0;4;2
+2019/20;HS;Totalt;Horten videregående skole;;106;2;16;9;6
+2019/20;HS;Totalt;Nøtterøy videregående skole;;121;1;8;8;0
+2019/20;HS;Totalt;Re videregående skole;;115;0;0;3;3
+2019/20;HS;Totalt;Sande videregående skole;;59;1;0;3;3
+2019/20;HS;Totalt;Sandefjord videregående skole;;197;0;11;22;12
+2019/20;HS;Totalt;Thor Heyerdahl videregående skole;;126;0;4;8;9
+2019/20;ID;Totalt;Horten videregående skole;;76;0;1;7;0
+2019/20;ID;Totalt;Re videregående skole;;148;0;2;0;0
+2019/20;ID;Totalt;Sande videregående skole;;59;4;1;2;0
+2019/20;ID;Totalt;Sandefjord videregående skole;;89;0;1;1;1
+2019/20;ID;Totalt;Thor Heyerdahl videregående skole;;172;0;1;3;1
+2019/20;KD;Totalt;Færder videregående skole;;55;0;1;15;2
+2019/20;KD;Totalt;Sandefjord videregående skole;;42;0;4;11;4
+2019/20;MD;Totalt;Greveskogen videregående skole;;78;0;2;3;1
+2019/20;MD;Totalt;Sandefjord videregående skole;;103;3;6;7;2
+2019/20;MD;Totalt;Thor Heyerdahl videregående skole;;63;0;3;4;2
+2019/20;ME;Totalt;Holmestrand videregående skole;;25;0;0;2;2
+2019/20;ME;Totalt;Horten videregående skole;;77;0;3;1;3
+2019/20;ME;Totalt;Melsom videregående skole;;32;0;2;8;3
+2019/20;ME;Totalt;Sande videregående skole;;44;4;0;0;0
+2019/20;ME;Totalt;Thor Heyerdahl videregående skole;;68;1;1;13;6
+2019/20;NA;Totalt;Melsom videregående skole;;63;0;1;16;3
+2019/20;PB;Totalt;Færder videregående skole;;144;1;5;5;5
+2019/20;PB;Totalt;Greveskogen videregående skole;;10;0;0;0;0
+2019/20;PB;Totalt;Holmestrand videregående skole;;9;0;4;6;1
+2019/20;PB;Totalt;Horten videregående skole;;35;0;1;5;2
+2019/20;PB;Totalt;Nøtterøy videregående skole;;15;0;0;0;0
+2019/20;PB;Totalt;Re videregående skole;;35;0;0;0;0
+2019/20;PB;Totalt;Sande videregående skole;;25;3;0;0;0
+2019/20;PB;Totalt;Sandefjord videregående skole;;62;2;1;5;2
+2019/20;PB;Totalt;Thor Heyerdahl videregående skole;;52;0;0;12;3
+2019/20;RM;Totalt;Greveskogen videregående skole;;42;0;0;3;3
+2019/20;RM;Totalt;Holmestrand videregående skole;;10;0;1;2;1
+2019/20;RM;Totalt;Sandefjord videregående skole;;33;0;3;5;5
+2019/20;RM;Totalt;Thor Heyerdahl videregående skole;;25;0;0;6;1
+2019/20;SS;Totalt;Greveskogen videregående skole;;88;0;6;32;7
+2019/20;SS;Totalt;Horten videregående skole;;36;3;8;7;5
+2019/20;SS;Totalt;Sandefjord videregående skole;;147;0;14;23;10
+2019/20;SS;Totalt;Thor Heyerdahl videregående skole;;66;0;4;4;4
+2019/20;ST;Totalt;Greveskogen videregående skole;;478;2;7;51;11
+2019/20;ST;Totalt;Holmestrand videregående skole;;110;0;1;2;1
+2019/20;ST;Totalt;Horten videregående skole;;411;4;4;17;5
+2019/20;ST;Totalt;Melsom videregående skole;;33;0;1;1;2
+2019/20;ST;Totalt;Nøtterøy videregående skole;;331;0;6;12;5
+2019/20;ST;Totalt;Re videregående skole;;298;0;1;12;2
+2019/20;ST;Totalt;Sande videregående skole;;137;2;0;5;0
+2019/20;ST;Totalt;Sandefjord videregående skole;;720;21;28;50;12
+2019/20;ST;Totalt;Thor Heyerdahl videregående skole;;419;1;2;17;6
+2019/20;TP;Totalt;Færder videregående skole;;129;1;8;9;7
+2019/20;TP;Totalt;Holmestrand videregående skole;;12;0;2;1;0
+2019/20;TP;Totalt;Horten videregående skole;;25;0;0;2;2
+2019/20;TP;Totalt;Sande videregående skole;;20;1;3;1;0
+2019/20;TP;Totalt;Sandefjord videregående skole;;59;0;3;15;8
+2019/20;TP;Totalt;Thor Heyerdahl videregående skole;;77;1;0;20;5
+2018/19;BA;Totalt;Færder videregående skole;;94;1;11;4;2
+2018/19;BA;Totalt;Re videregående skole;;116;0;1;1;2
+2018/19;BA;Totalt;Thor Heyerdahl videregående skole;;81;0;10;8;1
+2018/19;DH;Totalt;Færder videregående skole;;27;0;0;5;3
+2018/19;DH;Totalt;Horten videregående skole;;40;0;1;7;7
+2018/19;DH;Totalt;Sandefjord videregående skole;;42;0;1;11;6
+2018/19;EL;Totalt;Færder videregående skole;;98;0;8;3;3
+2018/19;EL;Totalt;Horten videregående skole;;68;0;8;8;6
+2018/19;EL;Totalt;Sande videregående skole;;43;0;1;2;0
+2018/19;EL;Totalt;Sandefjord videregående skole;;52;3;2;1;1
+2018/19;EL;Totalt;Thor Heyerdahl videregående skole;;86;0;1;2;2
+2018/19;HS;Totalt;Holmestrand videregående skole;;24;0;1;3;0
+2018/19;HS;Totalt;Horten videregående skole;;95;0;12;13;10
+2018/19;HS;Totalt;Nøtterøy videregående skole;;101;0;15;11;3
+2018/19;HS;Totalt;Re videregående skole;;112;0;5;4;1
+2018/19;HS;Totalt;Sande videregående skole;;52;1;6;5;0
+2018/19;HS;Totalt;Sandefjord videregående skole;;178;3;22;25;9
+2018/19;HS;Totalt;Thor Heyerdahl videregående skole;;129;2;6;11;7
+2018/19;ID;Totalt;Horten videregående skole;;54;0;13;4;2
+2018/19;ID;Totalt;Re videregående skole;;144;0;5;5;1
+2018/19;ID;Totalt;Sande videregående skole;;59;4;6;0;0
+2018/19;ID;Totalt;Sandefjord videregående skole;;85;1;4;6;1
+2018/19;ID;Totalt;Thor Heyerdahl videregående skole;;165;0;6;5;1
+2018/19;KD;Totalt;Færder videregående skole;;58;0;6;8;1
+2018/19;KD;Totalt;Sandefjord videregående skole;;50;0;5;9;1
+2018/19;MD;Totalt;Greveskogen videregående skole;;81;0;3;6;0
+2018/19;MD;Totalt;Sandefjord videregående skole;;106;0;5;15;7
+2018/19;MD;Totalt;Thor Heyerdahl videregående skole;;64;0;2;5;5
+2018/19;ME;Totalt;Holmestrand videregående skole;;23;0;5;5;0
+2018/19;ME;Totalt;Horten videregående skole;;61;0;6;3;0
+2018/19;ME;Totalt;Melsom videregående skole;;46;0;10;9;1
+2018/19;ME;Totalt;Sande videregående skole;;34;5;6;1;0
+2018/19;ME;Totalt;Thor Heyerdahl videregående skole;;67;0;8;2;5
+2018/19;NA;Totalt;Melsom videregående skole;;64;0;8;11;2
+2018/19;PB;Totalt;Eksamenskontoret i Vestfold;;0;1;0;0;0
+2018/19;PB;Totalt;Færder videregående skole;;134;0;18;8;4
+2018/19;PB;Totalt;Greveskogen videregående skole;;15;0;0;0;0
+2018/19;PB;Totalt;Holmestrand videregående skole;;12;0;4;4;4
+2018/19;PB;Totalt;Horten videregående skole;;16;0;4;5;3
+2018/19;PB;Totalt;Nøtterøy videregående skole;;13;0;1;0;1
+2018/19;PB;Totalt;Re videregående skole;;18;0;0;3;0
+2018/19;PB;Totalt;Sande videregående skole;;12;1;5;1;1
+2018/19;PB;Totalt;Sandefjord videregående skole;;58;3;7;4;2
+2018/19;PB;Totalt;Thor Heyerdahl videregående skole;;48;0;4;6;6
+2018/19;RM;Totalt;Greveskogen videregående skole;;40;0;0;6;4
+2018/19;RM;Totalt;Holmestrand videregående skole;;11;0;0;2;1
+2018/19;RM;Totalt;Sandefjord videregående skole;;31;0;0;5;2
+2018/19;RM;Totalt;Thor Heyerdahl videregående skole;;24;0;3;3;3
+2018/19;SS;Totalt;Greveskogen videregående skole;;48;0;9;11;5
+2018/19;SS;Totalt;Horten videregående skole;;37;0;10;9;3
+2018/19;SS;Totalt;Sandefjord videregående skole;;119;0;9;20;15
+2018/19;SS;Totalt;Thor Heyerdahl videregående skole;;68;0;4;16;4
+2018/19;ST;Totalt;Greveskogen videregående skole;;541;0;34;41;7
+2018/19;ST;Totalt;Holmestrand videregående skole;;97;0;9;3;2
+2018/19;ST;Totalt;Horten videregående skole;;379;0;15;21;4
+2018/19;ST;Totalt;Melsom videregående skole;;43;0;1;4;0
+2018/19;ST;Totalt;Nøtterøy videregående skole;;303;0;10;21;4
+2018/19;ST;Totalt;Re videregående skole;;282;0;22;17;1
+2018/19;ST;Totalt;Sande videregående skole;;145;3;7;4;1
+2018/19;ST;Totalt;Sandefjord videregående skole;;752;17;65;61;11
+2018/19;ST;Totalt;Thor Heyerdahl videregående skole;;448;0;22;29;9
+2018/19;TP;Totalt;Færder videregående skole;;108;0;11;12;13
+2018/19;TP;Totalt;Holmestrand videregående skole;;5;0;0;7;1
+2018/19;TP;Totalt;Horten videregående skole;;9;0;6;4;3
+2018/19;TP;Totalt;Sande videregående skole;;16;0;5;1;1
+2018/19;TP;Totalt;Sandefjord videregående skole;;51;0;8;13;10
+2018/19;TP;Totalt;Thor Heyerdahl videregående skole;;76;1;1;16;3
+2017/18;BA;Totalt;Færder videregående skole;;72;0;7;7;7
+2017/18;BA;Totalt;Re videregående skole;;105;0;2;2;5
+2017/18;BA;Totalt;Thor Heyerdahl videregående skole;;82;0;6;5;8
+2017/18;DH;Totalt;Færder videregående skole;;34;0;3;8;6
+2017/18;DH;Totalt;Horten videregående skole;;40;0;3;2;3
+2017/18;DH;Totalt;Sandefjord videregående skole;;34;1;4;8;3
+2017/18;EL;Totalt;Færder videregående skole;;103;0;6;3;3
+2017/18;EL;Totalt;Horten videregående skole;;97;0;8;4;2
+2017/18;EL;Totalt;Sande videregående skole;;35;0;5;0;2
+2017/18;EL;Totalt;Sandefjord videregående skole;;58;0;2;1;2
+2017/18;EL;Totalt;Thor Heyerdahl videregående skole;;90;0;0;2;1
+2017/18;HS;Totalt;Holmestrand videregående skole;;21;0;0;1;2
+2017/18;HS;Totalt;Horten videregående skole;;68;0;5;11;12
+2017/18;HS;Totalt;Nøtterøy videregående skole;;94;0;14;12;6
+2017/18;HS;Totalt;Re videregående skole;;125;0;2;6;1
+2017/18;HS;Totalt;Sande videregående skole;;44;0;2;0;2
+2017/18;HS;Totalt;Sandefjord videregående skole;;148;2;14;18;11
+2017/18;HS;Totalt;Thor Heyerdahl videregående skole;;131;1;6;11;3
+2017/18;ID;Totalt;Horten videregående skole;;66;0;2;6;3
+2017/18;ID;Totalt;Re videregående skole;;150;0;8;4;2
+2017/18;ID;Totalt;Sande videregående skole;;58;3;5;9;0
+2017/18;ID;Totalt;Sandefjord videregående skole;;82;1;5;6;0
+2017/18;ID;Totalt;Thor Heyerdahl videregående skole;;173;0;6;9;1
+2017/18;KD;Totalt;Færder videregående skole;;45;0;4;4;5
+2017/18;KD;Totalt;Sandefjord videregående skole;;36;4;7;2;2
+2017/18;MD;Totalt;Greveskogen videregående skole;;77;0;4;10;2
+2017/18;MD;Totalt;Sandefjord videregående skole;;114;0;4;6;1
+2017/18;MD;Totalt;Thor Heyerdahl videregående skole;;65;0;6;4;1
+2017/18;ME;Totalt;Holmestrand videregående skole;;23;0;0;1;1
+2017/18;ME;Totalt;Horten videregående skole;;45;0;2;3;1
+2017/18;ME;Totalt;Melsom videregående skole;;28;0;6;3;2
+2017/18;ME;Totalt;Sande videregående skole;;26;3;4;1;1
+2017/18;ME;Totalt;Thor Heyerdahl videregående skole;;41;0;7;3;1
+2017/18;MK;Totalt;Horten videregående skole;;26;0;3;1;1
+2017/18;MK;Totalt;Melsom videregående skole;;11;0;7;0;0
+2017/18;MK;Totalt;Sande videregående skole;;11;1;4;3;1
+2017/18;MK;Totalt;Thor Heyerdahl videregående skole;;20;0;0;3;2
+2017/18;NA;Totalt;Melsom videregående skole;;58;8;7;8;5
+2017/18;PB;Totalt;Færder videregående skole;;138;0;18;14;8
+2017/18;PB;Totalt;Greveskogen videregående skole;;1;6;0;0;0
+2017/18;PB;Totalt;Holmestrand videregående skole;;16;0;5;6;1
+2017/18;PB;Totalt;Horten videregående skole;;22;0;4;4;1
+2017/18;PB;Totalt;Melsom videregående skole;;0;0;1;0;0
+2017/18;PB;Totalt;Nøtterøy videregående skole;;10;0;0;0;1
+2017/18;PB;Totalt;Re videregående skole;;28;0;1;1;0
+2017/18;PB;Totalt;Sande videregående skole;;19;1;3;1;5
+2017/18;PB;Totalt;Sandefjord videregående skole;;70;7;14;4;14
+2017/18;PB;Totalt;Thor Heyerdahl videregående skole;;45;1;11;6;5
+2017/18;RM;Totalt;Greveskogen videregående skole;;36;1;3;7;5
+2017/18;RM;Totalt;Holmestrand videregående skole;;8;0;1;3;2
+2017/18;RM;Totalt;Sandefjord videregående skole;;27;0;4;3;4
+2017/18;RM;Totalt;Thor Heyerdahl videregående skole;;19;0;0;5;1
+2017/18;SS;Totalt;Greveskogen videregående skole;;50;5;2;16;7
+2017/18;SS;Totalt;Horten videregående skole;;34;0;7;15;6
+2017/18;SS;Totalt;Sandefjord videregående skole;;136;0;5;16;11
+2017/18;SS;Totalt;Thor Heyerdahl videregående skole;;71;0;2;16;7
+2017/18;ST;Totalt;Færder videregående skole;;7;0;0;1;0
+2017/18;ST;Totalt;Greveskogen videregående skole;;559;1;30;70;12
+2017/18;ST;Totalt;Holmestrand videregående skole;;96;0;10;6;3
+2017/18;ST;Totalt;Horten videregående skole;;414;1;14;12;8
+2017/18;ST;Totalt;Melsom videregående skole;;36;0;8;4;2
+2017/18;ST;Totalt;Nøtterøy videregående skole;;347;0;18;27;7
+2017/18;ST;Totalt;Re videregående skole;;285;0;19;16;3
+2017/18;ST;Totalt;Sande videregående skole;;152;4;7;6;3
+2017/18;ST;Totalt;Sandefjord videregående skole;;791;32;67;49;19
+2017/18;ST;Totalt;Thor Heyerdahl videregående skole;;494;3;10;27;8
+2017/18;TP;Totalt;Færder videregående skole;;124;0;10;18;6
+2017/18;TP;Totalt;Holmestrand videregående skole;;6;0;2;4;1
+2017/18;TP;Totalt;Horten videregående skole;;17;0;3;0;2
+2017/18;TP;Totalt;Sande videregående skole;;18;1;7;1;0
+2017/18;TP;Totalt;Sandefjord videregående skole;;48;0;7;7;8
+2017/18;TP;Totalt;Thor Heyerdahl videregående skole;;59;0;0;14;6
