@@ -1,0 +1,717 @@
+Karaktertype;Skoleår;EnhetNivaa;Vurderingsfagkode;Vurderingsfagnavn;Fylke;EnhetNavn;Karakterer;Antall elever
+Standpunkt;2020-21;1;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Alle fylker;Alle skoler;4,5;34 988
+Standpunkt;2020-21;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Færder videregående skole;4,7;40
+Standpunkt;2020-21;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Greveskogen videregående skole;4,3;199
+Standpunkt;2020-21;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Holmestrand videregående skole;4,7;26
+Standpunkt;2020-21;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Horten videregående skole;4,5;235
+Standpunkt;2020-21;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Kompetansebyggeren;5;1
+Standpunkt;2020-21;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Melsom videregående skole;4,8;26
+Standpunkt;2020-21;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Nøtterøy videregående skole;4,3;130
+Standpunkt;2020-21;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Re videregående skole;4,9;166
+Standpunkt;2020-21;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Sande videregående skole;4,5;73
+Standpunkt;2020-21;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Sandefjord videregående skole;4,6;368
+Standpunkt;2020-21;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Thor Heyerdahl videregående skole;4,5;249
+Standpunkt;2020-21;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Wang Tønsberg AS;3,7;66
+Standpunkt;2020-21;1;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Alle fylker;Alle skoler;3,8;28 875
+Standpunkt;2020-21;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Færder videregående skole;3,9;178
+Standpunkt;2020-21;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Gjennestad videregående skole;4,1;49
+Standpunkt;2020-21;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Greveskogen videregående skole;3,5;77
+Standpunkt;2020-21;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Holmestrand videregående skole;3,8;39
+Standpunkt;2020-21;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Horten videregående skole;3,9;168
+Standpunkt;2020-21;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Melsom videregående skole;4;47
+Standpunkt;2020-21;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Nøtterøy videregående skole;3,5;51
+Standpunkt;2020-21;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Re videregående skole;4,1;145
+Standpunkt;2020-21;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Sande videregående skole;3,3;75
+Standpunkt;2020-21;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Sandefjord videregående skole;3,9;291
+Standpunkt;2020-21;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Thor Heyerdahl videregående skole;3,9;289
+Standpunkt;2020-21;1;MAT1015;Matematikk 2P;Alle fylker;Alle skoler;3,7;18 143
+Standpunkt;2020-21;3;MAT1015;Matematikk 2P;Vestfold;Færder videregående skole;4;28
+Standpunkt;2020-21;3;MAT1015;Matematikk 2P;Vestfold;Greveskogen videregående skole;3,8;104
+Standpunkt;2020-21;3;MAT1015;Matematikk 2P;Vestfold;Holmestrand videregående skole;3,9;26
+Standpunkt;2020-21;3;MAT1015;Matematikk 2P;Vestfold;Horten videregående skole;3,5;98
+Standpunkt;2020-21;3;MAT1015;Matematikk 2P;Vestfold;Melsom videregående skole;3,1;11
+Standpunkt;2020-21;3;MAT1015;Matematikk 2P;Vestfold;Nøtterøy videregående skole;3,7;61
+Standpunkt;2020-21;3;MAT1015;Matematikk 2P;Vestfold;Re videregående skole;3,9;101
+Standpunkt;2020-21;3;MAT1015;Matematikk 2P;Vestfold;Sande videregående skole;3,9;36
+Standpunkt;2020-21;3;MAT1015;Matematikk 2P;Vestfold;Sandefjord videregående skole;3,7;216
+Standpunkt;2020-21;3;MAT1015;Matematikk 2P;Vestfold;Thor Heyerdahl videregående skole;4,1;181
+Standpunkt;2020-21;1;MAT1019;Matematikk 1P;Alle fylker;Alle skoler;3,7;19 643
+Standpunkt;2020-21;3;MAT1019;Matematikk 1P;Vestfold;Færder videregående skole;3,8;25
+Standpunkt;2020-21;3;MAT1019;Matematikk 1P;Vestfold;Greveskogen videregående skole;3,7;110
+Standpunkt;2020-21;3;MAT1019;Matematikk 1P;Vestfold;Holmestrand videregående skole;4;18
+Standpunkt;2020-21;3;MAT1019;Matematikk 1P;Vestfold;Horten videregående skole;3,6;141
+Standpunkt;2020-21;3;MAT1019;Matematikk 1P;Vestfold;Melsom videregående skole;3,5;25
+Standpunkt;2020-21;3;MAT1019;Matematikk 1P;Vestfold;Nøtterøy videregående skole;3,2;84
+Standpunkt;2020-21;3;MAT1019;Matematikk 1P;Vestfold;Re videregående skole;3,5;121
+Standpunkt;2020-21;3;MAT1019;Matematikk 1P;Vestfold;Sande videregående skole;3,1;48
+Standpunkt;2020-21;3;MAT1019;Matematikk 1P;Vestfold;Sandefjord videregående skole;3,2;223
+Standpunkt;2020-21;3;MAT1019;Matematikk 1P;Vestfold;Skagerak International School;3,5;22
+Standpunkt;2020-21;3;MAT1019;Matematikk 1P;Vestfold;Thor Heyerdahl videregående skole;3,9;158
+Standpunkt;2020-21;3;MAT1019;Matematikk 1P;Vestfold;Wang Tønsberg AS;3,3;35
+Standpunkt;2020-21;1;MAT1111;Matematikk 1P-Y BA;Alle fylker;Alle skoler;3,4;3 811
+Standpunkt;2020-21;3;MAT1111;Matematikk 1P-Y BA;Vestfold;Færder videregående skole;2,8;59
+Standpunkt;2020-21;3;MAT1111;Matematikk 1P-Y BA;Vestfold;Gjennestad videregående skole;3,2;17
+Standpunkt;2020-21;3;MAT1111;Matematikk 1P-Y BA;Vestfold;Thor Heyerdahl videregående skole;3,3;60
+Standpunkt;2020-21;1;MAT1113;Matematikk 1P-Y EL;Alle fylker;Alle skoler;3,9;3 744
+Standpunkt;2020-21;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Færder videregående skole;4;59
+Standpunkt;2020-21;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Horten videregående skole;4,2;28
+Standpunkt;2020-21;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Sande videregående skole;3,1;30
+Standpunkt;2020-21;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Sandefjord videregående skole;3,2;25
+Standpunkt;2020-21;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Thor Heyerdahl videregående skole;4,5;47
+Standpunkt;2020-21;1;MAT1115;Matematikk 1P-Y FD;Alle fylker;Alle skoler;3,3;816
+Standpunkt;2020-21;3;MAT1115;Matematikk 1P-Y FD;Vestfold;Horten videregående skole;2,7;23
+Standpunkt;2020-21;3;MAT1115;Matematikk 1P-Y FD;Vestfold;Sandefjord videregående skole;2,9;20
+Standpunkt;2020-21;1;MAT1117;Matematikk 1P-Y HS;Alle fylker;Alle skoler;3,6;8 043
+Standpunkt;2020-21;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Gjennestad videregående skole;2,8;18
+Standpunkt;2020-21;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Holmestrand videregående skole;3,2;13
+Standpunkt;2020-21;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Horten videregående skole;3,7;70
+Standpunkt;2020-21;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Nøtterøy videregående skole;3,2;49
+Standpunkt;2020-21;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Re videregående skole;3,7;145
+Standpunkt;2020-21;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Sande videregående skole;3,6;34
+Standpunkt;2020-21;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Sandefjord videregående skole;3;89
+Standpunkt;2020-21;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Thor Heyerdahl videregående skole;3,5;69
+Standpunkt;2020-21;1;MAT1119;Matematikk 1P-Y DT;Alle fylker;Alle skoler;3,7;198
+Standpunkt;2020-21;1;MAT1121;Matematikk 1P-Y IM;Alle fylker;Alle skoler;4;1 059
+Standpunkt;2020-21;3;MAT1121;Matematikk 1P-Y IM;Vestfold;Greveskogen videregående skole;4,4;14
+Standpunkt;2020-21;3;MAT1121;Matematikk 1P-Y IM;Vestfold;Horten videregående skole;3,7;13
+Standpunkt;2020-21;3;MAT1121;Matematikk 1P-Y IM;Vestfold;Sandefjord videregående skole;3,4;77
+Standpunkt;2020-21;1;MAT1123;Matematikk 1P-Y NA;Alle fylker;Alle skoler;3,6;1 485
+Standpunkt;2020-21;3;MAT1123;Matematikk 1P-Y NA;Vestfold;Gjennestad videregående skole;3;6
+Standpunkt;2020-21;3;MAT1123;Matematikk 1P-Y NA;Vestfold;Melsom videregående skole;3,3;45
+Standpunkt;2020-21;1;MAT1125;Matematikk 1P-Y RM;Alle fylker;Alle skoler;3,4;1 055
+Standpunkt;2020-21;3;MAT1125;Matematikk 1P-Y RM;Vestfold;Greveskogen videregående skole;3,1;30
+Standpunkt;2020-21;3;MAT1125;Matematikk 1P-Y RM;Vestfold;Holmestrand videregående skole;3,5;11
+Standpunkt;2020-21;3;MAT1125;Matematikk 1P-Y RM;Vestfold;Sandefjord videregående skole;3,1;21
+Standpunkt;2020-21;3;MAT1125;Matematikk 1P-Y RM;Vestfold;Thor Heyerdahl videregående skole;3,1;14
+Standpunkt;2020-21;1;MAT1127;Matematikk 1P-Y SR;Alle fylker;Alle skoler;3,3;1 842
+Standpunkt;2020-21;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Gjennestad videregående skole;3,1;7
+Standpunkt;2020-21;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Greveskogen videregående skole;3,3;24
+Standpunkt;2020-21;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Horten videregående skole;2,8;14
+Standpunkt;2020-21;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Thor Heyerdahl videregående skole;3,5;33
+Standpunkt;2020-21;1;MAT1129;Matematikk 1P-Y TP;Alle fylker;Alle skoler;3,4;5 050
+Standpunkt;2020-21;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Færder videregående skole;3,5;55
+Standpunkt;2020-21;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Holmestrand videregående skole;3;11
+Standpunkt;2020-21;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Horten videregående skole;2,8;11
+Standpunkt;2020-21;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Sande videregående skole;2,6;14
+Standpunkt;2020-21;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Sandefjord videregående skole;3,2;36
+Standpunkt;2020-21;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Thor Heyerdahl videregående skole;3,8;54
+Standpunkt;2020-21;1;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Alle fylker;Alle skoler;4,2;32 588
+Standpunkt;2020-21;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Færder videregående skole;4,1;38
+Standpunkt;2020-21;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Greveskogen videregående skole;4,2;214
+Standpunkt;2020-21;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Holmestrand videregående skole;4,6;48
+Standpunkt;2020-21;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Horten videregående skole;4,3;207
+Standpunkt;2020-21;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Melsom videregående skole;3,6;30
+Standpunkt;2020-21;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Nøtterøy videregående skole;4,1;122
+Standpunkt;2020-21;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Re videregående skole;4,4;157
+Standpunkt;2020-21;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Sande videregående skole;4;83
+Standpunkt;2020-21;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Sandefjord videregående skole;4;380
+Standpunkt;2020-21;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Thor Heyerdahl videregående skole;4,2;249
+Standpunkt;2020-21;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Wang Tønsberg AS;3,9;56
+Standpunkt;2020-21;1;REA3024;Matematikk R2;Alle fylker;Alle skoler;4,2;6 101
+Standpunkt;2020-21;3;REA3024;Matematikk R2;Vestfold;Færder videregående skole;4,2;12
+Standpunkt;2020-21;3;REA3024;Matematikk R2;Vestfold;Greveskogen videregående skole;4,1;38
+Standpunkt;2020-21;3;REA3024;Matematikk R2;Vestfold;Holmestrand videregående skole;5,2;6
+Standpunkt;2020-21;3;REA3024;Matematikk R2;Vestfold;Horten videregående skole;4,8;22
+Standpunkt;2020-21;3;REA3024;Matematikk R2;Vestfold;Nøtterøy videregående skole;4,3;28
+Standpunkt;2020-21;3;REA3024;Matematikk R2;Vestfold;Re videregående skole;4;22
+Standpunkt;2020-21;3;REA3024;Matematikk R2;Vestfold;Sande videregående skole;3,9;16
+Standpunkt;2020-21;3;REA3024;Matematikk R2;Vestfold;Sandefjord videregående skole;4,6;29
+Standpunkt;2020-21;3;REA3024;Matematikk R2;Vestfold;Thor Heyerdahl videregående skole;4,1;42
+Standpunkt;2020-21;3;REA3024;Matematikk R2;Vestfold;Wang Tønsberg AS;4,2;19
+Standpunkt;2021-22;1;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Alle fylker;Alle skoler;4,5;34 450
+Standpunkt;2021-22;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Færder videregående skole;4,8;32
+Standpunkt;2021-22;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Greveskogen videregående skole;4,3;198
+Standpunkt;2021-22;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Holmestrand videregående skole;4,9;48
+Standpunkt;2021-22;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Horten videregående skole;4,8;202
+Standpunkt;2021-22;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Melsom videregående skole;4,9;18
+Standpunkt;2021-22;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Nøtterøy videregående skole;4;141
+Standpunkt;2021-22;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Re videregående skole;5;174
+Standpunkt;2021-22;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Sande videregående skole;3,9;62
+Standpunkt;2021-22;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Sandefjord videregående skole;4,5;405
+Standpunkt;2021-22;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Skagerak International School;4,5;44
+Standpunkt;2021-22;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Thor Heyerdahl videregående skole;4,6;250
+Standpunkt;2021-22;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Wang Tønsberg AS;4,2;68
+Standpunkt;2021-22;1;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Alle fylker;Alle skoler;3,8;27 269
+Standpunkt;2021-22;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Færder videregående skole;3,8;149
+Standpunkt;2021-22;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Gjennestad videregående skole;4;47
+Standpunkt;2021-22;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Greveskogen videregående skole;3,2;64
+Standpunkt;2021-22;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Holmestrand videregående skole;4,5;28
+Standpunkt;2021-22;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Horten videregående skole;4,1;170
+Standpunkt;2021-22;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Melsom videregående skole;4,2;38
+Standpunkt;2021-22;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Nøtterøy videregående skole;3,5;49
+Standpunkt;2021-22;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Re videregående skole;4,2;133
+Standpunkt;2021-22;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Sande videregående skole;3,6;78
+Standpunkt;2021-22;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Sandefjord videregående skole;4;282
+Standpunkt;2021-22;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Thor Heyerdahl videregående skole;4;264
+Standpunkt;2021-22;1;MAT1015;Matematikk 2P;Alle fylker;Alle skoler;3,4;105
+Standpunkt;2021-22;3;MAT1015;Matematikk 2P;Vestfold;Færder videregående skole;4;1
+Standpunkt;2021-22;1;MAT1019;Matematikk 1P;Alle fylker;Alle skoler;3,6;19 630
+Standpunkt;2021-22;3;MAT1019;Matematikk 1P;Vestfold;Færder videregående skole;3,8;21
+Standpunkt;2021-22;3;MAT1019;Matematikk 1P;Vestfold;Greveskogen videregående skole;3,3;124
+Standpunkt;2021-22;3;MAT1019;Matematikk 1P;Vestfold;Holmestrand videregående skole;3,2;32
+Standpunkt;2021-22;3;MAT1019;Matematikk 1P;Vestfold;Horten videregående skole;3,5;106
+Standpunkt;2021-22;3;MAT1019;Matematikk 1P;Vestfold;Melsom videregående skole;3,8;18
+Standpunkt;2021-22;3;MAT1019;Matematikk 1P;Vestfold;Nøtterøy videregående skole;3,2;73
+Standpunkt;2021-22;3;MAT1019;Matematikk 1P;Vestfold;Re videregående skole;3,8;111
+Standpunkt;2021-22;3;MAT1019;Matematikk 1P;Vestfold;Sande videregående skole;3,4;35
+Standpunkt;2021-22;3;MAT1019;Matematikk 1P;Vestfold;Sandefjord videregående skole;3,1;300
+Standpunkt;2021-22;3;MAT1019;Matematikk 1P;Vestfold;Skagerak International School;3,6;10
+Standpunkt;2021-22;3;MAT1019;Matematikk 1P;Vestfold;Thor Heyerdahl videregående skole;3,9;166
+Standpunkt;2021-22;3;MAT1019;Matematikk 1P;Vestfold;Wang Tønsberg AS;3,8;38
+Standpunkt;2021-22;1;MAT1023;Matematikk 2P;Alle fylker;Alle skoler;3,7;19 012
+Standpunkt;2021-22;3;MAT1023;Matematikk 2P;Vestfold;Færder videregående skole;3,3;24
+Standpunkt;2021-22;3;MAT1023;Matematikk 2P;Vestfold;Greveskogen videregående skole;4;117
+Standpunkt;2021-22;3;MAT1023;Matematikk 2P;Vestfold;Holmestrand videregående skole;3,9;14
+Standpunkt;2021-22;3;MAT1023;Matematikk 2P;Vestfold;Horten videregående skole;3,8;113
+Standpunkt;2021-22;3;MAT1023;Matematikk 2P;Vestfold;Melsom videregående skole;3;19
+Standpunkt;2021-22;3;MAT1023;Matematikk 2P;Vestfold;Nøtterøy videregående skole;3,2;82
+Standpunkt;2021-22;3;MAT1023;Matematikk 2P;Vestfold;Re videregående skole;3,6;108
+Standpunkt;2021-22;3;MAT1023;Matematikk 2P;Vestfold;Sande videregående skole;3,6;49
+Standpunkt;2021-22;3;MAT1023;Matematikk 2P;Vestfold;Sandefjord videregående skole;3,2;230
+Standpunkt;2021-22;3;MAT1023;Matematikk 2P;Vestfold;Thor Heyerdahl videregående skole;3,7;159
+Standpunkt;2021-22;1;MAT1111;Matematikk 1P-Y BA;Alle fylker;Alle skoler;3,4;3 859
+Standpunkt;2021-22;3;MAT1111;Matematikk 1P-Y BA;Vestfold;Færder videregående skole;3;53
+Standpunkt;2021-22;3;MAT1111;Matematikk 1P-Y BA;Vestfold;Gjennestad videregående skole;3,4;23
+Standpunkt;2021-22;3;MAT1111;Matematikk 1P-Y BA;Vestfold;Re videregående skole;3,7;77
+Standpunkt;2021-22;3;MAT1111;Matematikk 1P-Y BA;Vestfold;Thor Heyerdahl videregående skole;3,5;64
+Standpunkt;2021-22;1;MAT1113;Matematikk 1P-Y EL;Alle fylker;Alle skoler;3,9;3 778
+Standpunkt;2021-22;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Færder videregående skole;3,9;36
+Standpunkt;2021-22;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Horten videregående skole;3,8;27
+Standpunkt;2021-22;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Sande videregående skole;3,9;14
+Standpunkt;2021-22;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Sandefjord videregående skole;4,3;26
+Standpunkt;2021-22;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Thor Heyerdahl videregående skole;4,4;47
+Standpunkt;2021-22;1;MAT1115;Matematikk 1P-Y FD;Alle fylker;Alle skoler;3,4;803
+Standpunkt;2021-22;3;MAT1115;Matematikk 1P-Y FD;Vestfold;Horten videregående skole;3,4;28
+Standpunkt;2021-22;3;MAT1115;Matematikk 1P-Y FD;Vestfold;Sandefjord videregående skole;3,3;31
+Standpunkt;2021-22;1;MAT1117;Matematikk 1P-Y HS;Alle fylker;Alle skoler;3,5;7 260
+Standpunkt;2021-22;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Gjennestad videregående skole;2,9;10
+Standpunkt;2021-22;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Holmestrand videregående skole;3,2;14
+Standpunkt;2021-22;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Horten videregående skole;3,5;68
+Standpunkt;2021-22;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Nøtterøy videregående skole;3;47
+Standpunkt;2021-22;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Re videregående skole;4;57
+Standpunkt;2021-22;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Sande videregående skole;3,7;50
+Standpunkt;2021-22;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Sandefjord videregående skole;3,3;91
+Standpunkt;2021-22;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Thor Heyerdahl videregående skole;3,7;56
+Standpunkt;2021-22;1;MAT1119;Matematikk 1P-Y DT;Alle fylker;Alle skoler;3,7;175
+Standpunkt;2021-22;1;MAT1121;Matematikk 1P-Y IM;Alle fylker;Alle skoler;3,9;1 075
+Standpunkt;2021-22;3;MAT1121;Matematikk 1P-Y IM;Vestfold;Greveskogen videregående skole;3,3;13
+Standpunkt;2021-22;3;MAT1121;Matematikk 1P-Y IM;Vestfold;Horten videregående skole;3,9;15
+Standpunkt;2021-22;3;MAT1121;Matematikk 1P-Y IM;Vestfold;Sandefjord videregående skole;3,7;32
+Standpunkt;2021-22;1;MAT1123;Matematikk 1P-Y NA;Alle fylker;Alle skoler;3,7;1 459
+Standpunkt;2021-22;3;MAT1123;Matematikk 1P-Y NA;Vestfold;Melsom videregående skole;3,2;36
+Standpunkt;2021-22;1;MAT1125;Matematikk 1P-Y RM;Alle fylker;Alle skoler;3,5;1 086
+Standpunkt;2021-22;3;MAT1125;Matematikk 1P-Y RM;Vestfold;Færder videregående skole;3;1
+Standpunkt;2021-22;3;MAT1125;Matematikk 1P-Y RM;Vestfold;Greveskogen videregående skole;3;37
+Standpunkt;2021-22;3;MAT1125;Matematikk 1P-Y RM;Vestfold;Holmestrand videregående skole;3,7;3
+Standpunkt;2021-22;3;MAT1125;Matematikk 1P-Y RM;Vestfold;Thor Heyerdahl videregående skole;3,2;24
+Standpunkt;2021-22;1;MAT1127;Matematikk 1P-Y SR;Alle fylker;Alle skoler;3,3;1 784
+Standpunkt;2021-22;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Færder videregående skole;5;1
+Standpunkt;2021-22;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Gjennestad videregående skole;4,1;7
+Standpunkt;2021-22;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Greveskogen videregående skole;3;14
+Standpunkt;2021-22;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Horten videregående skole;3,1;14
+Standpunkt;2021-22;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Sandefjord videregående skole;3,6;39
+Standpunkt;2021-22;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Thor Heyerdahl videregående skole;3,2;22
+Standpunkt;2021-22;1;MAT1129;Matematikk 1P-Y TP;Alle fylker;Alle skoler;3,4;5 054
+Standpunkt;2021-22;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Færder videregående skole;3,6;46
+Standpunkt;2021-22;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Holmestrand videregående skole;3,2;15
+Standpunkt;2021-22;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Horten videregående skole;3,2;22
+Standpunkt;2021-22;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Sande videregående skole;2,9;13
+Standpunkt;2021-22;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Sandefjord videregående skole;3,6;48
+Standpunkt;2021-22;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Thor Heyerdahl videregående skole;3,4;48
+Standpunkt;2021-22;1;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Alle fylker;Alle skoler;4,2;33 002
+Standpunkt;2021-22;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Færder videregående skole;3,9;33
+Standpunkt;2021-22;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Greveskogen videregående skole;4,3;187
+Standpunkt;2021-22;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Holmestrand videregående skole;4,4;45
+Standpunkt;2021-22;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Horten videregående skole;4,1;220
+Standpunkt;2021-22;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Melsom videregående skole;3,1;11
+Standpunkt;2021-22;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Nøtterøy videregående skole;4,3;160
+Standpunkt;2021-22;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Re videregående skole;4,2;144
+Standpunkt;2021-22;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Sande videregående skole;4,1;79
+Standpunkt;2021-22;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Sandefjord videregående skole;4;359
+Standpunkt;2021-22;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Thor Heyerdahl videregående skole;4,5;241
+Standpunkt;2021-22;3;NOR1211;Norsk hovedmål, Vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Wang Tønsberg AS;3,9;65
+Standpunkt;2021-22;1;REA3024;Matematikk R2;Alle fylker;Alle skoler;4,3;6 239
+Standpunkt;2021-22;3;REA3024;Matematikk R2;Vestfold;Færder videregående skole;3,8;11
+Standpunkt;2021-22;3;REA3024;Matematikk R2;Vestfold;Greveskogen videregående skole;3,7;31
+Standpunkt;2021-22;3;REA3024;Matematikk R2;Vestfold;Holmestrand videregående skole;4,5;10
+Standpunkt;2021-22;3;REA3024;Matematikk R2;Vestfold;Horten videregående skole;4,7;45
+Standpunkt;2021-22;3;REA3024;Matematikk R2;Vestfold;Nøtterøy videregående skole;4,2;30
+Standpunkt;2021-22;3;REA3024;Matematikk R2;Vestfold;Re videregående skole;4,3;19
+Standpunkt;2021-22;3;REA3024;Matematikk R2;Vestfold;Sande videregående skole;4,5;11
+Standpunkt;2021-22;3;REA3024;Matematikk R2;Vestfold;Sandefjord videregående skole;3,9;31
+Standpunkt;2021-22;3;REA3024;Matematikk R2;Vestfold;Thor Heyerdahl videregående skole;3,9;31
+Standpunkt;2021-22;3;REA3024;Matematikk R2;Vestfold;Wang Tønsberg AS;4;20
+Standpunkt;2022-23;1;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Alle fylker;Alle skoler;4,5;34 469
+Standpunkt;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Færder videregående skole;4,2;48
+Standpunkt;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Greveskogen videregående skole;4,3;218
+Standpunkt;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Holmestrand videregående skole;4,7;31
+Standpunkt;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Horten videregående skole;4,5;201
+Standpunkt;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Melsom videregående skole;4,6;17
+Standpunkt;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Nøtterøy videregående skole;4,2;168
+Standpunkt;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Re videregående skole;4,6;147
+Standpunkt;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Sande videregående skole;3,9;61
+Standpunkt;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Sandefjord videregående skole;4,4;355
+Standpunkt;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Skagerak International School;5,2;63
+Standpunkt;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Thor Heyerdahl videregående skole;4,7;265
+Standpunkt;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Wang Tønsberg AS;4,1;68
+Standpunkt;2022-23;1;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Alle fylker;Alle skoler;3,9;27 945
+Standpunkt;2022-23;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Færder videregående skole;3,8;186
+Standpunkt;2022-23;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Gjennestad videregående skole;3,8;55
+Standpunkt;2022-23;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Greveskogen videregående skole;3,5;81
+Standpunkt;2022-23;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Holmestrand videregående skole;4;35
+Standpunkt;2022-23;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Horten videregående skole;3,9;144
+Standpunkt;2022-23;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Melsom videregående skole;3,7;32
+Standpunkt;2022-23;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Nøtterøy videregående skole;3;38
+Standpunkt;2022-23;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Re videregående skole;4,2;127
+Standpunkt;2022-23;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Sande videregående skole;3,7;67
+Standpunkt;2022-23;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Sandefjord videregående skole;3,9;281
+Standpunkt;2022-23;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Thor Heyerdahl videregående skole;4,2;262
+Standpunkt;2022-23;1;MAT1019;Matematikk 1P;Alle fylker;Alle skoler;3,5;19 850
+Standpunkt;2022-23;3;MAT1019;Matematikk 1P;Vestfold;Færder videregående skole;3,4;37
+Standpunkt;2022-23;3;MAT1019;Matematikk 1P;Vestfold;Greveskogen videregående skole;3,6;120
+Standpunkt;2022-23;3;MAT1019;Matematikk 1P;Vestfold;Holmestrand videregående skole;3,1;19
+Standpunkt;2022-23;3;MAT1019;Matematikk 1P;Vestfold;Horten videregående skole;3,6;119
+Standpunkt;2022-23;3;MAT1019;Matematikk 1P;Vestfold;Melsom videregående skole;3,5;17
+Standpunkt;2022-23;3;MAT1019;Matematikk 1P;Vestfold;Nøtterøy videregående skole;3,5;96
+Standpunkt;2022-23;3;MAT1019;Matematikk 1P;Vestfold;Re videregående skole;4,1;116
+Standpunkt;2022-23;3;MAT1019;Matematikk 1P;Vestfold;Sande videregående skole;3,4;41
+Standpunkt;2022-23;3;MAT1019;Matematikk 1P;Vestfold;Sandefjord videregående skole;3,5;229
+Standpunkt;2022-23;3;MAT1019;Matematikk 1P;Vestfold;Skagerak International School;4;21
+Standpunkt;2022-23;3;MAT1019;Matematikk 1P;Vestfold;Thor Heyerdahl videregående skole;3,9;180
+Standpunkt;2022-23;3;MAT1019;Matematikk 1P;Vestfold;Wang Tønsberg AS;3,4;29
+Standpunkt;2022-23;1;MAT1023;Matematikk 2P;Alle fylker;Alle skoler;3,6;19 904
+Standpunkt;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Færder videregående skole;4;25
+Standpunkt;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Greveskogen videregående skole;3,5;133
+Standpunkt;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Holmestrand videregående skole;3,4;29
+Standpunkt;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Horten videregående skole;4;103
+Standpunkt;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Melsom videregående skole;3,4;14
+Standpunkt;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Nøtterøy videregående skole;3,3;86
+Standpunkt;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Re videregående skole;3,9;127
+Standpunkt;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Sande videregående skole;3,3;40
+Standpunkt;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Sandefjord videregående skole;3,2;281
+Standpunkt;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Thor Heyerdahl videregående skole;3,5;164
+Standpunkt;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Wang Tønsberg AS;4;36
+Standpunkt;2022-23;1;MAT1111;Matematikk 1P-Y BA;Alle fylker;Alle skoler;3,3;3 991
+Standpunkt;2022-23;3;MAT1111;Matematikk 1P-Y BA;Vestfold;Færder videregående skole;3,1;63
+Standpunkt;2022-23;3;MAT1111;Matematikk 1P-Y BA;Vestfold;Gjennestad videregående skole;2,5;22
+Standpunkt;2022-23;3;MAT1111;Matematikk 1P-Y BA;Vestfold;Re videregående skole;3,5;64
+Standpunkt;2022-23;3;MAT1111;Matematikk 1P-Y BA;Vestfold;Thor Heyerdahl videregående skole;3;57
+Standpunkt;2022-23;1;MAT1113;Matematikk 1P-Y EL;Alle fylker;Alle skoler;3,9;4 007
+Standpunkt;2022-23;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Færder videregående skole;3,9;56
+Standpunkt;2022-23;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Horten videregående skole;3,5;28
+Standpunkt;2022-23;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Sande videregående skole;4;26
+Standpunkt;2022-23;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Sandefjord videregående skole;3,5;31
+Standpunkt;2022-23;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Thor Heyerdahl videregående skole;4,9;48
+Standpunkt;2022-23;1;MAT1115;Matematikk 1P-Y FD;Alle fylker;Alle skoler;3,3;846
+Standpunkt;2022-23;3;MAT1115;Matematikk 1P-Y FD;Vestfold;Færder videregående skole;3;1
+Standpunkt;2022-23;3;MAT1115;Matematikk 1P-Y FD;Vestfold;Horten videregående skole;2,9;14
+Standpunkt;2022-23;3;MAT1115;Matematikk 1P-Y FD;Vestfold;Sandefjord videregående skole;3,2;32
+Standpunkt;2022-23;1;MAT1117;Matematikk 1P-Y HS;Alle fylker;Alle skoler;3,5;7 010
+Standpunkt;2022-23;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Færder videregående skole;3;2
+Standpunkt;2022-23;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Gjennestad videregående skole;4,1;14
+Standpunkt;2022-23;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Holmestrand videregående skole;3,1;20
+Standpunkt;2022-23;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Horten videregående skole;3,3;50
+Standpunkt;2022-23;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Nøtterøy videregående skole;3,3;38
+Standpunkt;2022-23;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Re videregående skole;3,9;67
+Standpunkt;2022-23;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Sande videregående skole;4,1;21
+Standpunkt;2022-23;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Sandefjord videregående skole;3,1;78
+Standpunkt;2022-23;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Thor Heyerdahl videregående skole;3,2;67
+Standpunkt;2022-23;1;MAT1119;Matematikk 1P-Y DT;Alle fylker;Alle skoler;3,8;170
+Standpunkt;2022-23;1;MAT1121;Matematikk 1P-Y IM;Alle fylker;Alle skoler;3,9;1 221
+Standpunkt;2022-23;3;MAT1121;Matematikk 1P-Y IM;Vestfold;Greveskogen videregående skole;4,2;29
+Standpunkt;2022-23;3;MAT1121;Matematikk 1P-Y IM;Vestfold;Horten videregående skole;4,3;16
+Standpunkt;2022-23;3;MAT1121;Matematikk 1P-Y IM;Vestfold;Sandefjord videregående skole;3,3;30
+Standpunkt;2022-23;1;MAT1123;Matematikk 1P-Y NA;Alle fylker;Alle skoler;3,6;1 622
+Standpunkt;2022-23;3;MAT1123;Matematikk 1P-Y NA;Vestfold;Gjennestad videregående skole;3,1;8
+Standpunkt;2022-23;3;MAT1123;Matematikk 1P-Y NA;Vestfold;Melsom videregående skole;3,5;33
+Standpunkt;2022-23;1;MAT1125;Matematikk 1P-Y RM;Alle fylker;Alle skoler;3,5;1 050
+Standpunkt;2022-23;3;MAT1125;Matematikk 1P-Y RM;Vestfold;Greveskogen videregående skole;3,3;23
+Standpunkt;2022-23;3;MAT1125;Matematikk 1P-Y RM;Vestfold;Holmestrand videregående skole;2,8;5
+Standpunkt;2022-23;3;MAT1125;Matematikk 1P-Y RM;Vestfold;Horten videregående skole;4;1
+Standpunkt;2022-23;3;MAT1125;Matematikk 1P-Y RM;Vestfold;Sandefjord videregående skole;3,1;15
+Standpunkt;2022-23;3;MAT1125;Matematikk 1P-Y RM;Vestfold;Thor Heyerdahl videregående skole;3,9;11
+Standpunkt;2022-23;1;MAT1127;Matematikk 1P-Y SR;Alle fylker;Alle skoler;3,4;1 952
+Standpunkt;2022-23;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Færder videregående skole;6;1
+Standpunkt;2022-23;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Gjennestad videregående skole;3,5;11
+Standpunkt;2022-23;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Greveskogen videregående skole;3,2;28
+Standpunkt;2022-23;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Horten videregående skole;3,1;10
+Standpunkt;2022-23;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Sandefjord videregående skole;3,1;41
+Standpunkt;2022-23;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Thor Heyerdahl videregående skole;4,2;39
+Standpunkt;2022-23;1;MAT1129;Matematikk 1P-Y TP;Alle fylker;Alle skoler;3,5;5 480
+Standpunkt;2022-23;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Færder videregående skole;3,2;61
+Standpunkt;2022-23;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Holmestrand videregående skole;4,1;10
+Standpunkt;2022-23;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Horten videregående skole;3,1;27
+Standpunkt;2022-23;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Sande videregående skole;3,3;21
+Standpunkt;2022-23;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Sandefjord videregående skole;3,6;39
+Standpunkt;2022-23;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Thor Heyerdahl videregående skole;3,9;50
+Standpunkt;2022-23;1;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Alle fylker;Alle skoler;4,1;32 777
+Standpunkt;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Færder videregående skole;4,2;33
+Standpunkt;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Greveskogen videregående skole;4;196
+Standpunkt;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Holmestrand videregående skole;3,9;23
+Standpunkt;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Horten videregående skole;4,3;243
+Standpunkt;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Melsom videregående skole;3,4;16
+Standpunkt;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Nøtterøy videregående skole;4;142
+Standpunkt;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Re videregående skole;4,3;175
+Standpunkt;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Sande videregående skole;3,8;88
+Standpunkt;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Sandefjord videregående skole;4;356
+Standpunkt;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Thor Heyerdahl videregående skole;3,9;233
+Standpunkt;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Wang Tønsberg AS;3,5;59
+Standpunkt;2022-23;3;REA3024;Matematikk R2;Vestfold;Horten videregående skole;3;1
+Standpunkt;2022-23;1;REA3058;Matematikk R2;Alle fylker;Alle skoler;4,2;5 762
+Standpunkt;2022-23;3;REA3058;Matematikk R2;Vestfold;Færder videregående skole;3,2;9
+Standpunkt;2022-23;3;REA3058;Matematikk R2;Vestfold;Greveskogen videregående skole;3,8;29
+Standpunkt;2022-23;3;REA3058;Matematikk R2;Vestfold;Holmestrand videregående skole;4,5;4
+Standpunkt;2022-23;3;REA3058;Matematikk R2;Vestfold;Horten videregående skole;4,1;36
+Standpunkt;2022-23;3;REA3058;Matematikk R2;Vestfold;Nøtterøy videregående skole;4,6;17
+Standpunkt;2022-23;3;REA3058;Matematikk R2;Vestfold;Re videregående skole;4;17
+Standpunkt;2022-23;3;REA3058;Matematikk R2;Vestfold;Sande videregående skole;3,6;7
+Standpunkt;2022-23;3;REA3058;Matematikk R2;Vestfold;Sandefjord videregående skole;4;42
+Standpunkt;2022-23;3;REA3058;Matematikk R2;Vestfold;Thor Heyerdahl videregående skole;4,3;21
+Standpunkt;2022-23;3;REA3058;Matematikk R2;Vestfold;Wang Tønsberg AS;4,7;15
+Standpunkt;2023-24;1;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Alle fylker;Alle skoler;4,5;34 552
+Standpunkt;2023-24;2;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Alle skoler;4,5;1 548
+Standpunkt;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Vestfold fylkeskommune (EIER);4,5;1 430
+Standpunkt;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Færder videregående skole;4,6;29
+Standpunkt;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Greveskogen videregående skole;4,3;214
+Standpunkt;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Holmestrand videregående skole;4,8;33
+Standpunkt;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Horten videregående skole;4,8;202
+Standpunkt;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Melsom videregående skole;4,6;27
+Standpunkt;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Nøtterøy videregående skole;4,1;138
+Standpunkt;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Re videregående skole;4,8;142
+Standpunkt;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Sande videregående skole;3,7;76
+Standpunkt;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Sandefjord videregående skole;4,5;312
+Standpunkt;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Skagerak International School;4,5;50
+Standpunkt;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Thor Heyerdahl videregående skole;4,5;257
+Standpunkt;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Wang Tønsberg AS;4,5;68
+Standpunkt;2023-24;1;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Alle fylker;Alle skoler;3,8;27 968
+Standpunkt;2023-24;2;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Alle skoler;3,9;1 327
+Standpunkt;2023-24;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Vestfold fylkeskommune (EIER);3,9;1 277
+Standpunkt;2023-24;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Færder videregående skole;3,9;192
+Standpunkt;2023-24;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Gjennestad videregående skole;4;50
+Standpunkt;2023-24;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Greveskogen videregående skole;3,6;93
+Standpunkt;2023-24;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Holmestrand videregående skole;3,5;27
+Standpunkt;2023-24;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Horten videregående skole;4,2;157
+Standpunkt;2023-24;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Melsom videregående skole;3,8;37
+Standpunkt;2023-24;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Nøtterøy videregående skole;3,7;36
+Standpunkt;2023-24;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Re videregående skole;4,2;135
+Standpunkt;2023-24;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Sande videregående skole;3,2;62
+Standpunkt;2023-24;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Sandefjord videregående skole;3,9;294
+Standpunkt;2023-24;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Thor Heyerdahl videregående skole;3,9;244
+Standpunkt;2023-24;1;MAT1019;Matematikk 1P;Alle fylker;Alle skoler;3,5;20 301
+Standpunkt;2023-24;2;MAT1019;Matematikk 1P;Vestfold;Alle skoler;3,6;1 009
+Standpunkt;2023-24;3;MAT1019;Matematikk 1P;Vestfold;Vestfold fylkeskommune (EIER);3,6;962
+Standpunkt;2023-24;3;MAT1019;Matematikk 1P;Vestfold;Færder videregående skole;4,3;19
+Standpunkt;2023-24;3;MAT1019;Matematikk 1P;Vestfold;Greveskogen videregående skole;3,2;145
+Standpunkt;2023-24;3;MAT1019;Matematikk 1P;Vestfold;Holmestrand videregående skole;3,4;26
+Standpunkt;2023-24;3;MAT1019;Matematikk 1P;Vestfold;Horten videregående skole;3,4;116
+Standpunkt;2023-24;3;MAT1019;Matematikk 1P;Vestfold;Melsom videregående skole;3,3;26
+Standpunkt;2023-24;3;MAT1019;Matematikk 1P;Vestfold;Nøtterøy videregående skole;3,6;102
+Standpunkt;2023-24;3;MAT1019;Matematikk 1P;Vestfold;Re videregående skole;4,2;116
+Standpunkt;2023-24;3;MAT1019;Matematikk 1P;Vestfold;Sande videregående skole;2,9;41
+Standpunkt;2023-24;3;MAT1019;Matematikk 1P;Vestfold;Sandefjord videregående skole;3,4;200
+Standpunkt;2023-24;3;MAT1019;Matematikk 1P;Vestfold;Skagerak International School;3,8;21
+Standpunkt;2023-24;3;MAT1019;Matematikk 1P;Vestfold;Thor Heyerdahl videregående skole;4;171
+Standpunkt;2023-24;3;MAT1019;Matematikk 1P;Vestfold;Wang Tønsberg AS;4,2;26
+Standpunkt;2023-24;1;MAT1023;Matematikk 2P;Alle fylker;Alle skoler;3,6;20 802
+Standpunkt;2023-24;2;MAT1023;Matematikk 2P;Vestfold;Alle skoler;3,5;1 032
+Standpunkt;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Vestfold fylkeskommune (EIER);3,5;1 003
+Standpunkt;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Færder videregående skole;3,9;36
+Standpunkt;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Greveskogen videregående skole;3,5;119
+Standpunkt;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Holmestrand videregående skole;3,4;20
+Standpunkt;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Horten videregående skole;3,6;107
+Standpunkt;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Melsom videregående skole;3,7;15
+Standpunkt;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Nøtterøy videregående skole;3,9;127
+Standpunkt;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Re videregående skole;3,8;105
+Standpunkt;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Sande videregående skole;3,2;46
+Standpunkt;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Sandefjord videregående skole;3,2;240
+Standpunkt;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Thor Heyerdahl videregående skole;3,4;188
+Standpunkt;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Wang Tønsberg AS;3,7;29
+Standpunkt;2023-24;1;MAT1111;Matematikk 1P-Y BA;Alle fylker;Alle skoler;3,3;4 019
+Standpunkt;2023-24;2;MAT1111;Matematikk 1P-Y BA;Vestfold;Alle skoler;3,1;200
+Standpunkt;2023-24;3;MAT1111;Matematikk 1P-Y BA;Vestfold;Vestfold fylkeskommune (EIER);3,1;182
+Standpunkt;2023-24;3;MAT1111;Matematikk 1P-Y BA;Vestfold;Færder videregående skole;2,9;64
+Standpunkt;2023-24;3;MAT1111;Matematikk 1P-Y BA;Vestfold;Gjennestad videregående skole;3,3;18
+Standpunkt;2023-24;3;MAT1111;Matematikk 1P-Y BA;Vestfold;Re videregående skole;3,3;69
+Standpunkt;2023-24;3;MAT1111;Matematikk 1P-Y BA;Vestfold;Thor Heyerdahl videregående skole;3,2;49
+Standpunkt;2023-24;1;MAT1113;Matematikk 1P-Y EL;Alle fylker;Alle skoler;3,9;4 108
+Standpunkt;2023-24;2;MAT1113;Matematikk 1P-Y EL;Vestfold;Alle skoler;3,8;186
+Standpunkt;2023-24;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Vestfold fylkeskommune (EIER);3,8;186
+Standpunkt;2023-24;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Færder videregående skole;3,5;52
+Standpunkt;2023-24;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Horten videregående skole;3,5;32
+Standpunkt;2023-24;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Sande videregående skole;3,5;27
+Standpunkt;2023-24;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Sandefjord videregående skole;4;30
+Standpunkt;2023-24;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Thor Heyerdahl videregående skole;4,5;45
+Standpunkt;2023-24;1;MAT1115;Matematikk 1P-Y FD;Alle fylker;Alle skoler;3,2;808
+Standpunkt;2023-24;2;MAT1115;Matematikk 1P-Y FD;Vestfold;Alle skoler;2,8;44
+Standpunkt;2023-24;3;MAT1115;Matematikk 1P-Y FD;Vestfold;Vestfold fylkeskommune (EIER);2,8;44
+Standpunkt;2023-24;3;MAT1115;Matematikk 1P-Y FD;Vestfold;Horten videregående skole;2,4;18
+Standpunkt;2023-24;3;MAT1115;Matematikk 1P-Y FD;Vestfold;Sandefjord videregående skole;3;26
+Standpunkt;2023-24;1;MAT1117;Matematikk 1P-Y HS;Alle fylker;Alle skoler;3,4;6 629
+Standpunkt;2023-24;2;MAT1117;Matematikk 1P-Y HS;Vestfold;Alle skoler;3,2;367
+Standpunkt;2023-24;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Vestfold fylkeskommune (EIER);3,2;354
+Standpunkt;2023-24;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Gjennestad videregående skole;3,8;13
+Standpunkt;2023-24;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Holmestrand videregående skole;2,8;15
+Standpunkt;2023-24;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Horten videregående skole;3;67
+Standpunkt;2023-24;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Nøtterøy videregående skole;3;35
+Standpunkt;2023-24;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Re videregående skole;3,6;68
+Standpunkt;2023-24;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Sande videregående skole;3,4;30
+Standpunkt;2023-24;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Sandefjord videregående skole;2,7;84
+Standpunkt;2023-24;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Thor Heyerdahl videregående skole;3,9;55
+Standpunkt;2023-24;1;MAT1119;Matematikk 1P-Y DT;Alle fylker;Alle skoler;3,7;145
+Standpunkt;2023-24;1;MAT1121;Matematikk 1P-Y IM;Alle fylker;Alle skoler;3,8;1 239
+Standpunkt;2023-24;2;MAT1121;Matematikk 1P-Y IM;Vestfold;Alle skoler;3,5;63
+Standpunkt;2023-24;3;MAT1121;Matematikk 1P-Y IM;Vestfold;Vestfold fylkeskommune (EIER);3,5;63
+Standpunkt;2023-24;3;MAT1121;Matematikk 1P-Y IM;Vestfold;Greveskogen videregående skole;3,4;28
+Standpunkt;2023-24;3;MAT1121;Matematikk 1P-Y IM;Vestfold;Horten videregående skole;4,3;9
+Standpunkt;2023-24;3;MAT1121;Matematikk 1P-Y IM;Vestfold;Sandefjord videregående skole;3,3;26
+Standpunkt;2023-24;1;MAT1123;Matematikk 1P-Y NA;Alle fylker;Alle skoler;3,7;1 561
+Standpunkt;2023-24;2;MAT1123;Matematikk 1P-Y NA;Vestfold;Alle skoler;3,3;40
+Standpunkt;2023-24;3;MAT1123;Matematikk 1P-Y NA;Vestfold;Vestfold fylkeskommune (EIER);3,3;34
+Standpunkt;2023-24;3;MAT1123;Matematikk 1P-Y NA;Vestfold;Gjennestad videregående skole;3,5;6
+Standpunkt;2023-24;3;MAT1123;Matematikk 1P-Y NA;Vestfold;Melsom videregående skole;3,3;34
+Standpunkt;2023-24;1;MAT1125;Matematikk 1P-Y RM;Alle fylker;Alle skoler;3,5;1 070
+Standpunkt;2023-24;2;MAT1125;Matematikk 1P-Y RM;Vestfold;Alle skoler;3,3;59
+Standpunkt;2023-24;3;MAT1125;Matematikk 1P-Y RM;Vestfold;Vestfold fylkeskommune (EIER);3,3;59
+Standpunkt;2023-24;3;MAT1125;Matematikk 1P-Y RM;Vestfold;Greveskogen videregående skole;3,5;31
+Standpunkt;2023-24;3;MAT1125;Matematikk 1P-Y RM;Vestfold;Holmestrand videregående skole;3,8;5
+Standpunkt;2023-24;3;MAT1125;Matematikk 1P-Y RM;Vestfold;Sandefjord videregående skole;2,5;12
+Standpunkt;2023-24;3;MAT1125;Matematikk 1P-Y RM;Vestfold;Thor Heyerdahl videregående skole;3,4;11
+Standpunkt;2023-24;1;MAT1127;Matematikk 1P-Y SR;Alle fylker;Alle skoler;3,4;2 185
+Standpunkt;2023-24;2;MAT1127;Matematikk 1P-Y SR;Vestfold;Alle skoler;3,5;164
+Standpunkt;2023-24;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Vestfold fylkeskommune (EIER);3,5;152
+Standpunkt;2023-24;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Færder videregående skole;2,5;2
+Standpunkt;2023-24;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Gjennestad videregående skole;3,6;12
+Standpunkt;2023-24;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Greveskogen videregående skole;3,4;36
+Standpunkt;2023-24;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Horten videregående skole;3,1;16
+Standpunkt;2023-24;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Sandefjord videregående skole;3,3;58
+Standpunkt;2023-24;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Thor Heyerdahl videregående skole;4;40
+Standpunkt;2023-24;1;MAT1129;Matematikk 1P-Y TP;Alle fylker;Alle skoler;3,5;5 681
+Standpunkt;2023-24;2;MAT1129;Matematikk 1P-Y TP;Vestfold;Alle skoler;3,4;181
+Standpunkt;2023-24;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Vestfold fylkeskommune (EIER);3,4;181
+Standpunkt;2023-24;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Færder videregående skole;3,9;62
+Standpunkt;2023-24;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Holmestrand videregående skole;3;8
+Standpunkt;2023-24;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Horten videregående skole;3,1;17
+Standpunkt;2023-24;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Sande videregående skole;2,7;6
+Standpunkt;2023-24;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Sandefjord videregående skole;3,1;41
+Standpunkt;2023-24;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Thor Heyerdahl videregående skole;3,5;47
+Standpunkt;2023-24;1;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Alle fylker;Alle skoler;4,1;32 419
+Standpunkt;2023-24;2;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Alle skoler;4,1;1 631
+Standpunkt;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Vestfold fylkeskommune (EIER);4,1;1 571
+Standpunkt;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Færder videregående skole;4;28
+Standpunkt;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Greveskogen videregående skole;4,2;180
+Standpunkt;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Holmestrand videregående skole;3,8;52
+Standpunkt;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Horten videregående skole;4,3;211
+Standpunkt;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Melsom videregående skole;3,6;13
+Standpunkt;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Nøtterøy videregående skole;3,9;151
+Standpunkt;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Re videregående skole;4,1;202
+Standpunkt;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Sande videregående skole;3,7;86
+Standpunkt;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Sandefjord videregående skole;4,1;416
+Standpunkt;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Thor Heyerdahl videregående skole;4,2;232
+Standpunkt;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Wang Tønsberg AS;3,9;60
+Standpunkt;2023-24;1;REA3058;Matematikk R2;Alle fylker;Alle skoler;4,2;5 824
+Standpunkt;2023-24;2;REA3058;Matematikk R2;Vestfold;Alle skoler;4,3;218
+Standpunkt;2023-24;3;REA3058;Matematikk R2;Vestfold;Vestfold fylkeskommune (EIER);4,3;200
+Standpunkt;2023-24;3;REA3058;Matematikk R2;Vestfold;Færder videregående skole;4,3;6
+Standpunkt;2023-24;3;REA3058;Matematikk R2;Vestfold;Greveskogen videregående skole;4,4;27
+Standpunkt;2023-24;3;REA3058;Matematikk R2;Vestfold;Holmestrand videregående skole;4,8;9
+Standpunkt;2023-24;3;REA3058;Matematikk R2;Vestfold;Horten videregående skole;4,4;58
+Standpunkt;2023-24;3;REA3058;Matematikk R2;Vestfold;Nøtterøy videregående skole;4;11
+Standpunkt;2023-24;3;REA3058;Matematikk R2;Vestfold;Re videregående skole;5,3;15
+Standpunkt;2023-24;3;REA3058;Matematikk R2;Vestfold;Sande videregående skole;3,4;14
+Standpunkt;2023-24;3;REA3058;Matematikk R2;Vestfold;Sandefjord videregående skole;3,8;32
+Standpunkt;2023-24;3;REA3058;Matematikk R2;Vestfold;Thor Heyerdahl videregående skole;4,6;28
+Standpunkt;2023-24;3;REA3058;Matematikk R2;Vestfold;Wang Tønsberg AS;4,2;18
+Skriftlig;2020-21;1;MAT1015;Matematikk 2P;Alle fylker;Alle skoler;2,9;44
+Skriftlig;2020-21;1;MAT1129;Matematikk 1P-Y TP;Alle fylker;Alle skoler;2,6;8
+Skriftlig;2022-23;1;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Alle fylker;Alle skoler;4,2;3 677
+Skriftlig;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Færder videregående skole;3,9;10
+Skriftlig;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Greveskogen videregående skole;4,4;34
+Skriftlig;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Holmestrand videregående skole;3,5;8
+Skriftlig;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Horten videregående skole;3,5;28
+Skriftlig;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Melsom videregående skole;4,2;17
+Skriftlig;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Nøtterøy videregående skole;4,1;30
+Skriftlig;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Re videregående skole;4;17
+Skriftlig;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Sande videregående skole;3,8;11
+Skriftlig;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Sandefjord videregående skole;3,6;28
+Skriftlig;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Skagerak International School;4,4;12
+Skriftlig;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Thor Heyerdahl videregående skole;4,2;48
+Skriftlig;2022-23;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Wang Tønsberg AS;4,5;15
+Skriftlig;2022-23;1;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Alle fylker;Alle skoler;3,4;1 952
+Skriftlig;2022-23;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Færder videregående skole;3,7;29
+Skriftlig;2022-23;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Greveskogen videregående skole;3,1;9
+Skriftlig;2022-23;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Holmestrand videregående skole;2,4;10
+Skriftlig;2022-23;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Horten videregående skole;5;1
+Skriftlig;2022-23;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Nøtterøy videregående skole;3,1;16
+Skriftlig;2022-23;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Re videregående skole;3,3;7
+Skriftlig;2022-23;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Sandefjord videregående skole;3,8;49
+Skriftlig;2022-23;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Thor Heyerdahl videregående skole;3;25
+Skriftlig;2022-23;1;MAT1019;Matematikk 1P;Alle fylker;Alle skoler;2,7;1 076
+Skriftlig;2022-23;3;MAT1019;Matematikk 1P;Vestfold;Greveskogen videregående skole;2,7;17
+Skriftlig;2022-23;3;MAT1019;Matematikk 1P;Vestfold;Horten videregående skole;2,2;20
+Skriftlig;2022-23;3;MAT1019;Matematikk 1P;Vestfold;Re videregående skole;2,5;11
+Skriftlig;2022-23;3;MAT1019;Matematikk 1P;Vestfold;Sandefjord videregående skole;2,4;9
+Skriftlig;2022-23;3;MAT1019;Matematikk 1P;Vestfold;Thor Heyerdahl videregående skole;2,8;30
+Skriftlig;2022-23;1;MAT1023;Matematikk 2P;Alle fylker;Alle skoler;2,8;6 025
+Skriftlig;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Færder videregående skole;3,3;7
+Skriftlig;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Greveskogen videregående skole;2,8;51
+Skriftlig;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Holmestrand videregående skole;1,8;14
+Skriftlig;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Horten videregående skole;2,7;58
+Skriftlig;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Melsom videregående skole;2,3;3
+Skriftlig;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Nøtterøy videregående skole;2,7;16
+Skriftlig;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Re videregående skole;3;42
+Skriftlig;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Sande videregående skole;2,3;18
+Skriftlig;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Sandefjord videregående skole;3,1;114
+Skriftlig;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Thor Heyerdahl videregående skole;2,6;83
+Skriftlig;2022-23;3;MAT1023;Matematikk 2P;Vestfold;Wang Tønsberg AS;3,9;11
+Skriftlig;2022-23;1;MAT1111;Matematikk 1P-Y BA;Alle fylker;Alle skoler;3;187
+Skriftlig;2022-23;3;MAT1111;Matematikk 1P-Y BA;Vestfold;Re videregående skole;3;5
+Skriftlig;2022-23;1;MAT1113;Matematikk 1P-Y EL;Alle fylker;Alle skoler;3,6;477
+Skriftlig;2022-23;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Sande videregående skole;3,6;14
+Skriftlig;2022-23;1;MAT1115;Matematikk 1P-Y FD;Alle fylker;Alle skoler;2,3;15
+Skriftlig;2022-23;1;MAT1117;Matematikk 1P-Y HS;Alle fylker;Alle skoler;3;487
+Skriftlig;2022-23;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Re videregående skole;2,9;7
+Skriftlig;2022-23;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Sandefjord videregående skole;1,8;8
+Skriftlig;2022-23;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Thor Heyerdahl videregående skole;2,7;13
+Skriftlig;2022-23;1;MAT1121;Matematikk 1P-Y IM;Alle fylker;Alle skoler;3,3;95
+Skriftlig;2022-23;3;MAT1121;Matematikk 1P-Y IM;Vestfold;Greveskogen videregående skole;5;3
+Skriftlig;2022-23;1;MAT1123;Matematikk 1P-Y NA;Alle fylker;Alle skoler;2,7;77
+Skriftlig;2022-23;1;MAT1125;Matematikk 1P-Y RM;Alle fylker;Alle skoler;2,9;31
+Skriftlig;2022-23;3;MAT1125;Matematikk 1P-Y RM;Vestfold;Greveskogen videregående skole;4;2
+Skriftlig;2022-23;1;MAT1127;Matematikk 1P-Y SR;Alle fylker;Alle skoler;2,9;88
+Skriftlig;2022-23;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Greveskogen videregående skole;2,5;2
+Skriftlig;2022-23;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Sandefjord videregående skole;2,4;10
+Skriftlig;2022-23;1;MAT1129;Matematikk 1P-Y TP;Alle fylker;Alle skoler;2,8;338
+Skriftlig;2022-23;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Horten videregående skole;1;1
+Skriftlig;2022-23;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Thor Heyerdahl videregående skole;2,4;11
+Skriftlig;2022-23;1;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Alle fylker;Alle skoler;4,2;8 989
+Skriftlig;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Færder videregående skole;3,3;19
+Skriftlig;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Greveskogen videregående skole;3,6;55
+Skriftlig;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Holmestrand videregående skole;3,3;11
+Skriftlig;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Horten videregående skole;3,8;69
+Skriftlig;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Melsom videregående skole;2,8;10
+Skriftlig;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Nøtterøy videregående skole;4,1;55
+Skriftlig;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Re videregående skole;3,7;48
+Skriftlig;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Sande videregående skole;4,1;15
+Skriftlig;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Sandefjord videregående skole;4,4;92
+Skriftlig;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Thor Heyerdahl videregående skole;4,2;69
+Skriftlig;2022-23;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Wang Tønsberg AS;4,3;15
+Skriftlig;2022-23;1;REA3058;Matematikk R2;Alle fylker;Alle skoler;3,3;3 335
+Skriftlig;2022-23;3;REA3058;Matematikk R2;Vestfold;Greveskogen videregående skole;3;15
+Skriftlig;2022-23;3;REA3058;Matematikk R2;Vestfold;Holmestrand videregående skole;4;3
+Skriftlig;2022-23;3;REA3058;Matematikk R2;Vestfold;Horten videregående skole;3,6;22
+Skriftlig;2022-23;3;REA3058;Matematikk R2;Vestfold;Nøtterøy videregående skole;4;9
+Skriftlig;2022-23;3;REA3058;Matematikk R2;Vestfold;Re videregående skole;3,8;12
+Skriftlig;2022-23;3;REA3058;Matematikk R2;Vestfold;Sandefjord videregående skole;3,2;20
+Skriftlig;2022-23;3;REA3058;Matematikk R2;Vestfold;Thor Heyerdahl videregående skole;3,7;11
+Skriftlig;2023-24;1;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Alle fylker;Alle skoler;4,2;3 302
+Skriftlig;2023-24;2;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Alle skoler;4;157
+Skriftlig;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Vestfold fylkeskommune (EIER);4;149
+Skriftlig;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Færder videregående skole;4,1;7
+Skriftlig;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Greveskogen videregående skole;4;24
+Skriftlig;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Holmestrand videregående skole;3,9;11
+Skriftlig;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Horten videregående skole;3,8;30
+Skriftlig;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Nøtterøy videregående skole;4,2;10
+Skriftlig;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Re videregående skole;4;17
+Skriftlig;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Sande videregående skole;3;2
+Skriftlig;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Sandefjord videregående skole;3,8;18
+Skriftlig;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Thor Heyerdahl videregående skole;4,2;30
+Skriftlig;2023-24;3;ENG1007;Engelsk vg1 studieforberedende utdanningsprogram;Vestfold;Wang Tønsberg AS;4,4;8
+Skriftlig;2023-24;1;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Alle fylker;Alle skoler;3,4;2 034
+Skriftlig;2023-24;2;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Alle skoler;3,4;121
+Skriftlig;2023-24;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Vestfold fylkeskommune (EIER);3,4;121
+Skriftlig;2023-24;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Færder videregående skole;3,5;20
+Skriftlig;2023-24;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Greveskogen videregående skole;2,3;4
+Skriftlig;2023-24;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Horten videregående skole;3,9;29
+Skriftlig;2023-24;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Re videregående skole;3;5
+Skriftlig;2023-24;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Sande videregående skole;6;1
+Skriftlig;2023-24;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Sandefjord videregående skole;3,1;27
+Skriftlig;2023-24;3;ENG1009;Engelsk vg1 yrkesfaglige utdanningsprogram;Vestfold;Thor Heyerdahl videregående skole;3,1;35
+Skriftlig;2023-24;1;MAT1019;Matematikk 1P;Alle fylker;Alle skoler;2,7;1 032
+Skriftlig;2023-24;2;MAT1019;Matematikk 1P;Vestfold;Alle skoler;2,3;60
+Skriftlig;2023-24;3;MAT1019;Matematikk 1P;Vestfold;Vestfold fylkeskommune (EIER);2,3;60
+Skriftlig;2023-24;3;MAT1019;Matematikk 1P;Vestfold;Greveskogen videregående skole;2;11
+Skriftlig;2023-24;3;MAT1019;Matematikk 1P;Vestfold;Nøtterøy videregående skole;3,3;13
+Skriftlig;2023-24;3;MAT1019;Matematikk 1P;Vestfold;Re videregående skole;1,8;13
+Skriftlig;2023-24;3;MAT1019;Matematikk 1P;Vestfold;Sande videregående skole;2,2;5
+Skriftlig;2023-24;3;MAT1019;Matematikk 1P;Vestfold;Sandefjord videregående skole;1,9;18
+Skriftlig;2023-24;1;MAT1023;Matematikk 2P;Alle fylker;Alle skoler;2,7;6 038
+Skriftlig;2023-24;2;MAT1023;Matematikk 2P;Vestfold;Alle skoler;2,6;475
+Skriftlig;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Vestfold fylkeskommune (EIER);2,6;460
+Skriftlig;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Færder videregående skole;2,4;29
+Skriftlig;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Greveskogen videregående skole;2,5;45
+Skriftlig;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Holmestrand videregående skole;2,6;14
+Skriftlig;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Horten videregående skole;2,4;52
+Skriftlig;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Melsom videregående skole;2,4;11
+Skriftlig;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Nøtterøy videregående skole;3,2;64
+Skriftlig;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Re videregående skole;2,8;37
+Skriftlig;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Sande videregående skole;2,6;18
+Skriftlig;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Sandefjord videregående skole;2,6;122
+Skriftlig;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Thor Heyerdahl videregående skole;2,1;68
+Skriftlig;2023-24;3;MAT1023;Matematikk 2P;Vestfold;Wang Tønsberg AS;2,7;15
+Skriftlig;2023-24;1;MAT1111;Matematikk 1P-Y BA;Alle fylker;Alle skoler;2,6;167
+Skriftlig;2023-24;2;MAT1111;Matematikk 1P-Y BA;Vestfold;Alle skoler;2,2;17
+Skriftlig;2023-24;3;MAT1111;Matematikk 1P-Y BA;Vestfold;Vestfold fylkeskommune (EIER);2,2;17
+Skriftlig;2023-24;3;MAT1111;Matematikk 1P-Y BA;Vestfold;Færder videregående skole;2,6;7
+Skriftlig;2023-24;3;MAT1111;Matematikk 1P-Y BA;Vestfold;Re videregående skole;2;10
+Skriftlig;2023-24;1;MAT1113;Matematikk 1P-Y EL;Alle fylker;Alle skoler;3,5;471
+Skriftlig;2023-24;2;MAT1113;Matematikk 1P-Y EL;Vestfold;Alle skoler;3,6;36
+Skriftlig;2023-24;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Vestfold fylkeskommune (EIER);3,6;36
+Skriftlig;2023-24;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Færder videregående skole;3,7;6
+Skriftlig;2023-24;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Sande videregående skole;3,4;5
+Skriftlig;2023-24;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Sandefjord videregående skole;3,8;16
+Skriftlig;2023-24;3;MAT1113;Matematikk 1P-Y EL;Vestfold;Thor Heyerdahl videregående skole;3,6;9
+Skriftlig;2023-24;1;MAT1115;Matematikk 1P-Y FD;Alle fylker;Alle skoler;2,9;14
+Skriftlig;2023-24;1;MAT1117;Matematikk 1P-Y HS;Alle fylker;Alle skoler;3,1;416
+Skriftlig;2023-24;2;MAT1117;Matematikk 1P-Y HS;Vestfold;Alle skoler;3,2;31
+Skriftlig;2023-24;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Vestfold fylkeskommune (EIER);3,2;31
+Skriftlig;2023-24;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Nøtterøy videregående skole;3,3;6
+Skriftlig;2023-24;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Re videregående skole;4,3;6
+Skriftlig;2023-24;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Sande videregående skole;3;3
+Skriftlig;2023-24;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Sandefjord videregående skole;1;1
+Skriftlig;2023-24;3;MAT1117;Matematikk 1P-Y HS;Vestfold;Thor Heyerdahl videregående skole;2,9;15
+Skriftlig;2023-24;1;MAT1121;Matematikk 1P-Y IM;Alle fylker;Alle skoler;3,8;71
+Skriftlig;2023-24;2;MAT1121;Matematikk 1P-Y IM;Vestfold;Alle skoler;3,9;14
+Skriftlig;2023-24;3;MAT1121;Matematikk 1P-Y IM;Vestfold;Vestfold fylkeskommune (EIER);3,9;14
+Skriftlig;2023-24;3;MAT1121;Matematikk 1P-Y IM;Vestfold;Greveskogen videregående skole;3;1
+Skriftlig;2023-24;3;MAT1121;Matematikk 1P-Y IM;Vestfold;Sandefjord videregående skole;4;13
+Skriftlig;2023-24;1;MAT1123;Matematikk 1P-Y NA;Alle fylker;Alle skoler;3,4;74
+Skriftlig;2023-24;1;MAT1125;Matematikk 1P-Y RM;Alle fylker;Alle skoler;2,6;30
+Skriftlig;2023-24;3;MAT1125;Matematikk 1P-Y RM;Vestfold;Vestfold fylkeskommune (EIER);3;1
+Skriftlig;2023-24;3;MAT1125;Matematikk 1P-Y RM;Vestfold;Greveskogen videregående skole;3;1
+Skriftlig;2023-24;1;MAT1127;Matematikk 1P-Y SR;Alle fylker;Alle skoler;3,1;144
+Skriftlig;2023-24;2;MAT1127;Matematikk 1P-Y SR;Vestfold;Alle skoler;3,4;21
+Skriftlig;2023-24;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Vestfold fylkeskommune (EIER);3,4;21
+Skriftlig;2023-24;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Greveskogen videregående skole;1,5;2
+Skriftlig;2023-24;3;MAT1127;Matematikk 1P-Y SR;Vestfold;Sandefjord videregående skole;3,6;19
+Skriftlig;2023-24;1;MAT1129;Matematikk 1P-Y TP;Alle fylker;Alle skoler;3,4;270
+Skriftlig;2023-24;2;MAT1129;Matematikk 1P-Y TP;Vestfold;Alle skoler;3,1;14
+Skriftlig;2023-24;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Vestfold fylkeskommune (EIER);3,1;14
+Skriftlig;2023-24;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Færder videregående skole;3,7;6
+Skriftlig;2023-24;3;MAT1129;Matematikk 1P-Y TP;Vestfold;Horten videregående skole;2,8;8
+Skriftlig;2023-24;1;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Alle fylker;Alle skoler;3,6;32 005
+Skriftlig;2023-24;2;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Alle skoler;3,5;1 625
+Skriftlig;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Vestfold fylkeskommune (EIER);3,5;1 565
+Skriftlig;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Færder videregående skole;3,2;28
+Skriftlig;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Greveskogen videregående skole;3,7;180
+Skriftlig;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Holmestrand videregående skole;3,1;52
+Skriftlig;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Horten videregående skole;3,5;209
+Skriftlig;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Melsom videregående skole;3,6;13
+Skriftlig;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Nøtterøy videregående skole;3,6;149
+Skriftlig;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Re videregående skole;3,4;202
+Skriftlig;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Sande videregående skole;3;86
+Skriftlig;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Sandefjord videregående skole;3,5;414
+Skriftlig;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Thor Heyerdahl videregående skole;3,4;232
+Skriftlig;2023-24;3;NOR1267;Norsk hovedmål, vg3 studieforberedende utdanningsprogram, skriftlig;Vestfold;Wang Tønsberg AS;3,8;60
+Skriftlig;2023-24;1;REA3058;Matematikk R2;Alle fylker;Alle skoler;3,3;3 541
+Skriftlig;2023-24;2;REA3058;Matematikk R2;Vestfold;Alle skoler;3,2;141
+Skriftlig;2023-24;3;REA3058;Matematikk R2;Vestfold;Vestfold fylkeskommune (EIER);3,2;123
+Skriftlig;2023-24;3;REA3058;Matematikk R2;Vestfold;Færder videregående skole;3,7;6
+Skriftlig;2023-24;3;REA3058;Matematikk R2;Vestfold;Greveskogen videregående skole;2,9;15
+Skriftlig;2023-24;3;REA3058;Matematikk R2;Vestfold;Holmestrand videregående skole;3;4
+Skriftlig;2023-24;3;REA3058;Matematikk R2;Vestfold;Horten videregående skole;3,3;39
+Skriftlig;2023-24;3;REA3058;Matematikk R2;Vestfold;Nøtterøy videregående skole;2,9;7
+Skriftlig;2023-24;3;REA3058;Matematikk R2;Vestfold;Re videregående skole;3,3;7
+Skriftlig;2023-24;3;REA3058;Matematikk R2;Vestfold;Sande videregående skole;2,1;9
+Skriftlig;2023-24;3;REA3058;Matematikk R2;Vestfold;Sandefjord videregående skole;3,5;21
+Skriftlig;2023-24;3;REA3058;Matematikk R2;Vestfold;Thor Heyerdahl videregående skole;3,5;15
+Skriftlig;2023-24;3;REA3058;Matematikk R2;Vestfold;Wang Tønsberg AS;3,1;18
