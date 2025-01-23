@@ -1,0 +1,49 @@
+VannforekomstID;Vannforekomstnavn;Fylker;Vannkategori;Kommuner;Kjemisk tilstand;Økologisk tilstand
+0101000030-1-C;Torbjørnskjær;Østfold, Vestfold, Sverige;Coastal water;Sokkelen sør for 62gr N, Fredrikstad, Hvaler, Færder, Sverige;Poor;Moderate
+0101000032-4-C;Nordre og Søndre Søster;Østfold, Vestfold;Coastal water;Fredrikstad, Hvaler, Færder;Poor;Moderate
+0101020101-2-C;Ytre Oslofjord - Øst;Østfold, Vestfold;Coastal water;Moss, Fredrikstad, Råde, Tønsberg, Færder;Poor;Moderate
+0101020200-1-C;Midtre Oslofjord - Øst;Østfold, Vestfold;Coastal water;Moss, Horten, Tønsberg;Poor;Moderate
+0101020300-2-C;Breiangen-øst;Østfold, Akershus, Vestfold;Coastal water;Moss, Asker, Vestby, Horten;Poor;Moderate
+0101021000-1-C;Breiangen-vest;Akershus, Vestfold;Coastal water;Asker, Horten, Holmestrand;Poor;Good
+0101000030-2-C;Færder;Østfold, Vestfold;Coastal water;Fredrikstad, Hvaler, Sandefjord, Larvik, Færder;Poor;Moderate
+0101000031-C;Svenner - Rauer;Vestfold;Coastal water;Sandefjord, Larvik;Poor;Good
+0101000032-3-C;Tjøme;Østfold, Vestfold;Coastal water;Fredrikstad, Færder;Poor;Moderate
+0101020101-1-C;Ytre Oslofjord - Vest;Østfold, Vestfold;Coastal water;Fredrikstad, Råde, Tønsberg, Færder;Poor;Moderate
+0101020200-2-C;Midtre Oslofjord - Vest;Østfold, Vestfold;Coastal water;Moss, Horten, Tønsberg;Poor;Good
+0101020300-1-C;Hårfagrebåen - Hortenskrakken;Østfold, Akershus, Vestfold;Coastal water;Moss, Asker, Horten;Poor;Moderate
+0101020802-C;Drammensfjorden-ytre;Akershus, Buskerud, Vestfold;Coastal water;Asker, Drammen, Holmestrand;Poor;Moderate
+0101020900-C;Sandebukta;Vestfold;Coastal water;Holmestrand;Poor;Moderate
+0101021000-2-C;Langøya;Akershus, Buskerud, Vestfold;Coastal water;Asker, Drammen, Horten, Holmestrand;Poor;Moderate
+0101021100-C;Horten indre havn;Vestfold;Coastal water;Horten;Poor;Moderate
+0101030101-1-C;Træla;Vestfold;Coastal water;Tønsberg, Færder;Poor;Moderate
+0101030101-2-C;Kanalen;Vestfold;Coastal water;Tønsberg, Færder;Poor;Not applicable
+0101030101-3-C;Byfjorden;Vestfold;Coastal water;Tønsberg, Færder;Poor;Poor
+0101030101-5-C;Vestfjorden-nordre;Vestfold;Coastal water;Tønsberg, Sandefjord, Færder;Poor;Moderate
+0101030101-6-C;Vestfjorden-søndre;Vestfold;Coastal water;Sandefjord, Færder;Poor;Moderate
+0101030102-1-C;Tønsbergfjorden - Tjømekjæla;Vestfold;Coastal water;Sandefjord, Færder;Poor;Moderate
+0101030102-2-C;Tønsbergfjorden-ytre;Vestfold;Coastal water;Sandefjord, Færder;Poor;Moderate
+0101030200-C;Husøyflaket;Vestfold;Coastal water;Tønsberg, Færder;Poor;Moderate
+0101030300-C;Huikjæla;Vestfold;Coastal water;Færder;Good;Moderate
+0101030400-C;Årøysund - Hvasser;Vestfold;Coastal water;Færder;Poor;Good
+0101030500-C;Sandøsund;Vestfold;Coastal water;Færder;Poor;Moderate
+0101030600-C;Tjøme - Holtekjærkilen;Vestfold;Coastal water;Færder;Poor;Moderate
+0101030700-C;Vrengen;Vestfold;Coastal water;Færder;Poor;Moderate
+0101030800-C;Røssesundet;Vestfold;Coastal water;Færder;Poor;Moderate
+0101040100-C;Mefjorden;Vestfold;Coastal water;Sandefjord;Poor;Moderate
+0101040200-1-C;Sandefjordsfjorden-indre;Vestfold;Coastal water;Sandefjord;Poor;Not applicable
+0101040200-2-C;Sandefjordsfjorden-ytre;Vestfold;Coastal water;Sandefjord, Larvik;Poor;Moderate
+0101040300-4-C;Stavern;Vestfold;Coastal water;Larvik;Poor;Moderate
+0101040400-3-C;Viksfjorden indre;Vestfold;Coastal water;Larvik;Poor;Bad
+0101040400-4-C;Viksfjorden;Vestfold;Coastal water;Larvik;Poor;Moderate
+0101040500-C;Naverfjorden;Vestfold;Coastal water;Larvik;Undefined;Good
+0110000030-C;Langesundsbukta-ytre;Vestfold, Telemark;Coastal water;Larvik, Bamble, Kragerø;Undefined;Good
+0110000033-1-C;Langesundsbukta-indre;Vestfold, Telemark;Coastal water;Larvik, Bamble, Kragerø;Poor;Moderate
+0110000033-2-C;Langesundsbukta - Rognsfjorden;Vestfold, Telemark;Coastal water;Larvik, Bamble;Poor;Moderate
+0110000100-C;Hummerbakkfjorden;Vestfold;Coastal water;Larvik;Undefined;Good
+0110000200-C;Nevlunghavn - Havnebukta;Vestfold;Coastal water;Larvik;Good;Good
+0110010100-C;Helgeroafjorden;Vestfold;Coastal water;Larvik;Good;Good
+0110010200-C;Mørjefjorden;Vestfold, Telemark;Coastal water;Larvik, Porsgrunn;Poor;Good
+0110010300-C;Håøyafjorden;Vestfold, Telemark;Coastal water;Larvik, Porsgrunn;Poor;Moderate
+0110010801-C;Langesundsfjorden;Vestfold, Telemark;Coastal water;Larvik, Porsgrunn, Bamble;Poor;Moderate
+0110010802-C;Langesundsfjorden - Dypingen;Vestfold, Telemark;Coastal water;Larvik, Porsgrunn, Bamble;Poor;Moderate
+0101040300-3-C;Larviksfjorden;Vestfold;Coastal water;Larvik;Poor;Moderate
