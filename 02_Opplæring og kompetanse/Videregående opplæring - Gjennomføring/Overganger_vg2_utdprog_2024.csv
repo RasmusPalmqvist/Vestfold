@@ -1,0 +1,57 @@
+ProgramomraadeNivaa;UtdanningstypeKode;Utdanningsprogramkode;Programomraadekode;UtdanningstypeNavn;UtdanningsprogramNavn;ProgramomraadeNavn;Trinn;År;Progresjon totalt;Overgang til studieforberedende utdanningsprogram;Overgang til påbygg;Overgang til opplæring i bedrift;Overgang til alternativt Vg3 i skole;Overgang til yrkesfaglig utdanningsprogram
+0;Alle;;Alle;Alle utdanningsprogram;Alle utdanningsprogram;Alle programområder;Vg2;2024;86,2;51,9;10,5;20,7;0,3;2,7
+1;SFB;;SFB;Studieforberedende;Alle utdanningsprogram;Alle programområder;Vg2;2024;94,5;94,5;0,1;0;0;0
+2;SFB;ID;ID;Studieforberedende;Idrettsfag;Alle programområder;Vg2;2024;97,5;97,5;0;0;0;0
+3;SFB;ID;IDIDR2;Studieforberedende;Idrettsfag;IDIDR2 - Idrettsfag vg2;Vg2;2024;97,5;97,5;0;0;0;0
+2;SFB;KD;KD;Studieforberedende;Kunst, design og arkitektur;Alle programområder;Vg2;2024;90,3;90,3;0;0;0;0
+3;SFB;KD;KDKDA2;Studieforberedende;Kunst, design og arkitektur;KDKDA2 - Kunst, design og arkitektur vg2;Vg2;2024;90,3;90,3;0;0;0;0
+2;SFB;ME;ME;Studieforberedende;Medier og kommunikasjon;Alle programområder;Vg2;2024;85,2;85,2;0;0;0;0
+3;SFB;ME;MEMOK2;Studieforberedende;Medier og kommunikasjon;MEMOK2 - Medier og kommunikasjon vg2;Vg2;2024;85,2;85,2;0;0;0;0
+2;SFB;MD;MD;Studieforberedende;Musikk, dans og drama;Alle programområder;Vg2;2024;93,4;93,4;0;0;0;0
+3;SFB;MD;MDDAN2;Studieforberedende;Musikk, dans og drama;MDDAN2 - Dans vg2;Vg2;2024;88,9;88,9;0;0;0;0
+3;SFB;MD;MDDRA2;Studieforberedende;Musikk, dans og drama;MDDRA2 - Drama vg2;Vg2;2024;80;80;0;0;0;0
+3;SFB;MD;MDMUS2;Studieforberedende;Musikk, dans og drama;MDMUS2 - Musikk vg2;Vg2;2024;94,8;94,8;0;0;0;0
+2;SFB;ST;ST;Studieforberedende;Studiespesialisering;Alle programområder;Vg2;2024;94,8;94,7;0,1;0;0;0
+3;SFB;ST;STREA2;Studieforberedende;Studiespesialisering;STREA2 - Realfag vg2;Vg2;2024;97,1;97,1;0;0;0;0
+3;SFB;ST;STSSA2;Studieforberedende;Studiespesialisering;STSSA2 - Språk, samfunnsfag og økonomi vg2;Vg2;2024;94,2;94;0,1;0;0;0
+3;SFB;ST;STUSP2;Studieforberedende;Studiespesialisering;STUSP2 - Studiespesialisering;Vg2;2024;91,9;91,9;0;0;0;0
+1;YRK;;YRK;Yrkesfaglig;Alle utdanningsprogram;Alle programområder;Vg2;2024;76;0;23,3;45,9;0,7;6,1
+2;YRK;BA;BA;Yrkesfaglig;Bygg- og anleggsteknikk;Alle programområder;Vg2;2024;73;0;7,9;64,7;0,5;0
+3;YRK;BA;BABMO2;Yrkesfaglig;Bygg- og anleggsteknikk;BABMO2 - Betong og mur;Vg2;2024;60;0;10;50;0;0
+3;YRK;BA;BAOFT2;Yrkesfaglig;Bygg- og anleggsteknikk;BAOFT2 - Overflateteknikk;Vg2;2024;0;;;;;
+3;YRK;BA;BARLF2;Yrkesfaglig;Bygg- og anleggsteknikk;BARLF2 - Rørlegger;Vg2;2024;82,4;0;0;82,4;0;0
+3;YRK;BA;BATMF2;Yrkesfaglig;Bygg- og anleggsteknikk;BATMF2 - Tømrer;Vg2;2024;71;0;9;62;0;0
+3;YRK;BA;BATRT2;Yrkesfaglig;Bygg- og anleggsteknikk;BATRT2 - Treteknikk;Vg2;2024;45,5;0;9,1;36,4;0;0
+3;YRK;BA;BAANG2;Yrkesfaglig;Bygg- og anleggsteknikk;BAANG2 - Anleggsgartner;Vg2;2024;69,2;0;3,8;61,5;3,8;0
+3;YRK;BA;BAANL2;Yrkesfaglig;Bygg- og anleggsteknikk;BAANL2 - Anleggsteknikk;Vg2;2024;89,6;0;10,4;79,2;0;0
+2;YRK;EL;EL;Yrkesfaglig;Elektro og datateknologi;Alle programområder;Vg2;2024;84,2;0;11,9;52;2,3;18,1
+3;YRK;EL;ELAUT2;Yrkesfaglig;Elektro og datateknologi;ELAUT2 - Automatisering;Vg2;2024;78,4;0;2,7;13,5;0;62,2
+3;YRK;EL;ELDEL2;Yrkesfaglig;Elektro og datateknologi;ELDEL2 - Datateknologi og elektronikk;Vg2;2024;76,7;0;20;46,7;0;10
+3;YRK;EL;ELELE2;Yrkesfaglig;Elektro og datateknologi;ELELE2 - Elenergi og ekom;Vg2;2024;88,2;0;12,7;66,4;3,6;5,5
+2;YRK;FD;FD;Yrkesfaglig;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;Vg2;2024;67,2;0;13,1;18;0;36,1
+3;YRK;FD;FDFRI2;Yrkesfaglig;Frisør, blomster, interiør og eksponeringsdesign;FDFRI2 - Frisør;Vg2;2024;58,1;0;19,4;35,5;0;3,2
+3;YRK;FD;FDIED2;Yrkesfaglig;Frisør, blomster, interiør og eksponeringsdesign;FDIED2 - Interiør og eksponeringsdesign;Vg2;2024;76,7;0;6,7;0;0;70
+2;YRK;HS;HS;Yrkesfaglig;Helse- og oppvekstfag;Alle programområder;Vg2;2024;84,5;0;52,1;26,7;0;5,6
+3;YRK;HS;HSAMB2;Yrkesfaglig;Helse- og oppvekstfag;HSAMB2 - Ambulansefag;Vg2;2024;87,5;0;12,5;75;0;0
+3;YRK;HS;HSBUA2;Yrkesfaglig;Helse- og oppvekstfag;HSBUA2 - Barne- og ungdomsarbeiderfag;Vg2;2024;90,1;0;59,2;31;0;0
+3;YRK;HS;HSHEA2;Yrkesfaglig;Helse- og oppvekstfag;HSHEA2 - Helsearbeiderfag;Vg2;2024;83,7;0;59;24,7;0;0
+3;YRK;HS;HSHES2;Yrkesfaglig;Helse- og oppvekstfag;HSHES2 - Helseservicefag;Vg2;2024;65,8;0;10,5;0;0;55,3
+2;YRK;IM;IM;Yrkesfaglig;Informasjonsteknologi og medieproduksjon;Alle programområder;Vg2;2024;78,9;0;18,4;56,6;3,9;0
+3;YRK;IM;IMITK2;Yrkesfaglig;Informasjonsteknologi og medieproduksjon;IMITK2 - Informasjonsteknologi;Vg2;2024;76,7;0;13,3;60;3,3;0
+3;YRK;IM;IMMED2;Yrkesfaglig;Informasjonsteknologi og medieproduksjon;IMMED2 - Medieproduksjon;Vg2;2024;87,5;0;37,5;43,8;6,3;0
+2;YRK;NA;NA;Yrkesfaglig;Naturbruk;Alle programområder;Vg2;2024;63,4;0;22;24,4;0;17,1
+3;YRK;NA;NAHDF2;Yrkesfaglig;Naturbruk;NAHDF2 - Heste- og dyrefag;Vg2;2024;59,3;0;29,6;29,6;0;0
+3;YRK;NA;NALGA2;Yrkesfaglig;Naturbruk;NALGA2 - Landbruk og gartnernæring;Vg2;2024;71,4;0;7,1;14,3;0;50
+2;YRK;RM;RM;Yrkesfaglig;Restaurant- og matfag;Alle programområder;Vg2;2024;67,9;0;7,1;60,7;0;0
+3;YRK;RM;RMKOS2;Yrkesfaglig;Restaurant- og matfag;RMKOS2 - Kokk- og servitørfag;Vg2;2024;67,9;0;7,1;60,7;0;0
+2;YRK;SR;SR;Yrkesfaglig;Salg, service og reiseliv;Alle programområder;Vg2;2024;69;0;24,6;43,7;0,7;0
+3;YRK;SR;SRSRL2;Yrkesfaglig;Salg, service og reiseliv;SRSRL2 - Salg og reiseliv;Vg2;2024;68,4;0;26,5;41;0,9;0
+3;YRK;SR;SRSSH2;Yrkesfaglig;Salg, service og reiseliv;SRSSH2 - Service, sikkerhet og administrasjon;Vg2;2024;72;0;16;56;0;0
+2;YRK;TP;TP;Yrkesfaglig;Teknologi- og industrifag;Alle programområder;Vg2;2024;68,6;0;6,7;61;0,4;0,4
+3;YRK;TP;TPAMK2;Yrkesfaglig;Teknologi- og industrifag;TPAMK2 - Arbeidsmaskiner;Vg2;2024;88,9;0;0;77,8;0;11,1
+3;YRK;TP;TPBLK2;Yrkesfaglig;Teknologi- og industrifag;TPBLK2 - Bilskade, lakk og karosseri;Vg2;2024;41,7;0;0;41,7;0;0
+3;YRK;TP;TPKJT2;Yrkesfaglig;Teknologi- og industrifag;TPKJT2 - Kjøretøy;Vg2;2024;76,6;0;14,9;61,7;0;0
+3;YRK;TP;TPKPL2;Yrkesfaglig;Teknologi- og industrifag;TPKPL2 - Kjemiprosess- og laboratoriefag;Vg2;2024;93,8;0;0;93,8;0;0
+3;YRK;TP;TPMAR2;Yrkesfaglig;Teknologi- og industrifag;TPMAR2 - Maritime fag;Vg2;2024;87,5;0;0;87,5;0;0
+3;YRK;TP;TPPIN2;Yrkesfaglig;Teknologi- og industrifag;TPPIN2 - Industriteknologi;Vg2;2024;65,7;0;7,1;57,1;1,4;0
+3;YRK;TP;TPTOL2;Yrkesfaglig;Teknologi- og industrifag;TPTOL2 - Transport og logistikk;Vg2;2024;40,5;0;8,1;32,4;0;0
