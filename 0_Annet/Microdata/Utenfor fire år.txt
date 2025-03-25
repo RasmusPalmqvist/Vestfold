@@ -1,0 +1,612 @@
+require no.ssb.fdb:38 as db
+create-dataset utenforskap
+
+
+// Bruker 1.1.2023 som utgangspunkt, og deretter se hva tilstanden var i året fram til da. Det gir oss endelige NEETs-tall som er nærmere SSBs tall. Det er også logisk å ta utgangspunkt i de som er bosatt få måneder etter arbeidsstyrkestatus måles, enn de som er bosatt 10,5 måneder etterpå. 
+
+// import db/BEFOLKNING_KOMMNR_FAKTISK 2022-01-01 as bosted
+import db/BEFOLKNING_KOMMNR_FORMELL 2021-01-01 as bosted
+generate fylkenr = substr(bosted,1,2)
+generate kommunenr = substr(bosted,1,4)
+keep if fylkenr == '38'
+
+//skille vestfoldinger og telemarkinger
+generate fylke = 'Telemark'
+replace fylke = 'Vestfold' if kommunenr == '3801' | kommunenr == '3802' | kommunenr == '3803'| kommunenr == '3804' | kommunenr == '3805' | kommunenr == '3811' | kommunenr == '3901'| kommunenr == '3903' | kommunenr == '3905' | kommunenr == '3907' | kommunenr == '3909'| kommunenr == '3911'
+
+generate kommune = 'Horten'
+replace kommune = 'Holmestrand' if kommunenr == '3802'| kommunenr == '3903'
+replace kommune = 'Tønsberg' if kommunenr == '3803'| kommunenr == '3905'
+replace kommune = 'Sandefjord' if kommunenr == '3804'| kommunenr == '3907'
+replace kommune = 'Larvik' if kommunenr == '3805'| kommunenr == '3909'
+replace kommune = 'Færder' if kommunenr == '3811'| kommunenr == '3911'
+
+// Beholder bare Vestfold
+keep if fylke == 'Vestfold'
+
+//henter alder
+import db/BEFOLKNING_FOEDSELS_AAR_MND as faarmnd
+import db/BEFOLKNING_KJOENN as kjønn
+import db/BEFOLKNING_FAR_FNR as fnr_far
+import db/BEFOLKNING_MOR_FNR as fnr_mor
+generate alder = 2020- int(faarmnd/100)
+//Beholder bare unge 15-29 år. Her kan man bytte aldersgrupper.
+keep if alder >=15 & alder < 30
+
+//lager aldersgrupper 5 årsgrupper
+generate aldersgruppe = '0'
+// replace aldersgruppe = '0-4 år' if alder >= 0
+// replace aldersgruppe = '5-9 år' if alder >= 5
+// replace aldersgruppe = '10-14 år' if alder >= 10
+replace aldersgruppe = '15-19 år' if alder >= 15
+replace aldersgruppe = '20-24 år' if alder >= 20
+replace aldersgruppe = '25-29 år' if alder >= 25
+// replace aldersgruppe = '30-34 år' if alder >= 30
+// replace aldersgruppe = '35-39 år' if alder >= 35
+// replace aldersgruppe = '40-44 år' if alder >= 40
+// replace aldersgruppe = '45-49 år' if alder >= 45
+// replace aldersgruppe = '50-54 år' if alder >= 50
+// replace aldersgruppe = '55-59 år' if alder >= 55
+// replace aldersgruppe = '60-64 år' if alder >= 60
+// replace aldersgruppe = '65-69 år' if alder >= 65
+// replace aldersgruppe = '70-74 år' if alder >= 70
+// replace aldersgruppe = '75-79 år' if alder >= 75
+// replace aldersgruppe = '80-84 år' if alder >= 80
+// replace aldersgruppe = '85-89 år' if alder >= 85
+// replace aldersgruppe = '90 eller eldre år' if alder >= 90
+// replace aldersgruppe = 'Ukjent alder' if sysmiss(faarmnd)
+
+// Lager aldersgrupper som passer med OTs oppfølgingsplikt
+// generate aldersgruppeOT = '0'
+// replace aldersgruppeOT = '15-21 år' if alder < 22
+// replace aldersgruppeOT = '22-29 år' if alder >= 22
+// tabulate aldersgruppeOT
+
+//Legger til yrkesstatus, og lager ny variabel som putter lønnstaker og selvstendige i jobb=1 og utenfor og ledige i jobb=0
+// Henter inn trygdedata på gruppa vår: AAP og uføretrygd
+import db/REGSYS_ARB_ARBMARK_STATUS 2020-11-16 as yrkstat
+import db/ARBEIDSSOKER_TILTAK 2020-11-30 as arb_tiltak
+import db/ARBAVKLARPFDT_MOTTAK 2020-11-16 as arbavklaring
+import db/UFOERP2011FDT_MOTTAK 2020-11-16 as ufoeretrygd
+import db/NUDB_BU 2020-09-01 as utdanningsnivå_BU
+import db/NUDB_SOSBAK as sosbakgr
+
+generate sosbak = "9 - Grunnskole/uoppgitt"
+replace sosbak = "9 - Grunnskole/uoppgitt" if sysmiss(sosbakgr)
+replace sosbak = "1 - Høyere utdanning" if sosbakgr == "1" | sosbakgr == "2"
+replace sosbak = "2 - Videregående" if sosbakgr == "3"
+tabulate sosbakgr sosbak, missing
+
+generate jobb = 1
+replace jobb = 0 if yrkstat == "0" | yrkstat == "3"
+
+generate ledig = 0
+replace ledig = 1 if yrkstat == '3'
+
+generate tiltak = 0
+replace tiltak = 1 if arb_tiltak == "1" | arb_tiltak == "5" | arb_tiltak == "7"
+
+generate aap = 0
+replace aap = 1 if arbavklaring == "1"
+generate ufoer = 0
+replace ufoer = 1 if ufoeretrygd == "1"
+generate aapufoer = 0
+replace aapufoer = 1 if aap == 1 | ufoer == 1
+
+destring utdanningsnivå_BU
+generate utd_nivå = '1_Ikke fullført GS eller missing'
+replace utd_nivå = '2_Grunnskole' if utdanningsnivå_BU >= 200000 & utdanningsnivå_BU < 300000
+replace utd_nivå = '3_Vgo SF' if utdanningsnivå_BU >= 400000 & utdanningsnivå_BU < 415302 | utdanningsnivå_BU == 435101 | utdanningsnivå_BU == 435102
+replace utd_nivå = '3_Vgo YF' if utdanningsnivå_BU >= 415303 & utdanningsnivå_BU < 500000
+replace utd_nivå = '3_Vgo SF' if utdanningsnivå_BU == 415302 | utdanningsnivå_BU == 435101 | utdanningsnivå_BU == 435102
+replace utd_nivå = '4_Fagskole' if utdanningsnivå_BU >= 500000 & utdanningsnivå_BU < 600000
+replace utd_nivå = '5_Høyere utdanning' if utdanningsnivå_BU >= 600000 & utdanningsnivå_BU < 900000
+
+//Lager tilsvarende variabler for 2021
+import db/REGSYS_ARB_ARBMARK_STATUS 2021-11-16 as yrkstat21
+import db/ARBEIDSSOKER_TILTAK 2021-11-30 as arb_tiltak21
+import db/ARBAVKLARPFDT_MOTTAK 2021-11-16 as arbavklaring21
+import db/UFOERP2011FDT_MOTTAK 2021-11-16 as ufoeretrygd21
+import db/NUDB_BU 2021-09-01 as utdanningsnivå_BU21
+
+generate jobb21 = 1
+replace jobb21 = 0 if yrkstat21 == "0" | yrkstat21 == "3"
+
+generate ledig21 = 0
+replace ledig21 = 1 if yrkstat21 == '3'
+
+generate tiltak21 = 0
+replace tiltak21 = 1 if arb_tiltak21 == "1" | arb_tiltak21 == "5" | arb_tiltak21 == "7"
+
+generate aap21 = 0
+replace aap21 = 1 if arbavklaring21 == "1"
+generate ufoer21 = 0
+replace ufoer21 = 1 if ufoeretrygd21 == "1"
+generate aapufoer21 = 0
+replace aapufoer21 = 1 if aap21 == 1 | ufoer21 == 1
+
+//Lager tilsvarende variabler for 2022
+import db/REGSYS_ARB_ARBMARK_STATUS 2022-11-16 as yrkstat22
+import db/ARBEIDSSOKER_TILTAK 2022-11-30 as arb_tiltak22
+import db/ARBAVKLARPFDT_MOTTAK 2022-11-16 as arbavklaring22
+import db/UFOERP2011FDT_MOTTAK 2022-11-16 as ufoeretrygd22
+import db/NUDB_BU 2022-09-01 as utdanningsnivå_BU22
+
+generate jobb22 = 1
+replace jobb22 = 0 if yrkstat22 == "0" | yrkstat22 == "3"
+
+generate ledig22 = 0
+replace ledig22 = 1 if yrkstat22 == '3'
+
+generate tiltak22 = 0
+replace tiltak22 = 1 if arb_tiltak22 == "1" | arb_tiltak22 == "5" | arb_tiltak22 == "7"
+
+generate aap22 = 0
+replace aap22 = 1 if arbavklaring22 == "1"
+generate ufoer22 = 0
+replace ufoer22 = 1 if ufoeretrygd22 == "1"
+generate aapufoer22 = 0
+replace aapufoer22 = 1 if aap22 == 1 | ufoer22 == 1
+
+//Lager tilsvarende variabler for 2023
+import db/REGSYS_ARB_ARBMARK_STATUS 2023-11-16 as yrkstat23
+import db/ARBEIDSSOKER_TILTAK 2023-11-30 as arb_tiltak23
+import db/ARBAVKLARPFDT_MOTTAK 2023-11-16 as arbavklaring23
+import db/UFOERP2011FDT_MOTTAK 2023-11-16 as ufoeretrygd23
+import db/NUDB_BU 2023-08-01 as utdanningsnivå_BU23
+
+generate jobb23 = 1
+replace jobb23 = 0 if yrkstat23 == "0" | yrkstat23 == "3"
+
+generate ledig23 = 0
+replace ledig23 = 1 if yrkstat23 == '3'
+
+generate tiltak23 = 0
+replace tiltak23 = 1 if arb_tiltak23 == "1" | arb_tiltak23 == "5" | arb_tiltak23 == "7"
+
+generate aap23 = 0
+replace aap23 = 1 if arbavklaring23 == "1"
+generate ufoer23 = 0
+replace ufoer23 = 1 if ufoeretrygd23 == "1"
+generate aapufoer23 = 0
+replace aapufoer23 = 1 if aap23 == 1 | ufoer23 == 1
+
+//Henter inn data om alle år med uføretrygd.
+create-dataset ufor
+import db/UFOERP1992FDT_MOTTAK 1992-01-01 as ufor_far92
+import db/UFOERP1992FDT_MOTTAK 1993-01-01 as ufor_far93, outer_join
+import db/UFOERP1992FDT_MOTTAK 1994-01-01 as ufor_far94, outer_join
+import db/UFOERP1992FDT_MOTTAK 1995-01-01 as ufor_far95, outer_join
+import db/UFOERP1992FDT_MOTTAK 1996-01-01 as ufor_far96, outer_join
+import db/UFOERP1992FDT_MOTTAK 1997-01-01 as ufor_far97, outer_join
+import db/UFOERP1992FDT_MOTTAK 1998-01-01 as ufor_far98, outer_join
+import db/UFOERP1992FDT_MOTTAK 1999-01-01 as ufor_far99, outer_join
+import db/UFOERP1992FDT_MOTTAK 2000-01-01 as ufor_far00, outer_join
+import db/UFOERP1992FDT_MOTTAK 2001-01-01 as ufor_far01, outer_join
+import db/UFOERP1992FDT_MOTTAK 2002-01-01 as ufor_far02, outer_join
+import db/UFOERP1992FDT_MOTTAK 2003-01-01 as ufor_far03, outer_join
+import db/UFOERP1992FDT_MOTTAK 2004-01-01 as ufor_far04, outer_join
+import db/UFOERP1992FDT_MOTTAK 2005-01-01 as ufor_far05, outer_join
+import db/UFOERP1992FDT_MOTTAK 2006-01-01 as ufor_far06, outer_join
+import db/UFOERP1992FDT_MOTTAK 2007-01-01 as ufor_far07, outer_join
+import db/UFOERP1992FDT_MOTTAK 2008-01-01 as ufor_far08, outer_join
+import db/UFOERP1992FDT_MOTTAK 2009-01-01 as ufor_far09, outer_join
+import db/UFOERP1992FDT_MOTTAK 2010-01-01 as ufor_far10, outer_join
+import db/UFOERP2011FDT_MOTTAK 2011-01-01 as ufor_far11, outer_join
+import db/UFOERP2011FDT_MOTTAK 2012-01-01 as ufor_far12, outer_join
+import db/UFOERP2011FDT_MOTTAK 2013-01-01 as ufor_far13, outer_join
+import db/UFOERP2011FDT_MOTTAK 2014-01-01 as ufor_far14, outer_join
+import db/UFOERP2011FDT_MOTTAK 2015-01-01 as ufor_far15, outer_join
+import db/UFOERP2011FDT_MOTTAK 2016-01-01 as ufor_far16, outer_join
+import db/UFOERP2011FDT_MOTTAK 2017-01-01 as ufor_far17, outer_join
+import db/UFOERP2011FDT_MOTTAK 2018-01-01 as ufor_far18, outer_join
+import db/UFOERP2011FDT_MOTTAK 2019-01-01 as ufor_far19, outer_join
+import db/UFOERP2011FDT_MOTTAK 2020-01-01 as ufor_far20, outer_join
+import db/UFOERP2011FDT_MOTTAK 2021-01-01 as ufor_far21, outer_join
+
+destring ufor_far92 ufor_far93 ufor_far94 ufor_far95 ufor_far96 ufor_far97 ufor_far98 ufor_far99 ufor_far00 ufor_far01 ufor_far02 ufor_far03 ufor_far04 ufor_far05 ufor_far06 ufor_far07 ufor_far08 ufor_far09 ufor_far10 ufor_far11 ufor_far12 ufor_far13 ufor_far14 ufor_far15 ufor_far16 ufor_far17 ufor_far18 ufor_far19 ufor_far20 ufor_far21, force
+replace ufor_far92 = 0 if sysmiss(ufor_far92)
+replace ufor_far93 = 0 if sysmiss(ufor_far93)
+replace ufor_far94 = 0 if sysmiss(ufor_far94)
+replace ufor_far95 = 0 if sysmiss(ufor_far95)
+replace ufor_far96 = 0 if sysmiss(ufor_far96)
+replace ufor_far97 = 0 if sysmiss(ufor_far97)
+replace ufor_far98 = 0 if sysmiss(ufor_far98)
+replace ufor_far99 = 0 if sysmiss(ufor_far99)
+replace ufor_far00 = 0 if sysmiss(ufor_far00)
+replace ufor_far01 = 0 if sysmiss(ufor_far01)
+replace ufor_far02 = 0 if sysmiss(ufor_far02)
+replace ufor_far03 = 0 if sysmiss(ufor_far03)
+replace ufor_far04 = 0 if sysmiss(ufor_far04)
+replace ufor_far05 = 0 if sysmiss(ufor_far05)
+replace ufor_far06 = 0 if sysmiss(ufor_far06)
+replace ufor_far07 = 0 if sysmiss(ufor_far07)
+replace ufor_far08 = 0 if sysmiss(ufor_far08)
+replace ufor_far09 = 0 if sysmiss(ufor_far09)
+replace ufor_far10 = 0 if sysmiss(ufor_far10)
+replace ufor_far11 = 0 if sysmiss(ufor_far11)
+replace ufor_far12 = 0 if sysmiss(ufor_far12)
+replace ufor_far13 = 0 if sysmiss(ufor_far13)
+replace ufor_far14 = 0 if sysmiss(ufor_far14)
+replace ufor_far15 = 0 if sysmiss(ufor_far15)
+replace ufor_far16 = 0 if sysmiss(ufor_far16)
+replace ufor_far17 = 0 if sysmiss(ufor_far17)
+replace ufor_far18 = 0 if sysmiss(ufor_far18)
+replace ufor_far19 = 0 if sysmiss(ufor_far19)
+replace ufor_far20 = 0 if sysmiss(ufor_far20)
+replace ufor_far21 = 0 if sysmiss(ufor_far21)
+generate ant_ufor_far = ufor_far92 + ufor_far93 + ufor_far94 + ufor_far95 + ufor_far96 + ufor_far97 + ufor_far98 + ufor_far99 + ufor_far00 + ufor_far01 + ufor_far02 + ufor_far03 + ufor_far04 + ufor_far05 + ufor_far06 + ufor_far07 + ufor_far08 + ufor_far09 + ufor_far10 + ufor_far11 + ufor_far12 + ufor_far13 + ufor_far14 + ufor_far15 + ufor_far16 + ufor_far17 + ufor_far18 + ufor_far19 + ufor_far20 + ufor_far21
+
+generate ufor_far = '0' 
+replace ufor_far = '1-5' if ant_ufor_far >= 1 & ant_ufor_far < 6
+replace ufor_far = '6-10' if ant_ufor_far >= 6 & ant_ufor_far < 11
+replace ufor_far = 'Over 10' if ant_ufor_far >= 11
+
+clone-variables ant_ufor_far -> ant_ufor_mor
+clone-variables ufor_far -> ufor_mor
+merge ufor_far ant_ufor_far into utenforskap on fnr_far
+merge ufor_mor ant_ufor_mor into utenforskap on fnr_mor
+
+use utenforskap
+replace ufor_far = '0' if sysmiss(ufor_far)
+replace ufor_mor = '0' if sysmiss(ufor_mor)
+
+//Henter inn data om alle år med kriminalitet.
+create-dataset krim
+import db/KRIMINALITET_SIKTEDE_LOVANT 2002-12-31 as krim02
+import db/KRIMINALITET_SIKTEDE_LOVANT 2003-12-31 as krim03, outer_join
+import db/KRIMINALITET_SIKTEDE_LOVANT 2004-12-31 as krim04, outer_join
+import db/KRIMINALITET_SIKTEDE_LOVANT 2005-12-31 as krim05, outer_join
+import db/KRIMINALITET_SIKTEDE_LOVANT 2006-12-31 as krim06, outer_join
+import db/KRIMINALITET_SIKTEDE_LOVANT 2007-12-31 as krim07, outer_join
+import db/KRIMINALITET_SIKTEDE_LOVANT 2008-12-31 as krim08, outer_join
+import db/KRIMINALITET_SIKTEDE_LOVANT 2009-12-31 as krim09, outer_join
+import db/KRIMINALITET_SIKTEDE_LOVANT 2010-12-31 as krim10, outer_join
+import db/KRIMINALITET_SIKTEDE_LOVANT 2011-12-31 as krim11, outer_join
+import db/KRIMINALITET_SIKTEDE_LOVANT 2012-12-31 as krim12, outer_join
+import db/KRIMINALITET_SIKTEDE_LOVANT 2013-12-31 as krim13, outer_join
+import db/KRIMINALITET_SIKTEDE_LOVANT 2014-12-31 as krim14, outer_join
+import db/KRIMINALITET_SIKTEDE_LOVANT 2015-12-31 as krim15, outer_join
+import db/KRIMINALITET_SIKTEDE_LOVANT 2016-12-31 as krim16, outer_join
+import db/KRIMINALITET_SIKTEDE_LOVANT 2017-12-31 as krim17, outer_join
+import db/KRIMINALITET_SIKTEDE_LOVANT 2018-12-31 as krim18, outer_join
+import db/KRIMINALITET_SIKTEDE_LOVANT 2019-12-31 as krim19, outer_join
+import db/KRIMINALITET_SIKTEDE_LOVANT 2020-12-31 as krim20, outer_join
+
+destring krim02 krim03 krim04 krim05 krim06 krim07 krim08 krim09 krim10 krim11 krim12 krim13 krim14 krim15 krim16 krim17 krim18 krim19 krim20, force
+replace krim02 = 0 if sysmiss(krim02)
+replace krim03 = 0 if sysmiss(krim03)
+replace krim04 = 0 if sysmiss(krim04)
+replace krim05 = 0 if sysmiss(krim05)
+replace krim06 = 0 if sysmiss(krim06)
+replace krim07 = 0 if sysmiss(krim07)
+replace krim08 = 0 if sysmiss(krim08)
+replace krim09 = 0 if sysmiss(krim09)
+replace krim10 = 0 if sysmiss(krim10)
+replace krim11 = 0 if sysmiss(krim11)
+replace krim12 = 0 if sysmiss(krim12)
+replace krim13 = 0 if sysmiss(krim13)
+replace krim14 = 0 if sysmiss(krim14)
+replace krim15 = 0 if sysmiss(krim15)
+replace krim16 = 0 if sysmiss(krim16)
+replace krim17 = 0 if sysmiss(krim17)
+replace krim18 = 0 if sysmiss(krim18)
+replace krim19 = 0 if sysmiss(krim19)
+replace krim20 = 0 if sysmiss(krim20)
+
+generate ant_krim = krim02+krim03+krim04+krim05+krim06+krim07+krim08+krim09+krim10+ krim11+krim12+krim13+krim14+krim15+krim16+krim17+krim18+krim19+krim20
+generate krim_ant = 'Ingen lovbrudd'
+replace krim_ant = '1 lovbrudd' if ant_krim >= 1
+replace krim_ant = '2-5 lovbrudd' if ant_krim >= 2
+replace krim_ant = 'Mer enn 5 lovbrudd' if ant_krim >= 6
+//tabulate krim_ant
+
+merge krim_ant into utenforskap
+use utenforskap
+replace krim_ant = '0 Ingen lovbrudd' if sysmiss(krim_ant)
+tabulate krim_ant
+
+// Henter invvndringsstatus og fødeland og kategoriserer dem i vestlig eller ikke-vestlig.
+import db/BEFOLKNING_INVKAT as kat
+import db/BEFOLKNING_FODELAND as land
+generate innvandringskategori = '3'
+replace innvandringskategori = '1' if kat == 'B'
+replace innvandringskategori = '2' if kat == 'C'
+define-labels Innvandringskategoritxt '1' 'Innvandrere' '2' 'Norskfødt med innvandrerforeldre' '3' 'Øvrig befolkning'
+assign-labels innvandringskategori Innvandringskategoritxt
+
+clone-variables land -> landgruppe
+clone-variables land -> landgruppe2
+destring landgruppe
+destring landgruppe2
+recode landgruppe (111 120 138 139 140 148 155 156 159/164 = 2 'Europeiske land utenom EU') (101/141 144/158 = 1 'EU/EØS') (203/393 = 3 'Afrika') (143 404/578 = 4 'Asia med Tyrkia') (612 684 = 5 'Nord-Amerika') (601/775 = 6 'Sør- og Mellom-Amerika') (802/840 = 7 'Oseania') (980 = 8 'Statsløse') (990 = 9 'Uoppgitt')
+//https://www.ssb.no/klass/klassifikasjoner/546
+recode landgruppe2 (000 = 0 'Norsk') (143 404/578 111 120 138 140 148 155 156 159 160 161 203/393 601/605 616/672 680 705/775 980 990 = 2 'Gruppe 2') (101/158 612 684 805 820 = 1 'Gruppe 1') 
+//tabulate Innvandringskategori landgruppe2
+replace landgruppe2 = 0 if innvandringskategori == '2' | innvandringskategori == '3'
+tabulate innvandringskategori landgruppe2
+//tabulate land landgruppe2, missing
+generate innvandring = 'Øvrig befolkning'
+replace innvandring = 'Norskfødt med innvandrerforeldre' if innvandringskategori == '2'
+replace innvandring = 'Gruppe 1' if landgruppe2 == 1
+replace innvandring = 'Gruppe 2' if landgruppe2 == 2
+
+tabulate innvandring
+
+import db/BEFOLKNING_INNGRUNN1 as inngrunn1
+generate inngrunn='Annet'
+replace inngrunn='Arbeid' if inngrunn1=='ARB' 
+replace inngrunn='Familie' if inngrunn1=='FAM'
+replace inngrunn='Flukt' if inngrunn1=='FLU'
+replace inngrunn='Ikke innvandrer' if innvandring=='Øvrig befolkning' | innvandring=='Norskfødt med innvandrerforeldre'
+tabulate inngrunn1 innvandring, missing
+tabulate inngrunn innvandring, missing
+
+//Statsløse inkludert som ikke-vestlig, kan gjerne endres til egen kategori, se variabel "land" 
+
+//Henter utdanningsdata - personer som tar utdanning i perioden. 
+create-dataset kursdata
+import-event db/NUDB_KURS_NUS 2020-08-01 to 2020-09-01 as kurstype
+destring kurstype, force //tvinger til tallvariabler, ikke sikkert det er nødvendig
+
+create-dataset kursdata21
+import-event db/NUDB_KURS_NUS 2021-08-01 to 2021-09-01 as kurstype21
+destring kurstype21, force //tvinger til tallvariabler, ikke sikkert det er nødvendig
+
+create-dataset kursdata22
+import-event db/NUDB_KURS_NUS 2022-08-01 to 2022-09-01 as kurstype22
+destring kurstype22, force //tvinger til tallvariabler, ikke sikkert det er nødvendig
+
+create-dataset kursdata23
+import-event db/NUDB_KURS_NUS 2023-08-01 to 2023-09-01 as kurstype23
+destring kurstype23, force //tvinger til tallvariabler, ikke sikkert det er nødvendig
+
+//Henter datasett med fnr til kursdataene som brukes til å koble utdanningen til datasettet fra VT
+create-dataset lenke_kurs_person
+import db/NUDB_KURS_FNR as fnr
+merge fnr into kursdata
+merge fnr into kursdata21
+merge fnr into kursdata22
+merge fnr into kursdata23
+
+//Lager statistikk (collapser) over antall hendelser av utdanning per individ, og kobler dette på persondatasettet
+use kursdata
+collapse (count) kurstype, by(fnr)
+rename kurstype ant_kurs
+merge ant_kurs into utenforskap
+
+use kursdata21
+collapse (count) kurstype21, by(fnr)
+rename kurstype21 ant_kurs21
+merge ant_kurs21 into utenforskap
+
+use kursdata22
+collapse (count) kurstype22, by(fnr)
+rename kurstype22 ant_kurs22
+merge ant_kurs22 into utenforskap
+
+use kursdata23
+collapse (count) kurstype23, by(fnr)
+rename kurstype23 ant_kurs23
+merge ant_kurs23 into utenforskap
+
+use utenforskap
+
+// Henter inn grunnskolepoeng som bakgrunnsvariabel. 
+// kun personer som har karakter i minst 8 av 11 fag får grunnskolepoeng
+import db/NUDB_KURS_GRPOENG as Gpoeng
+generate gskpoeng = '0 - Under 20/mangler'
+replace gskpoeng = '20-30' if Gpoeng > 20
+replace gskpoeng = '30-40' if Gpoeng > 30
+replace gskpoeng = '40-50' if Gpoeng > 40
+replace gskpoeng = 'Over 50' if Gpoeng > 50
+
+// Mottatt hjelpetiltak fra barnevernet
+create-dataset barnevern
+import db/BARNEVERN_HJELPETIL 1993-12-31 as bt93
+import db/BARNEVERN_HJELPETIL 1994-12-31 as bt94, outer_join
+import db/BARNEVERN_HJELPETIL 1995-12-31 as bt95, outer_join
+import db/BARNEVERN_HJELPETIL 1996-12-31 as bt96, outer_join
+import db/BARNEVERN_HJELPETIL 1997-12-31 as bt97, outer_join
+import db/BARNEVERN_HJELPETIL 1998-12-31 as bt98, outer_join
+import db/BARNEVERN_HJELPETIL 1999-12-31 as bt99, outer_join
+import db/BARNEVERN_HJELPETIL 2000-12-31 as bt00, outer_join
+import db/BARNEVERN_HJELPETIL 2001-12-31 as bt01, outer_join
+import db/BARNEVERN_HJELPETIL 2002-12-31 as bt02, outer_join
+import db/BARNEVERN_HJELPETIL 2003-12-31 as bt03, outer_join
+import db/BARNEVERN_HJELPETIL 2004-12-31 as bt04, outer_join
+import db/BARNEVERN_HJELPETIL 2005-12-31 as bt05, outer_join
+import db/BARNEVERN_HJELPETIL 2006-12-31 as bt06, outer_join
+import db/BARNEVERN_HJELPETIL 2007-12-31 as bt07, outer_join
+import db/BARNEVERN_HJELPETIL 2008-12-31 as bt08, outer_join
+import db/BARNEVERN_HJELPETIL 2009-12-31 as bt09, outer_join
+import db/BARNEVERN_HJELPETIL 2010-12-31 as bt10, outer_join
+import db/BARNEVERN_HJELPETIL 2011-12-31 as bt11, outer_join
+import db/BARNEVERN_HJELPETIL 2012-12-31 as bt12, outer_join
+import db/BARNEVERN_HJELPETIL 2013-12-31 as bt13, outer_join
+import db/BARNEVERN_HJELPETIL 2014-12-31 as bt14, outer_join
+import db/BARNEVERN_HJELPETIL 2015-12-31 as bt15, outer_join
+import db/BARNEVERN_HJELPETIL 2016-12-31 as bt16, outer_join
+import db/BARNEVERN_HJELPETIL 2017-12-31 as bt17, outer_join
+import db/BARNEVERN_HJELPETIL 2018-12-31 as bt18, outer_join
+import db/BARNEVERN_HJELPETIL 2019-12-31 as bt19, outer_join
+
+replace bt93 = 0 if sysmiss(bt93)
+replace bt94 = 0 if sysmiss(bt94)
+replace bt95 = 0 if sysmiss(bt95)
+replace bt96 = 0 if sysmiss(bt96)
+replace bt97 = 0 if sysmiss(bt97)
+replace bt98 = 0 if sysmiss(bt98)
+replace bt99 = 0 if sysmiss(bt99)
+replace bt00 = 0 if sysmiss(bt00)
+replace bt01 = 0 if sysmiss(bt01)
+replace bt02 = 0 if sysmiss(bt02)
+replace bt03 = 0 if sysmiss(bt03)
+replace bt04 = 0 if sysmiss(bt04)
+replace bt05 = 0 if sysmiss(bt05)
+replace bt06 = 0 if sysmiss(bt06)
+replace bt07 = 0 if sysmiss(bt07)
+replace bt08 = 0 if sysmiss(bt08)
+replace bt09 = 0 if sysmiss(bt09)
+replace bt10 = 0 if sysmiss(bt10)
+replace bt11 = 0 if sysmiss(bt11)
+replace bt12 = 0 if sysmiss(bt12)
+replace bt13 = 0 if sysmiss(bt13)
+replace bt14 = 0 if sysmiss(bt14)
+replace bt15 = 0 if sysmiss(bt15)
+replace bt16 = 0 if sysmiss(bt16)
+replace bt17 = 0 if sysmiss(bt17)
+replace bt18 = 0 if sysmiss(bt18)
+replace bt19 = 0 if sysmiss(bt19)
+
+destring bt93 bt94 bt95 bt96 bt97 bt98 bt99 bt00 bt01 bt02 bt03 bt04 bt05 bt06 bt07 bt08 bt09 bt10 bt11 bt12 bt13 bt14 bt15 bt16 bt17 bt18 bt19, force
+
+generate ant_barnevern = bt93+ bt94+ bt95+ bt96+ bt97+ bt98+ bt99+ bt00+ bt01+ bt02+ bt03+ bt04+ bt05+ bt06+ bt07+ bt08+ bt09+ bt10+ bt11+ bt12+ bt13+ bt14+ bt15+ bt16+ bt17+ bt18+ bt19
+
+generate barnevern_grp = '0' 
+replace barnevern_grp = '1-5' if ant_barnevern >= 1 & ant_barnevern < 6
+replace barnevern_grp = '6-10' if ant_barnevern >= 6 & ant_barnevern < 11
+replace barnevern_grp = 'Over 10' if ant_barnevern >= 11
+
+tabulate barnevern_grp
+
+merge barnevern_grp into utenforskap
+//////////////////////////////////////////////////////////////////////////////////////////////
+// Lager noe hovedkategorier
+/////////////////////////////////////////////////////////////////////////////////////////////
+
+use utenforskap
+generate utdanning = 0
+replace utdanning = 1 if ant_kurs >= 1
+// Legger 15- og 16-åringer til gruppen som er i utdanning hvis de ikke har fullført GS. Noen av disse står med utdanningsnivå GS men har ikke opplysninger om grunnskolepoeng. Regner de til ikke fullført GS og regner med at de fortsatt har noe opplegg for å fullføre GS.
+replace utdanning = 1 if utd_nivå =='1_Ikke fullført GS eller missing' & alder <= 16
+
+generate utdanning21 = 0
+replace utdanning21 = 1 if ant_kurs21 >= 1
+replace utdanning21 = 1 if utd_nivå =='1_Ikke fullført GS eller missing' & alder <= 16
+
+generate utdanning22 = 0
+replace utdanning22 = 1 if ant_kurs22 >= 1
+replace utdanning22 = 1 if utd_nivå =='1_Ikke fullført GS eller missing' & alder <= 16
+
+generate utdanning23 = 0
+replace utdanning23 = 1 if ant_kurs23 >= 1
+replace utdanning23 = 1 if utd_nivå =='1_Ikke fullført GS eller missing' & alder <= 16
+
+//Denne prioriteringen kan spesifiseres mer detaljert. Se https://www.ssb.no/arbeid-og-lonn/sysselsetting/statistikk/tilknytning-til-arbeid-utdanning-og-velferdsordninger#om-statistikken. OBS: Høyest prioritet skal være nederst når variabelen lages.
+generate arbeidsstyrkestatus = '0'
+replace arbeidsstyrkestatus = '1' if aapufoer== 1
+replace arbeidsstyrkestatus = '4' if utdanning == 1
+replace arbeidsstyrkestatus = '3' if tiltak == 1 
+replace arbeidsstyrkestatus = '2' if ledig == 1
+replace arbeidsstyrkestatus = '5' if jobb == 1
+generate arbeidsstyrkestatus21 = '0'
+replace arbeidsstyrkestatus21 = '1' if aapufoer21 == 1
+replace arbeidsstyrkestatus21 = '4' if utdanning21 == 1
+replace arbeidsstyrkestatus21 = '3' if tiltak21 == 1 
+replace arbeidsstyrkestatus21 = '2' if ledig21 == 1
+replace arbeidsstyrkestatus21 = '5' if jobb21 == 1
+generate arbeidsstyrkestatus22 = '0'
+replace arbeidsstyrkestatus22 = '1' if aapufoer22 == 1
+replace arbeidsstyrkestatus22 = '4' if utdanning22 == 1
+replace arbeidsstyrkestatus22 = '3' if tiltak22 == 1 
+replace arbeidsstyrkestatus22 = '2' if ledig22 == 1
+replace arbeidsstyrkestatus22 = '5' if jobb22 == 1
+generate arbeidsstyrkestatus23 = '0'
+replace arbeidsstyrkestatus23 = '1' if aapufoer23 == 1
+replace arbeidsstyrkestatus23 = '4' if utdanning23 == 1
+replace arbeidsstyrkestatus23 = '3' if tiltak23 == 1 
+replace arbeidsstyrkestatus23 = '2' if ledig23 == 1
+replace arbeidsstyrkestatus23 = '5' if jobb23 == 1
+define-labels Arbeidsstyrkestatustxt '0' 'Utenfor arbeidsstyrken, ikke på tiltak ' '1' 'Mottakere av AAP/uføretrygd' '2' 'Registrerte arbeidsledige' '3' 'Arbeidsmarkedstiltak' '4' 'Ordinær utdanning' '5' 'Sysselsatte'
+assign-labels arbeidsstyrkestatus Arbeidsstyrkestatustxt
+assign-labels arbeidsstyrkestatus21 Arbeidsstyrkestatustxt
+assign-labels arbeidsstyrkestatus22 Arbeidsstyrkestatustxt
+assign-labels arbeidsstyrkestatus23 Arbeidsstyrkestatustxt
+// tabulate arbeidsstyrkestatus , missing
+// tabulate arbeidsstyrkestatus , missing  cellpct
+// tabulate arbeidsstyrkestatus20 , missing
+// tabulate arbeidsstyrkestatus20 , missing  cellpct
+// tabulate arbeidsstyrkestatus21 , missing
+// tabulate arbeidsstyrkestatus21 , missing  cellpct
+// tabulate arbeidsstyrkestatus22 , missing
+// tabulate arbeidsstyrkestatus22 , missing  cellpct
+// tabulate arbeidsstyrkestatus23 , missing
+// tabulate arbeidsstyrkestatus23 , missing  cellpct
+
+
+// Lager variabel for Neets.
+generate neet = 0
+replace neet = 1 if arbeidsstyrkestatus == '0' |arbeidsstyrkestatus == '1' |arbeidsstyrkestatus == '2'
+
+generate neet21 = 0
+replace neet21 = 1 if arbeidsstyrkestatus21 == '0' |arbeidsstyrkestatus21 == '1' |arbeidsstyrkestatus21 == '2'
+
+generate neet22 = 0
+replace neet22 = 1 if arbeidsstyrkestatus22 == '0' |arbeidsstyrkestatus22 == '1' |arbeidsstyrkestatus22 == '2'
+
+generate neet23 = 0
+replace neet23 = 1 if arbeidsstyrkestatus23 == '0' |arbeidsstyrkestatus23 == '1' |arbeidsstyrkestatus23 == '2'
+
+generate neet_lang = 0
+replace neet_lang = 1 if neet == 1 & neet21 == 1 & neet22 == 1 & neet23 == 1
+
+generate aapufor_lang = 0
+replace aapufor_lang = 1 if aapufoer== 1 & aapufoer21 == 1 & aapufoer22 == 1 & aapufoer23 == 1
+tabulate aapufor_lang
+
+generate neet_antall = neet + neet21 + neet22 + neet23
+tabulate neet_antall
+
+generate aapufor_antall = aapufoer + aapufoer21 + aapufoer22 + aapufoer23
+tabulate aapufor_antall
+
+generate annet = 0
+replace annet = 1 if arbeidsstyrkestatus == '0'
+generate annet21 = 0
+replace annet21 = 1 if arbeidsstyrkestatus21 == '0'
+generate annet22 = 0
+replace annet22 = 1 if arbeidsstyrkestatus22 == '0'
+generate annet23 = 0
+replace annet23 = 1 if arbeidsstyrkestatus23 == '0'
+generate annet_antall = annet + annet21 + annet22 + annet23
+tabulate annet_antall
+
+//Tabeller til utenforskapsprosjekt
+tabulate neet neet23, freq cellpct
+tabulate arbeidsstyrkestatus arbeidsstyrkestatus23 if neet == 1, freq rowpct
+tabulate kjønn neet_antall, freq rowpct
+tabulate innvandringskategori neet_antall, freq rowpct
+tabulate innvandring neet_antall, freq rowpct
+tabulate aldersgruppe neet_antall, freq rowpct
+tabulate sosbak neet_antall, freq rowpct
+tabulate gskpoeng neet_antall if alder > 15, freq rowpct
+tabulate utd_nivå neet_antall if alder >19, freq rowpct
+tabulate kommune neet_antall, freq rowpct
+tabulate barnevern_grp neet_antall, missing freq rowpct
+tabulate ufor_mor neet_antall, freq rowpct
+tabulate ufor_far neet_antall, freq rowpct
+tabulate krim_ant neet_antall, freq rowpct
+
+tabulate kjønn neet_antall, freq colpct
+tabulate innvandringskategori neet_antall, freq colpct
+tabulate innvandring neet_antall, freq colpct
+tabulate aldersgruppe neet_antall, freq colpct
+tabulate sosbak neet_antall, freq colpct
+tabulate gskpoeng neet_antall if alder > 15, freq colpct
+tabulate kommune neet_antall, freq colpct
+tabulate barnevern_grp neet_antall, missing freq colpct
+tabulate ufor_mor neet_antall, freq colpct
+tabulate krim_ant neet_antall, freq colpct
+
+sankey arbeidsstyrkestatus21 neet21 neet22 neet23 
+tabulate neet_lang
+tabulate arbeidsstyrkestatus arbeidsstyrkestatus23 if neet_lang==1
+tabulate arbeidsstyrkestatus arbeidsstyrkestatus23 if neet == 1, rowpct
+sankey arbeidsstyrkestatus  arbeidsstyrkestatus21 arbeidsstyrkestatus22 arbeidsstyrkestatus23 if neet == 1
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////
+// TABULATE HERFRA OG INN
+/////////////////////////////////////////////////////////////////////////////////////////////
