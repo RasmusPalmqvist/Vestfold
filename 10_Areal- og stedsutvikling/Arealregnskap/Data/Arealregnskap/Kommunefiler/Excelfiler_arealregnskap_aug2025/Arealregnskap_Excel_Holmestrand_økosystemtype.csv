@@ -1,0 +1,142 @@
+﻿Arealformålsgruppe,Dekar,ØkosystemtypeNivå1_text
+01 Bolig eller sentrumsformål,7001,Bebyggelse/samferdsel
+01 Bolig eller sentrumsformål,80,Dyrket mark
+01 Bolig eller sentrumsformål,18,Grasmark
+01 Bolig eller sentrumsformål,1774,Skog
+01 Bolig eller sentrumsformål,114,Hei og åpen vegetasjon
+01 Bolig eller sentrumsformål,47,Lite vegetert mark
+01 Bolig eller sentrumsformål,2,Elver/bekker
+01 Bolig eller sentrumsformål,15,Innsjøer/tjern
+01 Bolig eller sentrumsformål,0,Åpent hav
+02 Fritidsbebyggelse,969,Bebyggelse/samferdsel
+02 Fritidsbebyggelse,8,Dyrket mark
+02 Fritidsbebyggelse,737,Skog
+02 Fritidsbebyggelse,17,Hei og åpen vegetasjon
+02 Fritidsbebyggelse,4,Lite vegetert mark
+02 Fritidsbebyggelse,0,Elver/bekker
+02 Fritidsbebyggelse,1,Innsjøer/tjern
+02 Fritidsbebyggelse,0,"Svaberg, kyststrender og dyner"
+02 Fritidsbebyggelse,3,Åpent hav
+03 Tjenesteyting,522,Bebyggelse/samferdsel
+03 Tjenesteyting,69,Dyrket mark
+03 Tjenesteyting,707,Skog
+03 Tjenesteyting,54,Hei og åpen vegetasjon
+03 Tjenesteyting,0,Elver/bekker
+03 Tjenesteyting,0,Innsjøer/tjern
+03 Tjenesteyting,0,Åpent hav
+04 Handel,63,Bebyggelse/samferdsel
+04 Handel,0,Dyrket mark
+04 Handel,3,Skog
+04 Handel,0,Hei og åpen vegetasjon
+04 Handel,0,Elver/bekker
+05 Turistformål,112,Bebyggelse/samferdsel
+05 Turistformål,17,Dyrket mark
+05 Turistformål,55,Skog
+05 Turistformål,12,Hei og åpen vegetasjon
+05 Turistformål,0,Elver/bekker
+05 Turistformål,1,Innsjøer/tjern
+05 Turistformål,0,Åpent hav
+06 Næringsvirksomhet,1744,Bebyggelse/samferdsel
+06 Næringsvirksomhet,73,Dyrket mark
+06 Næringsvirksomhet,9,Grasmark
+06 Næringsvirksomhet,846,Skog
+06 Næringsvirksomhet,130,Hei og åpen vegetasjon
+06 Næringsvirksomhet,34,Lite vegetert mark
+06 Næringsvirksomhet,2,Elver/bekker
+06 Næringsvirksomhet,6,Innsjøer/tjern
+06 Næringsvirksomhet,6,Åpent hav
+07 Råstoffutvinning,205,Bebyggelse/samferdsel
+07 Råstoffutvinning,235,Skog
+07 Råstoffutvinning,6,Hei og åpen vegetasjon
+07 Råstoffutvinning,3,Våtmark
+08 Kombinerte formål,611,Bebyggelse/samferdsel
+08 Kombinerte formål,71,Dyrket mark
+08 Kombinerte formål,95,Skog
+08 Kombinerte formål,28,Hei og åpen vegetasjon
+08 Kombinerte formål,3,Lite vegetert mark
+08 Kombinerte formål,3,Innsjøer/tjern
+08 Kombinerte formål,0,Åpent hav
+09 Idrettsanlegg,1308,Bebyggelse/samferdsel
+09 Idrettsanlegg,489,Dyrket mark
+09 Idrettsanlegg,28,Grasmark
+09 Idrettsanlegg,479,Skog
+09 Idrettsanlegg,140,Hei og åpen vegetasjon
+09 Idrettsanlegg,3,Lite vegetert mark
+09 Idrettsanlegg,35,Elver/bekker
+09 Idrettsanlegg,6,Innsjøer/tjern
+10 Andre formål,396,Bebyggelse/samferdsel
+10 Andre formål,27,Dyrket mark
+10 Andre formål,0,Grasmark
+10 Andre formål,377,Skog
+10 Andre formål,58,Hei og åpen vegetasjon
+10 Andre formål,6,Lite vegetert mark
+10 Andre formål,1,Våtmark
+10 Andre formål,2,Elver/bekker
+10 Andre formål,0,Innsjøer/tjern
+10 Andre formål,4,Åpent hav
+11 Samferdselsanlegg,4163,Bebyggelse/samferdsel
+11 Samferdselsanlegg,194,Dyrket mark
+11 Samferdselsanlegg,20,Grasmark
+11 Samferdselsanlegg,565,Skog
+11 Samferdselsanlegg,793,Hei og åpen vegetasjon
+11 Samferdselsanlegg,12,Lite vegetert mark
+11 Samferdselsanlegg,0,Våtmark
+11 Samferdselsanlegg,1,Elver/bekker
+11 Samferdselsanlegg,2,Innsjøer/tjern
+11 Samferdselsanlegg,9,Åpent hav
+12 Blå/grønnstruktur,569,Bebyggelse/samferdsel
+12 Blå/grønnstruktur,63,Dyrket mark
+12 Blå/grønnstruktur,10,Grasmark
+12 Blå/grønnstruktur,1907,Skog
+12 Blå/grønnstruktur,131,Hei og åpen vegetasjon
+12 Blå/grønnstruktur,11,Lite vegetert mark
+12 Blå/grønnstruktur,10,Elver/bekker
+12 Blå/grønnstruktur,18,Innsjøer/tjern
+12 Blå/grønnstruktur,27,"Svaberg, kyststrender og dyner"
+12 Blå/grønnstruktur,14,Åpent hav
+14 LNFR,11314,Bebyggelse/samferdsel
+14 LNFR,59664,Dyrket mark
+14 LNFR,2426,Grasmark
+14 LNFR,293715,Skog
+14 LNFR,2724,Hei og åpen vegetasjon
+14 LNFR,473,Lite vegetert mark
+14 LNFR,3291,Våtmark
+14 LNFR,7,Elver/bekker
+14 LNFR,83,Innsjøer/tjern
+14 LNFR,30,"Svaberg, kyststrender og dyner"
+14 LNFR,1,Åpent hav
+15 LNFR spredt,792,Bebyggelse/samferdsel
+15 LNFR spredt,3181,Dyrket mark
+15 LNFR spredt,119,Grasmark
+15 LNFR spredt,3983,Skog
+15 LNFR spredt,126,Hei og åpen vegetasjon
+15 LNFR spredt,22,Elver/bekker
+15 LNFR spredt,0,Innsjøer/tjern
+15 LNFR spredt,0,Åpent hav
+16 Havner og småbåthavner,31,Bebyggelse/samferdsel
+16 Havner og småbåthavner,1,Skog
+16 Havner og småbåthavner,7,Hei og åpen vegetasjon
+16 Havner og småbåthavner,16,Elver/bekker
+16 Havner og småbåthavner,4,Innsjøer/tjern
+16 Havner og småbåthavner,1,"Svaberg, kyststrender og dyner"
+16 Havner og småbåthavner,650,Åpent hav
+"17 Sjø og vassdrag, flerbruk",30,Bebyggelse/samferdsel
+"17 Sjø og vassdrag, flerbruk",0,Dyrket mark
+"17 Sjø og vassdrag, flerbruk",62,Skog
+"17 Sjø og vassdrag, flerbruk",10,Hei og åpen vegetasjon
+"17 Sjø og vassdrag, flerbruk",1,Våtmark
+"17 Sjø og vassdrag, flerbruk",1357,Elver/bekker
+"17 Sjø og vassdrag, flerbruk",20703,Innsjøer/tjern
+"17 Sjø og vassdrag, flerbruk",3,"Svaberg, kyststrender og dyner"
+"17 Sjø og vassdrag, flerbruk",54287,Åpent hav
+18 Akvakultur,0,Dyrket mark
+18 Akvakultur,2,Skog
+18 Akvakultur,3,Innsjøer/tjern
+19 Udefinert,18,Bebyggelse/samferdsel
+19 Udefinert,130,Dyrket mark
+19 Udefinert,1,Grasmark
+19 Udefinert,79,Skog
+19 Udefinert,15,Hei og åpen vegetasjon
+19 Udefinert,0,Lite vegetert mark
+19 Udefinert,1,Elver/bekker
+19 Udefinert,2,Innsjøer/tjern
