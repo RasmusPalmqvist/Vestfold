@@ -1,0 +1,78 @@
+﻿Arealformålsgruppe,Dekar,ØkosystemtypeNivå1_text
+01 Bolig eller sentrumsformål,58,Bebyggelse/samferdsel
+01 Bolig eller sentrumsformål,481,Dyrket mark
+01 Bolig eller sentrumsformål,17,Grasmark
+01 Bolig eller sentrumsformål,6180,Skog
+01 Bolig eller sentrumsformål,432,Hei og åpen vegetasjon
+01 Bolig eller sentrumsformål,150,Lite vegetert mark
+01 Bolig eller sentrumsformål,1,Elver/bekker
+01 Bolig eller sentrumsformål,2,Innsjøer/tjern
+01 Bolig eller sentrumsformål,27,"Svaberg, kyststrender og dyner"
+01 Bolig eller sentrumsformål,1,Åpent hav
+02 Fritidsbebyggelse,3,Bebyggelse/samferdsel
+02 Fritidsbebyggelse,6,Dyrket mark
+02 Fritidsbebyggelse,1,Grasmark
+02 Fritidsbebyggelse,1565,Skog
+02 Fritidsbebyggelse,69,Hei og åpen vegetasjon
+02 Fritidsbebyggelse,53,Lite vegetert mark
+02 Fritidsbebyggelse,34,Våtmark
+02 Fritidsbebyggelse,0,Elver/bekker
+02 Fritidsbebyggelse,0,Innsjøer/tjern
+02 Fritidsbebyggelse,83,"Svaberg, kyststrender og dyner"
+02 Fritidsbebyggelse,5,Åpent hav
+03 Tjenesteyting,7,Bebyggelse/samferdsel
+03 Tjenesteyting,309,Dyrket mark
+03 Tjenesteyting,10,Grasmark
+03 Tjenesteyting,1228,Skog
+03 Tjenesteyting,192,Hei og åpen vegetasjon
+03 Tjenesteyting,1,Lite vegetert mark
+03 Tjenesteyting,0,Våtmark
+03 Tjenesteyting,0,Elver/bekker
+03 Tjenesteyting,1,Innsjøer/tjern
+03 Tjenesteyting,0,Åpent hav
+04 Handel,3,Bebyggelse/samferdsel
+04 Handel,20,Dyrket mark
+04 Handel,54,Skog
+04 Handel,4,Hei og åpen vegetasjon
+06 Næringsvirksomhet,64,Bebyggelse/samferdsel
+06 Næringsvirksomhet,219,Dyrket mark
+06 Næringsvirksomhet,9,Grasmark
+06 Næringsvirksomhet,4057,Skog
+06 Næringsvirksomhet,554,Hei og åpen vegetasjon
+06 Næringsvirksomhet,37,Lite vegetert mark
+06 Næringsvirksomhet,11,Våtmark
+06 Næringsvirksomhet,6,Elver/bekker
+06 Næringsvirksomhet,22,Innsjøer/tjern
+06 Næringsvirksomhet,0,"Svaberg, kyststrender og dyner"
+06 Næringsvirksomhet,27,Åpent hav
+07 Råstoffutvinning,45,Bebyggelse/samferdsel
+07 Råstoffutvinning,75,Dyrket mark
+07 Råstoffutvinning,0,Grasmark
+07 Råstoffutvinning,5331,Skog
+07 Råstoffutvinning,21,Hei og åpen vegetasjon
+07 Råstoffutvinning,44,Lite vegetert mark
+07 Råstoffutvinning,3,Våtmark
+07 Råstoffutvinning,1,Elver/bekker
+07 Råstoffutvinning,1,Innsjøer/tjern
+08 Kombinerte formål,46,Bebyggelse/samferdsel
+08 Kombinerte formål,515,Dyrket mark
+08 Kombinerte formål,4,Grasmark
+08 Kombinerte formål,3161,Skog
+08 Kombinerte formål,192,Hei og åpen vegetasjon
+08 Kombinerte formål,103,Lite vegetert mark
+08 Kombinerte formål,8,Våtmark
+08 Kombinerte formål,0,Elver/bekker
+08 Kombinerte formål,2,Innsjøer/tjern
+08 Kombinerte formål,43,"Svaberg, kyststrender og dyner"
+08 Kombinerte formål,36,Åpent hav
+11 Samferdselsanlegg,59,Bebyggelse/samferdsel
+11 Samferdselsanlegg,213,Dyrket mark
+11 Samferdselsanlegg,13,Grasmark
+11 Samferdselsanlegg,888,Skog
+11 Samferdselsanlegg,436,Hei og åpen vegetasjon
+11 Samferdselsanlegg,17,Lite vegetert mark
+11 Samferdselsanlegg,1,Våtmark
+11 Samferdselsanlegg,3,Elver/bekker
+11 Samferdselsanlegg,2,Innsjøer/tjern
+11 Samferdselsanlegg,1,"Svaberg, kyststrender og dyner"
+11 Samferdselsanlegg,12,Åpent hav

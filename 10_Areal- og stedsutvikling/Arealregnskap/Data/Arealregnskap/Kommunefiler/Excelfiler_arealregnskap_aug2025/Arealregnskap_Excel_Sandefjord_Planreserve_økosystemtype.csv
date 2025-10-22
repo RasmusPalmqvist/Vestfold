@@ -1,0 +1,48 @@
+﻿Arealformålsgruppe,Dekar,ØkosystemtypeNivå1_text
+01 Bolig eller sentrumsformål,1,Bebyggelse/samferdsel
+01 Bolig eller sentrumsformål,175,Dyrket mark
+01 Bolig eller sentrumsformål,1533,Skog
+01 Bolig eller sentrumsformål,163,Hei og åpen vegetasjon
+01 Bolig eller sentrumsformål,44,Lite vegetert mark
+01 Bolig eller sentrumsformål,0,Elver/bekker
+01 Bolig eller sentrumsformål,0,Innsjøer/tjern
+01 Bolig eller sentrumsformål,0,"Svaberg, kyststrender og dyner"
+01 Bolig eller sentrumsformål,0,Åpent hav
+02 Fritidsbebyggelse,1,Dyrket mark
+02 Fritidsbebyggelse,143,Skog
+02 Fritidsbebyggelse,9,Hei og åpen vegetasjon
+03 Tjenesteyting,5,Bebyggelse/samferdsel
+03 Tjenesteyting,72,Dyrket mark
+03 Tjenesteyting,106,Skog
+03 Tjenesteyting,35,Hei og åpen vegetasjon
+03 Tjenesteyting,0,Innsjøer/tjern
+04 Handel,40,Skog
+06 Næringsvirksomhet,19,Bebyggelse/samferdsel
+06 Næringsvirksomhet,18,Dyrket mark
+06 Næringsvirksomhet,628,Skog
+06 Næringsvirksomhet,310,Hei og åpen vegetasjon
+06 Næringsvirksomhet,2,Lite vegetert mark
+06 Næringsvirksomhet,5,Våtmark
+06 Næringsvirksomhet,4,Elver/bekker
+06 Næringsvirksomhet,10,Innsjøer/tjern
+06 Næringsvirksomhet,16,Åpent hav
+07 Råstoffutvinning,2,Bebyggelse/samferdsel
+07 Råstoffutvinning,412,Skog
+07 Råstoffutvinning,2,Hei og åpen vegetasjon
+07 Råstoffutvinning,0,Lite vegetert mark
+08 Kombinerte formål,8,Bebyggelse/samferdsel
+08 Kombinerte formål,170,Dyrket mark
+08 Kombinerte formål,2,Grasmark
+08 Kombinerte formål,1189,Skog
+08 Kombinerte formål,30,Hei og åpen vegetasjon
+08 Kombinerte formål,16,Lite vegetert mark
+08 Kombinerte formål,1,Innsjøer/tjern
+11 Samferdselsanlegg,25,Bebyggelse/samferdsel
+11 Samferdselsanlegg,39,Dyrket mark
+11 Samferdselsanlegg,0,Grasmark
+11 Samferdselsanlegg,137,Skog
+11 Samferdselsanlegg,64,Hei og åpen vegetasjon
+11 Samferdselsanlegg,8,Lite vegetert mark
+11 Samferdselsanlegg,0,Elver/bekker
+11 Samferdselsanlegg,0,"Svaberg, kyststrender og dyner"
+11 Samferdselsanlegg,2,Åpent hav

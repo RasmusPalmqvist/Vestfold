@@ -1,0 +1,55 @@
+﻿Arealformålsgruppe,ArealdekkekodeEnkel_navn,Dekar
+01 Bolig eller sentrumsformål,Ferskvann,2
+01 Bolig eller sentrumsformål,Fulldyrka jord,470
+01 Bolig eller sentrumsformål,Hav,1
+01 Bolig eller sentrumsformål,Innmarksbeite,11
+01 Bolig eller sentrumsformål,Myr,30
+01 Bolig eller sentrumsformål,Overflatedyrka jord,17
+01 Bolig eller sentrumsformål,Skog,6150
+01 Bolig eller sentrumsformål,Åpen fastmark,667
+02 Fritidsbebyggelse,Ferskvann,0
+02 Fritidsbebyggelse,Fulldyrka jord,6
+02 Fritidsbebyggelse,Hav,5
+02 Fritidsbebyggelse,Myr,41
+02 Fritidsbebyggelse,Overflatedyrka jord,1
+02 Fritidsbebyggelse,Skog,1558
+02 Fritidsbebyggelse,Åpen fastmark,208
+03 Tjenesteyting,Ferskvann,1
+03 Tjenesteyting,Fulldyrka jord,307
+03 Tjenesteyting,Hav,0
+03 Tjenesteyting,Innmarksbeite,2
+03 Tjenesteyting,Myr,1
+03 Tjenesteyting,Overflatedyrka jord,13
+03 Tjenesteyting,Skog,1225
+03 Tjenesteyting,Åpen fastmark,199
+04 Handel,Fulldyrka jord,20
+04 Handel,Skog,54
+04 Handel,Åpen fastmark,7
+06 Næringsvirksomhet,Ferskvann,28
+06 Næringsvirksomhet,Fulldyrka jord,219
+06 Næringsvirksomhet,Hav,27
+06 Næringsvirksomhet,Myr,21
+06 Næringsvirksomhet,Overflatedyrka jord,9
+06 Næringsvirksomhet,Skog,4046
+06 Næringsvirksomhet,Åpen fastmark,655
+07 Råstoffutvinning,Ferskvann,1
+07 Råstoffutvinning,Fulldyrka jord,75
+07 Råstoffutvinning,Myr,31
+07 Råstoffutvinning,Overflatedyrka jord,0
+07 Råstoffutvinning,Skog,5303
+07 Råstoffutvinning,Åpen fastmark,110
+08 Kombinerte formål,Ferskvann,2
+08 Kombinerte formål,Fulldyrka jord,515
+08 Kombinerte formål,Hav,36
+08 Kombinerte formål,Myr,17
+08 Kombinerte formål,Overflatedyrka jord,4
+08 Kombinerte formål,Skog,3152
+08 Kombinerte formål,Åpen fastmark,383
+11 Samferdselsanlegg,Ferskvann,4
+11 Samferdselsanlegg,Fulldyrka jord,212
+11 Samferdselsanlegg,Hav,12
+11 Samferdselsanlegg,Innmarksbeite,1
+11 Samferdselsanlegg,Myr,8
+11 Samferdselsanlegg,Overflatedyrka jord,13
+11 Samferdselsanlegg,Skog,882
+11 Samferdselsanlegg,Åpen fastmark,513
