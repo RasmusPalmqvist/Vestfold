@@ -23,7 +23,7 @@ Skoleår;Utdanningsprogram;Nivå;Skole;B;H;I;M;S
 2024/25;IM;vg 1;Vestfold;54;11;5;3;6
 2024/25;KD;vg 1;Vestfold;43;5;2;2;4
 2024/25;MD;vg 1;Vestfold;83;8;3;7;3
-2024/25;ME;vg 1;Vestfold;36;1;-;8;2
+2024/25;ME;vg 1;Vestfold;36;1;0;8;2
 2024/25;NA;vg 1;Vestfold;29;3;2;7;1
 2024/25;RM;vg 1;Vestfold;50;9;3;10;9
 2024/25;SR;vg 1;Vestfold;165;11;11;16;15
@@ -35,268 +35,268 @@ Skoleår;Utdanningsprogram;Nivå;Skole;B;H;I;M;S
 2024/25;FD;vg 2;Vestfold;42;3;4;8;1
 2024/25;HS;vg 2;Vestfold;300;10;17;13;13
 2024/25;ID;vg 2;Vestfold;161;2;13;8;3
-2024/25;IM;vg 2;Vestfold;64;-;3;3;3
+2024/25;IM;vg 2;Vestfold;64;0;3;3;3
 2024/25;KD;vg 2;Vestfold;36;2;5;3;1
-2024/25;MD;vg 2;Vestfold;69;5;5;3;-
-2024/25;ME;vg 2;Vestfold;40;1;4;1;-
-2024/25;NA;vg 2;Vestfold;35;4;1;3;-
-2024/25;RM;vg 2;Vestfold;45;-;3;3;2
+2024/25;MD;vg 2;Vestfold;69;5;5;3;0
+2024/25;ME;vg 2;Vestfold;40;1;4;1;0
+2024/25;NA;vg 2;Vestfold;35;4;1;3;0
+2024/25;RM;vg 2;Vestfold;45;0;3;3;2
 2024/25;SR;vg 2;Vestfold;148;4;1;6;8
 2024/25;ST;vg 2;Vestfold;831;46;88;52;15
 2024/25;TP;vg 2;Vestfold;157;7;12;13;9
 2024/25;Alle utdanningsprogram;vg 2;Vestfold;2 211;92;169;129;67
-2024/25;EL;vg 3;Vestfold;32;-;5;1;1
-2024/25;FD;vg 3;Vestfold;18;-;-;1;2
-2024/25;HS;vg 3;Vestfold;20;-;1;-;3
+2024/25;EL;vg 3;Vestfold;32;0;5;1;1
+2024/25;FD;vg 3;Vestfold;18;0;0;1;2
+2024/25;HS;vg 3;Vestfold;20;0;1;0;3
 2024/25;ID;vg 3;Vestfold;177;2;9;7;2
 2024/25;KD;vg 3;Vestfold;50;5;4;7;1
 2024/25;MD;vg 3;Vestfold;76;8;1;5;1
-2024/25;ME;vg 3;Vestfold;39;3;3;-;1
-2024/25;NA;vg 3;Vestfold;7;-;-;1;1
+2024/25;ME;vg 3;Vestfold;39;3;3;0;1
+2024/25;NA;vg 3;Vestfold;7;0;0;1;1
 2024/25;PB;vg 3;Vestfold;349;12;56;19;17
 2024/25;ST;vg 3;Vestfold;909;33;67;51;19
 2024/25;Alle utdanningsprogram;vg 3;Vestfold;1 677;63;146;92;48
 2024/25;BA;Totalt;Thor Heyerdahl videregående skole;94;3;2;2;8
-2024/25;EL;Totalt;Thor Heyerdahl videregående skole;85;2;-;1;-
+2024/25;EL;Totalt;Thor Heyerdahl videregående skole;85;2;0;1;0
 2024/25;HS;Totalt;Thor Heyerdahl videregående skole;122;2;4;2;9
 2024/25;ID;Totalt;Thor Heyerdahl videregående skole;165;3;10;5;2
-2024/25;MD;Totalt;Thor Heyerdahl videregående skole;63;5;2;2;-
-2024/25;ME;Totalt;Thor Heyerdahl videregående skole;39;1;2;-;1
-2024/25;PB;Totalt;Thor Heyerdahl videregående skole;49;-;11;2;2
-2024/25;RM;Totalt;Thor Heyerdahl videregående skole;18;2;-;2;4
+2024/25;MD;Totalt;Thor Heyerdahl videregående skole;63;5;2;2;0
+2024/25;ME;Totalt;Thor Heyerdahl videregående skole;39;1;2;0;1
+2024/25;PB;Totalt;Thor Heyerdahl videregående skole;49;0;11;2;2
+2024/25;RM;Totalt;Thor Heyerdahl videregående skole;18;2;0;2;4
 2024/25;SR;Totalt;Thor Heyerdahl videregående skole;71;5;2;4;6
 2024/25;ST;Totalt;Thor Heyerdahl videregående skole;398;19;26;16;7
 2024/25;TP;Totalt;Thor Heyerdahl videregående skole;103;6;3;5;4
 2024/25;Alle utdanningsprogram;Totalt;Thor Heyerdahl videregående skole;1 207;48;62;41;43
 2024/25;BA;vg 1;Thor Heyerdahl videregående skole;68;1;1;1;7
-2024/25;EL;vg 1;Thor Heyerdahl videregående skole;45;1;-;-;-
+2024/25;EL;vg 1;Thor Heyerdahl videregående skole;45;1;0;0;0
 2024/25;HS;vg 1;Thor Heyerdahl videregående skole;68;1;2;2;6
-2024/25;ID;vg 1;Thor Heyerdahl videregående skole;59;1;3;-;1
-2024/25;MD;vg 1;Thor Heyerdahl videregående skole;24;3;1;-;-
-2024/25;ME;vg 1;Thor Heyerdahl videregående skole;9;-;-;-;-
-2024/25;RM;vg 1;Thor Heyerdahl videregående skole;9;2;-;1;3
+2024/25;ID;vg 1;Thor Heyerdahl videregående skole;59;1;3;0;1
+2024/25;MD;vg 1;Thor Heyerdahl videregående skole;24;3;1;0;0
+2024/25;ME;vg 1;Thor Heyerdahl videregående skole;9;0;0;0;0
+2024/25;RM;vg 1;Thor Heyerdahl videregående skole;9;2;0;1;3
 2024/25;SR;vg 1;Thor Heyerdahl videregående skole;37;1;2;2;3
 2024/25;ST;vg 1;Thor Heyerdahl videregående skole;150;10;8;2;2
 2024/25;TP;vg 1;Thor Heyerdahl videregående skole;66;6;1;3;3
 2024/25;Alle utdanningsprogram;vg 1;Thor Heyerdahl videregående skole;535;26;18;11;25
 2024/25;BA;vg 2;Thor Heyerdahl videregående skole;26;2;1;1;1
-2024/25;EL;vg 2;Thor Heyerdahl videregående skole;40;1;-;1;-
-2024/25;HS;vg 2;Thor Heyerdahl videregående skole;54;1;2;-;3
-2024/25;ID;vg 2;Thor Heyerdahl videregående skole;52;-;4;2;1
-2024/25;MD;vg 2;Thor Heyerdahl videregående skole;18;-;1;-;-
-2024/25;ME;vg 2;Thor Heyerdahl videregående skole;13;-;1;-;-
-2024/25;RM;vg 2;Thor Heyerdahl videregående skole;9;-;-;1;1
-2024/25;SR;vg 2;Thor Heyerdahl videregående skole;34;4;-;2;3
+2024/25;EL;vg 2;Thor Heyerdahl videregående skole;40;1;0;1;0
+2024/25;HS;vg 2;Thor Heyerdahl videregående skole;54;1;2;0;3
+2024/25;ID;vg 2;Thor Heyerdahl videregående skole;52;0;4;2;1
+2024/25;MD;vg 2;Thor Heyerdahl videregående skole;18;0;1;0;0
+2024/25;ME;vg 2;Thor Heyerdahl videregående skole;13;0;1;0;0
+2024/25;RM;vg 2;Thor Heyerdahl videregående skole;9;0;0;1;1
+2024/25;SR;vg 2;Thor Heyerdahl videregående skole;34;4;0;2;3
 2024/25;ST;vg 2;Thor Heyerdahl videregående skole;119;5;11;7;2
-2024/25;TP;vg 2;Thor Heyerdahl videregående skole;37;-;2;2;1
+2024/25;TP;vg 2;Thor Heyerdahl videregående skole;37;0;2;2;1
 2024/25;Alle utdanningsprogram;vg 2;Thor Heyerdahl videregående skole;402;13;22;16;12
-2024/25;ID;vg 3;Thor Heyerdahl videregående skole;54;2;3;3;-
-2024/25;MD;vg 3;Thor Heyerdahl videregående skole;21;2;-;2;-
-2024/25;ME;vg 3;Thor Heyerdahl videregående skole;17;1;1;-;1
-2024/25;PB;vg 3;Thor Heyerdahl videregående skole;49;-;11;2;2
+2024/25;ID;vg 3;Thor Heyerdahl videregående skole;54;2;3;3;0
+2024/25;MD;vg 3;Thor Heyerdahl videregående skole;21;2;0;2;0
+2024/25;ME;vg 3;Thor Heyerdahl videregående skole;17;1;1;0;1
+2024/25;PB;vg 3;Thor Heyerdahl videregående skole;49;0;11;2;2
 2024/25;ST;vg 3;Thor Heyerdahl videregående skole;129;4;7;7;3
 2024/25;Alle utdanningsprogram;vg 3;Thor Heyerdahl videregående skole;270;9;22;14;6
-2024/25;EL;Totalt;Sandefjord videregående skole;59;1;7;-;2
+2024/25;EL;Totalt;Sandefjord videregående skole;59;1;7;0;2
 2024/25;FD;Totalt;Sandefjord videregående skole;81;7;5;8;8
 2024/25;HS;Totalt;Sandefjord videregående skole;179;6;10;14;16
 2024/25;ID;Totalt;Sandefjord videregående skole;83;2;2;4;1
-2024/25;IM;Totalt;Sandefjord videregående skole;50;-;4;3;5
+2024/25;IM;Totalt;Sandefjord videregående skole;50;0;4;3;5
 2024/25;KD;Totalt;Sandefjord videregående skole;51;5;8;3;4
 2024/25;MD;Totalt;Sandefjord videregående skole;108;10;4;7;4
-2024/25;PB;Totalt;Sandefjord videregående skole;66;-;8;1;3
+2024/25;PB;Totalt;Sandefjord videregående skole;66;0;8;1;3
 2024/25;RM;Totalt;Sandefjord videregående skole;24;1;2;1;1
 2024/25;SR;Totalt;Sandefjord videregående skole;144;1;3;8;9
 2024/25;ST;Totalt;Sandefjord videregående skole;601;33;68;37;10
 2024/25;TP;Totalt;Sandefjord videregående skole;57;3;12;9;9
 2024/25;Alle utdanningsprogram;Totalt;Sandefjord videregående skole;1 503;69;133;95;72
-2024/25;EL;vg 1;Sandefjord videregående skole;27;1;2;-;1
-2024/25;FD;vg 1;Sandefjord videregående skole;33;6;1;-;6
+2024/25;EL;vg 1;Sandefjord videregående skole;27;1;2;0;1
+2024/25;FD;vg 1;Sandefjord videregående skole;33;6;1;0;6
 2024/25;HS;vg 1;Sandefjord videregående skole;85;3;4;8;12
-2024/25;ID;vg 1;Sandefjord videregående skole;25;2;-;2;-
-2024/25;IM;vg 1;Sandefjord videregående skole;24;-;3;1;4
-2024/25;KD;vg 1;Sandefjord videregående skole;20;3;2;-;3
+2024/25;ID;vg 1;Sandefjord videregående skole;25;2;0;2;0
+2024/25;IM;vg 1;Sandefjord videregående skole;24;0;3;1;4
+2024/25;KD;vg 1;Sandefjord videregående skole;20;3;2;0;3
 2024/25;MD;vg 1;Sandefjord videregående skole;36;1;1;4;3
 2024/25;RM;vg 1;Sandefjord videregående skole;17;1;1;1;1
 2024/25;SR;vg 1;Sandefjord videregående skole;75;1;2;7;6
-2024/25;ST;vg 1;Sandefjord videregående skole;208;-;24;9;-
+2024/25;ST;vg 1;Sandefjord videregående skole;208;0;24;9;0
 2024/25;TP;vg 1;Sandefjord videregående skole;39;2;3;8;6
 2024/25;Alle utdanningsprogram;vg 1;Sandefjord videregående skole;589;20;43;40;42
-2024/25;EL;vg 2;Sandefjord videregående skole;24;-;4;-;-
-2024/25;FD;vg 2;Sandefjord videregående skole;30;1;4;7;-
+2024/25;EL;vg 2;Sandefjord videregående skole;24;0;4;0;0
+2024/25;FD;vg 2;Sandefjord videregående skole;30;1;4;7;0
 2024/25;HS;vg 2;Sandefjord videregående skole;80;3;5;6;2
-2024/25;ID;vg 2;Sandefjord videregående skole;30;-;1;-;-
-2024/25;IM;vg 2;Sandefjord videregående skole;26;-;1;2;1
-2024/25;KD;vg 2;Sandefjord videregående skole;13;-;4;1;1
-2024/25;MD;vg 2;Sandefjord videregående skole;34;3;3;2;-
-2024/25;RM;vg 2;Sandefjord videregående skole;7;-;1;-;-
-2024/25;SR;vg 2;Sandefjord videregående skole;69;-;1;1;3
+2024/25;ID;vg 2;Sandefjord videregående skole;30;0;1;0;0
+2024/25;IM;vg 2;Sandefjord videregående skole;26;0;1;2;1
+2024/25;KD;vg 2;Sandefjord videregående skole;13;0;4;1;1
+2024/25;MD;vg 2;Sandefjord videregående skole;34;3;3;2;0
+2024/25;RM;vg 2;Sandefjord videregående skole;7;0;1;0;0
+2024/25;SR;vg 2;Sandefjord videregående skole;69;0;1;1;3
 2024/25;ST;vg 2;Sandefjord videregående skole;161;26;22;17;4
 2024/25;TP;vg 2;Sandefjord videregående skole;18;1;9;1;3
 2024/25;Alle utdanningsprogram;vg 2;Sandefjord videregående skole;492;34;55;37;14
-2024/25;EL;vg 3;Sandefjord videregående skole;8;-;1;-;1
-2024/25;FD;vg 3;Sandefjord videregående skole;18;-;-;1;2
-2024/25;HS;vg 3;Sandefjord videregående skole;14;-;1;-;2
-2024/25;ID;vg 3;Sandefjord videregående skole;28;-;1;2;1
-2024/25;KD;vg 3;Sandefjord videregående skole;18;2;2;2;-
-2024/25;MD;vg 3;Sandefjord videregående skole;38;6;-;1;1
-2024/25;PB;vg 3;Sandefjord videregående skole;66;-;8;1;3
+2024/25;EL;vg 3;Sandefjord videregående skole;8;0;1;0;1
+2024/25;FD;vg 3;Sandefjord videregående skole;18;0;0;1;2
+2024/25;HS;vg 3;Sandefjord videregående skole;14;0;1;0;2
+2024/25;ID;vg 3;Sandefjord videregående skole;28;0;1;2;1
+2024/25;KD;vg 3;Sandefjord videregående skole;18;2;2;2;0
+2024/25;MD;vg 3;Sandefjord videregående skole;38;6;0;1;1
+2024/25;PB;vg 3;Sandefjord videregående skole;66;0;8;1;3
 2024/25;ST;vg 3;Sandefjord videregående skole;232;7;22;11;6
 2024/25;Alle utdanningsprogram;vg 3;Sandefjord videregående skole;422;15;35;18;16
-2024/25;EL;Totalt;Sande videregående skole;41;1;1;-;1
+2024/25;EL;Totalt;Sande videregående skole;41;1;1;0;1
 2024/25;HS;Totalt;Sande videregående skole;59;5;6;3;5
 2024/25;ID;Totalt;Sande videregående skole;50;4;7;3;1
-2024/25;PB;Totalt;Sande videregående skole;10;-;-;1;-
+2024/25;PB;Totalt;Sande videregående skole;10;0;0;1;0
 2024/25;ST;Totalt;Sande videregående skole;107;7;5;5;2
 2024/25;TP;Totalt;Sande videregående skole;36;3;1;4;2
 2024/25;Alle utdanningsprogram;Totalt;Sande videregående skole;303;20;20;16;11
-2024/25;EL;vg 1;Sande videregående skole;26;-;1;-;1
+2024/25;EL;vg 1;Sande videregående skole;26;0;1;0;1
 2024/25;HS;vg 1;Sande videregående skole;36;5;6;2;4
-2024/25;ID;vg 1;Sande videregående skole;25;2;3;-;-
-2024/25;ST;vg 1;Sande videregående skole;27;3;-;-;1
+2024/25;ID;vg 1;Sande videregående skole;25;2;3;0;0
+2024/25;ST;vg 1;Sande videregående skole;27;3;0;0;1
 2024/25;TP;vg 1;Sande videregående skole;19;3;1;3;1
 2024/25;Alle utdanningsprogram;vg 1;Sande videregående skole;133;13;11;5;7
-2024/25;EL;vg 2;Sande videregående skole;15;1;-;-;-
-2024/25;HS;vg 2;Sande videregående skole;23;-;-;1;1
-2024/25;ID;vg 2;Sande videregående skole;8;2;3;2;-
+2024/25;EL;vg 2;Sande videregående skole;15;1;0;0;0
+2024/25;HS;vg 2;Sande videregående skole;23;0;0;1;1
+2024/25;ID;vg 2;Sande videregående skole;8;2;3;2;0
 2024/25;ST;vg 2;Sande videregående skole;47;3;2;4;1
-2024/25;TP;vg 2;Sande videregående skole;17;-;-;1;1
+2024/25;TP;vg 2;Sande videregående skole;17;0;0;1;1
 2024/25;Alle utdanningsprogram;vg 2;Sande videregående skole;110;6;5;8;3
-2024/25;ID;vg 3;Sande videregående skole;17;-;1;1;1
-2024/25;PB;vg 3;Sande videregående skole;10;-;-;1;-
-2024/25;ST;vg 3;Sande videregående skole;33;1;3;1;-
+2024/25;ID;vg 3;Sande videregående skole;17;0;1;1;1
+2024/25;PB;vg 3;Sande videregående skole;10;0;0;1;0
+2024/25;ST;vg 3;Sande videregående skole;33;1;3;1;0
 2024/25;Alle utdanningsprogram;vg 3;Sande videregående skole;60;1;4;3;1
 2024/25;BA;Totalt;Re videregående skole;134;3;8;1;5
-2024/25;HS;Totalt;Re videregående skole;115;11;1;-;1
-2024/25;ID;Totalt;Re videregående skole;161;1;4;2;-
-2024/25;PB;Totalt;Re videregående skole;28;1;2;1;-
+2024/25;HS;Totalt;Re videregående skole;115;11;1;0;1
+2024/25;ID;Totalt;Re videregående skole;161;1;4;2;0
+2024/25;PB;Totalt;Re videregående skole;28;1;2;1;0
 2024/25;ST;Totalt;Re videregående skole;253;4;14;12;3
 2024/25;Alle utdanningsprogram;Totalt;Re videregående skole;691;20;29;16;9
-2024/25;BA;vg 1;Re videregående skole;72;2;5;-;1
-2024/25;HS;vg 1;Re videregående skole;66;8;-;-;-
-2024/25;ID;vg 1;Re videregående skole;59;1;-;-;-
+2024/25;BA;vg 1;Re videregående skole;72;2;5;0;1
+2024/25;HS;vg 1;Re videregående skole;66;8;0;0;0
+2024/25;ID;vg 1;Re videregående skole;59;1;0;0;0
 2024/25;ST;vg 1;Re videregående skole;113;3;3;1;1
 2024/25;Alle utdanningsprogram;vg 1;Re videregående skole;310;14;8;1;2
 2024/25;BA;vg 2;Re videregående skole;62;1;3;1;4
-2024/25;HS;vg 2;Re videregående skole;49;3;1;-;1
-2024/25;ID;vg 2;Re videregående skole;50;-;1;2;-
+2024/25;HS;vg 2;Re videregående skole;49;3;1;0;1
+2024/25;ID;vg 2;Re videregående skole;50;0;1;2;0
 2024/25;ST;vg 2;Re videregående skole;72;1;4;6;1
 2024/25;Alle utdanningsprogram;vg 2;Re videregående skole;233;5;9;9;6
-2024/25;ID;vg 3;Re videregående skole;52;-;3;-;-
-2024/25;PB;vg 3;Re videregående skole;28;1;2;1;-
-2024/25;ST;vg 3;Re videregående skole;68;-;7;5;1
+2024/25;ID;vg 3;Re videregående skole;52;0;3;0;0
+2024/25;PB;vg 3;Re videregående skole;28;1;2;1;0
+2024/25;ST;vg 3;Re videregående skole;68;0;7;5;1
 2024/25;Alle utdanningsprogram;vg 3;Re videregående skole;148;1;12;6;1
 2024/25;HS;Totalt;Nøtterøy videregående skole;71;6;16;5;8
-2024/25;PB;Totalt;Nøtterøy videregående skole;13;-;-;-;1
+2024/25;PB;Totalt;Nøtterøy videregående skole;13;0;0;0;1
 2024/25;ST;Totalt;Nøtterøy videregående skole;390;8;13;19;8
 2024/25;Alle utdanningsprogram;Totalt;Nøtterøy videregående skole;474;14;29;24;17
 2024/25;HS;vg 1;Nøtterøy videregående skole;31;6;11;3;4
 2024/25;ST;vg 1;Nøtterøy videregående skole;124;1;7;9;3
 2024/25;Alle utdanningsprogram;vg 1;Nøtterøy videregående skole;155;7;18;12;7
-2024/25;HS;vg 2;Nøtterøy videregående skole;34;-;5;2;4
+2024/25;HS;vg 2;Nøtterøy videregående skole;34;0;5;2;4
 2024/25;ST;vg 2;Nøtterøy videregående skole;119;4;4;3;3
 2024/25;Alle utdanningsprogram;vg 2;Nøtterøy videregående skole;153;4;9;5;7
-2024/25;HS;vg 3;Nøtterøy videregående skole;6;-;-;-;-
-2024/25;PB;vg 3;Nøtterøy videregående skole;13;-;-;-;1
+2024/25;HS;vg 3;Nøtterøy videregående skole;6;0;0;0;0
+2024/25;PB;vg 3;Nøtterøy videregående skole;13;0;0;0;1
 2024/25;ST;vg 3;Nøtterøy videregående skole;147;3;2;7;2
 2024/25;Alle utdanningsprogram;vg 3;Nøtterøy videregående skole;166;3;2;7;3
-2024/25;ME;Totalt;Melsom videregående skole;14;3;-;3;1
+2024/25;ME;Totalt;Melsom videregående skole;14;3;0;3;1
 2024/25;NA;Totalt;Melsom videregående skole;71;7;3;11;2
-2024/25;PB;Totalt;Melsom videregående skole;19;2;3;-;-
-2024/25;SR;Totalt;Melsom videregående skole;11;-;2;1;3
-2024/25;ST;Totalt;Melsom videregående skole;38;1;1;1;-
+2024/25;PB;Totalt;Melsom videregående skole;19;2;3;0;0
+2024/25;SR;Totalt;Melsom videregående skole;11;0;2;1;3
+2024/25;ST;Totalt;Melsom videregående skole;38;1;1;1;0
 2024/25;Alle utdanningsprogram;Totalt;Melsom videregående skole;153;13;9;16;6
-2024/25;ME;vg 1;Melsom videregående skole;4;1;-;3;1
+2024/25;ME;vg 1;Melsom videregående skole;4;1;0;3;1
 2024/25;NA;vg 1;Melsom videregående skole;29;3;2;7;1
-2024/25;SR;vg 1;Melsom videregående skole;11;-;2;1;3
-2024/25;ST;vg 1;Melsom videregående skole;20;-;-;-;-
+2024/25;SR;vg 1;Melsom videregående skole;11;0;2;1;3
+2024/25;ST;vg 1;Melsom videregående skole;20;0;0;0;0
 2024/25;Alle utdanningsprogram;vg 1;Melsom videregående skole;64;4;4;11;5
-2024/25;ME;vg 2;Melsom videregående skole;6;1;-;-;-
-2024/25;NA;vg 2;Melsom videregående skole;35;4;1;3;-
-2024/25;ST;vg 2;Melsom videregående skole;10;1;1;1;-
-2024/25;Alle utdanningsprogram;vg 2;Melsom videregående skole;51;6;2;4;-
-2024/25;ME;vg 3;Melsom videregående skole;4;1;-;-;-
-2024/25;NA;vg 3;Melsom videregående skole;7;-;-;1;1
-2024/25;PB;vg 3;Melsom videregående skole;19;2;3;-;-
-2024/25;ST;vg 3;Melsom videregående skole;8;-;-;-;-
+2024/25;ME;vg 2;Melsom videregående skole;6;1;0;0;0
+2024/25;NA;vg 2;Melsom videregående skole;35;4;1;3;0
+2024/25;ST;vg 2;Melsom videregående skole;10;1;1;1;0
+2024/25;Alle utdanningsprogram;vg 2;Melsom videregående skole;51;6;2;4;0
+2024/25;ME;vg 3;Melsom videregående skole;4;1;0;0;0
+2024/25;NA;vg 3;Melsom videregående skole;7;0;0;1;1
+2024/25;PB;vg 3;Melsom videregående skole;19;2;3;0;0
+2024/25;ST;vg 3;Melsom videregående skole;8;0;0;0;0
 2024/25;Alle utdanningsprogram;vg 3;Melsom videregående skole;38;3;3;1;1
-2024/25;HS;Totalt;Karriere- og Kompetansesenteret i Vestfold;-;-;-;-;1
-2024/25;Alle utdanningsprogram;Totalt;Karriere- og Kompetansesenteret i Vestfold;-;-;-;-;1
-2024/25;HS;vg 3;Karriere- og Kompetansesenteret i Vestfold;-;-;-;-;1
-2024/25;Alle utdanningsprogram;vg 3;Karriere- og Kompetansesenteret i Vestfold;-;-;-;-;1
-2024/25;EL;Totalt;Horten videregående skole;62;-;6;9;1
+2024/25;HS;Totalt;Karriere- og Kompetansesenteret i Vestfold;0;0;0;0;1
+2024/25;Alle utdanningsprogram;Totalt;Karriere- og Kompetansesenteret i Vestfold;0;0;0;0;1
+2024/25;HS;vg 3;Karriere- og Kompetansesenteret i Vestfold;0;0;0;0;1
+2024/25;Alle utdanningsprogram;vg 3;Karriere- og Kompetansesenteret i Vestfold;0;0;0;0;1
+2024/25;EL;Totalt;Horten videregående skole;62;0;6;9;1
 2024/25;FD;Totalt;Horten videregående skole;37;3;4;2;5
 2024/25;HS;Totalt;Horten videregående skole;113;3;10;10;3
 2024/25;ID;Totalt;Horten videregående skole;76;1;5;3;2
-2024/25;IM;Totalt;Horten videregående skole;22;2;-;1;2
+2024/25;IM;Totalt;Horten videregående skole;22;2;0;1;2
 2024/25;ME;Totalt;Horten videregående skole;62;1;5;6;1
 2024/25;PB;Totalt;Horten videregående skole;39;3;7;8;1
-2024/25;SR;Totalt;Horten videregående skole;33;-;1;1;2
+2024/25;SR;Totalt;Horten videregående skole;33;0;1;1;2
 2024/25;ST;Totalt;Horten videregående skole;383;11;16;14;7
 2024/25;TP;Totalt;Horten videregående skole;24;2;4;6;2
 2024/25;Alle utdanningsprogram;Totalt;Horten videregående skole;851;26;58;60;26
-2024/25;EL;vg 1;Horten videregående skole;25;-;4;2;1
+2024/25;EL;vg 1;Horten videregående skole;25;0;4;2;1
 2024/25;FD;vg 1;Horten videregående skole;25;1;4;1;4
 2024/25;HS;vg 1;Horten videregående skole;62;1;7;6;2
-2024/25;ID;vg 1;Horten videregående skole;29;1;-;-;-
-2024/25;IM;vg 1;Horten videregående skole;11;2;-;1;2
-2024/25;ME;vg 1;Horten videregående skole;23;-;-;5;1
-2024/25;SR;vg 1;Horten videregående skole;15;-;1;1;2
+2024/25;ID;vg 1;Horten videregående skole;29;1;0;0;0
+2024/25;IM;vg 1;Horten videregående skole;11;2;0;1;2
+2024/25;ME;vg 1;Horten videregående skole;23;0;0;5;1
+2024/25;SR;vg 1;Horten videregående skole;15;0;1;1;2
 2024/25;ST;vg 1;Horten videregående skole;136;1;2;3;1
 2024/25;TP;vg 1;Horten videregående skole;15;2;4;1;1
 2024/25;Alle utdanningsprogram;vg 1;Horten videregående skole;341;8;22;20;14
-2024/25;EL;vg 2;Horten videregående skole;26;-;-;7;-
-2024/25;FD;vg 2;Horten videregående skole;12;2;-;1;1
+2024/25;EL;vg 2;Horten videregående skole;26;0;0;7;0
+2024/25;FD;vg 2;Horten videregående skole;12;2;0;1;1
 2024/25;HS;vg 2;Horten videregående skole;51;2;3;4;1
-2024/25;ID;vg 2;Horten videregående skole;21;-;4;2;2
-2024/25;IM;vg 2;Horten videregående skole;11;-;-;-;-
-2024/25;ME;vg 2;Horten videregående skole;21;-;3;1;-
-2024/25;SR;vg 2;Horten videregående skole;18;-;-;-;-
+2024/25;ID;vg 2;Horten videregående skole;21;0;4;2;2
+2024/25;IM;vg 2;Horten videregående skole;11;0;0;0;0
+2024/25;ME;vg 2;Horten videregående skole;21;0;3;1;0
+2024/25;SR;vg 2;Horten videregående skole;18;0;0;0;0
 2024/25;ST;vg 2;Horten videregående skole;129;3;5;5;2
-2024/25;TP;vg 2;Horten videregående skole;9;-;-;5;1
+2024/25;TP;vg 2;Horten videregående skole;9;0;0;5;1
 2024/25;Alle utdanningsprogram;vg 2;Horten videregående skole;298;7;15;25;7
-2024/25;EL;vg 3;Horten videregående skole;11;-;2;-;-
-2024/25;ID;vg 3;Horten videregående skole;26;-;1;1;-
-2024/25;ME;vg 3;Horten videregående skole;18;1;2;-;-
+2024/25;EL;vg 3;Horten videregående skole;11;0;2;0;0
+2024/25;ID;vg 3;Horten videregående skole;26;0;1;1;0
+2024/25;ME;vg 3;Horten videregående skole;18;1;2;0;0
 2024/25;PB;vg 3;Horten videregående skole;39;3;7;8;1
 2024/25;ST;vg 3;Horten videregående skole;118;7;9;6;4
 2024/25;Alle utdanningsprogram;vg 3;Horten videregående skole;212;11;21;15;5
 2024/25;HS;Totalt;Holmestrand videregående skole;30;4;2;1;6
-2024/25;PB;Totalt;Holmestrand videregående skole;17;1;7;-;2
-2024/25;RM;Totalt;Holmestrand videregående skole;12;-;2;2;1
+2024/25;PB;Totalt;Holmestrand videregående skole;17;1;7;0;2
+2024/25;RM;Totalt;Holmestrand videregående skole;12;0;2;2;1
 2024/25;ST;Totalt;Holmestrand videregående skole;80;10;9;8;6
-2024/25;TP;Totalt;Holmestrand videregående skole;22;2;-;4;3
+2024/25;TP;Totalt;Holmestrand videregående skole;22;2;0;4;3
 2024/25;Alle utdanningsprogram;Totalt;Holmestrand videregående skole;161;17;20;15;18
 2024/25;HS;vg 1;Holmestrand videregående skole;21;3;1;1;5
-2024/25;RM;vg 1;Holmestrand videregående skole;6;-;1;1;1
+2024/25;RM;vg 1;Holmestrand videregående skole;6;0;1;1;1
 2024/25;ST;vg 1;Holmestrand videregående skole;35;4;1;6;3
-2024/25;TP;vg 1;Holmestrand videregående skole;22;2;-;4;3
+2024/25;TP;vg 1;Holmestrand videregående skole;22;2;0;4;3
 2024/25;Alle utdanningsprogram;vg 1;Holmestrand videregående skole;84;9;3;12;12
-2024/25;HS;vg 2;Holmestrand videregående skole;9;1;1;-;1
-2024/25;RM;vg 2;Holmestrand videregående skole;6;-;1;1;-
+2024/25;HS;vg 2;Holmestrand videregående skole;9;1;1;0;1
+2024/25;RM;vg 2;Holmestrand videregående skole;6;0;1;1;0
 2024/25;ST;vg 2;Holmestrand videregående skole;23;1;6;1;1
 2024/25;Alle utdanningsprogram;vg 2;Holmestrand videregående skole;38;2;8;2;2
-2024/25;PB;vg 3;Holmestrand videregående skole;17;1;7;-;2
+2024/25;PB;vg 3;Holmestrand videregående skole;17;1;7;0;2
 2024/25;ST;vg 3;Holmestrand videregående skole;22;5;2;1;2
 2024/25;Alle utdanningsprogram;vg 3;Holmestrand videregående skole;39;6;9;1;4
 2024/25;IM;Totalt;Greveskogen videregående skole;46;9;4;2;2
-2024/25;MD;Totalt;Greveskogen videregående skole;57;6;3;6;-
+2024/25;MD;Totalt;Greveskogen videregående skole;57;6;3;6;0
 2024/25;RM;Totalt;Greveskogen videregående skole;41;6;2;8;5
 2024/25;SR;Totalt;Greveskogen videregående skole;54;9;4;8;3
 2024/25;ST;Totalt;Greveskogen videregående skole;454;23;60;24;6
 2024/25;Alle utdanningsprogram;Totalt;Greveskogen videregående skole;652;53;73;48;16
-2024/25;IM;vg 1;Greveskogen videregående skole;19;9;2;1;-
-2024/25;MD;vg 1;Greveskogen videregående skole;23;4;1;3;-
+2024/25;IM;vg 1;Greveskogen videregående skole;19;9;2;1;0
+2024/25;MD;vg 1;Greveskogen videregående skole;23;4;1;3;0
 2024/25;RM;vg 1;Greveskogen videregående skole;18;6;1;7;4
 2024/25;SR;vg 1;Greveskogen videregående skole;27;9;4;5;1
 2024/25;ST;vg 1;Greveskogen videregående skole;151;15;12;3;4
 2024/25;Alle utdanningsprogram;vg 1;Greveskogen videregående skole;238;43;20;19;9
-2024/25;IM;vg 2;Greveskogen videregående skole;27;-;2;1;2
-2024/25;MD;vg 2;Greveskogen videregående skole;17;2;1;1;-
-2024/25;RM;vg 2;Greveskogen videregående skole;23;-;1;1;1
-2024/25;SR;vg 2;Greveskogen videregående skole;27;-;-;3;2
+2024/25;IM;vg 2;Greveskogen videregående skole;27;0;2;1;2
+2024/25;MD;vg 2;Greveskogen videregående skole;17;2;1;1;0
+2024/25;RM;vg 2;Greveskogen videregående skole;23;0;1;1;1
+2024/25;SR;vg 2;Greveskogen videregående skole;27;0;0;3;2
 2024/25;ST;vg 2;Greveskogen videregående skole;151;2;33;8;1
 2024/25;Alle utdanningsprogram;vg 2;Greveskogen videregående skole;245;4;37;14;6
-2024/25;MD;vg 3;Greveskogen videregående skole;17;-;1;2;-
+2024/25;MD;vg 3;Greveskogen videregående skole;17;0;1;2;0
 2024/25;ST;vg 3;Greveskogen videregående skole;152;6;15;13;1
 2024/25;Alle utdanningsprogram;vg 3;Greveskogen videregående skole;169;6;16;15;1
 2024/25;BA;Totalt;Færder videregående skole;97;8;11;9;10
@@ -306,16 +306,16 @@ Skoleår;Utdanningsprogram;Nivå;Skole;B;H;I;M;S
 2024/25;TP;Totalt;Færder videregående skole;124;14;5;7;12
 2024/25;Alle utdanningsprogram;Totalt;Færder videregående skole;520;38;40;32;35
 2024/25;BA;vg 1;Færder videregående skole;46;8;7;6;6
-2024/25;EL;vg 1;Færder videregående skole;61;1;-;-;-
-2024/25;KD;vg 1;Færder videregående skole;23;2;-;2;1
+2024/25;EL;vg 1;Færder videregående skole;61;1;0;0;0
+2024/25;KD;vg 1;Færder videregående skole;23;2;0;2;1
 2024/25;TP;vg 1;Færder videregående skole;48;8;4;3;9
 2024/25;Alle utdanningsprogram;vg 1;Færder videregående skole;178;19;11;11;16
-2024/25;BA;vg 2;Færder videregående skole;51;-;4;3;4
-2024/25;EL;vg 2;Færder videregående skole;39;3;1;-;3
-2024/25;KD;vg 2;Færder videregående skole;23;2;1;2;-
+2024/25;BA;vg 2;Færder videregående skole;51;0;4;3;4
+2024/25;EL;vg 2;Færder videregående skole;39;3;1;0;3
+2024/25;KD;vg 2;Færder videregående skole;23;2;1;2;0
 2024/25;TP;vg 2;Færder videregående skole;76;6;1;4;3
 2024/25;Alle utdanningsprogram;vg 2;Færder videregående skole;189;11;7;9;10
-2024/25;EL;vg 3;Færder videregående skole;13;-;2;1;-
+2024/25;EL;vg 3;Færder videregående skole;13;0;2;1;0
 2024/25;KD;vg 3;Færder videregående skole;32;3;2;5;1
 2024/25;PB;vg 3;Færder videregående skole;108;5;18;6;8
 2024/25;Alle utdanningsprogram;vg 3;Færder videregående skole;153;8;22;12;9
