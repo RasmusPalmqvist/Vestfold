@@ -1,0 +1,201 @@
+År;Utdanningsprogram;Spoersmaalgruppekode;Spoersmaalkode;SvaralternativKode;Avgiver_Fylkenavn;Spoersmaalgruppe;Spoersmaalnavn;SvaralternativNavn;Antall;Snitt
+2023-24;Alle utdanningsprogram;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Hele landet;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;13 223;3,5
+2023-24;Alle utdanningsprogram;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Hele landet;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;13 354;4
+2023-24;Alle utdanningsprogram;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Hele landet;Trivsel;Trives du på arbeidsplassen?;Alle svar;13 329;4,2
+2023-24;Alle utdanningsprogram;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Hele landet;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;13 309;4
+2023-24;Alle utdanningsprogram;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Hele landet;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;13 309;3,9
+2023-24;Alle utdanningsprogram;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Vestfold;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;614;3,4
+2023-24;Alle utdanningsprogram;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Vestfold;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;620;4
+2023-24;Alle utdanningsprogram;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Vestfold;Trivsel;Trives du på arbeidsplassen?;Alle svar;617;4,2
+2023-24;Alle utdanningsprogram;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Vestfold;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;620;4
+2023-24;Alle utdanningsprogram;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Vestfold;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;622;3,9
+2023-24;Bygg- og anleggsteknikk;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Hele landet;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;2 901;3,4
+2023-24;Bygg- og anleggsteknikk;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Hele landet;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;2 976;4
+2023-24;Bygg- og anleggsteknikk;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Hele landet;Trivsel;Trives du på arbeidsplassen?;Alle svar;2 966;4,2
+2023-24;Bygg- og anleggsteknikk;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Hele landet;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;2 966;4
+2023-24;Bygg- og anleggsteknikk;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Hele landet;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;2 969;3,9
+2023-24;Bygg- og anleggsteknikk;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Vestfold;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;141;3,2
+2023-24;Bygg- og anleggsteknikk;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Vestfold;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;146;4
+2023-24;Bygg- og anleggsteknikk;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Vestfold;Trivsel;Trives du på arbeidsplassen?;Alle svar;146;4,1
+2023-24;Bygg- og anleggsteknikk;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Vestfold;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;146;3,9
+2023-24;Bygg- og anleggsteknikk;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Vestfold;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;148;3,9
+2023-24;Elektro og datateknologi;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Hele landet;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;3 125;3,4
+2023-24;Elektro og datateknologi;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Hele landet;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;3 128;4
+2023-24;Elektro og datateknologi;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Hele landet;Trivsel;Trives du på arbeidsplassen?;Alle svar;3 118;4,3
+2023-24;Elektro og datateknologi;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Hele landet;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;3 114;4
+2023-24;Elektro og datateknologi;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Hele landet;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;3 123;4
+2023-24;Elektro og datateknologi;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Vestfold;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;82;3,3
+2023-24;Elektro og datateknologi;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Vestfold;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;82;4
+2023-24;Elektro og datateknologi;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Vestfold;Trivsel;Trives du på arbeidsplassen?;Alle svar;83;4,4
+2023-24;Elektro og datateknologi;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Vestfold;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;83;4,2
+2023-24;Elektro og datateknologi;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Vestfold;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;82;4
+2023-24;Frisør, blomster, interiør og eksponeringsdesign;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Hele landet;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;167;3,7
+2023-24;Frisør, blomster, interiør og eksponeringsdesign;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Hele landet;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;167;4
+2023-24;Frisør, blomster, interiør og eksponeringsdesign;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Hele landet;Trivsel;Trives du på arbeidsplassen?;Alle svar;167;4,1
+2023-24;Frisør, blomster, interiør og eksponeringsdesign;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Hele landet;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;167;4
+2023-24;Frisør, blomster, interiør og eksponeringsdesign;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Hele landet;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;169;4,2
+2023-24;Frisør, blomster, interiør og eksponeringsdesign;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Vestfold;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;14;3,6
+2023-24;Frisør, blomster, interiør og eksponeringsdesign;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Vestfold;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;14;4,1
+2023-24;Frisør, blomster, interiør og eksponeringsdesign;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Vestfold;Trivsel;Trives du på arbeidsplassen?;Alle svar;*;*
+2023-24;Frisør, blomster, interiør og eksponeringsdesign;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Vestfold;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;14;4,4
+2023-24;Frisør, blomster, interiør og eksponeringsdesign;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Vestfold;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;14;4,1
+2023-24;Helse- og oppvekstfag;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Hele landet;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;2 119;3,9
+2023-24;Helse- og oppvekstfag;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Hele landet;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;2 127;4,1
+2023-24;Helse- og oppvekstfag;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Hele landet;Trivsel;Trives du på arbeidsplassen?;Alle svar;2 133;4,1
+2023-24;Helse- og oppvekstfag;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Hele landet;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;2 126;3,9
+2023-24;Helse- og oppvekstfag;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Hele landet;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;2 113;3,8
+2023-24;Helse- og oppvekstfag;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Vestfold;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;74;3,6
+2023-24;Helse- og oppvekstfag;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Vestfold;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;73;3,9
+2023-24;Helse- og oppvekstfag;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Vestfold;Trivsel;Trives du på arbeidsplassen?;Alle svar;74;4,1
+2023-24;Helse- og oppvekstfag;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Vestfold;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;74;3,9
+2023-24;Helse- og oppvekstfag;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Vestfold;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;73;3,7
+2023-24;Informasjonsteknologi og medieproduksjon;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Hele landet;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;396;3,4
+2023-24;Informasjonsteknologi og medieproduksjon;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Hele landet;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;397;3,9
+2023-24;Informasjonsteknologi og medieproduksjon;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Hele landet;Trivsel;Trives du på arbeidsplassen?;Alle svar;391;4,3
+2023-24;Informasjonsteknologi og medieproduksjon;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Hele landet;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;390;3,8
+2023-24;Informasjonsteknologi og medieproduksjon;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Hele landet;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;396;4
+2023-24;Informasjonsteknologi og medieproduksjon;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Vestfold;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;*;*
+2023-24;Informasjonsteknologi og medieproduksjon;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Vestfold;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;*;*
+2023-24;Informasjonsteknologi og medieproduksjon;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Vestfold;Trivsel;Trives du på arbeidsplassen?;Alle svar;23;4,3
+2023-24;Informasjonsteknologi og medieproduksjon;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Vestfold;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;24;4
+2023-24;Informasjonsteknologi og medieproduksjon;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Vestfold;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;24;4,3
+2023-24;Naturbruk;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Hele landet;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;419;3,6
+2023-24;Naturbruk;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Hele landet;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;423;4,3
+2023-24;Naturbruk;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Hele landet;Trivsel;Trives du på arbeidsplassen?;Alle svar;424;4,4
+2023-24;Naturbruk;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Hele landet;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;424;4,2
+2023-24;Naturbruk;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Hele landet;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;422;3,9
+2023-24;Naturbruk;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Vestfold;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;15;3,5
+2023-24;Naturbruk;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Vestfold;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;15;4,1
+2023-24;Naturbruk;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Vestfold;Trivsel;Trives du på arbeidsplassen?;Alle svar;16;3,9
+2023-24;Naturbruk;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Vestfold;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;16;3,8
+2023-24;Naturbruk;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Vestfold;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;16;3,6
+2023-24;Restaurant- og matfag;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Hele landet;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;520;3,6
+2023-24;Restaurant- og matfag;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Hele landet;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;524;3,7
+2023-24;Restaurant- og matfag;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Hele landet;Trivsel;Trives du på arbeidsplassen?;Alle svar;524;3,9
+2023-24;Restaurant- og matfag;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Hele landet;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;522;3,8
+2023-24;Restaurant- og matfag;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Hele landet;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;520;3,9
+2023-24;Restaurant- og matfag;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Vestfold;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;43;3,5
+2023-24;Restaurant- og matfag;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Vestfold;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;44;3,9
+2023-24;Restaurant- og matfag;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Vestfold;Trivsel;Trives du på arbeidsplassen?;Alle svar;43;4,1
+2023-24;Restaurant- og matfag;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Vestfold;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;42;4
+2023-24;Restaurant- og matfag;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Vestfold;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;43;4,1
+2023-24;Salg, service og reiseliv;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Hele landet;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;602;3,5
+2023-24;Salg, service og reiseliv;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Hele landet;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;604;3,9
+2023-24;Salg, service og reiseliv;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Hele landet;Trivsel;Trives du på arbeidsplassen?;Alle svar;600;4,1
+2023-24;Salg, service og reiseliv;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Hele landet;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;601;3,8
+2023-24;Salg, service og reiseliv;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Hele landet;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;602;3,8
+2023-24;Salg, service og reiseliv;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Vestfold;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;42;3,4
+2023-24;Salg, service og reiseliv;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Vestfold;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;42;3,8
+2023-24;Salg, service og reiseliv;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Vestfold;Trivsel;Trives du på arbeidsplassen?;Alle svar;41;4,2
+2023-24;Salg, service og reiseliv;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Vestfold;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;41;3,9
+2023-24;Salg, service og reiseliv;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Vestfold;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;42;3,9
+2023-24;Teknologi- og industrifag;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Hele landet;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;2 555;3,5
+2023-24;Teknologi- og industrifag;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Hele landet;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;2 578;4
+2023-24;Teknologi- og industrifag;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Hele landet;Trivsel;Trives du på arbeidsplassen?;Alle svar;2 574;4,3
+2023-24;Teknologi- og industrifag;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Hele landet;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;2 566;4
+2023-24;Teknologi- og industrifag;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Hele landet;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;2 567;3,9
+2023-24;Teknologi- og industrifag;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Vestfold;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;143;3,3
+2023-24;Teknologi- og industrifag;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Vestfold;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;144;3,9
+2023-24;Teknologi- og industrifag;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Vestfold;Trivsel;Trives du på arbeidsplassen?;Alle svar;143;4
+2023-24;Teknologi- og industrifag;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Vestfold;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;144;3,9
+2023-24;Teknologi- og industrifag;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Vestfold;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;144;3,9
+2024-25;Alle utdanningsprogram;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Hele landet;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;10 401;3,5
+2024-25;Alle utdanningsprogram;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Hele landet;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;10 475;4
+2024-25;Alle utdanningsprogram;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Hele landet;Trivsel;Trives du på arbeidsplassen?;Alle svar;10 476;4,3
+2024-25;Alle utdanningsprogram;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Hele landet;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;10 466;4
+2024-25;Alle utdanningsprogram;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Hele landet;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;10 448;4
+2024-25;Alle utdanningsprogram;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Vestfold;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;425;3,4
+2024-25;Alle utdanningsprogram;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Vestfold;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;430;3,9
+2024-25;Alle utdanningsprogram;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Vestfold;Trivsel;Trives du på arbeidsplassen?;Alle svar;430;4,2
+2024-25;Alle utdanningsprogram;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Vestfold;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;429;3,9
+2024-25;Alle utdanningsprogram;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Vestfold;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;429;3,9
+2024-25;Bygg- og anleggsteknikk;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Hele landet;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;2 130;3,4
+2024-25;Bygg- og anleggsteknikk;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Hele landet;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;2 169;4,1
+2024-25;Bygg- og anleggsteknikk;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Hele landet;Trivsel;Trives du på arbeidsplassen?;Alle svar;2 170;4,3
+2024-25;Bygg- og anleggsteknikk;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Hele landet;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;2 171;4,1
+2024-25;Bygg- og anleggsteknikk;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Hele landet;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;2 163;4
+2024-25;Bygg- og anleggsteknikk;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Vestfold;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;123;3,4
+2024-25;Bygg- og anleggsteknikk;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Vestfold;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;126;4,1
+2024-25;Bygg- og anleggsteknikk;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Vestfold;Trivsel;Trives du på arbeidsplassen?;Alle svar;126;4,3
+2024-25;Bygg- og anleggsteknikk;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Vestfold;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;126;4,1
+2024-25;Bygg- og anleggsteknikk;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Vestfold;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;126;3,9
+2024-25;Elektro og datateknologi;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Hele landet;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;2 281;3,5
+2024-25;Elektro og datateknologi;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Hele landet;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;2 288;4
+2024-25;Elektro og datateknologi;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Hele landet;Trivsel;Trives du på arbeidsplassen?;Alle svar;2 285;4,3
+2024-25;Elektro og datateknologi;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Hele landet;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;2 282;4
+2024-25;Elektro og datateknologi;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Hele landet;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;2 281;4
+2024-25;Elektro og datateknologi;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Vestfold;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;56;3,3
+2024-25;Elektro og datateknologi;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Vestfold;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;56;4,1
+2024-25;Elektro og datateknologi;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Vestfold;Trivsel;Trives du på arbeidsplassen?;Alle svar;56;4,3
+2024-25;Elektro og datateknologi;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Vestfold;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;56;3,8
+2024-25;Elektro og datateknologi;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Vestfold;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;56;3,9
+2024-25;Frisør, blomster, interiør og eksponeringsdesign;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Hele landet;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;183;3,6
+2024-25;Frisør, blomster, interiør og eksponeringsdesign;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Hele landet;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;186;4
+2024-25;Frisør, blomster, interiør og eksponeringsdesign;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Hele landet;Trivsel;Trives du på arbeidsplassen?;Alle svar;187;4,2
+2024-25;Frisør, blomster, interiør og eksponeringsdesign;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Hele landet;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;187;4
+2024-25;Frisør, blomster, interiør og eksponeringsdesign;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Hele landet;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;187;4,1
+2024-25;Frisør, blomster, interiør og eksponeringsdesign;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Vestfold;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;6;3,2
+2024-25;Frisør, blomster, interiør og eksponeringsdesign;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Vestfold;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;6;3,5
+2024-25;Frisør, blomster, interiør og eksponeringsdesign;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Vestfold;Trivsel;Trives du på arbeidsplassen?;Alle svar;6;3,7
+2024-25;Frisør, blomster, interiør og eksponeringsdesign;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Vestfold;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;*;*
+2024-25;Frisør, blomster, interiør og eksponeringsdesign;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Vestfold;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;*;*
+2024-25;Helse- og oppvekstfag;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Hele landet;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;1 808;3,9
+2024-25;Helse- og oppvekstfag;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Hele landet;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;1 814;4,1
+2024-25;Helse- og oppvekstfag;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Hele landet;Trivsel;Trives du på arbeidsplassen?;Alle svar;1 813;4,2
+2024-25;Helse- og oppvekstfag;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Hele landet;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;1 808;4
+2024-25;Helse- og oppvekstfag;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Hele landet;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;1 802;4
+2024-25;Helse- og oppvekstfag;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Vestfold;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;57;3,7
+2024-25;Helse- og oppvekstfag;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Vestfold;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;57;3,8
+2024-25;Helse- og oppvekstfag;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Vestfold;Trivsel;Trives du på arbeidsplassen?;Alle svar;57;4
+2024-25;Helse- og oppvekstfag;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Vestfold;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;56;3,7
+2024-25;Helse- og oppvekstfag;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Vestfold;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;57;3,8
+2024-25;Informasjonsteknologi og medieproduksjon;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Hele landet;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;377;3,3
+2024-25;Informasjonsteknologi og medieproduksjon;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Hele landet;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;381;3,8
+2024-25;Informasjonsteknologi og medieproduksjon;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Hele landet;Trivsel;Trives du på arbeidsplassen?;Alle svar;382;4,4
+2024-25;Informasjonsteknologi og medieproduksjon;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Hele landet;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;382;3,9
+2024-25;Informasjonsteknologi og medieproduksjon;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Hele landet;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;381;4
+2024-25;Informasjonsteknologi og medieproduksjon;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Vestfold;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;15;2,8
+2024-25;Informasjonsteknologi og medieproduksjon;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Vestfold;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;16;3,6
+2024-25;Informasjonsteknologi og medieproduksjon;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Vestfold;Trivsel;Trives du på arbeidsplassen?;Alle svar;16;4,1
+2024-25;Informasjonsteknologi og medieproduksjon;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Vestfold;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;16;3,8
+2024-25;Informasjonsteknologi og medieproduksjon;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Vestfold;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;15;4,1
+2024-25;Naturbruk;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Hele landet;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;328;3,6
+2024-25;Naturbruk;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Hele landet;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;333;4,1
+2024-25;Naturbruk;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Hele landet;Trivsel;Trives du på arbeidsplassen?;Alle svar;334;4,3
+2024-25;Naturbruk;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Hele landet;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;334;4,1
+2024-25;Naturbruk;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Hele landet;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;332;3,9
+2024-25;Naturbruk;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Vestfold;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;*;*
+2024-25;Naturbruk;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Vestfold;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;*;*
+2024-25;Naturbruk;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Vestfold;Trivsel;Trives du på arbeidsplassen?;Alle svar;*;*
+2024-25;Naturbruk;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Vestfold;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;*;*
+2024-25;Naturbruk;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Vestfold;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;*;*
+2024-25;Restaurant- og matfag;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Hele landet;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;416;3,6
+2024-25;Restaurant- og matfag;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Hele landet;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;417;3,8
+2024-25;Restaurant- og matfag;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Hele landet;Trivsel;Trives du på arbeidsplassen?;Alle svar;417;4,1
+2024-25;Restaurant- og matfag;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Hele landet;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;417;3,9
+2024-25;Restaurant- og matfag;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Hele landet;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;417;3,9
+2024-25;Restaurant- og matfag;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Vestfold;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;*;*
+2024-25;Restaurant- og matfag;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Vestfold;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;27;4,1
+2024-25;Restaurant- og matfag;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Vestfold;Trivsel;Trives du på arbeidsplassen?;Alle svar;27;4,4
+2024-25;Restaurant- og matfag;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Vestfold;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;27;4,3
+2024-25;Restaurant- og matfag;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Vestfold;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;27;4,4
+2024-25;Salg, service og reiseliv;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Hele landet;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;543;3,6
+2024-25;Salg, service og reiseliv;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Hele landet;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;544;3,9
+2024-25;Salg, service og reiseliv;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Hele landet;Trivsel;Trives du på arbeidsplassen?;Alle svar;546;4,3
+2024-25;Salg, service og reiseliv;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Hele landet;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;545;4
+2024-25;Salg, service og reiseliv;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Hele landet;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;547;4
+2024-25;Salg, service og reiseliv;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Vestfold;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;27;3,6
+2024-25;Salg, service og reiseliv;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Vestfold;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;27;3,7
+2024-25;Salg, service og reiseliv;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Vestfold;Trivsel;Trives du på arbeidsplassen?;Alle svar;27;4,3
+2024-25;Salg, service og reiseliv;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Vestfold;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;27;3,6
+2024-25;Salg, service og reiseliv;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Vestfold;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;27;3,7
+2024-25;Teknologi- og industrifag;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Hele landet;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;2 236;3,5
+2024-25;Teknologi- og industrifag;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Hele landet;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;2 242;4,1
+2024-25;Teknologi- og industrifag;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Hele landet;Trivsel;Trives du på arbeidsplassen?;Alle svar;2 241;4,4
+2024-25;Teknologi- og industrifag;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Hele landet;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;2 239;4,1
+2024-25;Teknologi- og industrifag;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Hele landet;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;2 237;4
+2024-25;Teknologi- og industrifag;LLUIndeks_2;LLUSpoersmaal_Q10695;Alle;Vestfold;Opplæring i skole som forberedelse til opplæring i arbeidslivet;Undervisningen i yrkesfagene på skolen ga et godt grunnlag for det jeg skulle lære i bedriften;Alle svar;106;3,3
+2024-25;Teknologi- og industrifag;LLUIndeks_3;LLUSpoersmaal_Q10905;Alle;Vestfold;Motivasjon;Gleder du deg til å gå på arbeid i lærebedriften?;Alle svar;107;3,9
+2024-25;Teknologi- og industrifag;LLUIndeks_4;LLUSpoersmaal_Q10701;Alle;Vestfold;Trivsel;Trives du på arbeidsplassen?;Alle svar;107;4,2
+2024-25;Teknologi- og industrifag;LLUIndeks_4;LLUSpoersmaal_Q10700;Alle;Vestfold;Trivsel;Er du fornøyd med opplæringen du har fått på arbeidsplassen så langt?;Alle svar;107;3,9
+2024-25;Teknologi- og industrifag;LLUIndeks_9;LLUSpoersmaal_Q10722;Alle;Vestfold;Medvirkning, veiledning og egenvurdering;Får du tilbakemelding på arbeidet ditt, slik at du kan bli bedre i faget?;Alle svar;107;3,8
