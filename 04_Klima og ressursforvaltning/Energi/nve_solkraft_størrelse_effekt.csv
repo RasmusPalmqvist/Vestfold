@@ -1,8 +1,74 @@
-Fylke;Kommune;0-20 kW;20-50 kW;50-100 kW;100-1000 kW;>1000 kW;Total
-Vestfold;Total;23 948;10 604;11 516;17 690;4 400;68 158
-Vestfold;Færder;3 322;660;141;600;0;4 723
-Vestfold;Holmestrand;2 583;1 101;1 645;3 472;0;8 801
-Vestfold;Horten;2 223;871;1 119;1 605;0;5 818
-Vestfold;Larvik;4 435;2 224;1 889;2 832;4 400;15 780
-Vestfold;Sandefjord;6 928;2 796;3 687;6 147;0;19 558
-Vestfold;Tønsberg;4 457;2 952;3 035;3 034;0;13 478
+Fylke;Kommune;År;0-20 kW;20-50 kW;50-100 kW;100-1000 kW;>1000 kW;Total
+Vestfold;Total;;24;11;12;18;4;68
+Vestfold;Færder;Total;3;1;0;1;0;5
+Vestfold;Færder;2015;0;0;0;0;0;0
+Vestfold;Færder;2016;0;0;0;0;0;0
+Vestfold;Færder;2017;0;0;0;0;0;0
+Vestfold;Færder;2018;0;0;0;0;0;0
+Vestfold;Færder;2019;0;0;0;0;0;0
+Vestfold;Færder;2020;0;0;0;0;0;0
+Vestfold;Færder;2021;0;0;0;0;0;0
+Vestfold;Færder;2022;1;0;0;1;0;1
+Vestfold;Færder;2023;1;0;0;0;0;2
+Vestfold;Færder;2024;0;0;0;0;0;1
+Vestfold;Færder;2025;0;0;0;0;0;0
+Vestfold;Holmestrand;Total;3;1;2;3;0;9
+Vestfold;Holmestrand;2015;0;0;0;0;0;0
+Vestfold;Holmestrand;2016;0;0;0;0;0;0
+Vestfold;Holmestrand;2017;0;0;0;0;0;0
+Vestfold;Holmestrand;2018;0;0;0;0;0;0
+Vestfold;Holmestrand;2019;0;0;0;0;0;0
+Vestfold;Holmestrand;2020;0;0;0;0;0;0
+Vestfold;Holmestrand;2021;0;0;0;1;0;2
+Vestfold;Holmestrand;2022;0;0;0;0;0;1
+Vestfold;Holmestrand;2023;1;0;1;1;0;4
+Vestfold;Holmestrand;2024;0;0;0;1;0;2
+Vestfold;Holmestrand;2025;0;0;0;0;0;0
+Vestfold;Horten;Total;2;1;1;2;0;6
+Vestfold;Horten;2015;0;0;0;0;0;0
+Vestfold;Horten;2016;0;0;0;0;0;0
+Vestfold;Horten;2017;0;0;0;0;0;0
+Vestfold;Horten;2018;0;0;0;0;0;0
+Vestfold;Horten;2019;0;0;0;1;0;1
+Vestfold;Horten;2020;0;0;0;0;0;0
+Vestfold;Horten;2021;0;0;0;0;0;0
+Vestfold;Horten;2022;0;0;0;0;0;1
+Vestfold;Horten;2023;1;0;0;0;0;2
+Vestfold;Horten;2024;0;0;0;0;0;1
+Vestfold;Horten;2025;0;0;0;0;0;0
+Vestfold;Larvik;Total;4;2;2;3;4;16
+Vestfold;Larvik;2015;0;0;0;0;0;0
+Vestfold;Larvik;2016;0;0;0;0;0;0
+Vestfold;Larvik;2017;0;0;0;0;0;0
+Vestfold;Larvik;2018;0;0;0;0;0;0
+Vestfold;Larvik;2019;0;0;0;0;0;0
+Vestfold;Larvik;2020;0;0;0;0;0;1
+Vestfold;Larvik;2021;0;0;0;0;0;1
+Vestfold;Larvik;2022;1;1;1;1;0;3
+Vestfold;Larvik;2023;2;1;1;0;0;4
+Vestfold;Larvik;2024;0;0;1;1;4;7
+Vestfold;Larvik;2025;0;0;0;0;0;0
+Vestfold;Sandefjord;Total;7;3;4;6;0;20
+Vestfold;Sandefjord;2015;0;0;0;0;0;0
+Vestfold;Sandefjord;2016;0;0;0;0;0;0
+Vestfold;Sandefjord;2017;0;0;0;0;0;0
+Vestfold;Sandefjord;2018;0;0;0;0;0;0
+Vestfold;Sandefjord;2019;0;0;0;1;0;2
+Vestfold;Sandefjord;2020;0;0;0;0;0;0
+Vestfold;Sandefjord;2021;0;0;0;0;0;1
+Vestfold;Sandefjord;2022;2;1;0;0;0;4
+Vestfold;Sandefjord;2023;3;1;2;2;0;7
+Vestfold;Sandefjord;2024;1;0;1;2;0;4
+Vestfold;Sandefjord;2025;0;0;1;1;0;2
+Vestfold;Tønsberg;Total;4;3;3;3;0;13
+Vestfold;Tønsberg;2015;0;0;0;0;0;0
+Vestfold;Tønsberg;2016;0;0;0;0;0;0
+Vestfold;Tønsberg;2017;0;0;0;0;0;0
+Vestfold;Tønsberg;2018;0;0;0;0;0;0
+Vestfold;Tønsberg;2019;0;0;0;0;0;0
+Vestfold;Tønsberg;2020;0;0;0;0;0;1
+Vestfold;Tønsberg;2021;0;0;0;0;0;0
+Vestfold;Tønsberg;2022;1;0;1;1;0;3
+Vestfold;Tønsberg;2023;2;2;2;2;0;7
+Vestfold;Tønsberg;2024;1;0;0;0;0;2
+Vestfold;Tønsberg;2025;0;0;0;0;0;1
