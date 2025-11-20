@@ -1,0 +1,147 @@
+Fylke;Kommune;År;Ny_kum;0-20 kW;20-50 kW;50-100 kW;100-1000 kW;>1000 kW;Total
+Vestfold;Total;;Ny;23 948;10 604;11 516;17 690;4 400;68 158
+Vestfold;Færder;Total;Ny;3 322;660;141;600;0;4 723
+Vestfold;Færder;2015;Ny;0;0;0;0;0;0
+Vestfold;Færder;2016;Ny;14;0;0;0;0;14
+Vestfold;Færder;2017;Ny;25;0;0;0;0;25
+Vestfold;Færder;2018;Ny;90;0;0;0;0;90
+Vestfold;Færder;2019;Ny;270;30;0;0;0;300
+Vestfold;Færder;2020;Ny;237;24;0;0;0;261
+Vestfold;Færder;2021;Ny;177;0;0;0;0;177
+Vestfold;Færder;2022;Ny;637;67;61;600;0;1 365
+Vestfold;Færder;2023;Ny;1 337;305;80;0;0;1 722
+Vestfold;Færder;2024;Ny;394;149;0;0;0;543
+Vestfold;Færder;2025;Ny;141;85;0;0;0;226
+Vestfold;Holmestrand;Total;Ny;2 583;1 101;1 645;3 472;0;8 801
+Vestfold;Holmestrand;2015;Ny;0;0;0;0;0;0
+Vestfold;Holmestrand;2016;Ny;4;0;0;0;0;4
+Vestfold;Holmestrand;2017;Ny;31;0;0;0;0;31
+Vestfold;Holmestrand;2018;Ny;42;0;0;0;0;42
+Vestfold;Holmestrand;2019;Ny;175;55;0;0;0;230
+Vestfold;Holmestrand;2020;Ny;226;21;0;0;0;247
+Vestfold;Holmestrand;2021;Ny;158;65;100;1 486;0;1 809
+Vestfold;Holmestrand;2022;Ny;416;168;332;0;0;916
+Vestfold;Holmestrand;2023;Ny;940;402;934;1 355;0;3 631
+Vestfold;Holmestrand;2024;Ny;437;351;180;631;0;1 599
+Vestfold;Holmestrand;2025;Ny;154;39;99;0;0;292
+Vestfold;Horten;Total;Ny;2 223;871;1 119;1 605;0;5 818
+Vestfold;Horten;2015;Ny;0;0;0;0;0;0
+Vestfold;Horten;2016;Ny;0;0;0;0;0;0
+Vestfold;Horten;2017;Ny;23;30;0;0;0;53
+Vestfold;Horten;2018;Ny;62;0;0;382;0;444
+Vestfold;Horten;2019;Ny;171;25;158;805;0;1 159
+Vestfold;Horten;2020;Ny;143;0;61;0;0;204
+Vestfold;Horten;2021;Ny;138;38;0;0;0;176
+Vestfold;Horten;2022;Ny;493;205;120;268;0;1 086
+Vestfold;Horten;2023;Ny;879;381;420;0;0;1 680
+Vestfold;Horten;2024;Ny;204;129;360;150;0;843
+Vestfold;Horten;2025;Ny;110;63;0;0;0;173
+Vestfold;Larvik;Total;Ny;4 435;2 224;1 889;2 832;4 400;15 780
+Vestfold;Larvik;2015;Ny;0;0;0;0;0;0
+Vestfold;Larvik;2016;Ny;23;0;0;0;0;23
+Vestfold;Larvik;2017;Ny;23;0;0;0;0;23
+Vestfold;Larvik;2018;Ny;28;73;0;0;0;101
+Vestfold;Larvik;2019;Ny;343;79;0;0;0;422
+Vestfold;Larvik;2020;Ny;222;77;0;300;0;599
+Vestfold;Larvik;2021;Ny;252;214;257;0;0;723
+Vestfold;Larvik;2022;Ny;1 130;574;515;566;0;2 785
+Vestfold;Larvik;2023;Ny;1 894;857;524;451;0;3 726
+Vestfold;Larvik;2024;Ny;421;304;533;1 395;4 400;7 053
+Vestfold;Larvik;2025;Ny;99;46;60;120;0;325
+Vestfold;Sandefjord;Total;Ny;6 928;2 796;3 687;6 147;0;19 558
+Vestfold;Sandefjord;2015;Ny;7;0;0;0;0;7
+Vestfold;Sandefjord;2016;Ny;0;25;0;0;0;25
+Vestfold;Sandefjord;2017;Ny;59;0;0;0;0;59
+Vestfold;Sandefjord;2018;Ny;179;0;0;0;0;179
+Vestfold;Sandefjord;2019;Ny;419;199;100;851;0;1 569
+Vestfold;Sandefjord;2020;Ny;277;72;0;0;0;349
+Vestfold;Sandefjord;2021;Ny;370;76;200;250;0;896
+Vestfold;Sandefjord;2022;Ny;2 253;812;452;200;0;3 717
+Vestfold;Sandefjord;2023;Ny;2 717;1 197;1 529;1 550;0;6 993
+Vestfold;Sandefjord;2024;Ny;503;340;900;2 237;0;3 980
+Vestfold;Sandefjord;2025;Ny;144;75;506;1 059;0;1 784
+Vestfold;Tønsberg;Total;Ny;4 457;2 952;3 035;3 034;0;13 478
+Vestfold;Tønsberg;2015;Ny;0;0;0;0;0;0
+Vestfold;Tønsberg;2016;Ny;17;0;0;0;0;17
+Vestfold;Tønsberg;2017;Ny;25;0;0;0;0;25
+Vestfold;Tønsberg;2018;Ny;53;0;0;0;0;53
+Vestfold;Tønsberg;2019;Ny;208;132;68;0;0;408
+Vestfold;Tønsberg;2020;Ny;263;140;129;0;0;532
+Vestfold;Tønsberg;2021;Ny;155;69;248;0;0;472
+Vestfold;Tønsberg;2022;Ny;1 195;401;532;1 042;0;3 170
+Vestfold;Tønsberg;2023;Ny;1 624;1 647;1 540;1 816;0;6 627
+Vestfold;Tønsberg;2024;Ny;635;415;318;176;0;1 544
+Vestfold;Tønsberg;2025;Ny;282;148;200;0;0;630
+Vestfold;Total;;Kum;23 948;10 604;11 516;17 690;4 400;68 158
+Vestfold;Færder;Total;Kum;3 322;660;141;600;0;4 723
+Vestfold;Færder;2015;Kum;0;0;0;0;0;0
+Vestfold;Færder;2016;Kum;14;0;0;0;0;14
+Vestfold;Færder;2017;Kum;39;0;0;0;0;39
+Vestfold;Færder;2018;Kum;129;0;0;0;0;129
+Vestfold;Færder;2019;Kum;399;30;0;0;0;429
+Vestfold;Færder;2020;Kum;636;54;0;0;0;690
+Vestfold;Færder;2021;Kum;813;54;0;0;0;867
+Vestfold;Færder;2022;Kum;1450;121;61;600;0;2232
+Vestfold;Færder;2023;Kum;2787;426;141;600;0;3954
+Vestfold;Færder;2024;Kum;3181;575;141;600;0;4497
+Vestfold;Færder;2025;Kum;3322;660;141;600;0;4723
+Vestfold;Holmestrand;Total;Kum;2 583;1 101;1 645;3 472;0;8 801
+Vestfold;Holmestrand;2015;Kum;0;0;0;0;0;0
+Vestfold;Holmestrand;2016;Kum;4;0;0;0;0;4
+Vestfold;Holmestrand;2017;Kum;35;0;0;0;0;35
+Vestfold;Holmestrand;2018;Kum;77;0;0;0;0;77
+Vestfold;Holmestrand;2019;Kum;252;55;0;0;0;307
+Vestfold;Holmestrand;2020;Kum;478;76;0;0;0;554
+Vestfold;Holmestrand;2021;Kum;636;141;100;1486;0;2363
+Vestfold;Holmestrand;2022;Kum;1052;309;432;1486;0;3279
+Vestfold;Holmestrand;2023;Kum;1992;711;1366;2841;0;6910
+Vestfold;Holmestrand;2024;Kum;2429;1062;1546;3472;0;8509
+Vestfold;Holmestrand;2025;Kum;2583;1101;1645;3472;0;8801
+Vestfold;Horten;Total;Kum;2 223;871;1 119;1 605;0;5 818
+Vestfold;Horten;2015;Kum;0;0;0;0;0;0
+Vestfold;Horten;2016;Kum;0;0;0;0;0;0
+Vestfold;Horten;2017;Kum;23;30;0;0;0;53
+Vestfold;Horten;2018;Kum;85;30;0;382;0;497
+Vestfold;Horten;2019;Kum;256;55;158;1187;0;1656
+Vestfold;Horten;2020;Kum;399;55;219;1187;0;1860
+Vestfold;Horten;2021;Kum;537;93;219;1187;0;2036
+Vestfold;Horten;2022;Kum;1030;298;339;1455;0;3122
+Vestfold;Horten;2023;Kum;1909;679;759;1455;0;4802
+Vestfold;Horten;2024;Kum;2113;808;1119;1605;0;5645
+Vestfold;Horten;2025;Kum;2223;871;1119;1605;0;5818
+Vestfold;Larvik;Total;Kum;4 435;2 224;1 889;2 832;4 400;15 780
+Vestfold;Larvik;2015;Kum;0;0;0;0;0;0
+Vestfold;Larvik;2016;Kum;23;0;0;0;0;23
+Vestfold;Larvik;2017;Kum;46;0;0;0;0;46
+Vestfold;Larvik;2018;Kum;74;73;0;0;0;147
+Vestfold;Larvik;2019;Kum;417;152;0;0;0;569
+Vestfold;Larvik;2020;Kum;639;229;0;300;0;1168
+Vestfold;Larvik;2021;Kum;891;443;257;300;0;1891
+Vestfold;Larvik;2022;Kum;2021;1017;772;866;0;4676
+Vestfold;Larvik;2023;Kum;3915;1874;1296;1317;0;8402
+Vestfold;Larvik;2024;Kum;4336;2178;1829;2712;4400;15455
+Vestfold;Larvik;2025;Kum;4435;2224;1889;2832;4400;15780
+Vestfold;Sandefjord;Total;Kum;6 928;2 796;3 687;6 147;0;19 558
+Vestfold;Sandefjord;2015;Kum;7;0;0;0;0;7
+Vestfold;Sandefjord;2016;Kum;7;25;0;0;0;32
+Vestfold;Sandefjord;2017;Kum;66;25;0;0;0;91
+Vestfold;Sandefjord;2018;Kum;245;25;0;0;0;270
+Vestfold;Sandefjord;2019;Kum;664;224;100;851;0;1839
+Vestfold;Sandefjord;2020;Kum;941;296;100;851;0;2188
+Vestfold;Sandefjord;2021;Kum;1311;372;300;1101;0;3084
+Vestfold;Sandefjord;2022;Kum;3564;1184;752;1301;0;6801
+Vestfold;Sandefjord;2023;Kum;6281;2381;2281;2851;0;13794
+Vestfold;Sandefjord;2024;Kum;6784;2721;3181;5088;0;17774
+Vestfold;Sandefjord;2025;Kum;6928;2796;3687;6147;0;19558
+Vestfold;Tønsberg;Total;Kum;4 457;2 952;3 035;3 034;0;13 478
+Vestfold;Tønsberg;2015;Kum;0;0;0;0;0;0
+Vestfold;Tønsberg;2016;Kum;17;0;0;0;0;17
+Vestfold;Tønsberg;2017;Kum;42;0;0;0;0;42
+Vestfold;Tønsberg;2018;Kum;95;0;0;0;0;95
+Vestfold;Tønsberg;2019;Kum;303;132;68;0;0;503
+Vestfold;Tønsberg;2020;Kum;566;272;197;0;0;1035
+Vestfold;Tønsberg;2021;Kum;721;341;445;0;0;1507
+Vestfold;Tønsberg;2022;Kum;1916;742;977;1042;0;4677
+Vestfold;Tønsberg;2023;Kum;3540;2389;2517;2858;0;11304
+Vestfold;Tønsberg;2024;Kum;4175;2804;2835;3034;0;12848
+Vestfold;Tønsberg;2025;Kum;4457;2952;3035;3034;0;13478
