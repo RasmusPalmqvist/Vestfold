@@ -1,0 +1,18 @@
+ProgramomraadeNivaa;UtdanningstypeKode;Utdanningsprogramkode;Programomraadekode;UtdanningstypeNavn;UtdanningsprogramNavn;ProgramomraadeNavn;Trinn;År;Progresjon totalt;Overgang til studieforberedende utdanningsprogram;Overgang til opplæring i bedrift;Overgang til yrkesfaglig utdanningsprogram
+0;Alle;;Alle;Alle utdanningsprogram;Alle utdanningsprogram;Alle programområder;Vg1;2024;85,1;42,6;3,1;39,3
+1;SFB;;SFB;Studieforberedende;Alle utdanningsprogram;Alle programområder;Vg1;2024;90,6;89,9;0,2;0,5
+2;SFB;ID;ID;Studieforberedende;Idrettsfag;Alle programområder;Vg1;2024;94,6;93,6;0;1
+2;SFB;KD;KD;Studieforberedende;Kunst, design og arkitektur;Alle programområder;Vg1;2024;79;79;0;0
+2;SFB;ME;ME;Studieforberedende;Medier og kommunikasjon;Alle programområder;Vg1;2024;76,1;74,6;1,4;0
+2;SFB;MD;MD;Studieforberedende;Musikk, dans og drama;Alle programområder;Vg1;2024;86,7;86,7;0;0
+2;SFB;ST;ST;Studieforberedende;Studiespesialisering;Alle programområder;Vg1;2024;91,6;90,9;0,2;0,6
+1;YRK;;YRK;Yrkesfaglig;Alle utdanningsprogram;Alle programområder;Vg1;2024;80,1;0,3;5,7;74
+2;YRK;BA;BA;Yrkesfaglig;Bygg- og anleggsteknikk;Alle programområder;Vg1;2024;76,8;0;7,7;69,1
+2;YRK;EL;EL;Yrkesfaglig;Elektro og datateknologi;Alle programområder;Vg1;2024;85,8;0;1;84,8
+2;YRK;FD;FD;Yrkesfaglig;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;Vg1;2024;70,9;0;2,3;68,6
+2;YRK;HS;HS;Yrkesfaglig;Helse- og oppvekstfag;Alle programområder;Vg1;2024;81,1;0,2;2,7;78,2
+2;YRK;IM;IM;Yrkesfaglig;Informasjonsteknologi og medieproduksjon;Alle programområder;Vg1;2024;94;1;3;90
+2;YRK;NA;NA;Yrkesfaglig;Naturbruk;Alle programområder;Vg1;2024;90;0;10;80
+2;YRK;RM;RM;Yrkesfaglig;Restaurant- og matfag;Alle programområder;Vg1;2024;77,5;1,3;9,9;66,2
+2;YRK;SR;SR;Yrkesfaglig;Salg, service og reiseliv;Alle programområder;Vg1;2024;81,6;0;11,4;70,2
+2;YRK;TP;TP;Yrkesfaglig;Teknologi- og industrifag;Alle programområder;Vg1;2024;71,6;0,7;6;64,9

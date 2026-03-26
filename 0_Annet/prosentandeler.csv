@@ -1,0 +1,865 @@
+Variabel,N,Sted,Samlet_prosentandel,Samlet_konfidensintervall,Kvinner_prosentandel,Kvinner_konfidensintervall,Menn_prosentandel,Menn_konfidensintervall
+Stor grad av trivsel i nærmiljøet,869,Bamble,76.3,73.5-79.1,75.8,71.9-79.7,76.9,72.8-81.0
+Kulturtilbud -god eller svært god tilgang,856,Bamble,59.3,56.0-62.6,60.0,55.5-64.5,58.5,53.7-63.4
+Idrettstilbud -god eller svært god tilgang,846,Bamble,77.7,74.8-80.5,79.2,75.5-82.9,75.8,71.6-80.1
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",869,Bamble,77.2,74.4-80.0,76.1,72.2-80.0,78.5,74.4-82.5
+Offentlig transport -god eller svært god tilgang,834,Bamble,56.5,53.1-59.8,57.2,52.6-61.8,55.7,50.7-60.6
+Natur- og friluftsområder -god eller svært god tilgang,869,Bamble,94.6,93.1-96.1,94.0,91.8-96.1,95.3,93.2-97.4
+Kystlinje/strand/sjø -god eller svært god tilgang,869,Bamble,95.3,93.9-96.7,97.2,95.7-98.7,93.1,90.6-95.6
+Gang- og sykkelveier -godt eller svært godt utbygde,863,Bamble,58.4,55.1-61.7,57.1,52.6-61.7,59.9,55.0-64.7
+Ukentlig deltakelse i organisert aktivitet,873,Bamble,26.8,23.9-29.7,26.1,22.1-30.1,27.7,23.3-32.0
+Ukentlig deltakelse i annen aktivitet,873,Bamble,41.9,38.6-45.2,45.8,41.3-50.4,37.4,32.7-42.2
+God eller svært god helse,873,Bamble,66.8,63.7-69.9,62.8,58.4-67.2,71.4,66.9-75.8
+God eller svært god tannhelse,874,Bamble,70.1,67.1-73.2,71.2,67.0-75.3,69.0,64.5-73.5
+Mer enn 2 år siden du var hos tannlege/-pleier,872,Bamble,9.9,7.9-11.8,8.4,5.8-10.9,11.6,8.5-14.7
+Fedme KMI 30+,849,Bamble,19.2,16.5-21.9,18.8,15.2-22.5,19.6,15.7-23.5
+HSCL-5 >2,874,Bamble,16.4,13.9-18.8,19.9,16.2-23.5,12.3,9.1-15.5
+Søvnproblemer Insomni,873,Bamble,16.0,13.6-18.5,20.3,16.7-24.0,11.1,8.0-14.1
+I stor grad påvirket grunnet helseproblemer,869,Bamble,16.5,14.0-18.9,21.5,17.7-25.2,10.7,7.6-13.7
+Stor grad av funksjonsnedsettelse grunnet skade,868,Bamble,9.9,7.9-11.9,12.7,9.6-15.7,6.7,4.3-9.2
+Nakkesmerter siste 28 dager,870,Bamble,40.2,37.0-43.5,51.1,46.5-55.6,27.7,23.3-32.1
+Korsryggsmerter siste 28 dager,867,Bamble,48.1,44.8-51.4,54.4,49.9-58.9,40.8,36.0-45.6
+Høy sosial støtte,868,Bamble,35.7,32.5-38.9,37.6,33.1-42.0,33.6,29.0-38.2
+Ensomhet UCLA-3,874,Bamble,12.4,10.2-14.5,16.0,12.7-19.3,8.1,5.5-10.8
+Sammen med gode venner ukentlig eller oftere,872,Bamble,49.8,46.4-53.1,49.0,44.5-53.6,50.6,45.7-55.5
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,862,Bamble,19.5,16.8-22.1,19.3,15.7-22.9,19.8,15.8-23.7
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,872,Bamble,29.4,26.3-32.4,25.2,21.3-29.2,34.2,29.5-38.8
+Frukt eller bær daglig eller oftere,875,Bamble,28.1,25.1-31.1,36.9,32.5-41.3,18.0,14.2-21.7
+Grønnsaker daglig eller oftere,874,Bamble,41.8,38.5-45.0,48.8,44.3-53.4,33.6,29.0-38.2
+Fisk 2-3 ganger i uken eller oftere,875,Bamble,46.5,43.2-49.8,45.6,41.1-50.1,47.5,42.7-52.4
+Daglig røyking,872,Bamble,9.4,7.5-11.3,11.8,8.8-14.7,6.7,4.2-9.1
+Daglig snusing,871,Bamble,12.1,9.9-14.2,8.1,5.6-10.6,16.6,13.0-20.3
+Drikker alkohol 2 ganger i uken eller oftere,874,Bamble,20.4,17.7-23.0,13.7,10.6-16.8,28.1,23.7-32.5
+Episodisk høyt alkoholforbruk månedlig eller oftere,874,Bamble,16.5,14.0-18.9,8.8,6.2-11.3,25.4,21.1-29.6
+Utsatt for skade selvrapport siste 12 måneder,871,Bamble,16.2,13.7-18.6,15.1,11.8-18.3,17.5,13.8-21.2
+Plaget av støy fra trafikk hjemme,874,Bamble,10.1,8.1-12.1,10.0,7.3-12.7,10.1,7.2-13.1
+Plaget av annen støy hjemme,872,Bamble,9.6,7.7-11.6,8.5,6.0-11.1,10.9,7.8-13.9
+Andel med økonomiske vansker,815,Bamble,18.9,16.2-21.6,22.5,18.6-26.5,14.8,11.3-18.4
+Stor grad av trivsel i nærmiljøet,838,Drangedal,71.2,68.2-74.3,70.9,66.6-75.1,71.6,67.2-76.1
+Kulturtilbud -god eller svært god tilgang,822,Drangedal,53.9,50.5-57.3,57.8,53.2-62.4,49.3,44.3-54.4
+Idrettstilbud -god eller svært god tilgang,824,Drangedal,59.3,56.0-62.7,59.7,55.1-64.3,59.0,54.0-63.9
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",835,Drangedal,54.5,51.1-57.9,53.8,49.2-58.5,55.2,50.3-60.1
+Offentlig transport -god eller svært god tilgang,811,Drangedal,13.6,11.2-15.9,12.2,9.1-15.3,15.1,11.5-18.7
+Natur- og friluftsområder -god eller svært god tilgang,835,Drangedal,93.8,92.1-95.4,92.3,89.8-94.8,95.4,93.3-97.5
+Kystlinje/strand/sjø -god eller svært god tilgang,733,Drangedal,67.9,64.6-71.3,68.0,63.3-72.7,67.9,63.0-72.8
+Gang- og sykkelveier -godt eller svært godt utbygde,823,Drangedal,22.2,19.4-25.1,22.3,18.4-26.2,22.1,18.0-26.3
+Ukentlig deltakelse i organisert aktivitet,836,Drangedal,25.6,22.6-28.6,25.1,21.1-29.2,26.1,21.8-30.5
+Ukentlig deltakelse i annen aktivitet,837,Drangedal,37.3,34.0-40.6,39.6,35.1-44.2,34.6,29.9-39.3
+God eller svært god helse,835,Drangedal,65.3,62.0-68.5,66.1,61.7-70.6,64.3,59.5-69.0
+God eller svært god tannhelse,837,Drangedal,66.7,63.5-69.9,73.4,69.3-77.5,59.0,54.2-63.9
+Mer enn 2 år siden du var hos tannlege/-pleier,837,Drangedal,11.5,9.3-13.6,9.5,6.7-12.2,13.7,10.3-17.2
+Fedme KMI 30+,804,Drangedal,21.9,19.0-24.8,21.2,17.3-25.1,22.7,18.5-26.9
+HSCL-5 >2,836,Drangedal,14.0,11.6-16.4,15.3,12.0-18.7,12.5,9.2-15.7
+Søvnproblemer Insomni,837,Drangedal,12.3,10.1-14.5,12.4,9.3-15.5,12.2,8.9-15.4
+I stor grad påvirket grunnet helseproblemer,835,Drangedal,13.5,11.2-15.9,13.5,10.4-16.7,13.5,10.1-16.9
+Stor grad av funksjonsnedsettelse grunnet skade,837,Drangedal,7.4,5.6-9.2,5.6,3.5-7.8,9.4,6.5-12.3
+Nakkesmerter siste 28 dager,835,Drangedal,42.0,38.7-45.4,46.9,42.3-51.6,36.5,31.8-41.3
+Korsryggsmerter siste 28 dager,836,Drangedal,42.5,39.1-45.8,39.9,35.3-44.5,45.3,40.4-50.2
+Høy sosial støtte,828,Drangedal,36.1,32.8-39.4,39.7,35.1-44.3,32.1,27.4-36.7
+Ensomhet UCLA-3,830,Drangedal,14.5,12.1-16.9,14.7,11.4-18.1,14.1,10.7-17.6
+Sammen med gode venner ukentlig eller oftere,834,Drangedal,51.0,47.6-54.4,52.2,47.5-56.8,49.6,44.7-54.6
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,824,Drangedal,15.4,12.9-17.9,16.2,12.7-19.6,14.6,11.1-18.1
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,835,Drangedal,35.6,32.3-38.8,32.4,28.0-36.8,39.1,34.3-43.9
+Frukt eller bær daglig eller oftere,831,Drangedal,30.4,27.3-33.6,36.4,31.9-41.0,23.7,19.5-27.9
+Grønnsaker daglig eller oftere,835,Drangedal,35.7,32.4-38.9,42.6,38.0-47.3,27.9,23.5-32.4
+Fisk 2-3 ganger i uken eller oftere,835,Drangedal,43.2,39.9-46.6,42.4,37.8-47.0,44.2,39.2-49.1
+Daglig røyking,835,Drangedal,12.0,9.8-14.2,11.5,8.6-14.5,12.5,9.2-15.7
+Daglig snusing,834,Drangedal,12.7,10.4-15.0,8.1,5.6-10.7,17.9,14.1-21.7
+Drikker alkohol 2 ganger i uken eller oftere,832,Drangedal,15.5,13.0-18.0,8.9,6.2-11.6,22.9,18.7-27.1
+Episodisk høyt alkoholforbruk månedlig eller oftere,826,Drangedal,14.6,12.2-17.1,7.1,4.7-9.5,23.1,18.9-27.3
+Utsatt for skade selvrapport siste 12 måneder,837,Drangedal,18.8,16.1-21.4,16.0,12.6-19.5,21.8,17.7-25.9
+Plaget av støy fra trafikk hjemme,836,Drangedal,7.4,5.6-9.2,7.7,5.2-10.2,7.1,4.6-9.7
+Plaget av annen støy hjemme,835,Drangedal,6.9,5.2-8.7,6.1,3.9-8.3,7.9,5.2-10.6
+Andel med økonomiske vansker,780,Drangedal,20.0,17.2-22.8,20.0,16.1-23.8,20.1,16.0-24.1
+Stor grad av trivsel i nærmiljøet,354,Fyresdal,73.2,68.5-77.8,76.0,70.0-82.0,69.6,62.4-76.8
+Kulturtilbud -god eller svært god tilgang,352,Fyresdal,58.2,53.1-63.4,62.4,55.6-69.2,52.9,45.0-60.8
+Idrettstilbud -god eller svært god tilgang,346,Fyresdal,89.3,86.0-92.6,92.8,89.2-96.5,84.8,79.0-90.5
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",353,Fyresdal,73.4,68.7-78.0,74.6,68.5-80.7,71.8,64.7-78.9
+Offentlig transport -god eller svært god tilgang,346,Fyresdal,10.1,6.9-13.3,9.4,5.3-13.6,11.0,6.0-15.9
+Natur- og friluftsområder -god eller svært god tilgang,354,Fyresdal,-,,-,,-,
+Kystlinje/strand/sjø -god eller svært god tilgang,316,Fyresdal,85.4,81.5-89.4,89.8,85.3-94.3,80.0,73.3-86.7
+Gang- og sykkelveier -godt eller svært godt utbygde,349,Fyresdal,52.1,46.9-57.4,53.6,46.6-60.7,50.3,42.4-58.2
+Ukentlig deltakelse i organisert aktivitet,355,Fyresdal,23.9,19.5-28.4,27.4,21.2-33.7,19.6,13.4-25.8
+Ukentlig deltakelse i annen aktivitet,354,Fyresdal,40.7,35.5-45.8,47.4,40.4-54.5,32.3,25.0-39.6
+God eller svært god helse,353,Fyresdal,74.5,69.9-79.1,75.1,69.1-81.2,73.7,66.8-80.7
+God eller svært god tannhelse,354,Fyresdal,65.3,60.3-70.2,67.9,61.3-74.4,62.0,54.4-69.6
+Mer enn 2 år siden du var hos tannlege/-pleier,355,Fyresdal,18.3,14.3-22.4,14.7,9.7-19.7,22.8,16.2-29.4
+Fedme KMI 30+,343,Fyresdal,22.2,17.7-26.6,25.0,18.8-31.2,18.7,12.5-24.9
+HSCL-5 >2,354,Fyresdal,12.1,8.7-15.6,14.3,9.4-19.2,9.5,4.9-14.1
+Søvnproblemer Insomni,354,Fyresdal,12.1,8.7-15.6,12.2,7.6-16.9,12.0,6.9-17.1
+I stor grad påvirket grunnet helseproblemer,351,Fyresdal,13.1,9.6-16.7,12.9,8.1-17.6,13.4,8.0-18.7
+Stor grad av funksjonsnedsettelse grunnet skade,352,Fyresdal,6.8,4.2-9.5,6.2,2.8-9.6,7.6,3.4-11.7
+Nakkesmerter siste 28 dager,352,Fyresdal,34.4,29.4-39.4,39.2,32.3-46.1,28.5,21.4-35.6
+Korsryggsmerter siste 28 dager,352,Fyresdal,36.9,31.9-42.0,34.4,27.7-41.1,40.1,32.4-47.8
+Høy sosial støtte,351,Fyresdal,44.7,39.5-50.0,55.4,48.4-62.5,31.6,24.4-38.9
+Ensomhet UCLA-3,352,Fyresdal,12.2,8.8-15.7,12.8,8.1-17.5,11.5,6.5-16.5
+Sammen med gode venner ukentlig eller oftere,353,Fyresdal,52.4,47.2-57.6,52.8,45.8-59.9,51.9,44.1-59.7
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,351,Fyresdal,20.2,16.0-24.5,23.8,17.8-29.9,15.8,10.1-21.5
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,352,Fyresdal,33.8,28.8-38.8,28.7,22.3-35.1,40.1,32.4-47.8
+Frukt eller bær daglig eller oftere,352,Fyresdal,34.9,29.9-39.9,46.7,39.6-53.7,20.4,14.1-26.7
+Grønnsaker daglig eller oftere,352,Fyresdal,42.0,36.9-47.2,54.6,47.6-61.7,26.6,19.7-33.5
+Fisk 2-3 ganger i uken eller oftere,351,Fyresdal,41.6,36.4-46.8,40.9,34.0-47.9,42.4,34.7-50.1
+Daglig røyking,353,Fyresdal,11.3,8.0-14.7,12.8,8.1-17.5,9.5,4.9-14.1
+Daglig snusing,353,Fyresdal,12.5,9.0-15.9,5.1,2.0-8.2,21.5,15.1-28.0
+Drikker alkohol 2 ganger i uken eller oftere,352,Fyresdal,15.6,11.8-19.4,12.4,7.7-17.0,19.6,13.4-25.8
+Episodisk høyt alkoholforbruk månedlig eller oftere,351,Fyresdal,17.7,13.7-21.7,6.7,3.2-10.3,31.0,23.8-38.3
+Utsatt for skade selvrapport siste 12 måneder,353,Fyresdal,14.7,11.0-18.4,8.7,4.7-12.7,22.2,15.6-28.7
+Plaget av støy fra trafikk hjemme,353,Fyresdal,-,,-,,-,
+Plaget av annen støy hjemme,351,Fyresdal,5.1,2.8-7.4,5.7,2.4-9.0,4.4,1.2-7.7
+Andel med økonomiske vansker,335,Fyresdal,19.7,15.4-24.0,22.0,15.9-28.0,17.0,11.0-23.0
+Stor grad av trivsel i nærmiljøet,2236,Færder,79.8,78.2-81.5,79.4,77.1-81.7,80.3,77.9-82.8
+Kulturtilbud -god eller svært god tilgang,2214,Færder,80.4,78.8-82.1,82.3,80.1-84.5,78.4,75.8-80.9
+Idrettstilbud -god eller svært god tilgang,2144,Færder,72.0,70.1-73.9,72.9,70.3-75.5,71.0,68.2-73.8
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",2232,Færder,86.2,84.7-87.6,87.4,85.5-89.3,84.7,82.5-86.9
+Offentlig transport -god eller svært god tilgang,2177,Færder,68.9,67.0-70.8,71.3,68.6-73.9,66.2,63.3-69.1
+Natur- og friluftsområder -god eller svært god tilgang,2234,Færder,93.9,92.9-94.9,93.3,91.8-94.7,94.7,93.3-96.0
+Kystlinje/strand/sjø -god eller svært god tilgang,2228,Færder,88.6,87.3-90.0,90.2,88.5-91.9,86.9,84.8-88.9
+Gang- og sykkelveier -godt eller svært godt utbygde,2213,Færder,74.8,73.0-76.6,74.1,71.6-76.6,75.6,73.0-78.2
+Ukentlig deltakelse i organisert aktivitet,2231,Færder,27.0,25.1-28.8,27.5,25.0-30.1,26.4,23.7-29.1
+Ukentlig deltakelse i annen aktivitet,2233,Færder,48.1,46.1-50.2,52.4,49.6-55.3,43.3,40.3-46.3
+God eller svært god helse,2239,Færder,74.9,73.1-76.7,76.2,73.8-78.6,73.3,70.7-76.0
+God eller svært god tannhelse,2236,Færder,75.6,73.8-77.4,78.3,75.9-80.6,72.5,69.8-75.2
+Mer enn 2 år siden du var hos tannlege/-pleier,2239,Færder,11.6,10.3-12.9,10.1,8.4-11.8,13.3,11.3-15.4
+Fedme KMI 30+,2191,Færder,15.1,13.6-16.6,14.1,12.1-16.1,16.2,14.0-18.5
+HSCL-5 >2,2238,Færder,12.9,11.5-14.3,15.0,12.9-17.0,10.5,8.6-12.3
+Søvnproblemer Insomni,2234,Færder,12.3,10.9-13.7,13.9,11.9-15.9,10.5,8.7-12.4
+I stor grad påvirket grunnet helseproblemer,2232,Færder,11.0,9.7-12.3,12.6,10.7-14.5,9.2,7.4-10.9
+Stor grad av funksjonsnedsettelse grunnet skade,2236,Færder,5.5,4.6-6.5,5.7,4.4-7.1,5.3,4.0-6.7
+Nakkesmerter siste 28 dager,2234,Færder,39.7,37.7-41.8,47.7,44.9-50.6,30.7,27.9-33.5
+Korsryggsmerter siste 28 dager,2235,Færder,42.3,40.2-44.3,43.7,40.9-46.5,40.6,37.7-43.6
+Høy sosial støtte,2219,Færder,37.9,35.9-39.9,41.1,38.2-43.9,34.3,31.4-37.2
+Ensomhet UCLA-3,2227,Færder,9.1,7.9-10.3,10.9,9.1-12.7,7.0,5.4-8.5
+Sammen med gode venner ukentlig eller oftere,2230,Færder,51.0,49.0-53.1,54.1,51.3-56.9,47.6,44.5-50.6
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,2205,Færder,21.5,19.8-23.2,22.3,19.9-24.7,20.6,18.1-23.0
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,2234,Færder,22.3,20.6-24.1,17.0,14.8-19.1,28.4,25.7-31.1
+Frukt eller bær daglig eller oftere,2237,Færder,36.8,34.8-38.8,45.0,42.2-47.9,27.5,24.8-30.2
+Grønnsaker daglig eller oftere,2235,Færder,54.5,52.5-56.6,63.4,60.7-66.2,44.5,41.5-47.5
+Fisk 2-3 ganger i uken eller oftere,2234,Færder,54.7,52.7-56.8,56.1,53.2-58.9,53.2,50.2-56.3
+Daglig røyking,2232,Færder,6.8,5.7-7.8,7.4,5.9-8.9,6.0,4.6-7.5
+Daglig snusing,2232,Færder,12.5,11.1-13.8,9.1,7.5-10.7,16.3,14.0-18.5
+Drikker alkohol 2 ganger i uken eller oftere,2232,Færder,35.8,33.8-37.7,31.6,28.9-34.2,40.5,37.5-43.4
+Episodisk høyt alkoholforbruk månedlig eller oftere,2223,Færder,19.3,17.6-20.9,13.7,11.7-15.6,25.6,22.9-28.2
+Utsatt for skade selvrapport siste 12 måneder,2230,Færder,16.2,14.7-17.7,14.4,12.4-16.4,18.2,15.9-20.6
+Plaget av støy fra trafikk hjemme,2239,Færder,8.1,7.0-9.3,9.3,7.6-10.9,6.9,5.3-8.4
+Plaget av annen støy hjemme,2238,Færder,7.6,6.5-8.6,8.4,6.8-10.0,6.6,5.1-8.1
+Andel med økonomiske vansker,2072,Færder,16.7,15.1-18.4,18.1,15.8-20.4,15.2,12.9-17.4
+Stor grad av trivsel i nærmiljøet,283,Hjartdal,67.1,61.6-72.6,68.8,61.5-76.1,65.1,56.7-73.5
+Kulturtilbud -god eller svært god tilgang,277,Hjartdal,32.9,27.3-38.4,39.5,31.7-47.3,24.8,17.2-32.4
+Idrettstilbud -god eller svært god tilgang,273,Hjartdal,44.0,38.0-49.9,48.7,40.8-56.6,37.8,29.0-46.6
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",284,Hjartdal,52.8,47.0-58.7,51.3,43.4-59.1,54.8,46.0-63.5
+Offentlig transport -god eller svært god tilgang,280,Hjartdal,12.5,8.6-16.4,12.3,7.1-17.5,12.8,6.9-18.7
+Natur- og friluftsområder -god eller svært god tilgang,284,Hjartdal,-,,-,,-,
+Kystlinje/strand/sjø -god eller svært god tilgang,135,Hjartdal,32.6,24.6-40.6,35.3,23.8-46.8,29.9,18.8-40.9
+Gang- og sykkelveier -godt eller svært godt utbygde,278,Hjartdal,23.4,18.4-28.4,22.3,15.7-28.8,24.8,17.1-32.5
+Ukentlig deltakelse i organisert aktivitet,285,Hjartdal,21.4,16.6-26.2,17.7,11.7-23.7,26.0,18.3-33.7
+Ukentlig deltakelse i annen aktivitet,285,Hjartdal,33.7,28.2-39.2,37.3,29.8-44.9,29.1,21.2-37.1
+God eller svært god helse,282,Hjartdal,64.9,59.3-70.5,66.0,58.5-73.5,63.5,55.0-71.9
+God eller svært god tannhelse,285,Hjartdal,64.9,59.3-70.5,72.8,65.8-79.8,55.1,46.4-63.8
+Mer enn 2 år siden du var hos tannlege/-pleier,285,Hjartdal,10.5,6.9-14.1,10.1,5.4-14.9,11.0,5.5-16.5
+Fedme KMI 30+,270,Hjartdal,29.3,23.8-34.7,25.3,18.2-32.4,33.9,25.5-42.3
+HSCL-5 >2,284,Hjartdal,11.6,7.9-15.4,12.7,7.5-18.0,10.2,4.9-15.5
+Søvnproblemer Insomni,285,Hjartdal,11.9,8.1-15.7,13.3,8.0-18.6,10.2,4.9-15.5
+I stor grad påvirket grunnet helseproblemer,284,Hjartdal,14.1,10.0-18.2,14.6,9.1-20.2,13.4,7.4-19.3
+Stor grad av funksjonsnedsettelse grunnet skade,285,Hjartdal,6.0,3.2-8.7,5.7,2.1-9.3,6.3,2.0-10.6
+Nakkesmerter siste 28 dager,285,Hjartdal,40.4,34.6-46.1,46.8,39.0-54.7,32.3,24.1-40.5
+Korsryggsmerter siste 28 dager,285,Hjartdal,44.6,38.8-50.4,50.0,42.2-57.8,37.8,29.3-46.3
+Høy sosial støtte,282,Hjartdal,37.9,32.2-43.6,41.0,33.3-48.8,34.1,25.8-42.5
+Ensomhet UCLA-3,283,Hjartdal,10.2,6.7-13.8,10.2,5.4-15.0,10.3,5.0-15.7
+Sammen med gode venner ukentlig eller oftere,282,Hjartdal,55.0,49.1-60.8,57.4,49.6-65.3,52.0,43.2-60.7
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,272,Hjartdal,17.6,13.1-22.2,16.6,10.6-22.5,19.0,12.0-26.0
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,284,Hjartdal,37.3,31.7-43.0,30.6,23.3-37.8,45.7,37.0-54.4
+Frukt eller bær daglig eller oftere,285,Hjartdal,30.2,24.8-35.5,35.4,27.9-42.9,23.6,16.2-31.1
+Grønnsaker daglig eller oftere,284,Hjartdal,39.8,34.1-45.5,45.6,37.8-53.4,32.5,24.3-40.8
+Fisk 2-3 ganger i uken eller oftere,284,Hjartdal,37.3,31.7-43.0,36.9,29.3-44.5,37.8,29.3-46.3
+Daglig røyking,283,Hjartdal,11.3,7.6-15.0,13.3,8.0-18.6,8.8,3.8-13.8
+Daglig snusing,285,Hjartdal,9.5,6.1-12.9,6.3,2.5-10.1,13.4,7.4-19.3
+Drikker alkohol 2 ganger i uken eller oftere,281,Hjartdal,13.9,9.8-17.9,7.1,3.0-11.1,22.4,15.0-29.8
+Episodisk høyt alkoholforbruk månedlig eller oftere,280,Hjartdal,11.1,7.4-14.8,5.2,1.7-8.7,18.4,11.6-25.2
+Utsatt for skade selvrapport siste 12 måneder,284,Hjartdal,19.0,14.4-23.6,17.2,11.3-23.1,21.3,14.1-28.4
+Plaget av støy fra trafikk hjemme,284,Hjartdal,12.3,8.5-16.2,12.7,7.5-18.0,11.8,6.2-17.5
+Plaget av annen støy hjemme,285,Hjartdal,5.3,2.7-7.9,5.7,2.1-9.3,4.7,1.0-8.4
+Andel med økonomiske vansker,272,Hjartdal,25.0,19.8-30.2,27.3,20.2-34.5,22.1,14.7-29.5
+Stor grad av trivsel i nærmiljøet,1829,Holmestrand,75.1,73.1-77.1,74.8,72.1-77.5,75.4,72.5-78.3
+Kulturtilbud -god eller svært god tilgang,1790,Holmestrand,43.5,41.2-45.8,43.7,40.6-46.8,43.3,39.9-46.7
+Idrettstilbud -god eller svært god tilgang,1747,Holmestrand,75.6,73.5-77.6,76.1,73.3-78.8,75.0,72.0-78.0
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",1829,Holmestrand,74.6,72.6-76.6,75.0,72.3-77.7,74.2,71.2-77.2
+Offentlig transport -god eller svært god tilgang,1740,Holmestrand,42.4,40.1-44.7,41.2,38.1-44.3,43.9,40.4-47.3
+Natur- og friluftsområder -god eller svært god tilgang,1815,Holmestrand,90.9,89.5-92.2,89.6,87.7-91.5,92.4,90.6-94.2
+Kystlinje/strand/sjø -god eller svært god tilgang,1772,Holmestrand,88.4,86.9-89.9,89.6,87.6-91.5,87.1,84.8-89.4
+Gang- og sykkelveier -godt eller svært godt utbygde,1803,Holmestrand,57.8,55.5-60.1,55.6,52.5-58.8,60.4,57.0-63.7
+Ukentlig deltakelse i organisert aktivitet,1829,Holmestrand,24.6,22.6-26.6,25.5,22.7-28.2,23.6,20.7-26.5
+Ukentlig deltakelse i annen aktivitet,1829,Holmestrand,41.3,39.1-43.6,45.2,42.1-48.3,36.8,33.5-40.0
+God eller svært god helse,1830,Holmestrand,70.5,68.4-72.6,71.4,68.6-74.2,69.4,66.3-72.6
+God eller svært god tannhelse,1827,Holmestrand,72.9,70.9-74.9,77.6,75.0-80.2,67.3,64.1-70.5
+Mer enn 2 år siden du var hos tannlege/-pleier,1832,Holmestrand,12.9,11.3-14.4,10.2,8.4-12.1,16.0,13.5-18.5
+Fedme KMI 30+,1790,Holmestrand,20.8,18.9-22.7,20.2,17.7-22.7,21.5,18.7-24.3
+HSCL-5 >2,1830,Holmestrand,14.8,13.2-16.4,16.7,14.4-19.0,12.6,10.3-14.8
+Søvnproblemer Insomni,1826,Holmestrand,13.2,11.6-14.8,16.3,14.0-18.6,9.5,7.5-11.5
+I stor grad påvirket grunnet helseproblemer,1825,Holmestrand,13.8,12.2-15.3,16.4,14.1-18.8,10.6,8.5-12.6
+Stor grad av funksjonsnedsettelse grunnet skade,1827,Holmestrand,6.8,5.7-8.0,7.7,6.1-9.4,5.8,4.2-7.4
+Nakkesmerter siste 28 dager,1831,Holmestrand,44.8,42.5-47.1,53.3,50.2-56.4,34.6,31.4-37.8
+Korsryggsmerter siste 28 dager,1829,Holmestrand,46.0,43.7-48.3,49.1,46.0-52.2,42.3,38.9-45.6
+Høy sosial støtte,1820,Holmestrand,34.1,31.9-36.3,37.7,34.7-40.7,29.9,26.8-33.0
+Ensomhet UCLA-3,1827,Holmestrand,12.3,10.8-13.8,12.8,10.7-14.9,11.8,9.6-14.0
+Sammen med gode venner ukentlig eller oftere,1829,Holmestrand,46.0,43.7-48.3,46.8,43.7-49.9,45.1,41.7-48.5
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,1801,Holmestrand,20.5,18.6-22.4,21.5,18.9-24.1,19.3,16.6-22.0
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,1827,Holmestrand,27.6,25.5-29.6,22.0,19.4-24.5,34.3,31.1-37.5
+Frukt eller bær daglig eller oftere,1827,Holmestrand,33.1,31.0-35.3,39.5,36.4-42.5,25.5,22.6-28.5
+Grønnsaker daglig eller oftere,1826,Holmestrand,48.1,45.8-50.4,57.4,54.3-60.5,37.1,33.8-40.4
+Fisk 2-3 ganger i uken eller oftere,1827,Holmestrand,49.5,47.2-51.8,49.1,46.0-52.2,50.1,46.7-53.5
+Daglig røyking,1822,Holmestrand,8.9,7.6-10.3,9.1,7.3-10.9,8.7,6.8-10.6
+Daglig snusing,1829,Holmestrand,11.2,9.8-12.7,8.4,6.7-10.2,14.5,12.1-16.9
+Drikker alkohol 2 ganger i uken eller oftere,1828,Holmestrand,23.2,21.3-25.2,19.2,16.8-21.7,28.1,25.0-31.1
+Episodisk høyt alkoholforbruk månedlig eller oftere,1825,Holmestrand,12.7,11.2-14.2,8.5,6.7-10.2,17.8,15.2-20.4
+Utsatt for skade selvrapport siste 12 måneder,1826,Holmestrand,18.1,16.4-19.9,16.9,14.6-19.3,19.6,16.9-22.3
+Plaget av støy fra trafikk hjemme,1832,Holmestrand,13.9,12.3-15.4,13.7,11.5-15.8,14.1,11.8-16.5
+Plaget av annen støy hjemme,1828,Holmestrand,9.5,8.2-10.9,10.1,8.2-11.9,8.9,6.9-10.8
+Andel med økonomiske vansker,1722,Holmestrand,18.6,16.7-20.4,20.3,17.7-22.9,16.5,13.9-19.1
+Stor grad av trivsel i nærmiljøet,2229,Horten,76.2,74.5-78.0,79.0,76.6-81.3,73.1,70.4-75.8
+Kulturtilbud -god eller svært god tilgang,2208,Horten,86.3,84.9-87.8,88.7,86.9-90.5,83.6,81.3-85.8
+Idrettstilbud -god eller svært god tilgang,2146,Horten,84.0,82.5-85.6,86.6,84.6-88.6,81.0,78.6-83.5
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",2229,Horten,86.6,85.2-88.0,88.9,87.1-90.7,84.0,81.8-86.3
+Offentlig transport -god eller svært god tilgang,2118,Horten,60.6,58.5-62.7,62.7,59.8-65.5,58.3,55.2-61.4
+Natur- og friluftsområder -god eller svært god tilgang,2222,Horten,94.8,93.9-95.7,95.0,93.8-96.3,94.5,93.1-95.9
+Kystlinje/strand/sjø -god eller svært god tilgang,2208,Horten,95.8,95.0-96.7,96.8,95.8-97.8,94.7,93.4-96.1
+Gang- og sykkelveier -godt eller svært godt utbygde,2211,Horten,80.8,79.1-82.4,81.9,79.8-84.1,79.4,77.0-81.9
+Ukentlig deltakelse i organisert aktivitet,2227,Horten,25.0,23.2-26.8,25.3,22.8-27.8,24.6,21.9-27.2
+Ukentlig deltakelse i annen aktivitet,2232,Horten,50.1,48.1-52.2,55.2,52.3-58.0,44.4,41.3-47.4
+God eller svært god helse,2230,Horten,69.3,67.4-71.2,70.5,67.9-73.1,68.0,65.1-70.8
+God eller svært god tannhelse,2232,Horten,71.2,69.4-73.1,74.8,72.4-77.3,67.1,64.3-70.0
+Mer enn 2 år siden du var hos tannlege/-pleier,2233,Horten,12.3,10.9-13.6,9.3,7.7-11.0,15.7,13.4-17.9
+Fedme KMI 30+,2168,Horten,20.9,19.2-22.6,19.5,17.2-21.8,22.5,19.9-25.0
+HSCL-5 >2,2232,Horten,15.5,14.0-17.0,17.7,15.5-19.9,12.9,10.8-14.9
+Søvnproblemer Insomni,2230,Horten,13.5,12.1-15.0,15.6,13.6-17.7,11.2,9.2-13.1
+I stor grad påvirket grunnet helseproblemer,2218,Horten,13.2,11.8-14.6,15.8,13.8-17.9,10.1,8.2-11.9
+Stor grad av funksjonsnedsettelse grunnet skade,2225,Horten,5.3,4.3-6.2,5.3,4.0-6.6,5.2,3.9-6.6
+Nakkesmerter siste 28 dager,2232,Horten,43.3,41.2-45.3,52.3,49.5-55.1,32.9,30.1-35.8
+Korsryggsmerter siste 28 dager,2231,Horten,45.3,43.2-47.4,49.1,46.3-52.0,41.0,38.0-44.0
+Høy sosial støtte,2220,Horten,35.0,33.0-37.0,37.0,34.3-39.8,32.7,29.8-35.5
+Ensomhet UCLA-3,2227,Horten,11.9,10.6-13.2,12.9,11.0-14.8,10.7,8.8-12.6
+Sammen med gode venner ukentlig eller oftere,2221,Horten,50.4,48.3-52.5,51.2,48.4-54.1,49.4,46.4-52.5
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,2206,Horten,21.4,19.7-23.2,23.8,21.4-26.2,18.7,16.4-21.1
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,2228,Horten,25.6,23.8-27.4,20.8,18.5-23.1,31.1,28.3-33.9
+Frukt eller bær daglig eller oftere,2231,Horten,34.7,32.8-36.7,42.8,40.0-45.6,25.6,22.9-28.2
+Grønnsaker daglig eller oftere,2228,Horten,50.7,48.6-52.8,60.1,57.3-62.9,39.9,36.9-42.9
+Fisk 2-3 ganger i uken eller oftere,2230,Horten,51.7,49.6-53.8,50.9,48.0-53.7,52.6,49.6-55.7
+Daglig røyking,2224,Horten,10.2,8.9-11.4,11.7,9.9-13.6,8.4,6.7-10.0
+Daglig snusing,2230,Horten,12.2,10.9-13.6,8.1,6.6-9.7,17.0,14.7-19.3
+Drikker alkohol 2 ganger i uken eller oftere,2224,Horten,27.3,25.4-29.1,23.2,20.8-25.6,31.9,29.1-34.8
+Episodisk høyt alkoholforbruk månedlig eller oftere,2219,Horten,17.0,15.5-18.6,11.2,9.4-13.0,23.7,21.1-26.3
+Utsatt for skade selvrapport siste 12 måneder,2224,Horten,16.4,14.9-18.0,15.6,13.5-17.7,17.4,15.1-19.7
+Plaget av støy fra trafikk hjemme,2232,Horten,9.5,8.3-10.8,9.1,7.5-10.8,10.0,8.2-11.8
+Plaget av annen støy hjemme,2233,Horten,9.8,8.5-11.0,10.4,8.7-12.1,9.0,7.3-10.8
+Andel med økonomiske vansker,2112,Horten,18.6,16.9-20.3,21.5,19.1-23.9,15.4,13.1-17.6
+Stor grad av trivsel i nærmiljøet,643,Kragerø,76.8,73.6-80.1,80.8,76.6-85.0,72.2,67.2-77.3
+Kulturtilbud -god eller svært god tilgang,631,Kragerø,54.8,50.9-58.7,54.1,48.8-59.4,55.7,49.9-61.4
+Idrettstilbud -god eller svært god tilgang,619,Kragerø,75.6,72.2-79.0,78.8,74.4-83.2,71.8,66.6-77.1
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",641,Kragerø,81.1,78.1-84.2,82.3,78.2-86.3,79.8,75.2-84.4
+Offentlig transport -god eller svært god tilgang,607,Kragerø,26.5,23.0-30.0,29.9,24.9-34.9,22.6,17.7-27.5
+Natur- og friluftsområder -god eller svært god tilgang,643,Kragerø,91.9,89.8-94.0,92.2,89.3-95.0,91.6,88.5-94.8
+Kystlinje/strand/sjø -god eller svært god tilgang,644,Kragerø,93.9,92.1-95.8,94.8,92.4-97.1,93.0,90.1-95.9
+Gang- og sykkelveier -godt eller svært godt utbygde,634,Kragerø,42.6,38.7-46.4,43.8,38.5-49.1,41.2,35.5-46.8
+Ukentlig deltakelse i organisert aktivitet,646,Kragerø,26.3,22.9-29.7,25.5,20.9-30.1,27.2,22.2-32.3
+Ukentlig deltakelse i annen aktivitet,646,Kragerø,52.9,49.1-56.8,57.7,52.5-62.9,47.5,41.9-53.2
+God eller svært god helse,645,Kragerø,73.2,69.8-76.6,71.0,66.2-75.8,75.7,70.8-80.5
+God eller svært god tannhelse,644,Kragerø,74.5,71.2-77.9,78.5,74.1-82.8,70.0,64.8-75.2
+Mer enn 2 år siden du var hos tannlege/-pleier,644,Kragerø,9.5,7.2-11.7,5.0,2.7-7.3,14.6,10.6-18.6
+Fedme KMI 30+,629,Kragerø,18.0,15.0-21.0,17.1,13.1-21.2,18.9,14.4-23.4
+HSCL-5 >2,645,Kragerø,13.3,10.7-16.0,17.1,13.1-21.1,9.0,5.8-12.2
+Søvnproblemer Insomni,646,Kragerø,13.6,11.0-16.3,15.4,11.5-19.2,11.6,8.0-15.3
+I stor grad påvirket grunnet helseproblemer,642,Kragerø,14.2,11.5-16.9,17.4,13.4-21.5,10.4,6.9-13.9
+Stor grad av funksjonsnedsettelse grunnet skade,643,Kragerø,6.2,4.3-8.1,5.8,3.3-8.3,6.7,3.8-9.5
+Nakkesmerter siste 28 dager,642,Kragerø,40.5,36.7-44.3,48.7,43.4-54.0,31.1,25.8-36.4
+Korsryggsmerter siste 28 dager,643,Kragerø,47.0,43.1-50.8,48.1,42.8-53.4,45.7,40.0-51.3
+Høy sosial støtte,639,Kragerø,37.6,33.8-41.3,45.4,40.1-50.7,28.7,23.5-33.8
+Ensomhet UCLA-3,642,Kragerø,11.5,9.0-14.0,12.2,8.7-15.7,10.7,7.2-14.3
+Sammen med gode venner ukentlig eller oftere,642,Kragerø,59.3,55.5-63.2,58.9,53.7-64.2,59.8,54.2-65.4
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,634,Kragerø,20.7,17.5-23.8,20.9,16.5-25.3,20.4,15.8-25.0
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,645,Kragerø,24.0,20.7-27.3,21.4,17.1-25.8,27.0,22.0-32.0
+Frukt eller bær daglig eller oftere,645,Kragerø,37.8,34.1-41.6,45.3,40.1-50.6,29.2,24.1-34.4
+Grønnsaker daglig eller oftere,643,Kragerø,51.3,47.4-55.2,63.4,58.3-68.5,37.5,32.0-43.0
+Fisk 2-3 ganger i uken eller oftere,643,Kragerø,54.3,50.4-58.1,56.3,51.0-61.5,52.0,46.3-57.7
+Daglig røyking,643,Kragerø,9.5,7.2-11.8,9.6,6.5-12.7,9.4,6.1-12.7
+Daglig snusing,644,Kragerø,11.0,8.6-13.5,5.5,3.1-7.9,17.3,13.0-21.6
+Drikker alkohol 2 ganger i uken eller oftere,643,Kragerø,24.9,21.5-28.2,18.8,14.7-23.0,31.9,26.6-37.2
+Episodisk høyt alkoholforbruk månedlig eller oftere,641,Kragerø,20.7,17.6-23.9,11.4,8.0-14.7,31.5,26.3-36.8
+Utsatt for skade selvrapport siste 12 måneder,643,Kragerø,16.2,13.3-19.0,14.3,10.6-18.0,18.3,13.9-22.7
+Plaget av støy fra trafikk hjemme,643,Kragerø,9.3,7.1-11.6,7.3,4.5-10.0,11.7,8.0-15.3
+Plaget av annen støy hjemme,646,Kragerø,5.7,3.9-7.5,5.2,2.9-7.6,6.3,3.6-9.1
+Andel med økonomiske vansker,615,Kragerø,16.6,13.6-19.5,18.7,14.4-22.9,14.2,10.2-18.3
+Stor grad av trivsel i nærmiljøet,553,Kviteseid,71.6,67.8-75.4,69.0,63.8-74.2,74.8,69.4-80.2
+Kulturtilbud -god eller svært god tilgang,544,Kviteseid,24.8,21.2-28.5,26.4,21.4-31.4,22.8,17.5-28.1
+Idrettstilbud -god eller svært god tilgang,540,Kviteseid,53.5,49.3-57.7,52.2,46.5-57.8,55.2,48.9-61.6
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",554,Kviteseid,50.4,46.2-54.5,50.0,44.4-55.6,50.8,44.6-57.0
+Offentlig transport -god eller svært god tilgang,535,Kviteseid,10.3,7.7-12.9,8.1,5.0-11.2,13.0,8.7-17.2
+Natur- og friluftsområder -god eller svært god tilgang,553,Kviteseid,93.7,91.6-95.7,92.4,89.4-95.4,95.2,92.5-97.9
+Kystlinje/strand/sjø -god eller svært god tilgang,469,Kviteseid,73.1,69.1-77.2,73.6,68.2-79.1,72.6,66.6-78.5
+Gang- og sykkelveier -godt eller svært godt utbygde,549,Kviteseid,15.8,12.8-18.9,15.2,11.2-19.3,16.6,11.9-21.3
+Ukentlig deltakelse i organisert aktivitet,552,Kviteseid,26.4,22.8-30.1,29.6,24.5-34.8,22.6,17.4-27.8
+Ukentlig deltakelse i annen aktivitet,553,Kviteseid,38.7,34.6-42.8,44.4,38.8-50.0,31.7,25.9-37.5
+God eller svært god helse,554,Kviteseid,69.7,65.8-73.5,71.1,65.9-76.2,68.0,62.2-73.8
+God eller svært god tannhelse,553,Kviteseid,75.6,72.0-79.2,79.6,75.1-84.1,70.7,65.0-76.4
+Mer enn 2 år siden du var hos tannlege/-pleier,554,Kviteseid,13.4,10.5-16.2,7.9,4.9-10.9,20.0,15.0-25.0
+Fedme KMI 30+,538,Kviteseid,20.3,16.9-23.7,20.3,15.6-24.9,20.2,15.2-25.3
+HSCL-5 >2,553,Kviteseid,11.8,9.1-14.4,13.5,9.6-17.3,9.6,6.0-13.3
+Søvnproblemer Insomni,552,Kviteseid,9.4,7.0-11.9,12.5,8.8-16.3,5.6,2.8-8.5
+I stor grad påvirket grunnet helseproblemer,553,Kviteseid,11.0,8.4-13.6,12.5,8.8-16.2,9.2,5.6-12.8
+Stor grad av funksjonsnedsettelse grunnet skade,553,Kviteseid,4.9,3.1-6.7,4.6,2.2-7.0,5.2,2.4-8.0
+Nakkesmerter siste 28 dager,554,Kviteseid,38.4,34.4-42.5,44.1,38.5-49.7,31.6,25.8-37.4
+Korsryggsmerter siste 28 dager,549,Kviteseid,40.1,36.0-44.2,39.5,34.0-45.1,40.7,34.6-46.9
+Høy sosial støtte,553,Kviteseid,42.9,38.7-47.0,45.4,39.8-51.0,39.8,33.7-45.9
+Ensomhet UCLA-3,549,Kviteseid,10.2,7.7-12.7,13.3,9.5-17.2,6.4,3.4-9.5
+Sammen med gode venner ukentlig eller oftere,550,Kviteseid,56.0,51.8-60.2,55.3,49.7-60.9,56.9,50.7-63.0
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,544,Kviteseid,18.6,15.3-21.8,23.7,18.9-28.6,12.4,8.3-16.6
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,553,Kviteseid,33.3,29.3-37.2,29.0,23.9-34.2,38.4,32.4-44.4
+Frukt eller bær daglig eller oftere,553,Kviteseid,37.4,33.4-41.5,45.7,40.1-51.3,27.3,21.8-32.9
+Grønnsaker daglig eller oftere,554,Kviteseid,46.4,42.2-50.6,56.9,51.3-62.5,33.6,27.7-39.5
+Fisk 2-3 ganger i uken eller oftere,552,Kviteseid,46.9,42.7-51.1,47.0,41.4-52.7,46.8,40.5-53.0
+Daglig røyking,552,Kviteseid,12.1,9.4-14.9,11.2,7.6-14.7,13.3,9.1-17.5
+Daglig snusing,553,Kviteseid,9.9,7.4-12.4,5.6,3.0-8.2,15.3,10.8-19.7
+Drikker alkohol 2 ganger i uken eller oftere,554,Kviteseid,16.1,13.0-19.1,13.2,9.3-17.0,19.6,14.7-24.5
+Episodisk høyt alkoholforbruk månedlig eller oftere,552,Kviteseid,12.5,9.7-15.3,5.6,3.0-8.2,20.9,15.8-25.9
+Utsatt for skade selvrapport siste 12 måneder,553,Kviteseid,15.7,12.7-18.8,13.8,9.9-17.7,18.1,13.3-22.9
+Plaget av støy fra trafikk hjemme,552,Kviteseid,7.4,5.2-9.6,8.3,5.2-11.4,6.4,3.4-9.4
+Plaget av annen støy hjemme,554,Kviteseid,3.6,2.1-5.2,4.3,2.0-6.6,2.8,0.7-4.9
+Andel med økonomiske vansker,518,Kviteseid,16.8,13.6-20.0,18.3,13.7-22.8,15.1,10.5-19.6
+Stor grad av trivsel i nærmiljøet,3613,Larvik,77.1,75.8-78.5,76.6,74.7-78.4,77.8,75.8-79.9
+Kulturtilbud -god eller svært god tilgang,3579,Larvik,82.8,81.6-84.1,85.0,83.4-86.5,80.2,78.2-82.1
+Idrettstilbud -god eller svært god tilgang,3494,Larvik,83.7,82.4-84.9,85.5,84.0-87.1,81.3,79.4-83.3
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",3604,Larvik,83.7,82.4-84.9,83.6,81.9-85.2,83.8,82.0-85.6
+Offentlig transport -god eller svært god tilgang,3349,Larvik,49.3,47.6-51.0,50.7,48.4-53.0,47.6,45.1-50.1
+Natur- og friluftsområder -god eller svært god tilgang,3605,Larvik,94.3,93.6-95.1,94.6,93.6-95.6,94.1,92.9-95.2
+Kystlinje/strand/sjø -god eller svært god tilgang,3477,Larvik,92.8,92.0-93.7,93.9,92.8-95.0,91.5,90.1-92.9
+Gang- og sykkelveier -godt eller svært godt utbygde,3546,Larvik,54.0,52.3-55.6,53.9,51.7-56.1,54.1,51.6-56.5
+Ukentlig deltakelse i organisert aktivitet,3612,Larvik,27.5,26.1-29.0,27.2,25.3-29.2,28.0,25.8-30.1
+Ukentlig deltakelse i annen aktivitet,3609,Larvik,47.0,45.3-48.6,48.8,46.6-51.0,44.7,42.3-47.1
+God eller svært god helse,3606,Larvik,70.4,68.9-71.9,70.1,68.1-72.1,70.8,68.6-73.0
+God eller svært god tannhelse,3613,Larvik,73.8,72.4-75.3,77.5,75.7-79.3,69.4,67.1-71.6
+Mer enn 2 år siden du var hos tannlege/-pleier,3609,Larvik,11.9,10.8-12.9,9.9,8.6-11.2,14.2,12.5-15.9
+Fedme KMI 30+,3504,Larvik,20.2,18.9-21.6,18.6,16.9-20.4,22.1,20.1-24.2
+HSCL-5 >2,3613,Larvik,14.2,13.1-15.4,15.9,14.3-17.5,12.2,10.6-13.8
+Søvnproblemer Insomni,3608,Larvik,12.5,11.4-13.6,14.9,13.4-16.5,9.6,8.2-11.0
+I stor grad påvirket grunnet helseproblemer,3594,Larvik,13.2,12.1-14.3,14.6,13.1-16.2,11.4,9.8-12.9
+Stor grad av funksjonsnedsettelse grunnet skade,3599,Larvik,6.3,5.5-7.1,6.2,5.2-7.3,6.3,5.2-7.5
+Nakkesmerter siste 28 dager,3601,Larvik,43.0,41.3-44.6,49.6,47.4-51.8,34.9,32.6-37.2
+Korsryggsmerter siste 28 dager,3599,Larvik,43.9,42.3-45.5,45.1,42.9-47.3,42.4,40.0-44.8
+Høy sosial støtte,3583,Larvik,36.4,34.8-37.9,38.5,36.3-40.6,33.8,31.5-36.1
+Ensomhet UCLA-3,3600,Larvik,11.8,10.8-12.9,13.3,11.8-14.8,10.0,8.5-11.4
+Sammen med gode venner ukentlig eller oftere,3594,Larvik,51.3,49.6-52.9,50.9,48.7-53.1,51.6,49.2-54.1
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,3554,Larvik,20.7,19.4-22.0,21.8,19.9-23.6,19.4,17.5-21.3
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,3606,Larvik,26.2,24.8-27.6,22.3,20.4-24.1,31.0,28.8-33.3
+Frukt eller bær daglig eller oftere,3601,Larvik,31.5,29.9-33.0,37.9,35.7-40.0,23.6,21.6-25.7
+Grønnsaker daglig eller oftere,3606,Larvik,48.4,46.7-50.0,56.9,54.7-59.1,37.9,35.6-40.3
+Fisk 2-3 ganger i uken eller oftere,3606,Larvik,49.3,47.6-50.9,49.7,47.5-51.9,48.7,46.2-51.1
+Daglig røyking,3603,Larvik,9.2,8.3-10.2,9.0,7.7-10.2,9.5,8.1-10.9
+Daglig snusing,3604,Larvik,12.3,11.3-13.4,8.5,7.3-9.8,17.0,15.2-18.8
+Drikker alkohol 2 ganger i uken eller oftere,3590,Larvik,24.7,23.3-26.1,20.9,19.1-22.7,29.3,27.1-31.5
+Episodisk høyt alkoholforbruk månedlig eller oftere,3587,Larvik,16.4,15.2-17.6,11.0,9.6-12.4,23.0,20.9-25.1
+Utsatt for skade selvrapport siste 12 måneder,3604,Larvik,17.2,15.9-18.4,14.2,12.6-15.7,20.9,18.9-22.8
+Plaget av støy fra trafikk hjemme,3604,Larvik,10.9,9.9-11.9,10.9,9.5-12.2,10.9,9.4-12.4
+Plaget av annen støy hjemme,3603,Larvik,7.6,6.7-8.5,8.2,7.0-9.4,6.8,5.6-8.1
+Andel med økonomiske vansker,3398,Larvik,19.1,17.7-20.4,20.7,18.9-22.5,17.1,15.2-19.0
+Stor grad av trivsel i nærmiljøet,730,Midt-Telemark,75.5,72.4-78.6,77.2,73.1-81.4,73.5,68.7-78.2
+Kulturtilbud -god eller svært god tilgang,725,Midt-Telemark,86.3,83.8-88.9,87.7,84.4-91.0,84.8,80.9-88.6
+Idrettstilbud -god eller svært god tilgang,716,Midt-Telemark,85.8,83.2-88.3,88.2,85.0-91.4,82.8,78.7-86.9
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",730,Midt-Telemark,89.0,86.8-91.3,91.3,88.5-94.1,86.4,82.7-90.1
+Offentlig transport -god eller svært god tilgang,702,Midt-Telemark,38.2,34.6-41.8,36.2,31.3-41.0,40.5,35.1-45.8
+Natur- og friluftsområder -god eller svært god tilgang,727,Midt-Telemark,95.7,94.3-97.2,95.7,93.6-97.7,95.8,93.7-98.0
+Kystlinje/strand/sjø -god eller svært god tilgang,513,Midt-Telemark,41.7,37.4-46.0,40.3,34.5-46.1,43.3,37.0-49.6
+Gang- og sykkelveier -godt eller svært godt utbygde,730,Midt-Telemark,47.3,43.6-50.9,45.7,40.7-50.6,49.1,43.8-54.5
+Ukentlig deltakelse i organisert aktivitet,730,Midt-Telemark,25.5,22.3-28.6,26.3,21.9-30.6,24.6,20.0-29.2
+Ukentlig deltakelse i annen aktivitet,728,Midt-Telemark,47.5,43.9-51.2,53.8,48.9-58.8,40.2,34.9-45.4
+God eller svært god helse,733,Midt-Telemark,69.7,66.4-73.0,69.5,64.9-74.0,70.0,65.1-74.9
+God eller svært god tannhelse,732,Midt-Telemark,73.1,69.9-76.3,74.3,70.0-78.6,71.7,66.9-76.5
+Mer enn 2 år siden du var hos tannlege/-pleier,732,Midt-Telemark,11.6,9.3-13.9,7.9,5.2-10.6,15.9,12.0-19.8
+Fedme KMI 30+,718,Midt-Telemark,15.7,13.1-18.4,14.0,10.5-17.5,17.7,13.6-21.8
+HSCL-5 >2,731,Midt-Telemark,14.0,11.4-16.5,15.3,11.7-18.8,12.4,8.9-16.0
+Søvnproblemer Insomni,732,Midt-Telemark,13.0,10.5-15.4,15.8,12.2-19.4,9.7,6.6-12.9
+I stor grad påvirket grunnet helseproblemer,728,Midt-Telemark,13.5,11.0-15.9,15.6,12.0-19.3,10.9,7.6-14.3
+Stor grad av funksjonsnedsettelse grunnet skade,730,Midt-Telemark,6.4,4.7-8.2,6.9,4.4-9.4,5.9,3.4-8.4
+Nakkesmerter siste 28 dager,727,Midt-Telemark,39.9,36.3-43.5,47.2,42.2-52.1,31.5,26.5-36.4
+Korsryggsmerter siste 28 dager,729,Midt-Telemark,46.0,42.3-49.6,48.1,43.1-53.0,43.5,38.2-48.8
+Høy sosial støtte,728,Midt-Telemark,39.6,36.0-43.1,41.8,36.9-46.7,37.0,31.8-42.1
+Ensomhet UCLA-3,727,Midt-Telemark,13.8,11.2-16.3,16.5,12.8-20.2,10.6,7.3-13.9
+Sammen med gode venner ukentlig eller oftere,730,Midt-Telemark,56.3,52.7-59.9,57.7,52.8-62.6,54.7,49.4-60.0
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,716,Midt-Telemark,22.9,19.8-26.0,23.2,18.9-27.4,22.6,18.1-27.1
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,732,Midt-Telemark,28.7,25.4-32.0,22.7,18.5-26.9,35.6,30.5-40.7
+Frukt eller bær daglig eller oftere,729,Midt-Telemark,38.7,35.1-42.2,43.6,38.7-48.5,32.9,27.9-38.0
+Grønnsaker daglig eller oftere,730,Midt-Telemark,53.2,49.5-56.8,60.1,55.2-65.0,45.1,39.8-50.4
+Fisk 2-3 ganger i uken eller oftere,728,Midt-Telemark,48.9,45.3-52.5,49.0,44.0-53.9,48.8,43.5-54.2
+Daglig røyking,733,Midt-Telemark,9.7,7.5-11.8,7.9,5.2-10.6,11.7,8.3-15.2
+Daglig snusing,730,Midt-Telemark,12.2,9.8-14.6,9.2,6.3-12.1,15.6,11.8-19.5
+Drikker alkohol 2 ganger i uken eller oftere,729,Midt-Telemark,18.5,15.7-21.3,13.3,9.9-16.7,24.6,20.0-29.2
+Episodisk høyt alkoholforbruk månedlig eller oftere,729,Midt-Telemark,12.9,10.5-15.3,5.9,3.5-8.2,21.0,16.7-25.4
+Utsatt for skade selvrapport siste 12 måneder,726,Midt-Telemark,16.8,14.1-19.5,16.5,12.8-20.2,17.2,13.1-21.2
+Plaget av støy fra trafikk hjemme,730,Midt-Telemark,9.5,7.3-11.6,7.9,5.2-10.6,11.2,7.9-14.6
+Plaget av annen støy hjemme,731,Midt-Telemark,7.0,5.1-8.8,5.9,3.5-8.2,8.3,5.3-11.2
+Andel med økonomiske vansker,693,Midt-Telemark,21.9,18.8-25.0,23.8,19.4-28.1,19.8,15.5-24.2
+Stor grad av trivsel i nærmiljøet,300,Nissedal,72.0,66.9-77.1,68.5,61.4-75.6,76.3,69.1-83.5
+Kulturtilbud -god eller svært god tilgang,296,Nissedal,38.9,33.3-44.4,41.1,33.5-48.7,36.1,27.9-44.3
+Idrettstilbud -god eller svært god tilgang,294,Nissedal,66.0,60.5-71.4,68.1,60.9-75.3,63.4,55.1-71.7
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",300,Nissedal,51.7,46.0-57.4,50.3,42.6-58.0,53.3,44.9-61.8
+Offentlig transport -god eller svært god tilgang,290,Nissedal,-,,-,,-,
+Natur- og friluftsområder -god eller svært god tilgang,297,Nissedal,95.6,93.3-98.0,95.7,92.6-98.8,95.5,92.0-99.0
+Kystlinje/strand/sjø -god eller svært god tilgang,272,Nissedal,87.5,83.5-91.5,88.2,83.0-93.3,86.7,80.5-92.8
+Gang- og sykkelveier -godt eller svært godt utbygde,298,Nissedal,46.0,40.3-51.7,47.6,39.9-55.2,44.0,35.6-52.5
+Ukentlig deltakelse i organisert aktivitet,297,Nissedal,29.6,24.4-34.9,33.3,26.0-40.6,25.2,17.8-32.5
+Ukentlig deltakelse i annen aktivitet,298,Nissedal,40.9,35.3-46.6,45.7,38.1-53.4,35.1,26.9-43.2
+God eller svært god helse,298,Nissedal,71.5,66.3-76.6,69.9,62.9-77.0,73.3,65.8-80.8
+God eller svært god tannhelse,300,Nissedal,66.3,61.0-71.7,71.5,64.6-78.4,60.0,51.7-68.3
+Mer enn 2 år siden du var hos tannlege/-pleier,300,Nissedal,14.0,10.1-17.9,13.3,8.1-18.5,14.8,8.8-20.8
+Fedme KMI 30+,293,Nissedal,20.8,16.1-25.5,20.9,14.5-27.3,20.7,13.9-27.6
+HSCL-5 >2,299,Nissedal,13.4,9.5-17.3,15.9,10.2-21.5,10.4,5.2-15.5
+Søvnproblemer Insomni,300,Nissedal,17.3,13.0-21.6,20.6,14.4-26.8,13.3,7.6-19.1
+I stor grad påvirket grunnet helseproblemer,299,Nissedal,15.1,11.0-19.1,16.4,10.7-22.0,13.4,7.6-19.2
+Stor grad av funksjonsnedsettelse grunnet skade,295,Nissedal,7.1,4.2-10.1,8.7,4.3-13.1,5.2,1.4-9.0
+Nakkesmerter siste 28 dager,300,Nissedal,41.0,35.4-46.6,45.5,37.8-53.1,35.6,27.4-43.7
+Korsryggsmerter siste 28 dager,300,Nissedal,45.0,39.3-50.7,46.1,38.4-53.7,43.7,35.3-52.1
+Høy sosial støtte,300,Nissedal,41.0,35.4-46.6,43.6,36.0-51.2,37.8,29.6-46.0
+Ensomhet UCLA-3,299,Nissedal,15.7,11.6-19.9,18.8,12.8-24.8,11.9,6.4-17.5
+Sammen med gode venner ukentlig eller oftere,297,Nissedal,55.6,49.9-61.2,56.8,49.1-64.5,54.1,45.6-62.5
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,292,Nissedal,14.0,10.0-18.0,13.8,8.4-19.2,14.3,8.3-20.3
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,299,Nissedal,31.4,26.1-36.7,25.0,18.3-31.7,39.3,31.0-47.5
+Frukt eller bær daglig eller oftere,299,Nissedal,38.1,32.6-43.7,45.1,37.5-52.8,29.6,21.9-37.4
+Grønnsaker daglig eller oftere,299,Nissedal,44.1,38.5-49.8,52.4,44.8-60.1,34.1,26.0-42.1
+Fisk 2-3 ganger i uken eller oftere,299,Nissedal,47.5,41.8-53.2,48.2,40.5-55.9,46.7,38.2-55.1
+Daglig røyking,298,Nissedal,13.8,9.8-17.7,15.3,9.8-20.9,11.9,6.4-17.3
+Daglig snusing,299,Nissedal,13.0,9.2-16.9,9.8,5.2-14.3,17.0,10.7-23.4
+Drikker alkohol 2 ganger i uken eller oftere,300,Nissedal,14.7,10.6-18.7,10.9,6.1-15.7,19.3,12.6-25.9
+Episodisk høyt alkoholforbruk månedlig eller oftere,299,Nissedal,13.4,9.5-17.3,6.1,2.4-9.8,22.2,15.2-29.3
+Utsatt for skade selvrapport siste 12 måneder,300,Nissedal,19.3,14.8-23.8,20.0,13.9-26.1,18.5,11.9-25.1
+Plaget av støy fra trafikk hjemme,300,Nissedal,6.3,3.6-9.1,7.9,3.7-12.0,4.4,0.9-7.9
+Plaget av annen støy hjemme,300,Nissedal,-,,-,,-,
+Andel med økonomiske vansker,279,Nissedal,16.8,12.4-21.3,19.2,12.9-25.5,14.1,8.0-20.1
+Stor grad av trivsel i nærmiljøet,402,Nome,74.1,69.8-78.4,75.5,69.6-81.4,72.7,66.5-79.0
+Kulturtilbud -god eller svært god tilgang,394,Nome,61.4,56.6-66.2,68.8,62.4-75.2,53.6,46.6-60.7
+Idrettstilbud -god eller svært god tilgang,389,Nome,74.0,69.7-78.4,74.2,68.1-80.4,73.8,67.6-80.1
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",400,Nome,74.3,69.9-78.6,81.3,75.9-86.7,67.0,60.4-73.6
+Offentlig transport -god eller svært god tilgang,385,Nome,23.1,18.9-27.3,24.5,18.4-30.5,21.7,15.8-27.6
+Natur- og friluftsområder -god eller svært god tilgang,401,Nome,94.3,92.0-96.5,94.6,91.5-97.7,93.9,90.6-97.3
+Kystlinje/strand/sjø -god eller svært god tilgang,349,Nome,69.6,64.8-74.5,70.5,63.7-77.3,68.7,61.9-75.6
+Gang- og sykkelveier -godt eller svært godt utbygde,399,Nome,20.6,16.6-24.5,23.2,17.3-29.0,17.9,12.5-23.2
+Ukentlig deltakelse i organisert aktivitet,401,Nome,28.2,23.8-32.6,25.5,19.5-31.5,31.0,24.5-37.4
+Ukentlig deltakelse i annen aktivitet,401,Nome,41.6,36.8-46.5,41.9,35.1-48.7,41.4,34.5-48.3
+God eller svært god helse,402,Nome,70.6,66.2-75.1,68.6,62.2-75.0,72.7,66.5-79.0
+God eller svært god tannhelse,402,Nome,72.4,68.0-76.8,72.1,65.9-78.2,72.7,66.5-79.0
+Mer enn 2 år siden du var hos tannlege/-pleier,401,Nome,10.5,7.5-13.5,9.4,5.3-13.4,11.6,7.1-16.1
+Fedme KMI 30+,394,Nome,20.8,16.8-24.8,20.0,14.4-25.6,21.6,15.8-27.5
+HSCL-5 >2,402,Nome,11.2,8.1-14.3,14.7,9.8-19.6,7.6,3.9-11.3
+Søvnproblemer Insomni,399,Nome,10.0,7.1-13.0,13.8,9.0-18.6,6.1,2.8-9.5
+I stor grad påvirket grunnet helseproblemer,401,Nome,13.0,9.7-16.3,17.2,12.0-22.5,8.6,4.7-12.5
+Stor grad av funksjonsnedsettelse grunnet skade,401,Nome,7.0,4.5-9.5,7.4,3.8-10.9,6.6,3.1-10.1
+Nakkesmerter siste 28 dager,400,Nome,39.5,34.7-44.3,49.8,42.8-56.7,28.9,22.6-35.3
+Korsryggsmerter siste 28 dager,401,Nome,40.9,36.1-45.7,46.6,39.7-53.4,35.0,28.3-41.7
+Høy sosial støtte,398,Nome,39.4,34.6-44.3,42.0,35.1-48.9,36.9,30.1-43.6
+Ensomhet UCLA-3,398,Nome,9.0,6.2-11.9,12.4,7.8-16.9,5.6,2.4-8.8
+Sammen med gode venner ukentlig eller oftere,398,Nome,54.0,49.1-58.9,53.7,46.8-60.7,54.3,47.3-61.3
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,392,Nome,17.6,13.8-21.4,17.6,12.3-22.9,17.6,12.2-23.0
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,401,Nome,28.9,24.5-33.4,17.6,12.4-22.9,40.6,33.7-47.5
+Frukt eller bær daglig eller oftere,400,Nome,36.0,31.3-40.7,39.9,33.1-46.7,32.0,25.4-38.5
+Grønnsaker daglig eller oftere,402,Nome,43.5,38.7-48.4,51.0,44.1-57.9,35.9,29.1-42.6
+Fisk 2-3 ganger i uken eller oftere,402,Nome,44.5,39.6-49.4,40.7,33.9-47.5,48.5,41.5-55.5
+Daglig røyking,402,Nome,14.7,11.2-18.2,14.7,9.8-19.6,14.6,9.7-19.6
+Daglig snusing,401,Nome,11.5,8.3-14.6,5.9,2.6-9.1,17.3,12.0-22.6
+Drikker alkohol 2 ganger i uken eller oftere,402,Nome,14.9,11.4-18.4,11.3,6.9-15.6,18.7,13.2-24.1
+Episodisk høyt alkoholforbruk månedlig eller oftere,402,Nome,14.7,11.2-18.2,7.4,3.8-10.9,22.2,16.4-28.0
+Utsatt for skade selvrapport siste 12 måneder,402,Nome,16.7,13.0-20.3,13.2,8.6-17.9,20.2,14.6-25.8
+Plaget av støy fra trafikk hjemme,401,Nome,11.2,8.1-14.3,10.8,6.5-15.1,11.7,7.2-16.2
+Plaget av annen støy hjemme,401,Nome,7.7,5.1-10.4,8.3,4.5-12.1,7.1,3.5-10.7
+Andel med økonomiske vansker,380,Nome,20.8,16.7-24.9,21.0,15.1-26.8,20.6,14.9-26.3
+Stor grad av trivsel i nærmiljøet,851,Notodden,68.6,65.5-71.7,67.4,63.2-71.7,70.1,65.5-74.7
+Kulturtilbud -god eller svært god tilgang,846,Notodden,77.9,75.1-80.7,81.7,78.2-85.2,73.1,68.6-77.6
+Idrettstilbud -god eller svært god tilgang,812,Notodden,73.3,70.2-76.3,74.9,70.9-78.9,71.2,66.5-75.9
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",851,Notodden,75.9,73.0-78.8,77.1,73.3-80.9,74.4,70.0-78.8
+Offentlig transport -god eller svært god tilgang,797,Notodden,28.7,25.6-31.9,28.4,24.1-32.6,29.2,24.5-33.9
+Natur- og friluftsområder -god eller svært god tilgang,847,Notodden,91.7,89.9-93.6,90.6,88.0-93.3,93.1,90.5-95.7
+Kystlinje/strand/sjø -god eller svært god tilgang,712,Notodden,56.0,52.4-59.7,58.2,53.2-63.1,53.5,48.1-58.9
+Gang- og sykkelveier -godt eller svært godt utbygde,836,Notodden,46.5,43.1-49.9,45.0,40.5-49.6,48.4,43.3-53.5
+Ukentlig deltakelse i organisert aktivitet,852,Notodden,23.9,21.1-26.8,23.8,20.0-27.7,24.1,19.8-28.4
+Ukentlig deltakelse i annen aktivitet,851,Notodden,45.7,42.4-49.1,51.7,47.2-56.2,38.2,33.3-43.1
+God eller svært god helse,854,Notodden,65.1,61.9-68.3,63.6,59.2-67.9,67.0,62.3-71.8
+God eller svært god tannhelse,852,Notodden,69.1,66.0-72.2,71.4,67.3-75.4,66.3,61.5-71.1
+Mer enn 2 år siden du var hos tannlege/-pleier,849,Notodden,12.5,10.3-14.7,10.0,7.3-12.7,15.6,12.0-19.3
+Fedme KMI 30+,824,Notodden,20.1,17.4-22.9,18.1,14.6-21.7,22.6,18.3-26.8
+HSCL-5 >2,853,Notodden,14.5,12.2-16.9,16.5,13.1-19.8,12.1,8.8-15.4
+Søvnproblemer Insomni,852,Notodden,14.3,12.0-16.7,19.2,15.6-22.8,8.2,5.4-11.0
+I stor grad påvirket grunnet helseproblemer,849,Notodden,17.3,14.8-19.9,20.0,16.3-23.6,14.0,10.5-17.5
+Stor grad av funksjonsnedsettelse grunnet skade,850,Notodden,8.9,7.0-10.9,8.5,5.9-11.0,9.5,6.6-12.5
+Nakkesmerter siste 28 dager,851,Notodden,44.8,41.4-48.1,53.0,48.5-57.5,34.6,29.8-39.4
+Korsryggsmerter siste 28 dager,853,Notodden,46.2,42.8-49.5,49.4,44.9-53.9,42.2,37.2-47.2
+Høy sosial støtte,843,Notodden,35.2,32.0-38.5,38.6,34.2-43.0,31.0,26.3-35.7
+Ensomhet UCLA-3,850,Notodden,11.8,9.6-13.9,13.7,10.6-16.9,9.3,6.3-12.2
+Sammen med gode venner ukentlig eller oftere,848,Notodden,57.2,53.9-60.5,59.0,54.6-63.5,54.9,49.9-59.9
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,841,Notodden,20.1,17.4-22.8,21.4,17.6-25.1,18.5,14.6-22.4
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,853,Notodden,30.4,27.3-33.5,26.7,22.7-30.7,34.9,30.1-39.7
+Frukt eller bær daglig eller oftere,851,Notodden,31.6,28.5-34.7,37.1,32.8-41.5,24.7,20.3-29.0
+Grønnsaker daglig eller oftere,852,Notodden,42.1,38.8-45.5,47.6,43.1-52.1,35.3,30.4-40.1
+Fisk 2-3 ganger i uken eller oftere,851,Notodden,41.4,38.0-44.7,40.6,36.2-45.0,42.3,37.3-47.3
+Daglig røyking,852,Notodden,10.0,8.0-12.0,10.8,8.0-13.6,9.0,6.1-11.9
+Daglig snusing,852,Notodden,12.8,10.5-15.0,9.3,6.7-11.9,17.2,13.4-21.1
+Drikker alkohol 2 ganger i uken eller oftere,854,Notodden,19.0,16.3-21.6,14.7,11.5-17.9,24.3,19.9-28.6
+Episodisk høyt alkoholforbruk månedlig eller oftere,851,Notodden,15.9,13.4-18.3,11.0,8.2-13.8,22.0,17.8-26.1
+Utsatt for skade selvrapport siste 12 måneder,845,Notodden,14.1,11.7-16.4,12.6,9.6-15.6,16.0,12.3-19.7
+Plaget av støy fra trafikk hjemme,852,Notodden,11.5,9.4-13.6,10.7,7.9-13.5,12.5,9.1-15.8
+Plaget av annen støy hjemme,851,Notodden,10.3,8.3-12.4,10.3,7.6-13.1,10.4,7.3-13.5
+Andel med økonomiske vansker,807,Notodden,20.6,17.8-23.4,23.7,19.8-27.7,16.7,12.8-20.5
+Stor grad av trivsel i nærmiljøet,2378,Porsgrunn,77.6,75.9-79.3,78.1,75.9-80.3,76.9,74.4-79.5
+Kulturtilbud -god eller svært god tilgang,2364,Porsgrunn,86.9,85.6-88.3,89.2,87.5-90.8,84.1,81.9-86.3
+Idrettstilbud -god eller svært god tilgang,2304,Porsgrunn,86.2,84.8-87.6,87.7,85.9-89.5,84.3,82.0-86.5
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",2376,Porsgrunn,89.4,88.1-90.6,89.9,88.3-91.5,88.7,86.8-90.6
+Offentlig transport -god eller svært god tilgang,2248,Porsgrunn,68.0,66.1-69.9,68.4,65.8-71.0,67.5,64.6-70.4
+Natur- og friluftsområder -god eller svært god tilgang,2371,Porsgrunn,90.8,89.7-92.0,91.1,89.5-92.6,90.6,88.8-92.3
+Kystlinje/strand/sjø -god eller svært god tilgang,2338,Porsgrunn,88.6,87.3-89.9,89.9,88.2-91.5,87.0,84.9-89.0
+Gang- og sykkelveier -godt eller svært godt utbygde,2343,Porsgrunn,74.3,72.5-76.1,77.0,74.8-79.3,70.8,68.1-73.6
+Ukentlig deltakelse i organisert aktivitet,2383,Porsgrunn,27.5,25.7-29.3,28.3,25.9-30.8,26.5,23.8-29.2
+Ukentlig deltakelse i annen aktivitet,2383,Porsgrunn,49.4,47.4-51.4,52.0,49.3-54.7,46.1,43.1-49.1
+God eller svært god helse,2382,Porsgrunn,69.4,67.6-71.3,70.6,68.1-73.0,68.0,65.2-70.8
+God eller svært god tannhelse,2379,Porsgrunn,73.4,71.7-75.2,76.1,73.8-78.4,70.1,67.3-72.9
+Mer enn 2 år siden du var hos tannlege/-pleier,2377,Porsgrunn,11.2,10.0-12.5,9.9,8.3-11.6,12.9,10.8-14.9
+Fedme KMI 30+,2315,Porsgrunn,19.8,18.2-21.5,18.0,15.9-20.1,22.0,19.5-24.6
+HSCL-5 >2,2381,Porsgrunn,14.3,12.9-15.7,16.2,14.2-18.2,11.9,9.9-13.8
+Søvnproblemer Insomni,2376,Porsgrunn,14.3,12.9-15.7,17.0,15.0-19.0,10.8,9.0-12.7
+I stor grad påvirket grunnet helseproblemer,2374,Porsgrunn,13.3,11.9-14.6,15.2,13.2-17.1,10.9,9.0-12.8
+Stor grad av funksjonsnedsettelse grunnet skade,2373,Porsgrunn,6.7,5.7-7.8,7.1,5.7-8.5,6.3,4.8-7.8
+Nakkesmerter siste 28 dager,2380,Porsgrunn,41.0,39.0-42.9,48.8,46.1-51.4,31.1,28.3-33.9
+Korsryggsmerter siste 28 dager,2377,Porsgrunn,44.4,42.4-46.4,47.6,44.9-50.3,40.3,37.4-43.3
+Høy sosial støtte,2371,Porsgrunn,35.4,33.5-37.4,37.3,34.7-39.9,33.0,30.2-35.9
+Ensomhet UCLA-3,2375,Porsgrunn,11.1,9.8-12.3,12.9,11.1-14.7,8.8,7.1-10.5
+Sammen med gode venner ukentlig eller oftere,2371,Porsgrunn,54.2,52.1-56.2,53.0,50.3-55.7,55.6,52.6-58.6
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,2333,Porsgrunn,20.2,18.6-21.8,20.5,18.3-22.7,19.7,17.3-22.2
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,2379,Porsgrunn,27.7,25.9-29.5,22.9,20.6-25.1,33.7,30.9-36.6
+Frukt eller bær daglig eller oftere,2372,Porsgrunn,31.5,29.6-33.3,37.8,35.2-40.4,23.3,20.8-25.9
+Grønnsaker daglig eller oftere,2373,Porsgrunn,46.4,44.4-48.4,55.7,53.1-58.4,34.7,31.8-37.6
+Fisk 2-3 ganger i uken eller oftere,2373,Porsgrunn,46.1,44.1-48.1,46.3,43.6-48.9,45.8,42.8-48.8
+Daglig røyking,2369,Porsgrunn,9.2,8.0-10.3,10.0,8.4-11.6,8.1,6.5-9.8
+Daglig snusing,2376,Porsgrunn,13.3,12.0-14.7,10.8,9.2-12.5,16.5,14.3-18.8
+Drikker alkohol 2 ganger i uken eller oftere,2373,Porsgrunn,24.6,22.9-26.3,19.8,17.6-21.9,30.7,27.9-33.5
+Episodisk høyt alkoholforbruk månedlig eller oftere,2369,Porsgrunn,17.1,15.6-18.7,12.3,10.6-14.1,23.2,20.6-25.7
+Utsatt for skade selvrapport siste 12 måneder,2371,Porsgrunn,16.4,14.9-17.9,16.5,14.5-18.5,16.2,14.0-18.5
+Plaget av støy fra trafikk hjemme,2375,Porsgrunn,11.4,10.1-12.6,12.0,10.2-13.7,10.6,8.7-12.5
+Plaget av annen støy hjemme,2377,Porsgrunn,10.6,9.3-11.8,11.5,9.8-13.2,9.3,7.6-11.1
+Andel med økonomiske vansker,2243,Porsgrunn,19.3,17.7-20.9,21.4,19.1-23.6,16.8,14.5-19.1
+Stor grad av trivsel i nærmiljøet,4768,Sandefjord,76.7,75.5-77.9,75.7,74.1-77.4,77.8,76.1-79.5
+Kulturtilbud -god eller svært god tilgang,4708,Sandefjord,84.3,83.2-85.3,84.9,83.5-86.3,83.6,82.1-85.1
+Idrettstilbud -god eller svært god tilgang,4631,Sandefjord,87.5,86.6-88.5,87.7,86.4-89.0,87.3,85.9-88.7
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",4759,Sandefjord,89.3,88.4-90.1,89.5,88.3-90.7,89.0,87.7-90.2
+Offentlig transport -god eller svært god tilgang,4383,Sandefjord,48.7,47.3-50.2,48.7,46.6-50.7,48.8,46.7-51.0
+Natur- og friluftsområder -god eller svært god tilgang,4752,Sandefjord,91.9,91.2-92.7,90.9,89.7-92.0,93.1,92.1-94.2
+Kystlinje/strand/sjø -god eller svært god tilgang,4589,Sandefjord,84.7,83.7-85.8,85.1,83.7-86.5,84.4,82.8-85.9
+Gang- og sykkelveier -godt eller svært godt utbygde,4699,Sandefjord,58.5,57.1-59.9,56.1,54.2-58.1,61.2,59.1-63.2
+Ukentlig deltakelse i organisert aktivitet,4767,Sandefjord,25.6,24.4-26.8,25.2,23.5-26.9,26.1,24.3-27.9
+Ukentlig deltakelse i annen aktivitet,4765,Sandefjord,47.1,45.7-48.5,49.1,47.1-51.0,44.9,42.9-47.0
+God eller svært god helse,4771,Sandefjord,71.0,69.7-72.3,69.0,67.2-70.8,73.2,71.4-75.0
+God eller svært god tannhelse,4771,Sandefjord,72.6,71.3-73.9,75.2,73.5-76.9,69.7,67.8-71.6
+Mer enn 2 år siden du var hos tannlege/-pleier,4769,Sandefjord,11.9,11.0-12.9,10.8,9.5-12.0,13.2,11.8-14.6
+Fedme KMI 30+,4657,Sandefjord,18.0,16.9-19.1,17.2,15.7-18.7,18.9,17.2-20.5
+HSCL-5 >2,4767,Sandefjord,15.0,14.0-16.0,18.5,17.0-20.0,11.1,9.8-12.4
+Søvnproblemer Insomni,4762,Sandefjord,12.6,11.6-13.5,15.7,14.2-17.1,9.1,7.9-10.3
+I stor grad påvirket grunnet helseproblemer,4750,Sandefjord,12.9,12.0-13.9,16.6,15.1-18.0,8.9,7.7-10.0
+Stor grad av funksjonsnedsettelse grunnet skade,4757,Sandefjord,6.3,5.7-7.0,7.6,6.6-8.6,5.0,4.1-5.9
+Nakkesmerter siste 28 dager,4763,Sandefjord,41.5,40.1-42.9,52.0,50.0-53.9,29.8,27.9-31.7
+Korsryggsmerter siste 28 dager,4764,Sandefjord,42.4,41.0-43.8,45.3,43.3-47.2,39.2,37.2-41.3
+Høy sosial støtte,4734,Sandefjord,34.9,33.6-36.3,37.5,35.6-39.4,32.0,30.1-34.0
+Ensomhet UCLA-3,4753,Sandefjord,12.5,11.5-13.4,15.7,14.2-17.1,9.0,7.8-10.1
+Sammen med gode venner ukentlig eller oftere,4753,Sandefjord,50.5,49.0-51.9,49.7,47.8-51.7,51.3,49.2-53.3
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,4679,Sandefjord,19.7,18.6-20.9,19.1,17.6-20.7,20.4,18.8-22.1
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,4762,Sandefjord,26.2,25.0-27.5,22.0,20.4-23.7,30.9,29.0-32.8
+Frukt eller bær daglig eller oftere,4759,Sandefjord,32.4,31.1-33.7,39.3,37.4-41.2,24.8,23.0-26.5
+Grønnsaker daglig eller oftere,4761,Sandefjord,48.3,46.9-49.7,57.4,55.4-59.3,38.2,36.2-40.2
+Fisk 2-3 ganger i uken eller oftere,4764,Sandefjord,49.0,47.5-50.4,49.6,47.6-51.6,48.2,46.2-50.3
+Daglig røyking,4755,Sandefjord,9.3,8.5-10.1,10.1,9.0-11.3,8.4,7.2-9.5
+Daglig snusing,4762,Sandefjord,12.7,11.8-13.7,9.7,8.5-10.9,16.1,14.6-17.6
+Drikker alkohol 2 ganger i uken eller oftere,4758,Sandefjord,26.4,25.1-27.7,20.8,19.2-22.4,32.6,30.7-34.5
+Episodisk høyt alkoholforbruk månedlig eller oftere,4748,Sandefjord,17.0,15.9-18.0,10.0,8.9-11.2,24.7,22.9-26.5
+Utsatt for skade selvrapport siste 12 måneder,4757,Sandefjord,17.0,16.0-18.1,15.8,14.4-17.3,18.4,16.8-19.9
+Plaget av støy fra trafikk hjemme,4763,Sandefjord,12.3,11.4-13.3,13.4,12.1-14.7,11.2,9.9-12.5
+Plaget av annen støy hjemme,4765,Sandefjord,10.3,9.4-11.2,10.8,9.6-12.0,9.7,8.5-11.0
+Andel med økonomiske vansker,4484,Sandefjord,19.0,17.9-20.2,22.1,20.4-23.8,15.7,14.2-17.3
+Stor grad av trivsel i nærmiljøet,639,Seljord,72.5,69.0-75.9,72.0,67.4-76.6,73.1,67.8-78.4
+Kulturtilbud -god eller svært god tilgang,633,Seljord,64.0,60.2-67.7,66.6,61.7-71.4,60.4,54.6-66.3
+Idrettstilbud -god eller svært god tilgang,625,Seljord,77.1,73.8-80.4,76.4,72.0-80.7,78.2,73.1-83.2
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",641,Seljord,74.4,71.0-77.8,73.2,68.7-77.8,76.0,70.9-81.1
+Offentlig transport -god eller svært god tilgang,620,Seljord,24.7,21.3-28.1,22.5,18.2-26.8,27.7,22.2-33.1
+Natur- og friluftsområder -god eller svært god tilgang,637,Seljord,92.6,90.6-94.7,92.4,89.7-95.1,92.9,89.9-96.0
+Kystlinje/strand/sjø -god eller svært god tilgang,495,Seljord,57.8,53.4-62.1,61.6,55.8-67.4,53.1,46.6-59.7
+Gang- og sykkelveier -godt eller svært godt utbygde,625,Seljord,30.9,27.2-34.5,30.2,25.4-34.9,31.8,26.2-37.4
+Ukentlig deltakelse i organisert aktivitet,641,Seljord,26.1,22.6-29.5,29.8,25.1-34.5,21.0,16.1-25.8
+Ukentlig deltakelse i annen aktivitet,641,Seljord,41.3,37.5-45.2,45.5,40.4-50.6,35.7,30.0-41.4
+God eller svært god helse,642,Seljord,70.1,66.5-73.6,67.6,62.8-72.4,73.5,68.3-78.8
+God eller svært god tannhelse,641,Seljord,75.7,72.3-79.0,76.2,71.9-80.6,74.9,69.7-80.1
+Mer enn 2 år siden du var hos tannlege/-pleier,639,Seljord,10.0,7.7-12.3,8.2,5.3-11.0,12.5,8.6-16.5
+Fedme KMI 30+,614,Seljord,21.2,17.9-24.4,19.7,15.5-23.9,23.0,18.0-28.1
+HSCL-5 >2,642,Seljord,11.8,9.3-14.3,14.9,11.2-18.5,7.7,4.5-10.9
+Søvnproblemer Insomni,642,Seljord,14.3,11.6-17.0,18.1,14.2-22.0,9.2,5.7-12.6
+I stor grad påvirket grunnet helseproblemer,634,Seljord,13.9,11.2-16.6,15.6,11.9-19.4,11.5,7.7-15.4
+Stor grad av funksjonsnedsettelse grunnet skade,638,Seljord,7.8,5.7-9.9,6.8,4.2-9.4,9.3,5.8-12.7
+Nakkesmerter siste 28 dager,639,Seljord,39.1,35.3-42.9,45.3,40.2-50.3,30.7,25.2-36.3
+Korsryggsmerter siste 28 dager,639,Seljord,43.0,39.2-46.9,41.6,36.6-46.7,45.0,39.0-50.9
+Høy sosial støtte,637,Seljord,37.4,33.6-41.1,38.7,33.7-43.7,35.6,29.8-41.3
+Ensomhet UCLA-3,640,Seljord,10.6,8.2-13.0,12.7,9.3-16.1,7.7,4.6-10.9
+Sammen med gode venner ukentlig eller oftere,639,Seljord,54.6,50.7-58.5,56.1,51.0-61.2,52.6,46.6-58.6
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,629,Seljord,18.9,15.8-22.0,22.6,18.3-26.9,13.9,9.7-18.1
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,640,Seljord,33.1,29.5-36.8,22.5,18.2-26.8,47.6,41.6-53.6
+Frukt eller bær daglig eller oftere,637,Seljord,36.7,33.0-40.5,44.6,39.5-49.7,26.0,20.8-31.3
+Grønnsaker daglig eller oftere,639,Seljord,48.4,44.5-52.2,59.3,54.3-64.4,33.3,27.7-39.0
+Fisk 2-3 ganger i uken eller oftere,638,Seljord,46.4,42.5-50.3,48.9,43.8-54.0,43.0,37.0-48.9
+Daglig røyking,637,Seljord,10.0,7.7-12.4,8.9,6.0-11.8,11.6,7.8-15.5
+Daglig snusing,639,Seljord,10.3,8.0-12.7,7.6,4.9-10.3,14.1,9.9-18.2
+Drikker alkohol 2 ganger i uken eller oftere,638,Seljord,21.6,18.4-24.8,18.0,14.0-21.9,26.6,21.3-31.8
+Episodisk høyt alkoholforbruk månedlig eller oftere,637,Seljord,14.1,11.4-16.8,8.5,5.6-11.3,21.8,16.8-26.7
+Utsatt for skade selvrapport siste 12 måneder,639,Seljord,14.7,12.0-17.5,13.6,10.0-17.1,16.3,11.9-20.7
+Plaget av støy fra trafikk hjemme,640,Seljord,8.0,5.9-10.1,8.4,5.5-11.2,7.4,4.3-10.5
+Plaget av annen støy hjemme,639,Seljord,5.0,3.3-6.7,5.1,2.9-7.4,4.8,2.3-7.4
+Andel med økonomiske vansker,597,Seljord,21.4,18.1-24.7,24.9,20.3-29.5,16.7,12.1-21.3
+Stor grad av trivsel i nærmiljøet,512,Siljan,77.5,73.9-81.2,77.9,73.1-82.8,77.1,71.6-82.5
+Kulturtilbud -god eller svært god tilgang,508,Siljan,47.4,43.1-51.8,47.5,41.6-53.4,47.4,41.0-53.9
+Idrettstilbud -god eller svært god tilgang,506,Siljan,74.3,70.5-78.1,71.2,65.9-76.6,78.1,72.7-83.5
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",513,Siljan,69.4,65.4-73.4,68.0,62.5-73.4,71.1,65.3-77.0
+Offentlig transport -god eller svært god tilgang,494,Siljan,48.4,44.0-52.8,47.0,41.0-53.0,50.0,43.5-56.5
+Natur- og friluftsområder -god eller svært god tilgang,512,Siljan,96.3,94.6-97.9,96.8,94.7-98.9,95.7,93.0-98.3
+Kystlinje/strand/sjø -god eller svært god tilgang,414,Siljan,58.0,53.2-62.7,58.5,51.9-65.1,57.4,50.4-64.3
+Gang- og sykkelveier -godt eller svært godt utbygde,508,Siljan,44.5,40.2-48.8,40.5,34.7-46.3,49.3,42.8-55.8
+Ukentlig deltakelse i organisert aktivitet,512,Siljan,21.1,17.5-24.6,20.6,15.9-25.4,21.6,16.3-27.0
+Ukentlig deltakelse i annen aktivitet,511,Siljan,35.0,30.9-39.2,36.3,30.7-41.9,33.5,27.4-39.6
+God eller svært god helse,514,Siljan,68.1,64.1-72.1,67.4,61.9-72.9,69.0,63.0-74.9
+God eller svært god tannhelse,513,Siljan,75.6,71.9-79.4,80.1,75.4-84.8,70.3,64.4-76.2
+Mer enn 2 år siden du var hos tannlege/-pleier,512,Siljan,11.3,8.6-14.1,9.6,6.2-13.1,13.4,9.0-17.8
+Fedme KMI 30+,498,Siljan,23.9,20.1-27.7,21.8,16.8-26.7,26.4,20.7-32.2
+HSCL-5 >2,514,Siljan,13.8,10.8-16.8,17.0,12.6-21.4,9.9,6.1-13.8
+Søvnproblemer Insomni,514,Siljan,15.0,11.9-18.1,17.0,12.6-21.4,12.5,8.2-16.8
+I stor grad påvirket grunnet helseproblemer,514,Siljan,15.0,11.9-18.1,18.4,13.9-23.0,10.8,6.8-14.8
+Stor grad av funksjonsnedsettelse grunnet skade,512,Siljan,5.9,3.8-7.9,6.4,3.5-9.3,5.2,2.3-8.1
+Nakkesmerter siste 28 dager,514,Siljan,41.2,37.0-45.5,46.5,40.6-52.3,34.9,28.8-41.1
+Korsryggsmerter siste 28 dager,513,Siljan,47.2,42.8-51.5,53.7,47.9-59.6,39.2,32.9-45.5
+Høy sosial støtte,513,Siljan,40.5,36.3-44.8,45.6,39.7-51.4,34.5,28.3-40.6
+Ensomhet UCLA-3,513,Siljan,11.3,8.6-14.1,11.7,7.9-15.5,10.8,6.8-14.8
+Sammen med gode venner ukentlig eller oftere,510,Siljan,49.2,44.9-53.6,47.1,41.3-53.0,51.7,45.3-58.2
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,503,Siljan,21.1,17.5-24.6,25.6,20.5-30.8,15.5,10.8-20.2
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,511,Siljan,27.0,23.1-30.9,21.8,16.9-26.6,33.3,27.2-39.4
+Frukt eller bær daglig eller oftere,512,Siljan,33.0,28.9-37.1,42.3,36.6-48.1,21.6,16.3-27.0
+Grønnsaker daglig eller oftere,512,Siljan,45.1,40.8-49.4,54.4,48.6-60.3,33.8,27.6-39.9
+Fisk 2-3 ganger i uken eller oftere,512,Siljan,43.9,39.6-48.3,41.3,35.5-47.1,47.2,40.7-53.6
+Daglig røyking,513,Siljan,10.1,7.5-12.8,11.7,8.0-15.5,8.2,4.6-11.7
+Daglig snusing,513,Siljan,12.5,9.6-15.3,9.9,6.4-13.4,15.6,10.9-20.3
+Drikker alkohol 2 ganger i uken eller oftere,513,Siljan,17.0,13.7-20.2,11.7,7.9-15.5,23.4,17.9-28.9
+Episodisk høyt alkoholforbruk månedlig eller oftere,513,Siljan,10.3,7.7-13.0,4.6,2.2-7.1,17.3,12.4-22.2
+Utsatt for skade selvrapport siste 12 måneder,512,Siljan,17.2,13.9-20.5,16.0,11.7-20.3,18.6,13.6-23.7
+Plaget av støy fra trafikk hjemme,514,Siljan,8.4,6.0-10.8,9.2,5.8-12.6,7.3,4.0-10.7
+Plaget av annen støy hjemme,513,Siljan,5.3,3.3-7.2,6.0,3.3-8.8,4.3,1.7-6.9
+Andel med økonomiske vansker,480,Siljan,20.0,16.4-23.6,21.7,16.7-26.8,18.0,12.9-23.1
+Stor grad av trivsel i nærmiljøet,3561,Skien,77.4,76.0-78.8,78.2,76.3-80.0,76.5,74.5-78.6
+Kulturtilbud -god eller svært god tilgang,3530,Skien,87.7,86.6-88.8,90.3,88.9-91.6,84.7,82.9-86.4
+Idrettstilbud -god eller svært god tilgang,3477,Skien,88.8,87.8-89.9,90.5,89.2-91.8,86.8,85.2-88.5
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",3558,Skien,88.9,87.9-89.9,89.7,88.3-91.0,88.0,86.5-89.6
+Offentlig transport -god eller svært god tilgang,3297,Skien,62.1,60.4-63.7,63.2,61.0-65.5,60.8,58.4-63.2
+Natur- og friluftsområder -god eller svært god tilgang,3548,Skien,92.2,91.3-93.0,91.8,90.6-93.1,92.5,91.3-93.8
+Kystlinje/strand/sjø -god eller svært god tilgang,3254,Skien,67.4,65.8-69.0,68.9,66.7-71.1,65.8,63.4-68.1
+Gang- og sykkelveier -godt eller svært godt utbygde,3496,Skien,60.4,58.7-62.0,61.1,58.9-63.4,59.4,57.1-61.8
+Ukentlig deltakelse i organisert aktivitet,3561,Skien,26.2,24.7-27.6,24.7,22.8-26.6,27.9,25.7-30.0
+Ukentlig deltakelse i annen aktivitet,3567,Skien,48.5,46.9-50.2,49.9,47.7-52.2,46.9,44.5-49.3
+God eller svært god helse,3566,Skien,70.9,69.4-72.4,71.9,69.9-73.9,69.7,67.5-71.9
+God eller svært god tannhelse,3565,Skien,72.9,71.4-74.4,76.3,74.4-78.2,68.9,66.7-71.2
+Mer enn 2 år siden du var hos tannlege/-pleier,3564,Skien,11.0,10.0-12.0,9.0,7.7-10.2,13.3,11.7-15.0
+Fedme KMI 30+,3468,Skien,19.1,17.8-20.4,17.6,15.9-19.4,20.7,18.7-22.7
+HSCL-5 >2,3564,Skien,13.5,12.4-14.6,15.3,13.7-16.9,11.5,9.9-13.0
+Søvnproblemer Insomni,3560,Skien,13.6,12.5-14.7,16.2,14.6-17.9,10.6,9.1-12.1
+I stor grad påvirket grunnet helseproblemer,3552,Skien,13.3,12.2-14.4,15.1,13.5-16.7,11.3,9.7-12.8
+Stor grad av funksjonsnedsettelse grunnet skade,3555,Skien,5.9,5.1-6.6,5.9,4.8-6.9,5.8,4.7-6.9
+Nakkesmerter siste 28 dager,3562,Skien,41.4,39.8-43.1,48.8,46.5-51.0,33.0,30.7-35.2
+Korsryggsmerter siste 28 dager,3559,Skien,43.2,41.6-44.8,44.1,41.8-46.3,42.2,39.8-44.6
+Høy sosial støtte,3542,Skien,35.5,33.9-37.1,38.8,36.6-40.9,31.8,29.5-34.0
+Ensomhet UCLA-3,3549,Skien,10.8,9.8-11.8,12.2,10.7-13.7,9.2,7.8-10.6
+Sammen med gode venner ukentlig eller oftere,3553,Skien,53.0,51.4-54.6,53.1,50.9-55.4,52.8,50.4-55.3
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,3506,Skien,19.4,18.1-20.7,19.1,17.3-20.9,19.8,17.9-21.8
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,3560,Skien,26.9,25.4-28.3,23.0,21.1-24.9,31.3,29.1-33.6
+Frukt eller bær daglig eller oftere,3561,Skien,31.7,30.1-33.2,37.0,34.9-39.2,25.5,23.4-27.6
+Grønnsaker daglig eller oftere,3561,Skien,44.1,42.5-45.7,52.9,50.6-55.1,34.0,31.7-36.3
+Fisk 2-3 ganger i uken eller oftere,3563,Skien,46.6,44.9-48.2,46.5,44.3-48.8,46.6,44.2-49.0
+Daglig røyking,3556,Skien,9.9,8.9-10.9,9.8,8.4-11.1,10.0,8.6-11.4
+Daglig snusing,3555,Skien,12.9,11.8-14.0,9.5,8.2-10.8,16.7,14.9-18.5
+Drikker alkohol 2 ganger i uken eller oftere,3552,Skien,22.2,20.8-23.6,15.8,14.2-17.5,29.6,27.4-31.8
+Episodisk høyt alkoholforbruk månedlig eller oftere,3546,Skien,15.7,14.5-16.9,10.3,9.0-11.7,22.0,20.0-24.0
+Utsatt for skade selvrapport siste 12 måneder,3548,Skien,15.5,14.3-16.7,13.6,12.1-15.1,17.7,15.9-19.5
+Plaget av støy fra trafikk hjemme,3563,Skien,11.3,10.2-12.3,11.9,10.4-13.3,10.5,9.1-12.0
+Plaget av annen støy hjemme,3564,Skien,8.5,7.6-9.4,9.9,8.5-11.2,7.0,5.8-8.2
+Andel med økonomiske vansker,3342,Skien,19.5,18.2-20.9,21.9,20.0-23.8,16.8,14.9-18.6
+Stor grad av trivsel i nærmiljøet,468,Tinn,76.3,72.4-80.1,75.9,70.7-81.1,76.8,71.0-82.6
+Kulturtilbud -god eller svært god tilgang,462,Tinn,58.2,53.7-62.7,60.5,54.5-66.5,55.4,48.5-62.2
+Idrettstilbud -god eller svært god tilgang,460,Tinn,84.1,80.8-87.5,87.2,83.1-91.3,80.3,74.8-85.8
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",464,Tinn,69.0,64.7-73.2,65.4,59.6-71.2,73.5,67.5-79.6
+Offentlig transport -god eller svært god tilgang,445,Tinn,20.2,16.5-24.0,16.1,11.5-20.6,25.5,19.4-31.6
+Natur- og friluftsområder -god eller svært god tilgang,464,Tinn,92.9,90.5-95.2,94.2,91.3-97.1,91.3,87.4-95.1
+Kystlinje/strand/sjø -god eller svært god tilgang,344,Tinn,55.2,50.0-60.5,60.1,53.2-67.0,49.0,41.0-57.0
+Gang- og sykkelveier -godt eller svært godt utbygde,458,Tinn,22.1,18.2-25.9,19.9,15.0-24.8,24.8,18.8-30.7
+Ukentlig deltakelse i organisert aktivitet,467,Tinn,21.2,17.5-24.9,24.5,19.3-29.8,17.0,11.8-22.1
+Ukentlig deltakelse i annen aktivitet,466,Tinn,42.1,37.6-46.6,48.3,42.2-54.4,34.1,27.6-40.7
+God eller svært god helse,467,Tinn,71.1,67.0-75.2,73.2,67.8-78.6,68.4,62.1-74.8
+God eller svært god tannhelse,468,Tinn,72.6,68.6-76.7,80.1,75.2-84.9,63.3,56.7-69.9
+Mer enn 2 år siden du var hos tannlege/-pleier,466,Tinn,11.2,8.3-14.0,6.5,3.5-9.6,17.0,11.8-22.1
+Fedme KMI 30+,457,Tinn,21.0,17.3-24.8,18.3,13.5-23.0,24.4,18.5-30.3
+HSCL-5 >2,464,Tinn,13.4,10.3-16.5,16.3,11.8-20.8,9.7,5.7-13.8
+Søvnproblemer Insomni,466,Tinn,12.7,9.6-15.7,13.1,9.0-17.2,12.1,7.7-16.6
+I stor grad påvirket grunnet helseproblemer,464,Tinn,12.7,9.7-15.8,12.7,8.7-16.8,12.7,8.1-17.3
+Stor grad av funksjonsnedsettelse grunnet skade,467,Tinn,5.6,3.5-7.7,4.2,1.8-6.7,7.2,3.7-10.8
+Nakkesmerter siste 28 dager,464,Tinn,45.9,41.4-50.5,53.1,47.0-59.2,36.9,30.3-43.5
+Korsryggsmerter siste 28 dager,466,Tinn,43.6,39.0-48.1,45.8,39.7-51.8,40.8,34.0-47.5
+Høy sosial støtte,463,Tinn,36.9,32.5-41.3,37.7,31.8-43.7,35.9,29.3-42.5
+Ensomhet UCLA-3,463,Tinn,11.0,8.2-13.9,11.2,7.4-15.1,10.7,6.5-15.0
+Sammen med gode venner ukentlig eller oftere,467,Tinn,52.0,47.5-56.6,51.5,45.4-57.6,52.7,45.8-59.5
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,457,Tinn,17.5,14.0-21.0,18.8,14.0-23.5,15.9,10.8-21.0
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,466,Tinn,30.0,25.9-34.2,24.2,19.0-29.5,37.4,30.7-44.0
+Frukt eller bær daglig eller oftere,466,Tinn,26.6,22.6-30.6,35.0,29.2-40.8,16.0,11.0-21.0
+Grønnsaker daglig eller oftere,467,Tinn,41.5,37.1-46.0,50.8,44.7-56.9,30.0,23.7-36.2
+Fisk 2-3 ganger i uken eller oftere,466,Tinn,43.6,39.0-48.1,43.2,37.2-49.3,44.0,37.2-50.7
+Daglig røyking,468,Tinn,9.0,6.4-11.6,10.0,6.3-13.6,7.7,4.1-11.4
+Daglig snusing,465,Tinn,12.5,9.5-15.5,5.0,2.3-7.6,22.1,16.3-27.8
+Drikker alkohol 2 ganger i uken eller oftere,466,Tinn,18.9,15.3-22.5,13.8,9.6-18.1,25.2,19.3-31.2
+Episodisk høyt alkoholforbruk månedlig eller oftere,463,Tinn,11.4,8.5-14.4,3.5,1.2-5.7,21.6,15.9-27.2
+Utsatt for skade selvrapport siste 12 måneder,467,Tinn,14.3,11.2-17.5,11.9,8.0-15.9,17.4,12.2-22.6
+Plaget av støy fra trafikk hjemme,466,Tinn,6.9,4.6-9.2,6.2,3.2-9.1,7.8,4.1-11.4
+Plaget av annen støy hjemme,466,Tinn,6.9,4.6-9.2,7.3,4.1-10.5,6.3,3.0-9.6
+Andel med økonomiske vansker,450,Tinn,14.0,10.8-17.2,15.0,10.5-19.4,12.8,8.2-17.4
+Stor grad av trivsel i nærmiljøet,522,Tokke,73.0,69.2-76.8,70.0,64.6-75.4,76.4,71.1-81.8
+Kulturtilbud -god eller svært god tilgang,518,Tokke,54.8,50.5-59.1,58.6,52.8-64.4,50.4,44.0-56.8
+Idrettstilbud -god eller svært god tilgang,515,Tokke,82.9,79.7-86.2,84.8,80.5-89.0,80.8,75.7-85.8
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",521,Tokke,66.0,61.9-70.1,65.0,59.4-70.6,67.2,61.3-73.2
+Offentlig transport -god eller svært god tilgang,512,Tokke,9.2,6.7-11.7,9.8,6.3-13.3,8.4,4.9-12.0
+Natur- og friluftsområder -god eller svært god tilgang,521,Tokke,96.2,94.5-97.8,95.0,92.4-97.6,97.5,95.6-99.5
+Kystlinje/strand/sjø -god eller svært god tilgang,378,Tokke,57.7,52.7-62.7,56.0,48.9-63.0,59.5,52.4-66.6
+Gang- og sykkelveier -godt eller svært godt utbygde,519,Tokke,37.8,33.6-41.9,35.9,30.2-41.5,39.9,33.7-46.1
+Ukentlig deltakelse i organisert aktivitet,521,Tokke,21.9,18.3-25.4,21.9,17.0-26.7,21.9,16.7-27.1
+Ukentlig deltakelse i annen aktivitet,522,Tokke,39.3,35.1-43.5,43.6,37.7-49.4,34.3,28.3-40.3
+God eller svært god helse,521,Tokke,72.2,68.3-76.0,72.4,67.1-77.7,71.9,66.2-77.6
+God eller svært god tannhelse,521,Tokke,75.4,71.7-79.1,79.2,74.4-84.0,71.1,65.3-76.8
+Mer enn 2 år siden du var hos tannlege/-pleier,522,Tokke,13.2,10.3-16.1,10.8,7.1-14.4,16.0,11.4-20.7
+Fedme KMI 30+,514,Tokke,23.3,19.7-27.0,22.3,17.4-27.3,24.5,19.0-29.9
+HSCL-5 >2,522,Tokke,10.5,7.9-13.2,11.1,7.4-14.8,9.9,6.1-13.7
+Søvnproblemer Insomni,521,Tokke,12.1,9.3-14.9,14.7,10.5-18.9,9.1,5.5-12.7
+I stor grad påvirket grunnet helseproblemer,518,Tokke,12.0,9.2-14.8,15.5,11.2-19.7,7.9,4.5-11.3
+Stor grad av funksjonsnedsettelse grunnet skade,519,Tokke,4.8,3.0-6.7,4.7,2.2-7.1,5.0,2.2-7.8
+Nakkesmerter siste 28 dager,520,Tokke,37.1,32.9-41.3,47.3,41.4-53.2,25.3,19.8-30.8
+Korsryggsmerter siste 28 dager,522,Tokke,42.5,38.3-46.8,47.5,41.6-53.4,36.8,30.7-42.9
+Høy sosial støtte,517,Tokke,41.2,36.9-45.5,45.7,39.8-51.5,36.1,30.0-42.2
+Ensomhet UCLA-3,517,Tokke,9.9,7.3-12.4,11.9,8.1-15.7,7.5,4.2-10.8
+Sammen med gode venner ukentlig eller oftere,521,Tokke,54.1,49.8-58.4,54.5,48.6-60.3,53.7,47.4-60.0
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,509,Tokke,15.9,12.7-19.1,15.8,11.5-20.2,16.0,11.3-20.7
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,519,Tokke,32.8,28.7-36.8,28.5,23.2-33.9,37.6,31.5-43.7
+Frukt eller bær daglig eller oftere,521,Tokke,29.4,25.4-33.3,34.8,29.2-40.4,23.1,17.8-28.5
+Grønnsaker daglig eller oftere,519,Tokke,42.0,37.7-46.3,50.4,44.5-56.3,32.4,26.4-38.3
+Fisk 2-3 ganger i uken eller oftere,522,Tokke,45.8,41.5-50.1,47.7,41.8-53.6,43.6,37.4-49.9
+Daglig røyking,519,Tokke,10.0,7.4-12.6,11.2,7.4-14.9,8.7,5.1-12.3
+Daglig snusing,519,Tokke,12.9,10.0-15.8,9.0,5.6-12.4,17.4,12.6-22.2
+Drikker alkohol 2 ganger i uken eller oftere,521,Tokke,15.5,12.4-18.7,11.5,7.7-15.2,20.2,15.2-25.3
+Episodisk høyt alkoholforbruk månedlig eller oftere,519,Tokke,16.2,13.0-19.4,10.1,6.5-13.6,23.2,17.9-28.6
+Utsatt for skade selvrapport siste 12 måneder,518,Tokke,14.9,11.8-17.9,10.8,7.1-14.5,19.6,14.5-24.6
+Plaget av støy fra trafikk hjemme,521,Tokke,7.9,5.5-10.2,10.0,6.5-13.6,5.4,2.5-8.2
+Plaget av annen støy hjemme,520,Tokke,4.8,3.0-6.7,4.7,2.2-7.1,5.0,2.2-7.7
+Andel med økonomiske vansker,496,Tokke,18.3,14.9-21.8,16.9,12.4-21.4,20.0,14.8-25.2
+Stor grad av trivsel i nærmiljøet,4481,Tønsberg,77.8,76.5-79.0,77.6,75.9-79.2,78.0,76.1-79.8
+Kulturtilbud -god eller svært god tilgang,4440,Tønsberg,86.3,85.3-87.3,88.0,86.8-89.3,84.1,82.5-85.7
+Idrettstilbud -god eller svært god tilgang,4350,Tønsberg,84.0,82.9-85.1,87.1,85.8-88.4,80.0,78.2-81.8
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",4477,Tønsberg,91.4,90.6-92.3,92.4,91.3-93.4,90.3,89.0-91.6
+Offentlig transport -god eller svært god tilgang,4300,Tønsberg,64.1,62.7-65.6,65.3,63.4-67.2,62.7,60.5-64.9
+Natur- og friluftsområder -god eller svært god tilgang,4467,Tønsberg,90.1,89.2-90.9,90.6,89.4-91.7,89.4,88.0-90.8
+Kystlinje/strand/sjø -god eller svært god tilgang,4245,Tønsberg,82.6,81.5-83.7,83.0,81.4-84.5,82.1,80.4-83.9
+Gang- og sykkelveier -godt eller svært godt utbygde,4442,Tønsberg,70.4,69.0-71.7,70.5,68.7-72.3,70.2,68.2-72.2
+Ukentlig deltakelse i organisert aktivitet,4472,Tønsberg,25.3,24.1-26.6,26.3,24.5-28.0,24.2,22.3-26.1
+Ukentlig deltakelse i annen aktivitet,4482,Tønsberg,48.7,47.3-50.2,51.8,49.9-53.8,44.9,42.7-47.0
+God eller svært god helse,4478,Tønsberg,74.7,73.4-75.9,74.3,72.6-76.1,75.0,73.1-76.9
+God eller svært god tannhelse,4480,Tønsberg,74.1,72.8-75.4,75.7,74.0-77.3,72.2,70.3-74.2
+Mer enn 2 år siden du var hos tannlege/-pleier,4479,Tønsberg,11.7,10.7-12.6,10.1,8.9-11.3,13.6,12.1-15.1
+Fedme KMI 30+,4364,Tønsberg,17.0,15.9-18.2,16.7,15.2-18.2,17.4,15.8-19.1
+HSCL-5 >2,4485,Tønsberg,12.6,11.6-13.6,14.3,12.9-15.7,10.5,9.2-11.9
+Søvnproblemer Insomni,4480,Tønsberg,12.0,11.1-13.0,14.1,12.7-15.5,9.4,8.2-10.7
+I stor grad påvirket grunnet helseproblemer,4467,Tønsberg,11.6,10.7-12.6,13.7,12.4-15.1,9.0,7.7-10.2
+Stor grad av funksjonsnedsettelse grunnet skade,4477,Tønsberg,5.6,4.9-6.3,6.2,5.3-7.2,4.8,3.9-5.8
+Nakkesmerter siste 28 dager,4467,Tønsberg,42.3,40.9-43.8,50.8,48.9-52.8,31.7,29.6-33.7
+Korsryggsmerter siste 28 dager,4471,Tønsberg,42.8,41.3-44.2,45.7,43.7-47.6,39.2,37.0-41.3
+Høy sosial støtte,4451,Tønsberg,37.3,35.9-38.7,40.5,38.5-42.4,33.3,31.2-35.4
+Ensomhet UCLA-3,4465,Tønsberg,11.2,10.3-12.1,12.2,10.9-13.5,10.0,8.6-11.3
+Sammen med gode venner ukentlig eller oftere,4459,Tønsberg,51.1,49.6-52.6,52.1,50.2-54.1,49.8,47.6-52.0
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,4407,Tønsberg,21.8,20.5-23.0,22.7,21.0-24.3,20.7,18.9-22.4
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,4474,Tønsberg,24.6,23.3-25.8,20.1,18.5-21.7,30.1,28.1-32.1
+Frukt eller bær daglig eller oftere,4464,Tønsberg,34.0,32.6-35.4,40.9,38.9-42.8,25.4,23.5-27.4
+Grønnsaker daglig eller oftere,4472,Tønsberg,51.9,50.4-53.3,60.7,58.8-62.6,40.9,38.7-43.0
+Fisk 2-3 ganger i uken eller oftere,4471,Tønsberg,50.2,48.7-51.6,49.6,47.7-51.6,50.8,48.6-53.0
+Daglig røyking,4471,Tønsberg,7.9,7.1-8.7,7.8,6.8-8.9,8.1,6.9-9.3
+Daglig snusing,4474,Tønsberg,12.8,11.8-13.7,9.5,8.4-10.7,16.8,15.2-18.4
+Drikker alkohol 2 ganger i uken eller oftere,4472,Tønsberg,27.9,26.6-29.2,22.3,20.6-23.9,34.9,32.8-37.0
+Episodisk høyt alkoholforbruk månedlig eller oftere,4464,Tønsberg,17.9,16.8-19.0,12.0,10.7-13.3,25.2,23.3-27.1
+Utsatt for skade selvrapport siste 12 måneder,4470,Tønsberg,16.0,14.9-17.1,15.0,13.6-16.4,17.2,15.6-18.9
+Plaget av støy fra trafikk hjemme,4479,Tønsberg,10.5,9.6-11.4,11.0,9.8-12.2,9.9,8.6-11.2
+Plaget av annen støy hjemme,4477,Tønsberg,10.4,9.5-11.3,11.3,10.0-12.5,9.3,8.1-10.6
+Andel med økonomiske vansker,4192,Tønsberg,17.5,16.3-18.6,18.8,17.2-20.4,15.8,14.2-17.5
+Stor grad av trivsel i nærmiljøet,34052,Vestfold_og_Telemark,76.6,76.2-77.1,76.7,76.1-77.3,76.6,75.9-77.3
+Kulturtilbud -god eller svært god tilgang,33673,Vestfold_og_Telemark,78.5,78.0-78.9,80.3,79.7-80.9,76.3,75.7-77.0
+Idrettstilbud -god eller svært god tilgang,33036,Vestfold_og_Telemark,82.5,82.1-82.9,84.1,83.5-84.6,80.6,79.9-81.2
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",34012,Vestfold_og_Telemark,84.9,84.5-85.3,85.5,85.0-86.0,84.1,83.5-84.7
+Offentlig transport -god eller svært god tilgang,32241,Vestfold_og_Telemark,52.5,51.9-53.1,53.2,52.4-53.9,51.7,50.9-52.5
+Natur- og friluftsområder -god eller svært god tilgang,33949,Vestfold_og_Telemark,92.5,92.3-92.8,92.3,91.9-92.7,92.8,92.4-93.3
+Kystlinje/strand/sjø -god eller svært god tilgang,31368,Vestfold_og_Telemark,82.8,82.4-83.2,83.9,83.3-84.4,81.5,80.9-82.2
+Gang- og sykkelveier -godt eller svært godt utbygde,33606,Vestfold_og_Telemark,60.5,60.0-61.1,60.3,59.6-61.0,60.8,60.1-61.6
+Ukentlig deltakelse i organisert aktivitet,34040,Vestfold_og_Telemark,25.9,25.4-26.4,26.1,25.4-26.7,25.8,25.1-26.5
+Ukentlig deltakelse i annen aktivitet,34059,Vestfold_og_Telemark,47.0,46.4-47.5,50.0,49.3-50.8,43.3,42.5-44.1
+God eller svært god helse,34069,Vestfold_og_Telemark,71.1,70.6-71.6,71.0,70.3-71.7,71.3,70.5-72.0
+God eller svært god tannhelse,34072,Vestfold_og_Telemark,73.1,72.6-73.5,76.0,75.4-76.6,69.6,68.8-70.3
+Fedme KMI 30+,33168,Vestfold_og_Telemark,18.9,18.4-19.3,17.8,17.2-18.4,20.1,19.5-20.8
+Mer enn 2 år siden du var hos tannlege/-pleier,34061,Vestfold_og_Telemark,11.7,11.3-12.0,9.7,9.3-10.2,14.0,13.4-14.6
+HSCL-5 >2,34076,Vestfold_og_Telemark,13.9,13.6-14.3,16.1,15.6-16.7,11.3,10.8-11.9
+Søvnproblemer Insomni,34042,Vestfold_og_Telemark,13.0,12.6-13.4,15.5,15.0-16.1,10.0,9.5-10.5
+I stor grad påvirket grunnet helseproblemer,33941,Vestfold_og_Telemark,13.0,12.6-13.4,15.3,14.8-15.9,10.3,9.8-10.8
+Stor grad av funksjonsnedsettelse grunnet skade,33991,Vestfold_og_Telemark,6.3,6.0-6.5,6.7,6.3-7.0,5.8,5.4-6.2
+Nakkesmerter siste 28 dager,34012,Vestfold_og_Telemark,41.9,41.3-42.4,50.2,49.4-50.9,32.1,31.3-32.9
+Korsryggsmerter siste 28 dager,34013,Vestfold_og_Telemark,43.8,43.2-44.3,46.2,45.4-46.9,40.9,40.1-41.7
+Høy sosial støtte,33851,Vestfold_og_Telemark,36.3,35.7-36.8,39.1,38.4-39.9,32.9,32.1-33.7
+Ensomhet UCLA-3,33950,Vestfold_og_Telemark,11.5,11.1-11.8,13.2,12.7-13.7,9.5,9.0-9.9
+Sammen med gode venner ukentlig eller oftere,33943,Vestfold_og_Telemark,51.7,51.2-52.3,52.0,51.3-52.8,51.3,50.5-52.1
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,33497,Vestfold_og_Telemark,20.4,20.0-20.9,21.1,20.4-21.7,19.6,19.0-20.3
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,34026,Vestfold_og_Telemark,26.6,26.1-27.1,22.0,21.4-22.6,32.0,31.2-32.8
+Frukt eller bær daglig eller oftere,34001,Vestfold_og_Telemark,33.0,32.5-33.6,39.8,39.0-40.5,25.1,24.4-25.8
+Grønnsaker daglig eller oftere,34014,Vestfold_og_Telemark,48.2,47.6-48.7,57.0,56.2-57.7,37.8,37.0-38.6
+Fisk 2-3 ganger i uken eller oftere,34020,Vestfold_og_Telemark,48.8,48.2-49.3,48.8,48.1-49.6,48.7,47.9-49.6
+Daglig røyking,33980,Vestfold_og_Telemark,9.2,8.9-9.5,9.6,9.1-10.0,8.7,8.3-9.2
+Daglig snusing,34011,Vestfold_og_Telemark,12.5,12.1-12.8,9.0,8.6-9.4,16.6,16.0-17.2
+Drikker alkohol 2 ganger i uken eller oftere,33976,Vestfold_og_Telemark,25.0,24.5-25.5,20.0,19.4-20.6,30.9,30.2-31.7
+Episodisk høyt alkoholforbruk månedlig eller oftere,33905,Vestfold_og_Telemark,16.5,16.1-16.9,10.6,10.1-11.0,23.5,22.8-24.2
+Utsatt for skade selvrapport siste 12 måneder,33967,Vestfold_og_Telemark,16.4,16.0-16.8,14.9,14.4-15.5,18.2,17.6-18.8
+Plaget av støy fra trafikk hjemme,34045,Vestfold_og_Telemark,10.7,10.4-11.1,11.1,10.6-11.5,10.4,9.9-10.9
+Plaget av annen støy hjemme,34040,Vestfold_og_Telemark,9.0,8.6-9.3,9.6,9.1-10.0,8.2,7.8-8.7
+Andel med økonomiske vansker,32017,Vestfold_og_Telemark,18.7,18.2-19.1,20.8,20.1-21.4,16.3,15.7-16.9
+Stor grad av trivsel i nærmiljøet,993,Vinje,73.7,71.0-76.5,71.6,67.8-75.3,76.6,72.6-80.6
+Kulturtilbud -god eller svært god tilgang,976,Vinje,46.5,43.4-49.7,48.8,44.7-53.0,43.4,38.7-48.2
+Idrettstilbud -god eller svært god tilgang,978,Vinje,82.3,79.9-84.7,83.5,80.5-86.6,80.7,76.9-84.5
+"Butikker, spisesteder og andre servicetilbud -god eller svært god tilgang",992,Vinje,71.0,68.1-73.8,70.4,66.6-74.2,71.7,67.5-76.0
+Offentlig transport -god eller svært god tilgang,971,Vinje,8.1,6.4-9.9,7.6,5.4-9.8,8.8,6.1-11.6
+Natur- og friluftsområder -god eller svært god tilgang,991,Vinje,95.6,94.3-96.8,95.0,93.2-96.8,96.3,94.5-98.1
+Kystlinje/strand/sjø -god eller svært god tilgang,614,Vinje,59.4,55.6-63.3,60.8,55.5-66.0,57.9,52.1-63.7
+Gang- og sykkelveier -godt eller svært godt utbygde,984,Vinje,37.2,34.2-40.2,35.6,31.7-39.6,39.3,34.6-44.0
+Ukentlig deltakelse i organisert aktivitet,990,Vinje,24.1,21.5-26.8,28.4,24.7-32.2,18.4,14.7-22.1
+Ukentlig deltakelse i annen aktivitet,993,Vinje,36.8,33.8-39.8,41.9,37.8-45.9,30.0,25.6-34.3
+God eller svært god helse,994,Vinje,73.9,71.2-76.7,74.6,71.0-78.2,73.1,68.9-77.3
+God eller svært god tannhelse,993,Vinje,74.8,72.1-77.5,79.7,76.4-83.0,68.4,64.0-72.8
+Mer enn 2 år siden du var hos tannlege/-pleier,991,Vinje,13.2,11.1-15.3,11.3,8.7-14.0,15.7,12.2-19.1
+Fedme KMI 30+,966,Vinje,18.4,16.0-20.9,18.0,14.8-21.2,19.0,15.2-22.7
+HSCL-5 >2,993,Vinje,11.0,9.0-12.9,12.2,9.5-14.9,9.3,6.6-12.1
+Søvnproblemer Insomni,993,Vinje,12.8,10.7-14.9,13.1,10.3-15.9,12.4,9.2-15.5
+I stor grad påvirket grunnet helseproblemer,988,Vinje,10.8,8.9-12.8,11.4,8.8-14.1,10.0,7.2-12.9
+Stor grad av funksjonsnedsettelse grunnet skade,992,Vinje,4.5,3.2-5.8,4.6,2.9-6.3,4.5,2.5-6.4
+Nakkesmerter siste 28 dager,989,Vinje,41.0,37.9-44.0,45.4,41.3-49.5,35.1,30.5-39.6
+Korsryggsmerter siste 28 dager,993,Vinje,41.8,38.7-44.9,41.1,37.1-45.2,42.7,38.0-47.3
+Høy sosial støtte,991,Vinje,41.3,38.2-44.3,46.7,42.6-50.8,34.1,29.6-38.6
+Ensomhet UCLA-3,990,Vinje,11.1,9.2-13.1,14.0,11.2-16.9,7.3,4.8-9.7
+Sammen med gode venner ukentlig eller oftere,990,Vinje,51.7,48.6-54.8,52.8,48.6-56.9,50.4,45.6-55.1
+Minst 30 minutter moderat fysisk aktivitet 4+ dager i uken,980,Vinje,20.9,18.4-23.5,26.3,22.6-29.9,13.9,10.6-17.2
+Sukkerholdig brus/leskedrikk 2-3 ganger i uken eller oftere,994,Vinje,32.0,29.1-34.9,28.6,24.9-32.4,36.4,31.9-41.0
+Frukt eller bær daglig eller oftere,993,Vinje,34.7,31.8-37.7,41.8,37.8-45.9,25.4,21.3-29.5
+Grønnsaker daglig eller oftere,990,Vinje,44.8,41.7-48.0,51.0,46.8-55.1,36.8,32.2-41.3
+Fisk 2-3 ganger i uken eller oftere,994,Vinje,48.4,45.3-51.5,49.6,45.5-53.8,46.7,42.0-51.5
+Daglig røyking,988,Vinje,8.7,6.9-10.5,8.5,6.2-10.8,9.0,6.2-11.7
+Daglig snusing,991,Vinje,12.2,10.2-14.3,9.4,7.0-11.8,15.9,12.4-19.4
+Drikker alkohol 2 ganger i uken eller oftere,988,Vinje,21.0,18.4-23.5,15.5,12.5-18.5,28.2,23.9-32.4
+Episodisk høyt alkoholforbruk månedlig eller oftere,987,Vinje,14.7,12.5-16.9,10.3,7.8-12.9,20.4,16.6-24.3
+Utsatt for skade selvrapport siste 12 måneder,987,Vinje,16.5,14.2-18.8,14.4,11.5-17.3,19.3,15.6-23.1
+Plaget av støy fra trafikk hjemme,992,Vinje,9.6,7.7-11.4,10.8,8.2-13.4,7.9,5.4-10.5
+Plaget av annen støy hjemme,991,Vinje,3.1,2.0-4.2,3.4,1.9-4.9,2.8,1.2-4.4
+Andel med økonomiske vansker,935,Vinje,17.5,15.1-20.0,19.4,16.0-22.7,15.1,11.6-18.6

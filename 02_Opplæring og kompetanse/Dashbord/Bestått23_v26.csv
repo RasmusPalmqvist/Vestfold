@@ -1,0 +1,338 @@
+Skoleår;Utdanningsprogram;Nivå;Skole;B;H;I;M;S
+2022/23;Alle utdanningsprogram;Totalt;Vestfold;6 725;216;297;365;252
+2022/23;BA;Totalt;Vestfold;308;13;19;28;33
+2022/23;BA;vg 1;Vestfold;168;7;14;20;24
+2022/23;BA;vg 1;Færder videregående skole;53;2;5;12;4
+2022/23;BA;vg 1;Re videregående skole;68;1;1;1;4
+2022/23;BA;vg 1;Thor Heyerdahl videregående skole;47;4;8;7;16
+2022/23;BA;vg 2;Vestfold;140;5;5;8;9
+2022/23;BA;vg 2;Færder videregående skole;42;1;4;2;5
+2022/23;BA;vg 2;Re videregående skole;57;3;1;3;2
+2022/23;BA;vg 2;Thor Heyerdahl videregående skole;41;1;0;3;2
+2022/23;BA;vg 3;Vestfold;0;1;0;0;0
+2022/23;BA;vg 3;Vestfold fylkeskommune Privatisteksamen;0;1;0;0;0
+2022/23;EL;Totalt;Vestfold;362;7;11;3;9
+2022/23;EL;vg 1;Vestfold;192;4;2;2;4
+2022/23;EL;vg 1;Færder videregående skole;59;2;0;1;2
+2022/23;EL;vg 1;Horten videregående skole;29;1;1;1;1
+2022/23;EL;vg 1;Sande videregående skole;27;0;0;0;1
+2022/23;EL;vg 1;Sandefjord videregående skole;29;1;1;0;0
+2022/23;EL;vg 1;Thor Heyerdahl videregående skole;48;0;0;0;0
+2022/23;EL;vg 2;Vestfold;138;3;7;0;4
+2022/23;EL;vg 2;Færder videregående skole;32;0;0;0;0
+2022/23;EL;vg 2;Horten videregående skole;26;2;0;0;3
+2022/23;EL;vg 2;Sande videregående skole;13;0;1;0;0
+2022/23;EL;vg 2;Sandefjord videregående skole;21;0;5;0;1
+2022/23;EL;vg 2;Thor Heyerdahl videregående skole;46;1;1;0;0
+2022/23;EL;vg 3;Vestfold;32;0;2;1;1
+2022/23;EL;vg 3;Færder videregående skole;17;0;0;0;0
+2022/23;EL;vg 3;Horten videregående skole;8;0;1;0;0
+2022/23;EL;vg 3;Sandefjord videregående skole;7;0;1;1;1
+2022/23;FD;Totalt;Vestfold;96;10;4;13;17
+2022/23;FD;vg 1;Vestfold;42;4;4;7;11
+2022/23;FD;vg 1;Horten videregående skole;14;2;1;3;5
+2022/23;FD;vg 1;Sandefjord videregående skole;28;2;3;4;6
+2022/23;FD;vg 2;Vestfold;46;6;0;5;6
+2022/23;FD;vg 2;Horten videregående skole;10;1;0;1;0
+2022/23;FD;vg 2;Sandefjord videregående skole;36;5;0;4;6
+2022/23;FD;vg 3;Vestfold;8;0;0;1;0
+2022/23;FD;vg 3;Sandefjord videregående skole;8;0;0;1;0
+2022/23;HS;Totalt;Vestfold;693;27;39;39;43
+2022/23;HS;vg 1;Vestfold;322;14;24;22;23
+2022/23;HS;vg 1;Holmestrand videregående skole;20;0;1;0;1
+2022/23;HS;vg 1;Horten videregående skole;55;8;3;4;2
+2022/23;HS;vg 1;Nøtterøy videregående skole;34;0;4;6;2
+2022/23;HS;vg 1;Re videregående skole;68;2;1;1;3
+2022/23;HS;vg 1;Sande videregående skole;20;2;2;3;4
+2022/23;HS;vg 1;Sandefjord videregående skole;71;1;8;7;8
+2022/23;HS;vg 1;Thor Heyerdahl videregående skole;54;1;5;1;3
+2022/23;HS;vg 2;Vestfold;341;13;13;15;17
+2022/23;HS;vg 2;Holmestrand videregående skole;10;0;0;2;2
+2022/23;HS;vg 2;Horten videregående skole;56;3;1;1;2
+2022/23;HS;vg 2;Nøtterøy videregående skole;47;0;5;3;3
+2022/23;HS;vg 2;Re videregående skole;51;5;1;1;2
+2022/23;HS;vg 2;Sande videregående skole;46;0;2;0;0
+2022/23;HS;vg 2;Sandefjord videregående skole;82;3;3;8;3
+2022/23;HS;vg 2;Thor Heyerdahl videregående skole;49;2;1;0;5
+2022/23;HS;vg 3;Vestfold;30;0;2;2;3
+2022/23;HS;vg 3;Nøtterøy videregående skole;11;0;0;1;2
+2022/23;HS;vg 3;Sandefjord videregående skole;19;0;2;1;1
+2022/23;ID;Totalt;Vestfold;561;6;15;14;2
+2022/23;ID;vg 1;Vestfold;199;2;3;1;1
+2022/23;ID;vg 1;Horten videregående skole;30;0;0;0;0
+2022/23;ID;vg 1;Re videregående skole;58;0;1;0;0
+2022/23;ID;vg 1;Sande videregående skole;21;0;1;0;0
+2022/23;ID;vg 1;Sandefjord videregående skole;29;1;1;1;0
+2022/23;ID;vg 1;Thor Heyerdahl videregående skole;61;1;0;0;1
+2022/23;ID;vg 2;Vestfold;182;2;5;4;0
+2022/23;ID;vg 2;Horten videregående skole;27;1;0;3;0
+2022/23;ID;vg 2;Re videregående skole;55;1;1;0;0
+2022/23;ID;vg 2;Sande videregående skole;17;0;0;1;0
+2022/23;ID;vg 2;Sandefjord videregående skole;31;0;0;0;0
+2022/23;ID;vg 2;Thor Heyerdahl videregående skole;52;0;4;0;0
+2022/23;ID;vg 3;Vestfold;180;2;7;9;1
+2022/23;ID;vg 3;Horten videregående skole;25;1;0;3;0
+2022/23;ID;vg 3;Re videregående skole;55;0;0;2;1
+2022/23;ID;vg 3;Sande videregående skole;16;0;3;4;0
+2022/23;ID;vg 3;Sandefjord videregående skole;27;0;0;0;0
+2022/23;ID;vg 3;Thor Heyerdahl videregående skole;57;1;4;0;0
+2022/23;IM;Totalt;Vestfold;125;3;2;9;4
+2022/23;IM;vg 1;Vestfold;69;3;1;5;2
+2022/23;IM;vg 1;Greveskogen videregående skole;29;0;0;0;1
+2022/23;IM;vg 1;Horten videregående skole;12;2;0;3;0
+2022/23;IM;vg 1;Sandefjord videregående skole;28;1;1;2;1
+2022/23;IM;vg 2;Vestfold;56;0;1;4;2
+2022/23;IM;vg 2;Greveskogen videregående skole;16;0;0;0;1
+2022/23;IM;vg 2;Horten videregående skole;14;0;0;2;0
+2022/23;IM;vg 2;Sandefjord videregående skole;26;0;1;2;1
+2022/23;KD;Totalt;Vestfold;134;22;13;11;1
+2022/23;KD;vg 1;Vestfold;61;9;7;6;0
+2022/23;KD;vg 1;Færder videregående skole;41;4;4;3;0
+2022/23;KD;vg 1;Sandefjord videregående skole;20;5;3;3;0
+2022/23;KD;vg 2;Vestfold;37;9;3;4;0
+2022/23;KD;vg 2;Færder videregående skole;21;8;1;1;0
+2022/23;KD;vg 2;Sandefjord videregående skole;16;1;2;3;0
+2022/23;KD;vg 3;Vestfold;36;4;3;1;1
+2022/23;KD;vg 3;Færder videregående skole;22;1;3;0;1
+2022/23;KD;vg 3;Sandefjord videregående skole;14;3;0;1;0
+2022/23;MD;Totalt;Vestfold;239;10;4;10;2
+2022/23;MD;vg 1;Vestfold;84;3;2;6;0
+2022/23;MD;vg 1;Greveskogen videregående skole;21;0;0;0;0
+2022/23;MD;vg 1;Sandefjord videregående skole;41;3;0;2;0
+2022/23;MD;vg 1;Thor Heyerdahl videregående skole;22;0;2;4;0
+2022/23;MD;vg 2;Vestfold;75;3;2;2;1
+2022/23;MD;vg 2;Greveskogen videregående skole;21;1;1;1;0
+2022/23;MD;vg 2;Sandefjord videregående skole;37;2;1;1;1
+2022/23;MD;vg 2;Thor Heyerdahl videregående skole;17;0;0;0;0
+2022/23;MD;vg 3;Vestfold;80;4;0;2;1
+2022/23;MD;vg 3;Greveskogen videregående skole;27;0;0;2;0
+2022/23;MD;vg 3;Sandefjord videregående skole;31;2;0;0;1
+2022/23;MD;vg 3;Thor Heyerdahl videregående skole;22;2;0;0;0
+2022/23;ME;Totalt;Vestfold;157;3;12;12;9
+2022/23;ME;vg 1;Vestfold;42;1;5;9;6
+2022/23;ME;vg 1;Horten videregående skole;15;0;5;7;4
+2022/23;ME;vg 1;Melsom videregående skole;4;0;0;1;1
+2022/23;ME;vg 1;Thor Heyerdahl videregående skole;23;1;0;1;1
+2022/23;ME;vg 2;Vestfold;49;1;5;1;3
+2022/23;ME;vg 2;Horten videregående skole;20;1;2;0;0
+2022/23;ME;vg 2;Melsom videregående skole;7;0;1;0;0
+2022/23;ME;vg 2;Sande videregående skole;6;0;1;0;0
+2022/23;ME;vg 2;Thor Heyerdahl videregående skole;16;0;1;1;3
+2022/23;ME;vg 3;Vestfold;66;1;2;2;0
+2022/23;ME;vg 3;Horten videregående skole;21;0;2;1;0
+2022/23;ME;vg 3;Melsom videregående skole;9;0;0;0;0
+2022/23;ME;vg 3;Sande videregående skole;10;0;0;1;0
+2022/23;ME;vg 3;Thor Heyerdahl videregående skole;26;1;0;0;0
+2022/23;NA;Totalt;Vestfold;74;0;0;6;7
+2022/23;NA;vg 1;Vestfold;32;0;0;4;6
+2022/23;NA;vg 1;Melsom videregående skole;32;0;0;4;6
+2022/23;NA;vg 2;Vestfold;29;0;0;1;1
+2022/23;NA;vg 2;Melsom videregående skole;29;0;0;1;1
+2022/23;NA;vg 3;Vestfold;13;0;0;1;0
+2022/23;NA;vg 3;Melsom videregående skole;13;0;0;1;0
+2022/23;PB;Totalt;Vestfold;347;20;31;31;22
+2022/23;PB;vg 3;Vestfold;347;20;31;31;22
+2022/23;PB;vg 3;Færder videregående skole;109;7;13;7;6
+2022/23;PB;vg 3;Holmestrand videregående skole;12;1;3;4;6
+2022/23;PB;vg 3;Horten videregående skole;45;3;2;3;1
+2022/23;PB;vg 3;Melsom videregående skole;12;0;4;6;2
+2022/23;PB;vg 3;Nøtterøy videregående skole;12;0;1;0;0
+2022/23;PB;vg 3;Re videregående skole;29;1;0;0;0
+2022/23;PB;vg 3;Sande videregående skole;17;0;0;1;0
+2022/23;PB;vg 3;Sandefjord videregående skole;68;3;3;4;3
+2022/23;PB;vg 3;Thor Heyerdahl videregående skole;43;3;5;6;4
+2022/23;PB;vg 3;Vestfold fylkeskommune Privatisteksamen;0;2;0;0;0
+2022/23;RM;Totalt;Vestfold;90;10;4;13;11
+2022/23;RM;vg 1;Vestfold;48;10;4;7;7
+2022/23;RM;vg 1;Greveskogen videregående skole;19;3;3;2;1
+2022/23;RM;vg 1;Holmestrand videregående skole;5;5;0;2;1
+2022/23;RM;vg 1;Sandefjord videregående skole;14;2;0;2;1
+2022/23;RM;vg 1;Thor Heyerdahl videregående skole;10;0;1;1;4
+2022/23;RM;vg 2;Vestfold;42;0;0;6;4
+2022/23;RM;vg 2;Greveskogen videregående skole;19;0;0;4;2
+2022/23;RM;vg 2;Thor Heyerdahl videregående skole;23;0;0;2;2
+2022/23;SR;Totalt;Vestfold;229;8;4;29;25
+2022/23;SR;vg 1;Vestfold;140;5;3;19;16
+2022/23;SR;vg 1;Greveskogen videregående skole;28;2;3;5;2
+2022/23;SR;vg 1;Horten videregående skole;16;0;0;2;1
+2022/23;SR;vg 1;Sandefjord videregående skole;57;1;0;9;9
+2022/23;SR;vg 1;Thor Heyerdahl videregående skole;39;2;0;3;4
+2022/23;SR;vg 2;Vestfold;89;3;1;10;9
+2022/23;SR;vg 2;Greveskogen videregående skole;11;0;0;2;0
+2022/23;SR;vg 2;Horten videregående skole;8;3;0;3;1
+2022/23;SR;vg 2;Sandefjord videregående skole;51;0;0;4;4
+2022/23;SR;vg 2;Thor Heyerdahl videregående skole;19;0;1;1;4
+2022/23;ST;Totalt;Vestfold;2 934;60;129;124;26
+2022/23;ST;vg 1;Vestfold;990;28;40;40;14
+2022/23;ST;vg 1;Greveskogen videregående skole;174;5;3;21;5
+2022/23;ST;vg 1;Holmestrand videregående skole;26;5;0;0;0
+2022/23;ST;vg 1;Horten videregående skole;132;1;12;3;0
+2022/23;ST;vg 1;Melsom videregående skole;12;0;0;1;0
+2022/23;ST;vg 1;Nøtterøy videregående skole;158;1;7;6;1
+2022/23;ST;vg 1;Re videregående skole;80;4;3;2;0
+2022/23;ST;vg 1;Sande videregående skole;35;4;0;1;1
+2022/23;ST;vg 1;Sandefjord videregående skole;226;4;14;4;5
+2022/23;ST;vg 1;Thor Heyerdahl videregående skole;147;4;1;2;2
+2022/23;ST;vg 2;Vestfold;988;19;53;45;6
+2022/23;ST;vg 2;Greveskogen videregående skole;147;4;10;9;2
+2022/23;ST;vg 2;Holmestrand videregående skole;39;1;5;2;0
+2022/23;ST;vg 2;Horten videregående skole;130;5;6;3;0
+2022/23;ST;vg 2;Melsom videregående skole;7;0;0;0;0
+2022/23;ST;vg 2;Nøtterøy videregående skole;119;1;4;8;0
+2022/23;ST;vg 2;Re videregående skole;112;1;3;3;1
+2022/23;ST;vg 2;Sande videregående skole;34;0;2;2;0
+2022/23;ST;vg 2;Sandefjord videregående skole;258;5;15;13;1
+2022/23;ST;vg 2;Thor Heyerdahl videregående skole;142;2;8;5;2
+2022/23;ST;vg 3;Vestfold;956;13;36;39;6
+2022/23;ST;vg 3;Greveskogen videregående skole;161;1;6;8;0
+2022/23;ST;vg 3;Holmestrand videregående skole;16;2;3;2;0
+2022/23;ST;vg 3;Horten videregående skole;152;1;11;5;1
+2022/23;ST;vg 3;Melsom videregående skole;7;0;0;0;1
+2022/23;ST;vg 3;Nøtterøy videregående skole;132;0;4;2;0
+2022/23;ST;vg 3;Re videregående skole;89;1;2;3;0
+2022/23;ST;vg 3;Sande videregående skole;33;1;1;0;0
+2022/23;ST;vg 3;Sandefjord videregående skole;252;7;6;13;3
+2022/23;ST;vg 3;Thor Heyerdahl videregående skole;114;0;3;6;1
+2022/23;TP;Totalt;Vestfold;376;17;10;23;41
+2022/23;TP;vg 1;Vestfold;203;9;7;17;29
+2022/23;TP;vg 1;Færder videregående skole;63;3;1;5;4
+2022/23;TP;vg 1;Holmestrand videregående skole;10;2;0;0;4
+2022/23;TP;vg 1;Horten videregående skole;21;0;4;1;4
+2022/23;TP;vg 1;Sande videregående skole;17;2;1;4;3
+2022/23;TP;vg 1;Sandefjord videregående skole;40;1;1;4;7
+2022/23;TP;vg 1;Thor Heyerdahl videregående skole;52;1;0;3;7
+2022/23;TP;vg 2;Vestfold;173;8;3;6;12
+2022/23;TP;vg 2;Færder videregående skole;76;3;1;3;7
+2022/23;TP;vg 2;Horten videregående skole;11;1;0;0;0
+2022/23;TP;vg 2;Sande videregående skole;13;0;0;1;0
+2022/23;TP;vg 2;Sandefjord videregående skole;29;1;0;1;3
+2022/23;TP;vg 2;Thor Heyerdahl videregående skole;44;3;2;1;2
+2022/23;BA;Totalt;Vestfold;308;13;19;28;33
+2022/23;BA;Totalt;Færder videregående skole;95;3;9;14;9
+2022/23;BA;Totalt;Re videregående skole;125;4;2;4;6
+2022/23;BA;Totalt;Thor Heyerdahl videregående skole;88;5;8;10;18
+2022/23;BA;Totalt;Vestfold fylkeskommune Privatisteksamen;0;1;0;0;0
+2022/23;EL;Totalt;Vestfold;362;7;11;3;9
+2022/23;EL;Totalt;Færder videregående skole;108;2;0;1;2
+2022/23;EL;Totalt;Horten videregående skole;63;3;2;1;4
+2022/23;EL;Totalt;Sande videregående skole;40;0;1;0;1
+2022/23;EL;Totalt;Sandefjord videregående skole;57;1;7;1;2
+2022/23;EL;Totalt;Thor Heyerdahl videregående skole;94;1;1;0;0
+2022/23;FD;Totalt;Vestfold;96;10;4;13;17
+2022/23;FD;Totalt;Horten videregående skole;24;3;1;4;5
+2022/23;FD;Totalt;Sandefjord videregående skole;72;7;3;9;12
+2022/23;HS;Totalt;Vestfold;693;27;39;39;43
+2022/23;HS;Totalt;Holmestrand videregående skole;30;0;1;2;3
+2022/23;HS;Totalt;Horten videregående skole;111;11;4;5;4
+2022/23;HS;Totalt;Nøtterøy videregående skole;92;0;9;10;7
+2022/23;HS;Totalt;Re videregående skole;119;7;2;2;5
+2022/23;HS;Totalt;Sande videregående skole;66;2;4;3;4
+2022/23;HS;Totalt;Sandefjord videregående skole;172;4;13;16;12
+2022/23;HS;Totalt;Thor Heyerdahl videregående skole;103;3;6;1;8
+2022/23;ID;Totalt;Vestfold;561;6;15;14;2
+2022/23;ID;Totalt;Horten videregående skole;82;2;0;6;0
+2022/23;ID;Totalt;Re videregående skole;168;1;2;2;1
+2022/23;ID;Totalt;Sande videregående skole;54;0;4;5;0
+2022/23;ID;Totalt;Sandefjord videregående skole;87;1;1;1;0
+2022/23;ID;Totalt;Thor Heyerdahl videregående skole;170;2;8;0;1
+2022/23;IM;Totalt;Vestfold;125;3;2;9;4
+2022/23;IM;Totalt;Greveskogen videregående skole;45;0;0;0;2
+2022/23;IM;Totalt;Horten videregående skole;26;2;0;5;0
+2022/23;IM;Totalt;Sandefjord videregående skole;54;1;2;4;2
+2022/23;KD;Totalt;Vestfold;134;22;13;11;1
+2022/23;KD;Totalt;Færder videregående skole;84;13;8;4;1
+2022/23;KD;Totalt;Sandefjord videregående skole;50;9;5;7;0
+2022/23;MD;Totalt;Vestfold;239;10;4;10;2
+2022/23;MD;Totalt;Greveskogen videregående skole;69;1;1;3;0
+2022/23;MD;Totalt;Sandefjord videregående skole;109;7;1;3;2
+2022/23;MD;Totalt;Thor Heyerdahl videregående skole;61;2;2;4;0
+2022/23;ME;Totalt;Vestfold;157;3;12;12;9
+2022/23;ME;Totalt;Horten videregående skole;56;1;9;8;4
+2022/23;ME;Totalt;Melsom videregående skole;20;0;1;1;1
+2022/23;ME;Totalt;Sande videregående skole;16;0;1;1;0
+2022/23;ME;Totalt;Thor Heyerdahl videregående skole;65;2;1;2;4
+2022/23;NA;Totalt;Vestfold;74;0;0;6;7
+2022/23;NA;Totalt;Melsom videregående skole;74;0;0;6;7
+2022/23;PB;Totalt;Vestfold;347;20;31;31;22
+2022/23;PB;Totalt;Færder videregående skole;109;7;13;7;6
+2022/23;PB;Totalt;Holmestrand videregående skole;12;1;3;4;6
+2022/23;PB;Totalt;Horten videregående skole;45;3;2;3;1
+2022/23;PB;Totalt;Melsom videregående skole;12;0;4;6;2
+2022/23;PB;Totalt;Nøtterøy videregående skole;12;0;1;0;0
+2022/23;PB;Totalt;Re videregående skole;29;1;0;0;0
+2022/23;PB;Totalt;Sande videregående skole;17;0;0;1;0
+2022/23;PB;Totalt;Sandefjord videregående skole;68;3;3;4;3
+2022/23;PB;Totalt;Thor Heyerdahl videregående skole;43;3;5;6;4
+2022/23;PB;Totalt;Vestfold fylkeskommune Privatisteksamen;0;2;0;0;0
+2022/23;RM;Totalt;Vestfold;90;10;4;13;11
+2022/23;RM;Totalt;Greveskogen videregående skole;38;3;3;6;3
+2022/23;RM;Totalt;Holmestrand videregående skole;5;5;0;2;1
+2022/23;RM;Totalt;Sandefjord videregående skole;14;2;0;2;1
+2022/23;RM;Totalt;Thor Heyerdahl videregående skole;33;0;1;3;6
+2022/23;SR;Totalt;Vestfold;229;8;4;29;25
+2022/23;SR;Totalt;Greveskogen videregående skole;39;2;3;7;2
+2022/23;SR;Totalt;Horten videregående skole;24;3;0;5;2
+2022/23;SR;Totalt;Sandefjord videregående skole;108;1;0;13;13
+2022/23;SR;Totalt;Thor Heyerdahl videregående skole;58;2;1;4;8
+2022/23;ST;Totalt;Vestfold;2 934;60;129;124;26
+2022/23;ST;Totalt;Greveskogen videregående skole;482;10;19;38;7
+2022/23;ST;Totalt;Holmestrand videregående skole;81;8;8;4;0
+2022/23;ST;Totalt;Horten videregående skole;414;7;29;11;1
+2022/23;ST;Totalt;Melsom videregående skole;26;0;0;1;1
+2022/23;ST;Totalt;Nøtterøy videregående skole;409;2;15;16;1
+2022/23;ST;Totalt;Re videregående skole;281;6;8;8;1
+2022/23;ST;Totalt;Sande videregående skole;102;5;3;3;1
+2022/23;ST;Totalt;Sandefjord videregående skole;736;16;35;30;9
+2022/23;ST;Totalt;Thor Heyerdahl videregående skole;403;6;12;13;5
+2022/23;TP;Totalt;Vestfold;376;17;10;23;41
+2022/23;TP;Totalt;Færder videregående skole;139;6;2;8;11
+2022/23;TP;Totalt;Holmestrand videregående skole;10;2;0;0;4
+2022/23;TP;Totalt;Horten videregående skole;32;1;4;1;4
+2022/23;TP;Totalt;Sande videregående skole;30;2;1;5;3
+2022/23;TP;Totalt;Sandefjord videregående skole;69;2;1;5;10
+2022/23;TP;Totalt;Thor Heyerdahl videregående skole;96;4;2;4;9
+2022/23;Alle utdanningsprogram;Totalt;Færder videregående skole;535;31;32;34;29
+2022/23;Alle utdanningsprogram;Totalt;Greveskogen videregående skole;673;16;26;54;14
+2022/23;Alle utdanningsprogram;Totalt;Holmestrand videregående skole;138;16;12;12;14
+2022/23;Alle utdanningsprogram;Totalt;Horten videregående skole;877;36;51;49;25
+2022/23;Alle utdanningsprogram;Totalt;Melsom videregående skole;132;0;5;14;11
+2022/23;Alle utdanningsprogram;Totalt;Nøtterøy videregående skole;513;2;25;26;8
+2022/23;Alle utdanningsprogram;Totalt;Re videregående skole;722;19;14;16;13
+2022/23;Alle utdanningsprogram;Totalt;Sande videregående skole;325;9;14;18;9
+2022/23;Alle utdanningsprogram;Totalt;Sandefjord videregående skole;1 596;54;71;95;66
+2022/23;Alle utdanningsprogram;Totalt;Thor Heyerdahl videregående skole;1 214;30;47;47;63
+2022/23;Alle utdanningsprogram;Totalt;Vestfold fylkeskommune Privatisteksamen;0;3;0;0;0
+2022/23;Alle utdanningsprogram;vg 1;Vestfold;2 592;99;116;165;143
+2022/23;Alle utdanningsprogram;vg 1;Færder videregående skole;216;11;10;21;10
+2022/23;Alle utdanningsprogram;vg 1;Greveskogen videregående skole;271;10;9;28;9
+2022/23;Alle utdanningsprogram;vg 1;Holmestrand videregående skole;61;12;1;2;6
+2022/23;Alle utdanningsprogram;vg 1;Horten videregående skole;324;14;26;24;17
+2022/23;Alle utdanningsprogram;vg 1;Melsom videregående skole;48;0;0;6;7
+2022/23;Alle utdanningsprogram;vg 1;Nøtterøy videregående skole;192;1;11;12;3
+2022/23;Alle utdanningsprogram;vg 1;Re videregående skole;274;7;6;4;7
+2022/23;Alle utdanningsprogram;vg 1;Sande videregående skole;120;8;4;8;9
+2022/23;Alle utdanningsprogram;vg 1;Sandefjord videregående skole;583;22;32;38;37
+2022/23;Alle utdanningsprogram;vg 1;Thor Heyerdahl videregående skole;503;14;17;22;38
+2022/23;Alle utdanningsprogram;vg 2;Vestfold;2 385;72;98;111;74
+2022/23;Alle utdanningsprogram;vg 2;Færder videregående skole;171;12;6;6;12
+2022/23;Alle utdanningsprogram;vg 2;Greveskogen videregående skole;214;5;11;16;5
+2022/23;Alle utdanningsprogram;vg 2;Holmestrand videregående skole;49;1;5;4;2
+2022/23;Alle utdanningsprogram;vg 2;Horten videregående skole;302;17;9;13;6
+2022/23;Alle utdanningsprogram;vg 2;Melsom videregående skole;43;0;1;1;1
+2022/23;Alle utdanningsprogram;vg 2;Nøtterøy videregående skole;166;1;9;11;3
+2022/23;Alle utdanningsprogram;vg 2;Re videregående skole;275;10;6;7;5
+2022/23;Alle utdanningsprogram;vg 2;Sande videregående skole;129;0;6;4;0
+2022/23;Alle utdanningsprogram;vg 2;Sandefjord videregående skole;587;17;27;36;20
+2022/23;Alle utdanningsprogram;vg 2;Thor Heyerdahl videregående skole;449;9;18;13;20
+2022/23;Alle utdanningsprogram;vg 3;Vestfold;1 748;45;83;89;35
+2022/23;Alle utdanningsprogram;vg 3;Færder videregående skole;148;8;16;7;7
+2022/23;Alle utdanningsprogram;vg 3;Greveskogen videregående skole;188;1;6;10;0
+2022/23;Alle utdanningsprogram;vg 3;Holmestrand videregående skole;28;3;6;6;6
+2022/23;Alle utdanningsprogram;vg 3;Horten videregående skole;251;5;16;12;2
+2022/23;Alle utdanningsprogram;vg 3;Melsom videregående skole;41;0;4;7;3
+2022/23;Alle utdanningsprogram;vg 3;Nøtterøy videregående skole;155;0;5;3;2
+2022/23;Alle utdanningsprogram;vg 3;Re videregående skole;173;2;2;5;1
+2022/23;Alle utdanningsprogram;vg 3;Sande videregående skole;76;1;4;6;0
+2022/23;Alle utdanningsprogram;vg 3;Sandefjord videregående skole;426;15;12;21;9
+2022/23;Alle utdanningsprogram;vg 3;Thor Heyerdahl videregående skole;262;7;12;12;5
+2022/23;Alle utdanningsprogram;vg 3;Vestfold fylkeskommune Privatisteksamen;0;3;0;0;0
