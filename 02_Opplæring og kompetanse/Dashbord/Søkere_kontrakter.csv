@@ -1,103 +1,294 @@
-ProgramomraadeNivaa;Utdanningsprogramvariantkode;Programomraadekode;UtdanningsprogramvariantNavn;ProgramomraadeNavn;Andel;År;Opplæringstype
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;66,6;2017-18;Lærling
-2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;83,3;2017-18;Lærling
-2;EL;EL;Elektro og datateknologi;Alle programområder;58,5;2017-18;Lærling
-2;HS;HS;Helse- og oppvekstfag;Alle programområder;58,7;2017-18;Lærling
-2;NA;NA;Naturbruk;Alle programområder;64;2017-18;Lærling
-2;RM;RM;Restaurant- og matfag;Alle programområder;63,7;2017-18;Lærling
-2;TP;TP;Teknologi- og industrifag;Alle programområder;74,2;2017-18;Lærling
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;66;2018-19;Lærling
-2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;83,5;2018-19;Lærling
-2;EL;EL;Elektro og datateknologi;Alle programområder;69,6;2018-19;Lærling
-2;HS;HS;Helse- og oppvekstfag;Alle programområder;51,3;2018-19;Lærling
-2;MK;MK;Medier og kommunikasjon (gammel ordning);Medier og kommunikasjon (gammel ordning);0;2018-19;Lærling
-2;NA;NA;Naturbruk;Alle programområder;54,8;2018-19;Lærling
-2;RM;RM;Restaurant- og matfag;Alle programområder;62,8;2018-19;Lærling
-2;TP;TP;Teknologi- og industrifag;Alle programområder;73,5;2018-19;Lærling
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;72;2019-20;Lærling
-2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;83,6;2019-20;Lærling
-2;EL;EL;Elektro og datateknologi;Alle programområder;81,8;2019-20;Lærling
-2;HS;HS;Helse- og oppvekstfag;Alle programområder;59,1;2019-20;Lærling
-2;NA;NA;Naturbruk;Alle programområder;71,9;2019-20;Lærling
-2;RM;RM;Restaurant- og matfag;Alle programområder;70,5;2019-20;Lærling
-2;TP;TP;Teknologi- og industrifag;Alle programområder;79,5;2019-20;Lærling
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;72,4;2020-21;Lærling
-2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;83;2020-21;Lærling
-2;EL;EL;Elektro og datateknologi;Alle programområder;80,9;2020-21;Lærling
-2;HS;HS;Helse- og oppvekstfag;Alle programområder;59,7;2020-21;Lærling
-2;NA;NA;Naturbruk;Alle programområder;59,5;2020-21;Lærling
-2;RM;RM;Restaurant- og matfag;Alle programområder;68,2;2020-21;Lærling
-2;TP;TP;Teknologi- og industrifag;Alle programområder;76,5;2020-21;Lærling
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;70,9;2021-22;Lærling
-2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;78;2021-22;Lærling
-2;EL;EL;Elektro og datateknologi;Alle programområder;75,4;2021-22;Lærling
-2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;100;2021-22;Lærling
-2;HS;HS;Helse- og oppvekstfag;Alle programområder;60;2021-22;Lærling
-2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;100;2021-22;Lærling
-2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;100;2021-22;Lærling
-2;NA;NA;Naturbruk;Alle programområder;66,2;2021-22;Lærling
-2;RM;RM;Restaurant- og matfag;Alle programområder;67,6;2021-22;Lærling
-2;SR;SR;Salg, service og reiseliv;Alle programområder;100;2021-22;Lærling
-2;TP;TP;Teknologi- og industrifag;Alle programområder;78,9;2021-22;Lærling
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;73,2;2022-23;Lærling
-2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;81,6;2022-23;Lærling
-2;EL;EL;Elektro og datateknologi;Alle programområder;83,8;2022-23;Lærling
-2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;85,7;2022-23;Lærling
-2;HS;HS;Helse- og oppvekstfag;Alle programområder;60,9;2022-23;Lærling
-2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;45,5;2022-23;Lærling
-2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;65,1;2022-23;Lærling
-2;NA;NA;Naturbruk;Alle programområder;45,5;2022-23;Lærling
-2;RM;RM;Restaurant- og matfag;Alle programområder;61,9;2022-23;Lærling
-2;SR;SR;Salg, service og reiseliv;Alle programområder;61,9;2022-23;Lærling
-2;TP;TP;Teknologi- og industrifag;Alle programområder;76,3;2022-23;Lærling
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;76,1;2023-24;Lærling
-2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;79,7;2023-24;Lærling
-2;EL;EL;Elektro og datateknologi;Alle programområder;79,1;2023-24;Lærling
-2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;81,8;2023-24;Lærling
-2;HS;HS;Helse- og oppvekstfag;Alle programområder;71;2023-24;Lærling
-2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;50;2023-24;Lærling
-2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;64,3;2023-24;Lærling
-2;NA;NA;Naturbruk;Alle programområder;54,2;2023-24;Lærling
-2;RM;RM;Restaurant- og matfag;Alle programområder;70,3;2023-24;Lærling
-2;SR;SR;Salg, service og reiseliv;Alle programområder;74,5;2023-24;Lærling
-2;TP;TP;Teknologi- og industrifag;Alle programområder;79,9;2023-24;Lærling
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;76,6;2024-25;Lærling
-2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;82,6;2024-25;Lærling
-2;EL;EL;Elektro og datateknologi;Alle programområder;77;2024-25;Lærling
-2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;85,7;2024-25;Lærling
-2;HS;HS;Helse- og oppvekstfag;Alle programområder;80,1;2024-25;Lærling
-2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;62,5;2024-25;Lærling
-2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;63,8;2024-25;Lærling
-2;NA;NA;Naturbruk;Alle programområder;64,3;2024-25;Lærling
-2;RM;RM;Restaurant- og matfag;Alle programområder;68,8;2024-25;Lærling
-2;SR;SR;Salg, service og reiseliv;Alle programområder;68;2024-25;Lærling
-2;TP;TP;Teknologi- og industrifag;Alle programområder;76,6;2024-25;Lærling
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;6,7;2017-18;Fagopplæring i skole
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;5,6;2018-19;Fagopplæring i skole
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;7,3;2019-20;Fagopplæring i skole
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;2,5;2020-21;Fagopplæring i skole
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;6;2021-22;Fagopplæring i skole
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;5,5;2022-23;Fagopplæring i skole
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;4,4;2023-24;Fagopplæring i skole
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;4,5;2024-25;Fagopplæring i skole
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;6,9;2017-18;Lærekandidat
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;5,3;2018-19;Lærekandidat
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;4,6;2019-20;Lærekandidat
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;4;2020-21;Lærekandidat
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;4,2;2021-22;Lærekandidat
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;3,9;2022-23;Lærekandidat
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;6;2023-24;Lærekandidat
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;6,4;2024-25;Lærekandidat
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;78,1;2025-26;Lærling
-2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;84;2025-26;Lærling
-2;EL;EL;Elektro og datateknologi;Alle programområder;80,1;2025-26;Lærling
-2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;80,8;2025-26;Lærling
-2;HS;HS;Helse- og oppvekstfag;Alle programområder;77,4;2025-26;Lærling
-2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;44,4;2025-26;Lærling
-2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;66,7;2025-26;Lærling
-2;NA;NA;Naturbruk;Alle programområder;66,7;2025-26;Lærling
-2;RM;RM;Restaurant- og matfag;Alle programområder;77,5;2025-26;Lærling
-2;SR;SR;Salg, service og reiseliv;Alle programområder;80,2;2025-26;Lærling
-2;TP;TP;Teknologi- og industrifag;Alle programområder;75,1;2025-26;Lærling
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;3,8;2025-26;Fagopplæring i skole
-0;Alle;Alle;Alle utdanningsprogram;Alle programområder;6,9;2025-26;Lærekandidat
+ProgramomraadeNivaa;Utdanningsprogramvariantkode;Programomraadekode;UtdanningsprogramvariantNavn;ProgramomraadeNavn;Andel;År;Opplæringstype;Geografi
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;72;2019-20;Lærling;Vestfold
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;83,6;2019-20;Lærling;Vestfold
+2;EL;EL;Elektro og datateknologi;Alle programområder;81,8;2019-20;Lærling;Vestfold
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;59,1;2019-20;Lærling;Vestfold
+2;NA;NA;Naturbruk;Alle programområder;71,9;2019-20;Lærling;Vestfold
+2;RM;RM;Restaurant- og matfag;Alle programområder;70,5;2019-20;Lærling;Vestfold
+2;TP;TP;Teknologi- og industrifag;Alle programområder;79,5;2019-20;Lærling;Vestfold
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;7,3;2019-20;Fagopplæring i skole;Vestfold
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;4,6;2019-20;Lærekandidat;Vestfold
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;72,4;2020-21;Lærling;Vestfold
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;83;2020-21;Lærling;Vestfold
+2;EL;EL;Elektro og datateknologi;Alle programområder;80,9;2020-21;Lærling;Vestfold
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;59,7;2020-21;Lærling;Vestfold
+2;NA;NA;Naturbruk;Alle programområder;59,5;2020-21;Lærling;Vestfold
+2;RM;RM;Restaurant- og matfag;Alle programområder;68,2;2020-21;Lærling;Vestfold
+2;TP;TP;Teknologi- og industrifag;Alle programområder;76,5;2020-21;Lærling;Vestfold
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;2,5;2020-21;Fagopplæring i skole;Vestfold
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;4;2020-21;Lærekandidat;Vestfold
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;70,9;2021-22;Lærling;Vestfold
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;78;2021-22;Lærling;Vestfold
+2;EL;EL;Elektro og datateknologi;Alle programområder;75,4;2021-22;Lærling;Vestfold
+2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;100;2021-22;Lærling;Vestfold
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;60;2021-22;Lærling;Vestfold
+2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;100;2021-22;Lærling;Vestfold
+2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;100;2021-22;Lærling;Vestfold
+2;NA;NA;Naturbruk;Alle programområder;66,2;2021-22;Lærling;Vestfold
+2;RM;RM;Restaurant- og matfag;Alle programområder;67,6;2021-22;Lærling;Vestfold
+2;SR;SR;Salg, service og reiseliv;Alle programområder;100;2021-22;Lærling;Vestfold
+2;TP;TP;Teknologi- og industrifag;Alle programområder;78,9;2021-22;Lærling;Vestfold
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;6;2021-22;Fagopplæring i skole;Vestfold
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;4,2;2021-22;Lærekandidat;Vestfold
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;73,2;2022-23;Lærling;Vestfold
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;81,6;2022-23;Lærling;Vestfold
+2;EL;EL;Elektro og datateknologi;Alle programområder;83,8;2022-23;Lærling;Vestfold
+2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;85,7;2022-23;Lærling;Vestfold
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;60,9;2022-23;Lærling;Vestfold
+2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;45,5;2022-23;Lærling;Vestfold
+2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;65,1;2022-23;Lærling;Vestfold
+2;NA;NA;Naturbruk;Alle programområder;45,5;2022-23;Lærling;Vestfold
+2;RM;RM;Restaurant- og matfag;Alle programområder;61,9;2022-23;Lærling;Vestfold
+2;SR;SR;Salg, service og reiseliv;Alle programområder;61,9;2022-23;Lærling;Vestfold
+2;TP;TP;Teknologi- og industrifag;Alle programområder;76,3;2022-23;Lærling;Vestfold
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;5,5;2022-23;Fagopplæring i skole;Vestfold
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;3,9;2022-23;Lærekandidat;Vestfold
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;76,1;2023-24;Lærling;Vestfold
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;79,7;2023-24;Lærling;Vestfold
+2;EL;EL;Elektro og datateknologi;Alle programområder;79,1;2023-24;Lærling;Vestfold
+2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;81,8;2023-24;Lærling;Vestfold
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;71;2023-24;Lærling;Vestfold
+2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;50;2023-24;Lærling;Vestfold
+2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;64,3;2023-24;Lærling;Vestfold
+2;NA;NA;Naturbruk;Alle programområder;54,2;2023-24;Lærling;Vestfold
+2;RM;RM;Restaurant- og matfag;Alle programområder;70,3;2023-24;Lærling;Vestfold
+2;SR;SR;Salg, service og reiseliv;Alle programområder;74,5;2023-24;Lærling;Vestfold
+2;TP;TP;Teknologi- og industrifag;Alle programområder;79,9;2023-24;Lærling;Vestfold
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;4,4;2023-24;Fagopplæring i skole;Vestfold
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;6;2023-24;Lærekandidat;Vestfold
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;76,6;2024-25;Lærling;Vestfold
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;82,6;2024-25;Lærling;Vestfold
+2;EL;EL;Elektro og datateknologi;Alle programområder;77;2024-25;Lærling;Vestfold
+2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;85,7;2024-25;Lærling;Vestfold
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;80,1;2024-25;Lærling;Vestfold
+2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;62,5;2024-25;Lærling;Vestfold
+2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;63,8;2024-25;Lærling;Vestfold
+2;NA;NA;Naturbruk;Alle programområder;64,3;2024-25;Lærling;Vestfold
+2;RM;RM;Restaurant- og matfag;Alle programområder;68,8;2024-25;Lærling;Vestfold
+2;SR;SR;Salg, service og reiseliv;Alle programområder;68;2024-25;Lærling;Vestfold
+2;TP;TP;Teknologi- og industrifag;Alle programområder;76,6;2024-25;Lærling;Vestfold
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;4,5;2024-25;Fagopplæring i skole;Vestfold
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;6,4;2024-25;Lærekandidat;Vestfold
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;78,1;2025-26;Lærling;Vestfold
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;84;2025-26;Lærling;Vestfold
+2;EL;EL;Elektro og datateknologi;Alle programområder;80,1;2025-26;Lærling;Vestfold
+2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;80,8;2025-26;Lærling;Vestfold
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;77,4;2025-26;Lærling;Vestfold
+2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;44,4;2025-26;Lærling;Vestfold
+2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;66,7;2025-26;Lærling;Vestfold
+2;NA;NA;Naturbruk;Alle programområder;66,7;2025-26;Lærling;Vestfold
+2;RM;RM;Restaurant- og matfag;Alle programområder;77,5;2025-26;Lærling;Vestfold
+2;SR;SR;Salg, service og reiseliv;Alle programområder;80,2;2025-26;Lærling;Vestfold
+2;TP;TP;Teknologi- og industrifag;Alle programområder;75,1;2025-26;Lærling;Vestfold
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;3,8;2025-26;Fagopplæring i skole;Vestfold
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;6,9;2025-26;Lærekandidat;Vestfold
+2;MK;MK;Medier og kommunikasjon (gammel ordning);Medier og kommunikasjon (gammel ordning);57,1;2019-20;Lærling;Hele landet
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;70,6;2019-20;Lærling;Hele landet
+2;RM;RM;Restaurant- og matfag;Alle programområder;76,1;2019-20;Lærling;Hele landet
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;77,7;2019-20;Lærling;Hele landet
+2;EL;EL;Elektro og datateknologi;Alle programområder;79,7;2019-20;Lærling;Hele landet
+2;NA;NA;Naturbruk;Alle programområder;81,3;2019-20;Lærling;Hele landet
+2;TP;TP;Teknologi- og industrifag;Alle programområder;82,2;2019-20;Lærling;Hele landet
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;85,5;2019-20;Lærling;Hele landet
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;69,9;2020-21;Lærling;Hele landet
+2;RM;RM;Restaurant- og matfag;Alle programområder;70,8;2020-21;Lærling;Hele landet
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;75,7;2020-21;Lærling;Hele landet
+2;EL;EL;Elektro og datateknologi;Alle programområder;78,5;2020-21;Lærling;Hele landet
+2;TP;TP;Teknologi- og industrifag;Alle programområder;79,1;2020-21;Lærling;Hele landet
+2;NA;NA;Naturbruk;Alle programområder;79,2;2020-21;Lærling;Hele landet
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;83,6;2020-21;Lærling;Hele landet
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;69,3;2021-22;Lærling;Hele landet
+2;RM;RM;Restaurant- og matfag;Alle programområder;73,5;2021-22;Lærling;Hele landet
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;78,2;2021-22;Lærling;Hele landet
+2;NA;NA;Naturbruk;Alle programområder;79,5;2021-22;Lærling;Hele landet
+2;EL;EL;Elektro og datateknologi;Alle programområder;82,3;2021-22;Lærling;Hele landet
+2;TP;TP;Teknologi- og industrifag;Alle programområder;82,3;2021-22;Lærling;Hele landet
+2;SR;SR;Salg, service og reiseliv;Alle programområder;82,5;2021-22;Lærling;Hele landet
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;87;2021-22;Lærling;Hele landet
+2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;95;2021-22;Lærling;Hele landet
+2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;100;2021-22;Lærling;Hele landet
+2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;100;2021-22;Lærling;Hele landet
+2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;54,5;2022-23;Lærling;Hele landet
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;71,3;2022-23;Lærling;Hele landet
+2;SR;SR;Salg, service og reiseliv;Alle programområder;71,3;2022-23;Lærling;Hele landet
+2;RM;RM;Restaurant- og matfag;Alle programområder;75,8;2022-23;Lærling;Hele landet
+2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;76,4;2022-23;Lærling;Hele landet
+2;NA;NA;Naturbruk;Alle programområder;77,9;2022-23;Lærling;Hele landet
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;80,6;2022-23;Lærling;Hele landet
+2;TP;TP;Teknologi- og industrifag;Alle programområder;82,4;2022-23;Lærling;Hele landet
+2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;82,9;2022-23;Lærling;Hele landet
+2;EL;EL;Elektro og datateknologi;Alle programområder;86,6;2022-23;Lærling;Hele landet
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;87,1;2022-23;Lærling;Hele landet
+2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;59,7;2023-24;Lærling;Hele landet
+2;SR;SR;Salg, service og reiseliv;Alle programområder;70,5;2023-24;Lærling;Hele landet
+2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;72,1;2023-24;Lærling;Hele landet
+2;RM;RM;Restaurant- og matfag;Alle programområder;73,9;2023-24;Lærling;Hele landet
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;74,2;2023-24;Lærling;Hele landet
+2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;77,9;2023-24;Lærling;Hele landet
+2;NA;NA;Naturbruk;Alle programområder;78;2023-24;Lærling;Hele landet
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;80,5;2023-24;Lærling;Hele landet
+2;TP;TP;Teknologi- og industrifag;Alle programområder;83,1;2023-24;Lærling;Hele landet
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;85,4;2023-24;Lærling;Hele landet
+2;EL;EL;Elektro og datateknologi;Alle programområder;86,9;2023-24;Lærling;Hele landet
+2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;48,3;2024-25;Lærling;Hele landet
+2;SR;SR;Salg, service og reiseliv;Alle programområder;69,4;2024-25;Lærling;Hele landet
+2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;72;2024-25;Lærling;Hele landet
+2;RM;RM;Restaurant- og matfag;Alle programområder;73,9;2024-25;Lærling;Hele landet
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;76;2024-25;Lærling;Hele landet
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;80,3;2024-25;Lærling;Hele landet
+2;NA;NA;Naturbruk;Alle programområder;80,8;2024-25;Lærling;Hele landet
+2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;81,2;2024-25;Lærling;Hele landet
+2;TP;TP;Teknologi- og industrifag;Alle programområder;82,5;2024-25;Lærling;Hele landet
+2;EL;EL;Elektro og datateknologi;Alle programområder;84,9;2024-25;Lærling;Hele landet
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;85,4;2024-25;Lærling;Hele landet
+2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;58,8;2025-26;Lærling;Hele landet
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;70,2;2025-26;Lærling;Hele landet
+2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;70,8;2025-26;Lærling;Hele landet
+2;SR;SR;Salg, service og reiseliv;Alle programområder;72,6;2025-26;Lærling;Hele landet
+2;RM;RM;Restaurant- og matfag;Alle programområder;74,8;2025-26;Lærling;Hele landet
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;79,5;2025-26;Lærling;Hele landet
+2;NA;NA;Naturbruk;Alle programområder;81,5;2025-26;Lærling;Hele landet
+2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;83,5;2025-26;Lærling;Hele landet
+2;TP;TP;Teknologi- og industrifag;Alle programområder;83,5;2025-26;Lærling;Hele landet
+2;EL;EL;Elektro og datateknologi;Alle programområder;84,1;2025-26;Lærling;Hele landet
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;84,3;2025-26;Lærling;Hele landet
+2;MK;MK;Medier og kommunikasjon (gammel ordning);Medier og kommunikasjon (gammel ordning);0;2019-20;Fagopplæring i skole;Hele landet
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;1,3;2019-20;Fagopplæring i skole;Hele landet
+2;NA;NA;Naturbruk;Alle programområder;1,3;2019-20;Fagopplæring i skole;Hele landet
+2;RM;RM;Restaurant- og matfag;Alle programområder;1,9;2019-20;Fagopplæring i skole;Hele landet
+2;EL;EL;Elektro og datateknologi;Alle programområder;2,5;2019-20;Fagopplæring i skole;Hele landet
+2;TP;TP;Teknologi- og industrifag;Alle programområder;2,8;2019-20;Fagopplæring i skole;Hele landet
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;4,1;2019-20;Fagopplæring i skole;Hele landet
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;4,5;2020-21;Fagopplæring i skole;Hele landet
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;9,3;2019-20;Fagopplæring i skole;Hele landet
+2;NA;NA;Naturbruk;Alle programområder;0,9;2020-21;Fagopplæring i skole;Hele landet
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;2,2;2020-21;Fagopplæring i skole;Hele landet
+2;EL;EL;Elektro og datateknologi;Alle programområder;3,3;2020-21;Fagopplæring i skole;Hele landet
+2;TP;TP;Teknologi- og industrifag;Alle programområder;3,9;2020-21;Fagopplæring i skole;Hele landet
+2;RM;RM;Restaurant- og matfag;Alle programområder;4;2020-21;Fagopplæring i skole;Hele landet
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;4,1;2021-22;Fagopplæring i skole;Hele landet
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;8,8;2020-21;Fagopplæring i skole;Hele landet
+2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;0;2021-22;Fagopplæring i skole;Hele landet
+2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;0;2021-22;Fagopplæring i skole;Hele landet
+2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;0;2021-22;Fagopplæring i skole;Hele landet
+2;SR;SR;Salg, service og reiseliv;Alle programområder;0;2021-22;Fagopplæring i skole;Hele landet
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;1,3;2021-22;Fagopplæring i skole;Hele landet
+2;NA;NA;Naturbruk;Alle programområder;1,3;2021-22;Fagopplæring i skole;Hele landet
+2;TP;TP;Teknologi- og industrifag;Alle programområder;2,7;2021-22;Fagopplæring i skole;Hele landet
+2;EL;EL;Elektro og datateknologi;Alle programområder;3;2021-22;Fagopplæring i skole;Hele landet
+2;RM;RM;Restaurant- og matfag;Alle programområder;3,2;2021-22;Fagopplæring i skole;Hele landet
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;3,3;2022-23;Fagopplæring i skole;Hele landet
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;10,4;2021-22;Fagopplæring i skole;Hele landet
+2;NA;NA;Naturbruk;Alle programområder;0,9;2022-23;Fagopplæring i skole;Hele landet
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;1;2022-23;Fagopplæring i skole;Hele landet
+2;RM;RM;Restaurant- og matfag;Alle programområder;1,3;2022-23;Fagopplæring i skole;Hele landet
+2;TP;TP;Teknologi- og industrifag;Alle programområder;1,3;2022-23;Fagopplæring i skole;Hele landet
+2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;1,4;2022-23;Fagopplæring i skole;Hele landet
+2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;1,9;2022-23;Fagopplæring i skole;Hele landet
+2;EL;EL;Elektro og datateknologi;Alle programområder;2;2022-23;Fagopplæring i skole;Hele landet
+2;SR;SR;Salg, service og reiseliv;Alle programområder;2,6;2022-23;Fagopplæring i skole;Hele landet
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;3;2023-24;Fagopplæring i skole;Hele landet
+2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;6,1;2022-23;Fagopplæring i skole;Hele landet
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;11;2022-23;Fagopplæring i skole;Hele landet
+2;NA;NA;Naturbruk;Alle programområder;0,9;2023-24;Fagopplæring i skole;Hele landet
+2;TP;TP;Teknologi- og industrifag;Alle programområder;0,9;2023-24;Fagopplæring i skole;Hele landet
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;1;2023-24;Fagopplæring i skole;Hele landet
+2;RM;RM;Restaurant- og matfag;Alle programområder;1,6;2023-24;Fagopplæring i skole;Hele landet
+2;EL;EL;Elektro og datateknologi;Alle programområder;1,8;2023-24;Fagopplæring i skole;Hele landet
+2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;2,1;2023-24;Fagopplæring i skole;Hele landet
+2;SR;SR;Salg, service og reiseliv;Alle programområder;2,6;2023-24;Fagopplæring i skole;Hele landet
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;3,1;2024-25;Fagopplæring i skole;Hele landet
+2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;5,5;2023-24;Fagopplæring i skole;Hele landet
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;9;2023-24;Fagopplæring i skole;Hele landet
+2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;11,1;2023-24;Fagopplæring i skole;Hele landet
+2;RM;RM;Restaurant- og matfag;Alle programområder;1;2024-25;Fagopplæring i skole;Hele landet
+2;TP;TP;Teknologi- og industrifag;Alle programområder;1,2;2024-25;Fagopplæring i skole;Hele landet
+2;NA;NA;Naturbruk;Alle programområder;1,4;2024-25;Fagopplæring i skole;Hele landet
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;1,6;2024-25;Fagopplæring i skole;Hele landet
+2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;1,6;2024-25;Fagopplæring i skole;Hele landet
+2;SR;SR;Salg, service og reiseliv;Alle programområder;2,5;2024-25;Fagopplæring i skole;Hele landet
+2;EL;EL;Elektro og datateknologi;Alle programområder;2,7;2024-25;Fagopplæring i skole;Hele landet
+2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;3,5;2024-25;Fagopplæring i skole;Hele landet
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;4,8;2025-26;Fagopplæring i skole;Hele landet
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;8,1;2024-25;Fagopplæring i skole;Hele landet
+2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;25;2024-25;Fagopplæring i skole;Hele landet
+2;NA;NA;Naturbruk;Alle programområder;1,2;2025-26;Fagopplæring i skole;Hele landet
+2;TP;TP;Teknologi- og industrifag;Alle programområder;1,5;2025-26;Fagopplæring i skole;Hele landet
+2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;2;2025-26;Fagopplæring i skole;Hele landet
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;2,5;2025-26;Fagopplæring i skole;Hele landet
+2;EL;EL;Elektro og datateknologi;Alle programområder;2,7;2025-26;Fagopplæring i skole;Hele landet
+2;SR;SR;Salg, service og reiseliv;Alle programområder;3,3;2025-26;Fagopplæring i skole;Hele landet
+2;RM;RM;Restaurant- og matfag;Alle programområder;4,8;2025-26;Fagopplæring i skole;Hele landet
+2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;7,4;2025-26;Fagopplæring i skole;Hele landet
+2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;9,4;2025-26;Fagopplæring i skole;Hele landet
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;14,5;2025-26;Fagopplæring i skole;Hele landet
+2;EL;EL;Elektro og datateknologi;Alle programområder;0;2020-21;Lærekandidat;Hele landet
+2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;0;2021-22;Lærekandidat;Hele landet
+2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;0;2021-22;Lærekandidat;Hele landet
+2;EL;EL;Elektro og datateknologi;Alle programområder;0;2025-26;Lærekandidat;Hele landet
+2;EL;EL;Elektro og datateknologi;Alle programområder;0,1;2021-22;Lærekandidat;Hele landet
+2;EL;EL;Elektro og datateknologi;Alle programområder;0,3;2019-20;Lærekandidat;Hele landet
+2;EL;EL;Elektro og datateknologi;Alle programområder;0,3;2022-23;Lærekandidat;Hele landet
+2;EL;EL;Elektro og datateknologi;Alle programområder;0,3;2023-24;Lærekandidat;Hele landet
+2;EL;EL;Elektro og datateknologi;Alle programområder;0,3;2024-25;Lærekandidat;Hele landet
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;1,9;2022-23;Lærekandidat;Hele landet
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;2;2021-22;Lærekandidat;Hele landet
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;2,1;2020-21;Lærekandidat;Hele landet
+2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;2,1;2023-24;Lærekandidat;Hele landet
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;2,3;2019-20;Lærekandidat;Hele landet
+2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;2,3;2022-23;Lærekandidat;Hele landet
+2;TP;TP;Teknologi- og industrifag;Alle programområder;2,4;2020-21;Lærekandidat;Hele landet
+2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;2,5;2021-22;Lærekandidat;Hele landet
+2;TP;TP;Teknologi- og industrifag;Alle programområder;2,6;2019-20;Lærekandidat;Hele landet
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;2,8;2025-26;Lærekandidat;Hele landet
+2;TP;TP;Teknologi- og industrifag;Alle programområder;2,9;2021-22;Lærekandidat;Hele landet
+2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;2,9;2022-23;Lærekandidat;Hele landet
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;2,9;2023-24;Lærekandidat;Hele landet
+2;HS;HS;Helse- og oppvekstfag;Alle programområder;3;2024-25;Lærekandidat;Hele landet
+2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;3,1;2025-26;Lærekandidat;Hele landet
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;3,2;2020-21;Lærekandidat;Hele landet
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;3,2;2020-21;Lærekandidat;Hele landet
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;3,3;2022-23;Lærekandidat;Hele landet
+2;TP;TP;Teknologi- og industrifag;Alle programområder;3,3;2022-23;Lærekandidat;Hele landet
+2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;3,3;2025-26;Lærekandidat;Hele landet
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;3,4;2019-20;Lærekandidat;Hele landet
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;3,4;2023-24;Lærekandidat;Hele landet
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;3,5;2021-22;Lærekandidat;Hele landet
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;3,5;2022-23;Lærekandidat;Hele landet
+2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;3,5;2023-24;Lærekandidat;Hele landet
+2;NA;NA;Naturbruk;Alle programområder;3,5;2024-25;Lærekandidat;Hele landet
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;3,8;2021-22;Lærekandidat;Hele landet
+2;IM;IM;Informasjonsteknologi og medieproduksjon;Alle programområder;3,8;2024-25;Lærekandidat;Hele landet
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;3,9;2019-20;Lærekandidat;Hele landet
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;3,9;2024-25;Lærekandidat;Hele landet
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;3,9;2025-26;Lærekandidat;Hele landet
+2;BA;BA;Bygg- og anleggsteknikk;Alle programområder;3,9;2025-26;Lærekandidat;Hele landet
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;4;2023-24;Lærekandidat;Hele landet
+0;Alle;Alle;Alle utdanningsprogram;Alle programområder;4,2;2024-25;Lærekandidat;Hele landet
+2;TP;TP;Teknologi- og industrifag;Alle programområder;4,3;2023-24;Lærekandidat;Hele landet
+2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;4,5;2024-25;Lærekandidat;Hele landet
+2;TP;TP;Teknologi- og industrifag;Alle programområder;4,5;2025-26;Lærekandidat;Hele landet
+2;TP;TP;Teknologi- og industrifag;Alle programområder;4,7;2024-25;Lærekandidat;Hele landet
+2;NA;NA;Naturbruk;Alle programområder;5,1;2025-26;Lærekandidat;Hele landet
+2;SR;SR;Salg, service og reiseliv;Alle programområder;5,2;2022-23;Lærekandidat;Hele landet
+2;NA;NA;Naturbruk;Alle programområder;5,8;2019-20;Lærekandidat;Hele landet
+2;FD;FD;Frisør, blomster, interiør og eksponeringsdesign;Alle programområder;5,9;2023-24;Lærekandidat;Hele landet
+2;NA;NA;Naturbruk;Alle programområder;6;2020-21;Lærekandidat;Hele landet
+2;NA;NA;Naturbruk;Alle programområder;6,1;2022-23;Lærekandidat;Hele landet
+2;NA;NA;Naturbruk;Alle programområder;6,5;2023-24;Lærekandidat;Hele landet
+2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;6,8;2022-23;Lærekandidat;Hele landet
+2;MK;MK;Medier og kommunikasjon (gammel ordning);Medier og kommunikasjon (gammel ordning);7,1;2019-20;Lærekandidat;Hele landet
+2;NA;NA;Naturbruk;Alle programområder;7,3;2021-22;Lærekandidat;Hele landet
+2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;8,1;2024-25;Lærekandidat;Hele landet
+2;DT;DT;Håndverk, design og produktutvikling;Alle programområder;8,2;2025-26;Lærekandidat;Hele landet
+2;SR;SR;Salg, service og reiseliv;Alle programområder;8,2;2025-26;Lærekandidat;Hele landet
+2;SR;SR;Salg, service og reiseliv;Alle programområder;8,7;2024-25;Lærekandidat;Hele landet
+2;SR;SR;Salg, service og reiseliv;Alle programområder;9,1;2023-24;Lærekandidat;Hele landet
+2;RM;RM;Restaurant- og matfag;Alle programområder;9,5;2019-20;Lærekandidat;Hele landet
+2;RM;RM;Restaurant- og matfag;Alle programområder;9,7;2022-23;Lærekandidat;Hele landet
+2;RM;RM;Restaurant- og matfag;Alle programområder;9,9;2021-22;Lærekandidat;Hele landet
+2;RM;RM;Restaurant- og matfag;Alle programområder;10;2020-21;Lærekandidat;Hele landet
+2;RM;RM;Restaurant- og matfag;Alle programområder;11,6;2025-26;Lærekandidat;Hele landet
+2;RM;RM;Restaurant- og matfag;Alle programområder;11,9;2023-24;Lærekandidat;Hele landet
+2;RM;RM;Restaurant- og matfag;Alle programområder;13,5;2024-25;Lærekandidat;Hele landet
+2;SR;SR;Salg, service og reiseliv;Alle programområder;17,5;2021-22;Lærekandidat;Hele landet
