@@ -3261,6 +3261,4 @@ LineNumber	Kommune	Year	Month	Totals	Late	ONTIME
 70210	Larvik	2026	4	1 770	424	1 346
 70214	Larvik	2026	4	639	168	471
 70215	Larvik	2026	4	119	56	63
-=======
 70215	Larvik	2026	2	94	31	63
->>>>>>> 0f3f71125ee5134b6bc831340a762028b06ee953
