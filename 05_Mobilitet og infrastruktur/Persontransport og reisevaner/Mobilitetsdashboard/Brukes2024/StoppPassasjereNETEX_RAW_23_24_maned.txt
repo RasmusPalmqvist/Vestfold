@@ -1,4 +1,4 @@
-Stop;StopName;Kommunenavn;Lon;Lat;PublicLineNo;Reisende;Year;Month
+Stop;StopName;Kommunenavn;Lon;Lat;PublicLineNo;Reisende;Year;Month;LineNumber
 33333;Kilen øst;Tønsberg;10,430800;59,273626;1656;1,004453;2023;8
 33312;Andebu skole;Sandefjord;10,172605;59,305631;1558;85,233667;2023;6
 32909;Tønsberg sykehus;Tønsberg;10,417558;59,272913;110;29,230791;2023;2
