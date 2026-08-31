@@ -245971,3 +245971,4 @@ Stop;StopName;Kommunenavn;Lon;Lat;PublicLineNo;Reisende;Year;Month
 32713;Nykirke;Horten;10,384779;59.4244800;2;404;2025;7;2
 31454;Larvik sentrumsterminal;Larvik;10,028871;59.0540770;4;2346;2025;7;4
 33915;Godaker;Holmestrand;10,252454;59.5012830;31;3;2025;7;46
+
