@@ -1,0 +1,46 @@
+EnhetNivaa;Nasjonaltkode;Fylkekode;Organisasjonsnummer;Nasjonalt;Fylke;EnhetNavn;Utdanningstype;Trinn;År;Median dager;Median timer;Snitt dager;Snitt timer;Antall elever
+1;I;0;I;Hele landet;Alle fylker;Alle skoler;Alle utdanningsprogram;Vg3;2023-24;5;22;8,6;31,4;42 275
+2;I;39;39;Hele landet;Vestfold;Alle skoler;Alle utdanningsprogram;Vg3;2023-24;5;22;8,8;29,7;2 003
+3;I;39;974575086;Hele landet;Vestfold;Færder videregående skole;Alle utdanningsprogram;Vg3;2023-24;7;14;8,7;19,8;151
+3;I;39;990745277;Hele landet;Vestfold;Gjennestad videregående skole;Alle utdanningsprogram;Vg3;2023-24;8,5;27,5;14,3;34,8;20
+3;I;39;974574993;Hele landet;Vestfold;Greveskogen videregående skole;Alle utdanningsprogram;Vg3;2023-24;7;26;10,3;32,7;183
+3;I;39;874575062;Hele landet;Vestfold;Holmestrand videregående skole;Alle utdanningsprogram;Vg3;2023-24;8;24;13,4;29,8;87
+3;I;39;923261354;Hele landet;Vestfold;Horten videregående skole;Alle utdanningsprogram;Vg3;2023-24;5;18;8,4;25,3;250
+3;I;39;974575051;Hele landet;Vestfold;Melsom videregående skole;Alle utdanningsprogram;Vg3;2023-24;5,5;17;10,1;25,2;38
+3;I;39;974575000;Hele landet;Vestfold;Nøtterøy videregående skole;Alle utdanningsprogram;Vg3;2023-24;6;26,5;8,4;33,7;164
+3;I;39;874575232;Hele landet;Vestfold;Re videregående skole;Alle utdanningsprogram;Vg3;2023-24;4;17,5;6,7;21,9;200
+3;I;39;974575116;Hele landet;Vestfold;Sande videregående skole;Alle utdanningsprogram;Vg3;2023-24;7;20;11,7;28,3;89
+3;I;39;974575019;Hele landet;Vestfold;Sandefjord videregående skole;Alle utdanningsprogram;Vg3;2023-24;5;24;9,1;33;450
+3;I;39;973141805;Hele landet;Vestfold;Slottsfjellet videregående;Alle utdanningsprogram;Vg3;2023-24;6;17;13,2;21,2;16
+3;I;39;974575027;Hele landet;Vestfold;Thor Heyerdahl videregående skole;Alle utdanningsprogram;Vg3;2023-24;3;27;6,8;35,5;297
+3;I;39;995354071;Hele landet;Vestfold;Wang Tønsberg AS;Alle utdanningsprogram;Vg3;2023-24;4;23;7,5;31,5;58
+1;I;0;I;Hele landet;Alle fylker;Alle skoler;Studieforberedende;Vg3;2023-24;5;23;8,5;32;39 888
+2;I;39;39;Hele landet;Vestfold;Alle skoler;Studieforberedende;Vg3;2023-24;5;22;8,8;30,3;1 909
+3;I;39;974575086;Hele landet;Vestfold;Færder videregående skole;Studieforberedende;Vg3;2023-24;8;14;9,6;20,6;135
+3;I;39;990745277;Hele landet;Vestfold;Gjennestad videregående skole;Studieforberedende;Vg3;2023-24;8,5;27,5;14,3;34,8;20
+3;I;39;974574993;Hele landet;Vestfold;Greveskogen videregående skole;Studieforberedende;Vg3;2023-24;7;26;10,3;32,7;183
+3;I;39;874575062;Hele landet;Vestfold;Holmestrand videregående skole;Studieforberedende;Vg3;2023-24;8;24;13,4;29,8;87
+3;I;39;923261354;Hele landet;Vestfold;Horten videregående skole;Studieforberedende;Vg3;2023-24;6;19,5;8,6;26,4;234
+3;I;39;974575051;Hele landet;Vestfold;Melsom videregående skole;Studieforberedende;Vg3;2023-24;*;*;*;*;*
+3;I;39;974575000;Hele landet;Vestfold;Nøtterøy videregående skole;Studieforberedende;Vg3;2023-24;*;*;*;*;*
+3;I;39;874575232;Hele landet;Vestfold;Re videregående skole;Studieforberedende;Vg3;2023-24;4;17,5;6,7;21,9;200
+3;I;39;974575116;Hele landet;Vestfold;Sande videregående skole;Studieforberedende;Vg3;2023-24;7;20;11,7;28,3;89
+3;I;39;974575019;Hele landet;Vestfold;Sandefjord videregående skole;Studieforberedende;Vg3;2023-24;5;24;8,5;34;405
+3;I;39;973141805;Hele landet;Vestfold;Slottsfjellet videregående;Studieforberedende;Vg3;2023-24;6;17;13,2;21,2;16
+3;I;39;974575027;Hele landet;Vestfold;Thor Heyerdahl videregående skole;Studieforberedende;Vg3;2023-24;3;27;6,8;35,5;297
+3;I;39;995354071;Hele landet;Vestfold;Wang Tønsberg AS;Studieforberedende;Vg3;2023-24;4;23;7,5;31,5;58
+1;I;0;I;Hele landet;Alle fylker;Alle skoler;Yrkesfag;Vg3;2023-24;4;13;9,4;21,8;2 387
+2;I;39;39;Hele landet;Vestfold;Alle skoler;Yrkesfag;Vg3;2023-24;6;10;10,1;17,4;94
+3;I;39;974575086;Hele landet;Vestfold;Færder videregående skole;Yrkesfag;Vg3;2023-24;1,5;10,5;1,6;13;16
+3;I;39;990745277;Hele landet;Vestfold;Gjennestad videregående skole;Yrkesfag;Vg3;2023-24;;;;;
+3;I;39;974574993;Hele landet;Vestfold;Greveskogen videregående skole;Yrkesfag;Vg3;2023-24;;;;;
+3;I;39;874575062;Hele landet;Vestfold;Holmestrand videregående skole;Yrkesfag;Vg3;2023-24;;;;;
+3;I;39;923261354;Hele landet;Vestfold;Horten videregående skole;Yrkesfag;Vg3;2023-24;2;2,5;6;9,3;16
+3;I;39;974575051;Hele landet;Vestfold;Melsom videregående skole;Yrkesfag;Vg3;2023-24;*;*;*;*;*
+3;I;39;974575000;Hele landet;Vestfold;Nøtterøy videregående skole;Yrkesfag;Vg3;2023-24;*;*;*;*;*
+3;I;39;874575232;Hele landet;Vestfold;Re videregående skole;Yrkesfag;Vg3;2023-24;;;;;
+3;I;39;974575116;Hele landet;Vestfold;Sande videregående skole;Yrkesfag;Vg3;2023-24;;;;;
+3;I;39;974575019;Hele landet;Vestfold;Sandefjord videregående skole;Yrkesfag;Vg3;2023-24;10;14;14;23,3;45
+3;I;39;973141805;Hele landet;Vestfold;Slottsfjellet videregående;Yrkesfag;Vg3;2023-24;;;;;
+3;I;39;974575027;Hele landet;Vestfold;Thor Heyerdahl videregående skole;Yrkesfag;Vg3;2023-24;;;;;
+3;I;39;995354071;Hele landet;Vestfold;Wang Tønsberg AS;Yrkesfag;Vg3;2023-24;;;;;

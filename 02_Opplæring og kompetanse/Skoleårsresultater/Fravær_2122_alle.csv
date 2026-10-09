@@ -1,0 +1,49 @@
+EnhetNivaa;Nasjonaltkode;Fylkekode;Organisasjonsnummer;Nasjonalt;Fylke;EnhetNavn;Utdanningstype;Trinn;År;Median dager;Median timer;Snitt dager;Snitt timer;Antall elever
+1;I;0;I;Hele landet;Alle fylker;Alle skoler;Alle utdanningsprogram;Alle trinn;2021-22;0;9;2;15,8;162 808
+2;I;38;38;Hele landet;Vestfold og Telemark (2020 - 2023);Vestfold og Telemark;Alle utdanningsprogram;Alle trinn;2021-22;0;8;1,6;15,4;12 794
+3;I;38;974575086;Hele landet;Vestfold og Telemark (2020 - 2023);Færder videregående skole;Alle utdanningsprogram;Alle trinn;2021-22;0;8;1,6;13,3;562
+3;I;38;990745277;Hele landet;Vestfold og Telemark (2020 - 2023);Gjennestad videregående skole;Alle utdanningsprogram;Alle trinn;2021-22;1;6;2,4;10,3;130
+3;I;38;974574993;Hele landet;Vestfold og Telemark (2020 - 2023);Greveskogen videregående skole;Alle utdanningsprogram;Alle trinn;2021-22;0;8;0,4;13,7;724
+3;I;38;874575062;Hele landet;Vestfold og Telemark (2020 - 2023);Holmestrand videregående skole;Alle utdanningsprogram;Alle trinn;2021-22;0,5;9;1,5;19,9;182
+3;I;38;923261354;Hele landet;Vestfold og Telemark (2020 - 2023);Horten videregående skole;Alle utdanningsprogram;Alle trinn;2021-22;0;7;1,5;13,2;914
+3;I;38;974575051;Hele landet;Vestfold og Telemark (2020 - 2023);Melsom videregående skole;Alle utdanningsprogram;Alle trinn;2021-22;1;9;2,3;20,7;146
+3;I;38;974575000;Hele landet;Vestfold og Telemark (2020 - 2023);Nøtterøy videregående skole;Alle utdanningsprogram;Alle trinn;2021-22;1;9;1,3;14,8;555
+3;I;38;874575232;Hele landet;Vestfold og Telemark (2020 - 2023);Re videregående skole;Alle utdanningsprogram;Alle trinn;2021-22;0;7;0,9;12,1;753
+3;I;38;974575116;Hele landet;Vestfold og Telemark (2020 - 2023);Sande videregående skole;Alle utdanningsprogram;Alle trinn;2021-22;0;7;1,6;11,1;374
+3;I;38;974575019;Hele landet;Vestfold og Telemark (2020 - 2023);Sandefjord videregående skole;Alle utdanningsprogram;Alle trinn;2021-22;1;11;2;20,5;1 614
+3;I;38;973488783;Hele landet;Vestfold og Telemark (2020 - 2023);Skagerak International School Sti;Alle utdanningsprogram;Alle trinn;2021-22;1;7,5;2;11,8;44
+3;I;38;973141805;Hele landet;Vestfold og Telemark (2020 - 2023);Slottsfjellet videregående;Alle utdanningsprogram;Alle trinn;2021-22;9;19,5;12;28,8;66
+3;I;38;974575027;Hele landet;Vestfold og Telemark (2020 - 2023);Thor Heyerdahl videregående skole;Alle utdanningsprogram;Alle trinn;2021-22;1;11;2;18,7;1 267
+3;I;38;995354071;Hele landet;Vestfold og Telemark (2020 - 2023);Wang Tønsberg AS;Alle utdanningsprogram;Alle trinn;2021-22;0;4;0,6;12,7;200
+1;I;0;I;Hele landet;Alle fylker;Alle skoler;Studieforberedende;Alle trinn;2021-22;0;9;1,6;15,3;104 548
+2;I;38;38;Hele landet;Vestfold og Telemark (2020 - 2023);Vestfold og Telemark;Studieforberedende;Alle trinn;2021-22;0;8;1,4;14,8;8 119
+3;I;38;974575086;Hele landet;Vestfold og Telemark (2020 - 2023);Færder videregående skole;Studieforberedende;Alle trinn;2021-22;0;4;1,9;9,4;219
+3;I;38;990745277;Hele landet;Vestfold og Telemark (2020 - 2023);Gjennestad videregående skole;Studieforberedende;Alle trinn;2021-22;3;12,5;3,4;16,4;22
+3;I;38;974574993;Hele landet;Vestfold og Telemark (2020 - 2023);Greveskogen videregående skole;Studieforberedende;Alle trinn;2021-22;0;8;0,2;12,7;577
+3;I;38;874575062;Hele landet;Vestfold og Telemark (2020 - 2023);Holmestrand videregående skole;Studieforberedende;Alle trinn;2021-22;1;9;1,7;18,8;132
+3;I;38;923261354;Hele landet;Vestfold og Telemark (2020 - 2023);Horten videregående skole;Studieforberedende;Alle trinn;2021-22;0;8;1,4;13,4;601
+3;I;38;974575051;Hele landet;Vestfold og Telemark (2020 - 2023);Melsom videregående skole;Studieforberedende;Alle trinn;2021-22;1;10;1,9;20,9;69
+3;I;38;974575000;Hele landet;Vestfold og Telemark (2020 - 2023);Nøtterøy videregående skole;Studieforberedende;Alle trinn;2021-22;0;9;0,9;14,3;432
+3;I;38;874575232;Hele landet;Vestfold og Telemark (2020 - 2023);Re videregående skole;Studieforberedende;Alle trinn;2021-22;0;7,5;0,8;11,5;484
+3;I;38;974575116;Hele landet;Vestfold og Telemark (2020 - 2023);Sande videregående skole;Studieforberedende;Alle trinn;2021-22;1;8;1,9;11,8;226
+3;I;38;974575019;Hele landet;Vestfold og Telemark (2020 - 2023);Sandefjord videregående skole;Studieforberedende;Alle trinn;2021-22;0;9;1,5;15,8;1 053
+3;I;38;973488783;Hele landet;Vestfold og Telemark (2020 - 2023);Skagerak International School Sti;Studieforberedende;Alle trinn;2021-22;1;7,5;2;11,8;44
+3;I;38;973141805;Hele landet;Vestfold og Telemark (2020 - 2023);Slottsfjellet videregående;Studieforberedende;Alle trinn;2021-22;9;19,5;12;28,8;66
+3;I;38;974575027;Hele landet;Vestfold og Telemark (2020 - 2023);Thor Heyerdahl videregående skole;Studieforberedende;Alle trinn;2021-22;1;12;1,9;19;752
+3;I;38;995354071;Hele landet;Vestfold og Telemark (2020 - 2023);Wang Tønsberg AS;Studieforberedende;Alle trinn;2021-22;0;4;0,6;12,7;200
+1;I;0;I;Hele landet;Alle fylker;Alle skoler;Yrkesfag;Alle trinn;2021-22;1;8;2,9;16,6;58 260
+2;I;38;38;Hele landet;Vestfold og Telemark (2020 - 2023);Vestfold og Telemark;Yrkesfag;Alle trinn;2021-22;0;8;2;16,6;4 675
+3;I;38;974575086;Hele landet;Vestfold og Telemark (2020 - 2023);Færder videregående skole;Yrkesfag;Alle trinn;2021-22;0;8;1,4;15,8;343
+3;I;38;990745277;Hele landet;Vestfold og Telemark (2020 - 2023);Gjennestad videregående skole;Yrkesfag;Alle trinn;2021-22;1;5;2,2;9;108
+3;I;38;974574993;Hele landet;Vestfold og Telemark (2020 - 2023);Greveskogen videregående skole;Yrkesfag;Alle trinn;2021-22;0;8;1,2;17,6;147
+3;I;38;874575062;Hele landet;Vestfold og Telemark (2020 - 2023);Holmestrand videregående skole;Yrkesfag;Alle trinn;2021-22;0;7,5;1;22,9;50
+3;I;38;923261354;Hele landet;Vestfold og Telemark (2020 - 2023);Horten videregående skole;Yrkesfag;Alle trinn;2021-22;0;5;1,6;12,8;313
+3;I;38;974575051;Hele landet;Vestfold og Telemark (2020 - 2023);Melsom videregående skole;Yrkesfag;Alle trinn;2021-22;0;8;2,6;20,4;77
+3;I;38;974575000;Hele landet;Vestfold og Telemark (2020 - 2023);Nøtterøy videregående skole;Yrkesfag;Alle trinn;2021-22;1;10;2,5;16,5;123
+3;I;38;874575232;Hele landet;Vestfold og Telemark (2020 - 2023);Re videregående skole;Yrkesfag;Alle trinn;2021-22;0;7;1,1;13,1;269
+3;I;38;974575116;Hele landet;Vestfold og Telemark (2020 - 2023);Sande videregående skole;Yrkesfag;Alle trinn;2021-22;0;5,5;1,2;10,1;148
+3;I;38;974575019;Hele landet;Vestfold og Telemark (2020 - 2023);Sandefjord videregående skole;Yrkesfag;Alle trinn;2021-22;1;17;2,8;29,4;561
+3;I;38;973488783;Hele landet;Vestfold og Telemark (2020 - 2023);Skagerak International School Sti;Yrkesfag;Alle trinn;2021-22;;;;;
+3;I;38;973141805;Hele landet;Vestfold og Telemark (2020 - 2023);Slottsfjellet videregående;Yrkesfag;Alle trinn;2021-22;;;;;
+3;I;38;974575027;Hele landet;Vestfold og Telemark (2020 - 2023);Thor Heyerdahl videregående skole;Yrkesfag;Alle trinn;2021-22;1;10;2,2;18,3;515
+3;I;38;995354071;Hele landet;Vestfold og Telemark (2020 - 2023);Wang Tønsberg AS;Yrkesfag;Alle trinn;2021-22;;;;;
