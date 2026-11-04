@@ -1,0 +1,46 @@
+EnhetNivaa;Nasjonaltkode;Fylkekode;Organisasjonsnummer;Nasjonalt;Fylke;EnhetNavn;Utdanningstype;Trinn;År;Median dager;Median timer;Snitt dager;Snitt timer;Antall elever
+1;I;;I;Hele landet;Alle fylker;Alle skoler;Alle utdanningsprogram;Vg2;2018-19;3;11;6;17,7;57 567
+2;I;7;7;Hele landet;Vestfold ( - 2019);Vestfold;Alle utdanningsprogram;Vg2;2018-19;3;13;5,7;20,1;2 680
+3;I;7;974575086;Hele landet;Vestfold ( - 2019);Færder videregående skole;Alle utdanningsprogram;Vg2;2018-19;1;5;4,1;9,6;191
+3;I;7;990745277;Hele landet;Vestfold ( - 2019);Gjennestad videregående skole;Alle utdanningsprogram;Vg2;2018-19;4;21;8,7;29,2;75
+3;I;7;974574993;Hele landet;Vestfold ( - 2019);Greveskogen videregående skole;Alle utdanningsprogram;Vg2;2018-19;5;21;7,7;26,7;264
+3;I;7;874575062;Hele landet;Vestfold ( - 2019);Holmestrand videregående skole;Alle utdanningsprogram;Vg2;2018-19;3;12;6,1;18,5;57
+3;I;7;974574985;Hele landet;Vestfold ( - 2019);Horten videregående skole avd Bekkegata (Nedlagt);Alle utdanningsprogram;Vg2;2018-19;3;11;5,8;16,8;340
+3;I;7;974575051;Hele landet;Vestfold ( - 2019);Melsom videregående skole;Alle utdanningsprogram;Vg2;2018-19;4;17;8,7;29,4;61
+3;I;7;974575000;Hele landet;Vestfold ( - 2019);Nøtterøy videregående skole;Alle utdanningsprogram;Vg2;2018-19;3;19;5,6;24,1;179
+3;I;7;874575232;Hele landet;Vestfold ( - 2019);Re videregående skole;Alle utdanningsprogram;Vg2;2018-19;3;15;5,4;22,8;250
+3;I;7;974575116;Hele landet;Vestfold ( - 2019);Sande videregående skole;Alle utdanningsprogram;Vg2;2018-19;6;17;8,8;25,4;124
+3;I;7;974575019;Hele landet;Vestfold ( - 2019);Sandefjord videregående skole;Alle utdanningsprogram;Vg2;2018-19;3;14;6,1;22,2;569
+3;I;7;973141805;Hele landet;Vestfold ( - 2019);Slottsfjellet videregående;Alle utdanningsprogram;Vg2;2018-19;0;2;1,2;3,3;10
+3;I;7;974575027;Hele landet;Vestfold ( - 2019);Thor Heyerdahl videregående skole;Alle utdanningsprogram;Vg2;2018-19;1;9;3,7;14,9;490
+3;I;7;995354071;Hele landet;Vestfold ( - 2019);Wang Tønsberg AS;Alle utdanningsprogram;Vg2;2018-19;3;13,5;4,2;16,8;70
+1;I;;I;Hele landet;Alle fylker;Alle skoler;Studieforberedende;Vg2;2018-19;3;14;5,6;20,9;31 990
+2;I;7;7;Hele landet;Vestfold ( - 2019);Vestfold;Studieforberedende;Vg2;2018-19;3;15;5,2;22,6;1 515
+3;I;7;974575086;Hele landet;Vestfold ( - 2019);Færder videregående skole;Studieforberedende;Vg2;2018-19;*;*;*;*;*
+3;I;7;990745277;Hele landet;Vestfold ( - 2019);Gjennestad videregående skole;Studieforberedende;Vg2;2018-19;4;32;11,3;42,4;16
+3;I;7;974574993;Hele landet;Vestfold ( - 2019);Greveskogen videregående skole;Studieforberedende;Vg2;2018-19;5;23;7,2;28;214
+3;I;7;874575062;Hele landet;Vestfold ( - 2019);Holmestrand videregående skole;Studieforberedende;Vg2;2018-19;3;13;5;20,6;43
+3;I;7;974574985;Hele landet;Vestfold ( - 2019);Horten videregående skole avd Bekkegata (Nedlagt);Studieforberedende;Vg2;2018-19;2;11;4,3;16,6;194
+3;I;7;974575051;Hele landet;Vestfold ( - 2019);Melsom videregående skole;Studieforberedende;Vg2;2018-19;*;*;*;*;*
+3;I;7;974575000;Hele landet;Vestfold ( - 2019);Nøtterøy videregående skole;Studieforberedende;Vg2;2018-19;3;19,5;4,9;25,1;118
+3;I;7;874575232;Hele landet;Vestfold ( - 2019);Re videregående skole;Studieforberedende;Vg2;2018-19;3,5;17;6,2;26,9;146
+3;I;7;974575116;Hele landet;Vestfold ( - 2019);Sande videregående skole;Studieforberedende;Vg2;2018-19;6;17;8,1;26,9;75
+3;I;7;974575019;Hele landet;Vestfold ( - 2019);Sandefjord videregående skole;Studieforberedende;Vg2;2018-19;3;15;4,5;23;319
+3;I;7;973141805;Hele landet;Vestfold ( - 2019);Slottsfjellet videregående;Studieforberedende;Vg2;2018-19;0;2;1,2;3,3;10
+3;I;7;974575027;Hele landet;Vestfold ( - 2019);Thor Heyerdahl videregående skole;Studieforberedende;Vg2;2018-19;1;11;3;17,3;260
+3;I;7;995354071;Hele landet;Vestfold ( - 2019);Wang Tønsberg AS;Studieforberedende;Vg2;2018-19;3;13,5;4,2;16,8;70
+1;I;;I;Hele landet;Alle fylker;Alle skoler;Yrkesfag;Vg2;2018-19;3;7;6,5;13,7;25 577
+2;I;7;7;Hele landet;Vestfold ( - 2019);Vestfold;Yrkesfag;Vg2;2018-19;3;10;6,5;17;1 165
+3;I;7;974575086;Hele landet;Vestfold ( - 2019);Færder videregående skole;Yrkesfag;Vg2;2018-19;*;*;*;*;*
+3;I;7;990745277;Hele landet;Vestfold ( - 2019);Gjennestad videregående skole;Yrkesfag;Vg2;2018-19;4;21;8;25,7;59
+3;I;7;974574993;Hele landet;Vestfold ( - 2019);Greveskogen videregående skole;Yrkesfag;Vg2;2018-19;6;11,5;9,8;21,1;50
+3;I;7;874575062;Hele landet;Vestfold ( - 2019);Holmestrand videregående skole;Yrkesfag;Vg2;2018-19;9,5;10;9,4;12,1;14
+3;I;7;974574985;Hele landet;Vestfold ( - 2019);Horten videregående skole avd Bekkegata (Nedlagt);Yrkesfag;Vg2;2018-19;4;11;8;17;146
+3;I;7;974575051;Hele landet;Vestfold ( - 2019);Melsom videregående skole;Yrkesfag;Vg2;2018-19;*;*;*;*;*
+3;I;7;974575000;Hele landet;Vestfold ( - 2019);Nøtterøy videregående skole;Yrkesfag;Vg2;2018-19;3;18;7;22,1;61
+3;I;7;874575232;Hele landet;Vestfold ( - 2019);Re videregående skole;Yrkesfag;Vg2;2018-19;2;9,5;4,3;17;104
+3;I;7;974575116;Hele landet;Vestfold ( - 2019);Sande videregående skole;Yrkesfag;Vg2;2018-19;6;16;9,7;23,1;49
+3;I;7;974575019;Hele landet;Vestfold ( - 2019);Sandefjord videregående skole;Yrkesfag;Vg2;2018-19;4;13,5;8,2;21,3;250
+3;I;7;973141805;Hele landet;Vestfold ( - 2019);Slottsfjellet videregående;Yrkesfag;Vg2;2018-19;;;;;
+3;I;7;974575027;Hele landet;Vestfold ( - 2019);Thor Heyerdahl videregående skole;Yrkesfag;Vg2;2018-19;1;8;4,4;12,1;230
+3;I;7;995354071;Hele landet;Vestfold ( - 2019);Wang Tønsberg AS;Yrkesfag;Vg2;2018-19;;;;;

@@ -1,0 +1,50 @@
+﻿Arealformålsgruppe,Dekar,ØkosystemtypeNivå1_text
+01 Bolig eller sentrumsformål,61,Dyrket mark
+01 Bolig eller sentrumsformål,2,Grasmark
+01 Bolig eller sentrumsformål,802,Skog
+01 Bolig eller sentrumsformål,69,Hei og åpen vegetasjon
+01 Bolig eller sentrumsformål,56,Lite vegetert mark
+01 Bolig eller sentrumsformål,0,Elver/bekker
+01 Bolig eller sentrumsformål,0,Innsjøer/tjern
+01 Bolig eller sentrumsformål,22,"Svaberg, kyststrender og dyner"
+01 Bolig eller sentrumsformål,1,Åpent hav
+02 Fritidsbebyggelse,0,Bebyggelse/samferdsel
+02 Fritidsbebyggelse,0,Dyrket mark
+02 Fritidsbebyggelse,1,Grasmark
+02 Fritidsbebyggelse,203,Skog
+02 Fritidsbebyggelse,20,Hei og åpen vegetasjon
+02 Fritidsbebyggelse,6,Lite vegetert mark
+02 Fritidsbebyggelse,31,"Svaberg, kyststrender og dyner"
+02 Fritidsbebyggelse,5,Åpent hav
+03 Tjenesteyting,22,Dyrket mark
+03 Tjenesteyting,74,Skog
+03 Tjenesteyting,12,Hei og åpen vegetasjon
+03 Tjenesteyting,0,Innsjøer/tjern
+03 Tjenesteyting,0,Åpent hav
+04 Handel,1,Dyrket mark
+04 Handel,2,Skog
+04 Handel,1,Hei og åpen vegetasjon
+06 Næringsvirksomhet,1,Bebyggelse/samferdsel
+06 Næringsvirksomhet,16,Dyrket mark
+06 Næringsvirksomhet,169,Skog
+06 Næringsvirksomhet,26,Hei og åpen vegetasjon
+06 Næringsvirksomhet,5,Innsjøer/tjern
+06 Næringsvirksomhet,0,"Svaberg, kyststrender og dyner"
+06 Næringsvirksomhet,10,Åpent hav
+07 Råstoffutvinning,4,Bebyggelse/samferdsel
+07 Råstoffutvinning,1,Skog
+08 Kombinerte formål,43,Dyrket mark
+08 Kombinerte formål,92,Skog
+08 Kombinerte formål,7,Hei og åpen vegetasjon
+08 Kombinerte formål,2,Lite vegetert mark
+08 Kombinerte formål,0,Innsjøer/tjern
+08 Kombinerte formål,2,"Svaberg, kyststrender og dyner"
+11 Samferdselsanlegg,4,Bebyggelse/samferdsel
+11 Samferdselsanlegg,27,Dyrket mark
+11 Samferdselsanlegg,1,Grasmark
+11 Samferdselsanlegg,59,Skog
+11 Samferdselsanlegg,9,Hei og åpen vegetasjon
+11 Samferdselsanlegg,1,Lite vegetert mark
+11 Samferdselsanlegg,0,Elver/bekker
+11 Samferdselsanlegg,0,"Svaberg, kyststrender og dyner"
+11 Samferdselsanlegg,0,Åpent hav

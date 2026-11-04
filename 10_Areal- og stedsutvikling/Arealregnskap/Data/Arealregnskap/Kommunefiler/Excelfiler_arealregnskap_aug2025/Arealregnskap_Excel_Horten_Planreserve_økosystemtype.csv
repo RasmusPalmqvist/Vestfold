@@ -1,0 +1,30 @@
+﻿Arealformålsgruppe,Dekar,ØkosystemtypeNivå1_text
+01 Bolig eller sentrumsformål,3,Bebyggelse/samferdsel
+01 Bolig eller sentrumsformål,23,Dyrket mark
+01 Bolig eller sentrumsformål,770,Skog
+01 Bolig eller sentrumsformål,25,Hei og åpen vegetasjon
+01 Bolig eller sentrumsformål,1,Innsjøer/tjern
+02 Fritidsbebyggelse,20,Skog
+03 Tjenesteyting,1,Bebyggelse/samferdsel
+03 Tjenesteyting,45,Dyrket mark
+03 Tjenesteyting,4,Grasmark
+03 Tjenesteyting,66,Skog
+03 Tjenesteyting,48,Hei og åpen vegetasjon
+03 Tjenesteyting,0,Våtmark
+03 Tjenesteyting,0,Innsjøer/tjern
+03 Tjenesteyting,0,Åpent hav
+06 Næringsvirksomhet,5,Bebyggelse/samferdsel
+06 Næringsvirksomhet,12,Dyrket mark
+06 Næringsvirksomhet,95,Skog
+06 Næringsvirksomhet,8,Hei og åpen vegetasjon
+07 Råstoffutvinning,12,Skog
+08 Kombinerte formål,0,Bebyggelse/samferdsel
+08 Kombinerte formål,245,Skog
+08 Kombinerte formål,35,Hei og åpen vegetasjon
+08 Kombinerte formål,1,Innsjøer/tjern
+08 Kombinerte formål,0,Åpent hav
+11 Samferdselsanlegg,6,Bebyggelse/samferdsel
+11 Samferdselsanlegg,23,Dyrket mark
+11 Samferdselsanlegg,26,Skog
+11 Samferdselsanlegg,29,Hei og åpen vegetasjon
+11 Samferdselsanlegg,0,Elver/bekker
