@@ -42,6 +42,10 @@ def query_elhub(date):
     response = requests.get(url)
     data = response.json()
 
+    if "data" not in data:
+        print(f"No data for {date}: {data}")
+        return pd.DataFrame()
+
     # Step 1: Normalize the 'data' field
     df_data = pd.json_normalize(data["data"])
 
@@ -131,7 +135,7 @@ def query_and_append_new_data(df_existing, start_date_str=None, end_date_str=Non
         start_date = latest_date_in_csv + timedelta(days=1)
         print(f"Latest date in CSV: {latest_date_in_csv}, starting from next day.")
     else:
-        start_date = datetime(2025, 1, 1).date()
+        start_date = datetime(2026, 1, 1).date()
         print(f"No existing data or 'Tid' column, starting from {start_date}")
 
     # Determine the end date
@@ -141,6 +145,12 @@ def query_and_append_new_data(df_existing, start_date_str=None, end_date_str=Non
     else:
         end_date = (datetime.now() - timedelta(days=2)).date()
         print(f"Using default end date (2 days ago): {end_date}")
+
+    # Never query future dates or dates too recent to have data
+    max_end_date = (datetime.now() - timedelta(days=2)).date()
+    if end_date > max_end_date:
+        print(f"End date {end_date} is too recent, capping at {max_end_date}")
+        end_date = max_end_date
 
     # Initialize a list to store all daily data
     new_data = []
