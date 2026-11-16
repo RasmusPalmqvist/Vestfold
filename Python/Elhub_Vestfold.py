@@ -195,7 +195,7 @@ def main(start_date=None, end_date=None):
 # Run the main function
 if __name__ == "__main__":
     # To run with a specific date range, uncomment the following line and set the dates:
-    main(start_date="2025-01-01", end_date="2025-12-31")
+    main(start_date="2026-01-01", end_date="2026-12-31")
 
     # To run with default date logic (from last date in file to two days ago), use this:
     # main()
